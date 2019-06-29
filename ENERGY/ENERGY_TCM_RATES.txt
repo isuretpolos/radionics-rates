@@ -1,0 +1,844 @@
+1 Ai Fu Nuan Gong Wan  Mugwort and Cyperi Rhizome Pill for Warming the Womb 312163
+2 An Gong Niu Huang Wan  Calm the Palace Pill with Cattle Gallstone 713216
+3 An Shen Ding Zhi Wan  Calm the Spirit and Settle the Will Pill 932169
+4 An Shen Wan  Calm the Spirit Pill 936299
+5 Ba Li San  Eight-Thousandths of a Tael Powder 522168
+6 Ba Xian Chang Shou Wan  Eight-Immortal Pill for Longevity 716319
+7 Ba Zhen Tang  Eight-Treasure Decoction 213233
+8 Ba Zheng Jie Du Tang  Eight-Herb Decoction for Rectification and Relieving Toxicity 821216
+9 Ba Zheng San  Eight-Herb Powder for Rectification 711171
+10 Bai Du San  Overcome Pathogenic Influences Powder 423111
+11 Bai He Gu Jin Tang  Lily Bulb Decoction to Preserve the Metal 688316
+12 Bai He Pian  Lily Bulb Tablet 517318
+13 Bai Hu Cheng Qi Tang  White Tiger and Order the Qi Decoction 443146
+14 Bai Hu He Huang Lian Jie Du Tang  White Tiger with Coptis Decoction to Relieve Toxicity 313168
+15 Bai Hu Jia Gui Zhi Tang  White Tiger plus Cinnamon Twig Decoction 722168
+16 Bai Hu Jia Ren Shen Tang  White Tiger plus Ginseng Decoction 313116
+17 Bai Hu Tang  White Tiger Decoction 623169
+18 Bai Ji Pi Pa Wan  Bletilla and Loquat Leaf Pill 168316
+19 Bai Tou Weng Jia Gan Cao E Jiao Tang  Pulsatilla Decoction plus Licorice and Ass-Hide Gelatin 911216
+20 Bai Tou Weng Tang  Pulsatilla Decoction 112168
+21 Bai Ye Tang  Biota Leaves Decoction 116316
+22 Bai Zhu Fu Zi Tang  Atractylodes and Prepared Aconite Decoction 731689
+23 Bai Zhu San  Atractylodes Powder 466132
+24 Bai Zi Yang Xin Wan  Biota Seed Pill to Nourish the Heart 431369
+25 Ban Xia Bai Zhu Tian Ma Tang  Pinellia, Atractylodes Macrocephala, and Gastrodia Decoction 469993
+26 Ban Xia Fu Ling Wan  Pinellia and Poria Pill 169113
+27 Ban Xia Gan Jiang San  Pinellia and Dry Ginger Powder 823168
+28 Ban Xia Hou Po Tang  Pinellia and Magnolia Bark Decoction 169136
+29 Ban Xia Tang  Pinellia Decoction 131136
+30 Ban Xia Xie Xin Tang  Pinellia Decoction to Drain the Epigastrium 633136
+31 Ban Xia Xie Xin Tang Qu Gan Jiang, Gan Cao, Jia Zhi Shi Xing Ren Fang  Pinellia Decoction to Drain the Epigastrium without Dry Ginger, Licorice and with the Addition of Immature Orange and Apricot Seed 523119
+32 Bao He Wan  Preserve Harmony Pill 776789
+33 Bao Long Wan  Hold the Dragon Pill 663316
+34 Bao Long Wan  Hold the Dragon Pill 663316
+35 Bao Sheng Wu You San  Protect the Fetus without Any Worries Powder 939619
+36 Bao Zhen Tang  Preserve-True Decoction 316379
+37 Bei Mu Gua Lou San  Fritillaria and Trichosanthes Fruit Powder 699898
+38 Bei Xie Fen Qing Yin  Dioscorea Hypoglauca Decoction to Separate the Clear 771691
+39 Bi Yu San  Jasper Powder 169779
+40 Bian Que Ding Xiang San  Clove Powder of Bian Que 611139
+41 Bian Tong Bai Tou Weng Tang  Adapted Pulsatilla Decoction 177177
+42 Bian Tong Shi Wei Wen Dan Tang  Adapted Ten Flavored Warm the Gallbladder Decoction 768136
+43 Bie Jia Jian Wan  Decocted Turtle Shell Pill 823158
+44 Bie Jia Qing Hao Yin  Soft-shelled Turtle Shell and Artemisa Annua Decoction 811136
+45 Bie Jia Yang Yin Jian  Nourish Yin Decoction with Soft-shelled Turtle Shell 793788
+46 Bu Dai Wan  Cloth Sack Pill 223169
+47 Bu Fei E Jiao Tang  Tonify the Lungs Decoction with Ass-Hide Gelatin 613189
+48 Bu Fei Tang  Tonify the Lung Decoction 722169
+49 Bu Gan Tang  Tonify the Liver Decoction 521116
+50 Bu Huan Jin Zheng Qi San  Rectify the Qi Powder Worth More than Gold 982183
+51 Bu Yang Huan Wu Tang  Tonify the Yang to Restore Five-Tenths Decoction 143716
+52 Bu Yi Wan  Tonify and Augment Pill 688382
+53 Bu Zhong Yi Qi Tang  Tonify the Middle and Augment the Qi Decoction 566118
+54 Can Shi Tang  Silk Worm Excrement Decoction 178318
+55 Cang Er Zi San  Xanthium Powder 168317
+56 Cang Zhu Bai Hu Tang  Atractylodes White Tiger Decoction 987168
+57 Chai Hu Bai Hu Tang  Bupleurum White Tiger Decoction 871168
+58 Chai Hu Da Yuan Yin  Bupleurum Decoction to Reach the Membrane Source 763317
+59 Chai Hu Gui Jiang Tang  Bupleurum, Cinnamon and Ginger Decoction 523113
+60 Chai Hu Gui Zhi Tang  Bupleurum and Cinnamon Twig Decoction 444618
+61 Chai Hu Jia Long Gu Mu Li Tang  Bupleurum Plus Dragon Bone and Oyster Shell Decoction 331191
+62 Chai Hu Jia Lu Gen Tang  Bupleurum Decoction plus Reed 813169
+63 Chai Hu Jia Mang Xiao Tang  Bupleurum Decoction plus Mirabilite 336911
+64 Chai Hu Shu Gan San  Bupleurum Powder to Spread the Liver 413696
+65 Chai Hu Shu Gan San  Bupleurum Powder to Spread the Liver Jing Yue Quan Shu 323668
+66 Chai Hu Si Wu Tang  Bupleurum and Four-Substance Decoction 556313
+67 Chai Hu Xian Xiong Tang  Bupleurum Decoction for Sinking into the Chest 411319
+68 Chai Hu Zhi Jie Tang  Bupleurum, Bitter Orange, and Platycodon Decoction 313139
+69 Chai Ping Tang  Bupleurum and Calm the Stomach Decoction 565137
+70 Chai Shao Liu Jun Zi Tang  Six-Gentleman Decoction with Bupleurum and Peony 713197
+71 Chan Su Wan  Toad Cake Pill 679831
+72 Chen Xiang Jiang Qi San  Aquilaria to Direct Qi Downward Powder 131119
+73 Chen Xiang San  Aquilaria Powder 431169
+74 Chi Fu Ling Tang  Red Poria Decoction 417913
+75 Chi Shi Zhi Yu Yu Liang Tang  Halloysitum and Limonite Decoction 831189
+76 Chuan Xiong Cha Tiao San  Ligusticum Chuanxiong Powder to be Taken with Green Tea 731179
+77 Chun Gen Pi Wan  Ailanhti Bark Pill 565168
+78 Chun Ze Tang  Spring Pond Decoction 421177
+79 Cong Chi Bai Hu Tang  Scallion, Prepared Soybean, and White Tiger Decoction 831161
+80 Cong Chi Bo Bang Tang  Scallion, Prepared Soybean, Peppermint, and Arctii Decoction 837916
+81 Cong Chi Jie Geng Tang  Scallion, Prepared Soybean, and Platycodon Decoction 833316
+82 Cong Chi Tang  Scallion, and Prepared Soybean Decoction 839137
+83 Cui Sheng Yin  Induce Labor Decoction 913691
+84 Da An Wan  Great Peace Pill 993167
+85 Da Ban Xia Tang  Major Pinellia Decoction 831168
+86 Da Bu Wan  Great Tonify Pill 416178
+87 Da Bu Yin Wan  Great Tonify the Yin Pill 413169
+88 Da Chai Hu Tang  Major Bupleurum Decoction 369197
+89 Da Cheng Qi Tang  Major Order the Qi Decoction 491316
+90 Da Ding Feng Zhu  Major Arrest Wind Pearl 913111
+91 Da Huang Fu Zi Tang  Rhubarb and Prepared Aconite Decoction 839931
+92 Da Huang Gan Cao Tang  Rhubarb and Licorice Decoction 631136
+93 Da Huang Mu Dan Tang  Rhubarb and Moutan Decoction 693178
+94 Da Huang Xiao Shi Tang  Rhubarb and Mirabilite Decoction 591179
+95 Da Huang Zhe Chong Wan  Rhubarb and Eupolyphaga Pill 444321
+96 Da Huo Luo Dan  Major Invigorate the Collaterals Pill 336963
+97 Da Jian Zhong Tang  Major Construct the Middle Decoction 839993
+98 Da Jiao Ai Tang  Major Ass-Hide Gelatin and Mugwort Decoction 713613
+99 Da Ju Pi Tang  Big Tangerine Peel Decoction from Wai Tai Mi Yao 513118
+100 Da Qin Jiao Tang  Major Gentiana Qinjiao Decoction 617113
+101 Da Qing Long Tang  Major Bluegreen Dragon Decoction 817716
+102 Da Xian Xiong Tang  Major Sinking into the Chest Decoction 783113
+103 Da Xian Xiong Wan  Major Sinking into the Chest Pill 783171
+104 Da Yuan Yin  Reach the Membrane Source Decoction 619393
+105 Da Zao Wan  Great Creation Pill 918896
+106 Da Zao Wan  Great Creation Pill 918896
+107 Dan Bai Si Ni San  Moutan and Phellodendron Powder for Frigid Extremities 473173
+108 Dan Dao Pai Shi Tang  Expelling Stones from Biliary Tract Decoction 913784
+109 Dan Nang Yan Da Chai Hu Tang  Major Bupleurum Decoction for Cholecystitis 571316
+110 Dan Shen Yin  Salvia Decoction 573116
+111 Dan Xi Bei Xie Fen Qing Yin  Dioscorea Hypoglauca Decoction to Separate the Clear Dan Xi Xin Fa 687395
+112 Dan Zhi Xiao Yao San  Relax Wanderer Powder with Moutan and Gardenia 595319
+113 Dang Gui Bu Xue Tang  Tangkuei Decoction to Tonify Blood 479178
+114 Dang Gui Cheng Qi Tang  Order of Qi Decoction with Tangkuei 391136
+115 Dang Gui Jian Zhong Tang  Tangkuei Decoction to Construct the Middle 568913
+116 Dang Gui Liu Huang Tang  Tangkuei and Six-Yellow Decoction 531139
+117 Dang Gui Long Hui Wan  Tangkuei, Gentiana Longdancao and Aloe Pill 679135
+118 Dang Gui San  Tangkuei Powder 789169
+119 Dang Gui Shao Yao San  Tangkuei and Peony Powder 578383
+120 Dang Gui Sheng Jiang Yang Rou Tang  Mutton Stew with Tangkuei, Fresh Ginger 753586
+121 Dang Gui Si Ni Jia Wu Zhu Yu Sheng Jiang Tang  Tangkuei Decoction for Frigid Extremities plus Evodia and Fresh Ginger 473184
+122 Dang Gui Si Ni Tang  Tangkuei Decoction for Frigid Extremities 474131
+123 Dang Gui Tang  Tangkuei Decoction 511316
+124 Dao Chi San  Guide Out the Red Powder 685567
+125 Dao Chi San He Jia Wei Hu Zhang San  Guide Out the Red and Augmented Polygoni Cuspidati Powder 632169
+126 Dao Qi Tang  Guide the Qi Decoction 793454
+127 Dao Tan Tang  Guide Out Phlegm Decoction 576137
+128 Di Gu Pi Yin  Lycium Root Bark Decoction 831138
+129 Di Gu Yang Yin Jian  Lycium Root Bark to Nourish Yin Decoction 831140
+130 Di Huang Wan  Rehmannia Pill 543134
+131 Di Tan Tang  Scour Phlegm Decoction 733175
+132 Di Yu Wan  Sanguisorba Pill 388453
+133 Die Da Wan  Trauma Pill 553194
+134 Ding Chuan Tang  Arrest Wheezing Decoction 673113
+135 Ding Xiang Jiao Ai Tang  Clove, Ass-Hide Gelatin, and Mugwort Decoction 839156
+136 Ding Xiang Shi Di Tang  Clove and Persimmon Calyx Decoction 513116
+137 Ding Xiang Shi Di Zhu Ru Tang  Clove, Persimmon Calyx and Bamboo Shaving Decoction 531184
+138 Ding Yu Li Zhong Tang  Clove and Evodia Decoction to Regulate the Middle 731174
+139 Ding Zhi Wan  Settle the Emotion Pill 745783
+140 Dong Yuan Long Dan Xie Gan Tang  Gentiana Longdancao Decoction to Drain the Liver by Li Dong Yuan 831139
+141 Du Huo Ji Sheng Tang  Angelica Pubescens and Sangjisheng Decoction 844565
+142 Du Qi Wan  Capital Qi Pill 413787
+143 Du Shen Tang  Unaccompanied Ginseng Decoction 835568
+144 Duo Ming San  Seize the Life Powder 743877
+145 E Jiao Huang Lian Tang  Ass-Hide Gelatin and Coptis Decoction 717893
+146 E Jiao Ji Zi Huang Tang  Ass-Hide Gelatin and Chicken Egg Yolk Decoction Guang Wen Re Lun 781136
+147 E Jiao Ji Zi Huang Tang  Ass-Hide Gelatin and Egg Yolk Decoction 684453
+148 E Jiao Yi Gong San  Extraordinary Merit Powder with Ass-Hide Gelatin 537752
+149 Er Chen Tang  Two-Cured Decoction 453192
+150 Er Jia Fu Mai Tang  Two-Shell Decoction to Restore the Pulse 757138
+151 Er Jia Jian Zheng Qi San  Second Modification of Rectify the Qi Powder 731134
+152 Er Long Zuo Ci Wan  Pill for Deafness that is Kind to the Left (Kidney) 837153
+153 Er Miao San  Two-Marvel Powder 837564
+154 Er Xian Tang  Two-Immortal Decoction 871894
+155 Er Zhi Wan  Two-Ultimate Pill 183149
+156 Er Zhu Er Chen Tang  Two-Cured Decoction with Two Atractylodes 555169
+157 Fang Feng Tong Sheng San  Ledebouriella Powder that Sagely Unblocks 455316
+158 Fang Ji Fu Ling Tang  Stepania and Poria Decoction 531169
+159 Fang Ji Huang Qi Tang  Stepania and Astragalus Decoction 432169
+160 Fei Er Wan  Strengthen Baby Pill 731169
+161 Fu Bao Dan  Women’s Treasure Pill 531177
+162 Fu Fang Da Cheng Qi Tang  Revised Major Order of Qi Decoction 673179
+163 Fu Fang Da Huang Mu Dan Tang  Revised Rhubarb and Moutan Decoction 313177
+164 Fu Fang Hong Teng Jian  Revised Millettia Decoction 551789
+165 Fu Ling Pi Tang  Poria Skin Decoction 434895
+166 Fu Ling Wan  Poria Pill 565573
+167 Fu Mai Tang  Restore the Pulse Decoction 317316
+168 Fu Pi Shu Gan Tang  Assist Spleen and Spread the Liver Decoction 583169
+169 Fu Sang Wan  Assist with Mulberry Leaf Pill 573189
+170 Fu Yuan Huo Xue Tang  Revive Health by Invigorating the Blood Decoction 731317
+171 Fu Zi Li Zhong Wan  Prepared Aconite Pill to Regulate the Middle 838931
+172 Fu Zi Tang  Prepared Aconite Decoction 781393
+173 Gan Cao Fen Mi Tang  Licorice, Lead and Honey Decoction 873263
+174 Gan Cao Gan Jiang Fu Ling Bai Zhu Tang  Licorice, Ginger, Poria and Atractylodes Macrocephalae Decoction 581317
+175 Gan Cao Gan Jiang Tang  Licorice and Ginger Decoction 853193
+176 Gan Cao Xie Xin Tang  Licorice Decoction to Drain the Epigastrium 793156
+177 Gan Dan Guan Jie Shi Fang  Formula for Stones in the Hepatic Duct and Biliary Duct 713196
+178 Gan Jiang Ren Shen Ban Xia Wan  Ginger, Ginseng and Pinellia Pill 673157
+179 Gan Lu Xiao Du Dan  Sweet Dew Special Pill to Eliminate Toxin 771368
+180 Gan Lu Yin  Sweet Dew Decoction 677387
+181 Gan Sui Tong Jie Tang  Open the Blockage Decoction with Euphorbia 831973
+182 Ge Gen Huang Qin Huang Lian Tang  Kudzu, Scutellaria and Coptis Decoction 573469
+183 Ge Gen Tang  Kudzu Decoction 591317
+184 Ge Xia Zhu Yu Tang  Drive Out Blood Stasis Below the Diaphragm Decoction 843176
+185 Gong Wai Yun Er Hao Fang  No. 2 Extrauterine Pregnancy Formula 779834
+186 Gong Wai Yun Yi Hao Fang  No. 1 Extrauterine Pregnancy Formula 779835
+187 Gong Xiao He Jie Ruan Jian Tang  Attack, Reduce, Harmonize, Resolve, Soften Hardness Decoction 671931
+188 Gou Chong Wan  Hook Worm Pill 831993
+189 Gou Duan Luo Xuan Ti Bing Fang  Leptospirosis Formula 873158
+190 Gou Teng Yin  Uncaria Decoction 753198
+191 Gu Ben Zhi Beng San  Stabilize the Root and Stop Excessive Uterine Bleeding Powder 687893
+192 Gu Jin Lu Yan Xu Ming Tang  Prolong Life DecoctionGu Jin Lu Yan 479516
+193 Gu Jing Wan  Stabilize the Essence PillJi Sheng Fang 413198
+194 Gu Jing Wan  Stabilize the Menses PillYi Xue Ru Men 393726
+195 Gu Yin Jian  Stabilize the Yin Decoction 892126
+196 Gua Lou Xie Bai Bai Jiu Tang  Trichosanthes Fruit, Chinese Chive, and Wine Decoction 744596
+197 Gua Lou Xie Bai Ban Xia Tang  Trichosanthes Fruit, Chinese Chive and Pinellia Decoction 687563
+198 Guan Xin Er Hao Fang  No.2 Formula for Coronary Artery Disease 431434
+199 Guan Xin Su He Xiang Wan  Liquid Styrax Pill for Coronary Heart Conditions 896133
+200 Gui Fu Er Chen Tang  Two-Cured Decoction with Cinnamon and Aconite 573197
+201 Gui Fu Li Zhong Tang  Cinnamon and Prepared Aconite Decoction to Regulate the Middle 416317
+202 Gui Fu Si Wu Tang  Four-Substance Decoction with Cinnamon and Prepared Aconite 317973
+203 Gui Lu Er Xian Jiao  Tortoise Shell and Deer Antler Syrup 737713
+204 Gui Pi Tang  Restore the Spleen Decoction 873156
+205 Gui Qi Jian Zhong Tang  Tangkuei and Astragalus Decoction to Construct the Middle 979136
+206 Gui Zhi Fu Ling Wan  Cinnamon Twigs and Poria Pill 873166
+207 Gui Zhi Fu Zi Tang  Cinnamon Twig and Prepared Aconite Decoction 749163
+208 Gui Zhi Jia Cang Er Xin Yi Tang  Cinnamon Twig Decoction plus Xanthium and Magnolia Flower 617169
+209 Gui Zhi Jia Fu Zi Tang  Cinnamon Twig Decoction plus Prepared Aconite 831176
+210 Gui Zhi Jia Ge Gen Tang  Cinnamon Twig Decoction plus Kudzu 577179
+211 Gui Zhi Jia Gui Tang  Cinnamon Twig Decoction with Increased Dosage of Cinnamon Twig 617873
+212 Gui Zhi Jia Hou Po Xing Zi Tang  Cinnamon Twig Decoction plus Magnolia Bark and Apricot Kernel 816173
+213 Gui Zhi Jia Huang Qi Tang  Cinnamon Twig Decoction plus Astragalus 789183
+214 Gui Zhi Jia Long Gu Mu Li Tang  Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell 317894
+215 Gui Zhi Jia Shao Yao Tang  Cinnamon Twig Decoction plus Peony 831346
+216 Gui Zhi Shao Yao Zhi Mu Tang  Cinnamon Twig, Peony, and Anemarrhena Decoction 587589
+217 Gui Zhi Tang  Cinnamon Twig Decoction 173193
+218 Gun Tan Wan  Vaporize Phlegm Pill 213197
+219 Guo Qi Yin  Delayed Menstruation Decoction 365136
+220 Hai Ge Er Chen Tang  Two-Cured Decoction with Pumice and Clam Shell 783189
+221 Hai Zao Yu Hu Tang  Sargassum Decoction for the Jade Flask 431176
+222 Hao Qin Qing Dan Tang  Artemisia Annua and Scutellaria Decoction to Clear the Gallbaldder  813179
+223 He Che Ba Wei Wan  Eight-Flavor Pill with Placenta 893196
+224 He Wei Er Chen Tang  Two-Cured Decoction to Harmonize the Stomach 163163
+225 He Xiong Huang San  Combined Ligusticum and Rhubarb Powder 719316
+226 Hei Bai San  Black and White Powder 731316
+227 Hei Xi Dan  Lead Special Pill 631168
+228 Hei Xiao Yao San  Black Relax Wanderer Powder 164367
+229 Hong Teng Yu Li Ren Jian  Millettia and Prune Seed Decoction 343169
+230 Hou Po Ma Huang Tang  Magnolia Bark and Ephedra Decoction 431168
+231 Hou Po Qi Wu Tang  Seven-Substance Decoction with Magnolia Bark 719871
+232 Hou Po Wen Zhong Tang  Magnolia Bark Decoction to Warm the Middle 863189
+233 Hou Po Yin  Magnolia Bark Decoction 231168
+234 Hu Po Bao Long Wan  Hold the Dragon Pill with Amber 331169
+235 Hu Qian Wan  Hidden Tiger Pill 831169
+236 Hua Ban Tang  Transform Blotches Decoction 565169
+237 Hua Chong Wan  Dissolve Parasites Pill 873168
+238 Hua Gai San  Canopy Powder 973169
+239 Hua Shi Huo Xiang Tang  Talcum and Agastache Decoction 783169
+240 Hua Shi San  Transform the Stone Powder 863169
+241 Huai Hua San  Sophora Japonica Flower Powder 183169
+242 Huai Jiao Wan  Sophora Japonica Fruit Pill 531167
+243 Huan Gan Li Pi Tang  Moderate the Liver, Regulate the Spleen Decoction 813177
+244 Huang Lian E Jiao Tang  Coptis and Ass-Hide Gelatin Decoction 213169
+245 Huang Lian Liu Jun Zi Tang  Six-Gentleman Decoction with Coptis 431179
+246 Huang Lian Tang  Coptis Decoction 691316
+247 Huang Lian Wen Dan Tang  Coptis Decoction to Warm the Gallbladder 917198
+248 Huang Lian Xiang Ru Yin  Elsholtzia Decoction with Coptis 573168
+249 Huang Lian Xiao Pi Wan  Reduce the Focal Distention Pill with Coptis 873169
+250 Huang Long Tang  Yellow Dragon Decoction 713113
+251 Huang Qi Gui Zhi Wu Wu Tang  Astragalus and Cinnamon Twig Five-Substance Decoction 814813
+252 Huang Qi Jian Zhong Tang  Astragalus Decoction to Construct the Middle 971131
+253 Huang Qin Hua Shi Tang  Scutellaria and Talcum Decoctionl 877153
+254 Huang Qin Jia Ban Xia Sheng Jiang Tang  Scutellaria Decoction with Pinellia and Ginger 811369
+255 Huang Qin Shao Yao Tang  Scutellaria and Peony Decoction 775363
+256 Huang Qin Tang  Scutellaria Decoction 573193
+257 Huang Tu Tang  Yellow Earth Decoction 675891
+258 Hui Xiang San  Fennel Powder 887364
+259 Hui Yang Ji Jiu Tang  Restore and Revive the Yang Decoction 673126
+260 Huo Luo Dan  Invigorate the Collaterals Special Pill 731156
+261 Huo Luo Xiao Ling Dan  Fantastically Effective Pill to Invigorate the Collaterals 761212
+262 Huo Po Xia Ling Tang  Agastache, Magnolia Bark, Pinellia and Poria Decoction 821138
+263 Huo Ren Cong Chi Tang  Scallion, and Prepared Soybean Decoction from the Book to Safeguard Life 923174
+264 Huo Ren Ju Pi Zhu Ru Tang  Tangerine Peel and Bamboo Shaving Decoction from the Book to Safeguard Life 932163
+265 Huo Xiang Zheng Qi San  Agastache Powder to Rectify the Qi 832892
+266 Huo Xue Jiu  Invigorate the Blood Wine 789326
+267 Huo Xue Shu Jin Tang  Invigorate the Blood, and Relax the Tendon Decoction 483624
+268 Ji Chuan Jian  Benefit the River(Flow) Decoction 486163
+269 Ji Jiao Li Huang Tang  Stephania, Zanthoxylum, Descurainia and Rhubarb Pill 863163
+270 Ji Sheng Dang Gui Yang Rou Tang  Tangkuei and Mutton Decoction from the Formulas that Aid the Living 583212
+271 Ji Sheng Shen Qi Wan  Kidney Qi Pill from Formulas that Aid the Living 821617
+272 Ji Sheng Tong Mai Si Ni Tang  Unblock the Channel for Frigid Extremities Decoction from Formulas that Aid  the  Living 573216
+273 Jia Jian Bai Tou Weng Tang  Modified Pulsatilla Decoction 413215
+274 Jia Jian Ban Xia Xie Xin Tang  Modified Pinellia Decoction to Drain the Epigastrium 371218
+275 Jia Jian Bu Zhong Yi Qi Tang  Modified Tonify the Middle and Augment Qi Decoction 913217
+276 Jia Jian Cang Sha Yin  Modified Atractylodes and Cyperi Decoction 813174
+277 Jia Jian Chai Ling Tang  Modified Bupleurum and Poria Decoction 921316
+278 Jia Jian Da Chai Hu Tang  Modified Major Bupleurum Decoction 713117
+279 Jia Jian Dan Dao Pai Shi Tang  Modified Expelling Stone from Biliary Tract Decoction 831642
+280 Jia Jian Fu Mai Tang  Modified Restore the Pulse Decoction 531317
+281 Jia Jian Gua Lou Xie Bai Tang  Modified Trichosanthes Fruit and Chinese Chive Decoction 551312
+282 Jia Jian Huo Luo Xiao Ling Dan  Modified Fantastically Effective Pill to Invigorate the Collaterals 616134
+283 Jia Jian Liang Di Tang  Modified Rehmannia and Lycium Root Bark Decoction 831336
+284 Jia Jian Long Dan Xie Gan Tang  Modified Gentiana Longdancao Decoction to Drain the Liver 721315
+285 Jia Jian Mu Fang Ji Tang  Modified Cocculus Decoction 917561
+286 Jia Jian Niu Xi Tang  Modified Achyranthis Decoction 831318
+287 Jia Jian Pu Ji Xiao Du Yin  Modified Universal Benefit Decoction to Eliminate Toxin 926143
+288 Jia Jian Pu Ji Xiao Du Yin #1  Modified Universal Benefit Decoction to Eliminate Toxin #1 916163
+289 Jia Jian Pu Ji Xiao Du Yin #2  Modified Universal Benefit Decoction to Eliminate Toxin #2 916185
+290 Jia Jian Qing Hao Bie Jia Tang  Modified Artemisia Annua and Soft-shelled Turtle Shell Decoction 817713
+291 Jia Jian Qing Jing Tang  Modified Clear the Menses Decoction 854253
+292 Jia Jian Qing Wen Bai Du Yin  Modified Clear Epidemics and Overcome Toxin Decoction 785691
+293 Jia Jian San Bi Tang  Modified Three Painful-Obstruction Decoction 596251
+294 Jia Jian Shao Yao Tang  Modified Peony Decoction 859382
+295 Jia Jian Shen Ling Bai Zhu San  Modified Ginseng, Poria, and Atractylodes Macrocephala Powder 789153
+296 Jia Jian Sheng Mai San  Modified Generate the Pulse Powder 858891
+297 Jia Jian Wan Dai Tang  Modified End Discharge Decoction 731619
+298 Jia Jian Wei Rui Tang  Modified Polygonatum Odoratum 831613
+299 Jia Jian Wu Pi Yin  Modified Five-Peel Decoction 581517
+300 Jia Jian Xiao Chai Hu Tang  Modified Minor Bupleurum Decoction 985317
+301 Jia Jian Xiao Yao San  Modified Relax Wanderer Powder 981516
+302 Jia Jian Xiao Yao San  Modified Relax Wanderer Powder Nei Ke Zhai Yao 776543
+303 Jia Jian Xie Xin Tang  Modified Drain the Epigastrium Decoction 455781
+304 Jia Jian Yi Yin Jian  Modified One Yin Decoction 456663
+305 Jia Jian Yin Chen Da Chai Hu Tang  Modified Major Bupleurum Decoction with Artemesia Yinchenhao 515176
+306 Jia Jian Yin Qiao Bai Hu Tang  Modified Honeysuckle, Forsythia and White Tiger Decoction 975163
+307 Jia Jian Yin Qiao San  Modified Honeysuckle and Forsythia Powder 998319
+308 Jia Jian Yu Shi Qing Zao Jiu Fei Tang  Modified Yu’s Eliminate Dryness and Rescue the Lung Decoction 513176
+309 Jia Jian Zhu Ye Shi Gao Tang  Modified Lophatherus and Gypsum Decoction 831163
+310 Jia Wei Bai Tou Weng Tang  Augmented Pulsatilla Decoction 937756
+311 Jia Wei Bao He Wan  Augmented Reserve the Harmony Pill 858571
+312 Jia Wei Cang Er Zi San  Augmented Xanthium Powder 556572
+313 Jia Wei Chai Hu Shu Gan San  Augmented Bupleurum Powder to Spread the Liver 831753
+314 Jia Wei Cui Sheng Xiong Gui Tang  Augmented Inducing Labor Decoction with Ligusticum and Tangkuei 163676
+315 Jia Wei Da Chai Hu Tang  Augmented Major Bupleurum Decoction 856371
+316 Jia Wei Dan Gui Shao Yao San  Augmented Tangkuei and Peony Powder 858881
+317 Jia Wei Dan Zhi Xiao Yao San  Augmented Relax Wanderer Powder with Moutan and Gardenia 969952
+318 Jia Wei Dang Gui Bu Xue Tang I  Augmented Tangkuei Decoction to Tonify Blood I 636346
+319 Jia Wei Dang Gui Bu Xue Tang II  Augmented Tangkuei Decoction to Tonify Blood II 525116
+320 Jia Wei Dao Chi San  Augmented Guide Out the Red Powder 857256
+321 Jia Wei Dao Tan Tang  Augmented Guide Out Phlegm Decoction 998152
+322 Jia Wei Er Chen Tang  Augmented Two-Cured Decoction 851319
+323 Jia Wei Ge Gen Huang Qin Huang Lian Tang  Augmented Kudzu, Coptis, and Scutellaria Decoction 617718
+324 Jia Wei Gui Zhi Tang  Augmented Cinnamon Twig Decoction 773251
+325 Jia Wei Huang Lian Su Ye Tang  Augmented Coptis and Perilla Decoction 875899
+326 Jia Wei Liu Jun Zi Tang  Augmented Six-Gentleman Decoction 131157
+327 Jia Wei Long Dan Xie Gan Tang  Augmented Gentiana Longdancao Decoction to Drain the Liver 263164
+328 Jia Wei Mai Men Dong Tang  Augmented Ophiopogonis Decoction 453163
+329 Jia Wei Qian Zheng San  Augmented Lead to Symmetry Powder 541317
+330 Jia Wei Qing Wei San  Augmented Clear the Stomach Powder 551613
+331 Jia Wei Shao Gan Tang  Augmented Peony and Licorice Decoction 631513
+332 Jia Wei Shen Qi Wan  Augmented Kidney Qi Pill 667982
+333 Jia Wei Shi Xiao San  Augmented Sudden Smile Powder 667251
+334 Jia Wei Si Qi Tang  Augmented Four Seven Decoction 831652
+335 Jia Wei Si Wu Er Chen Tang  Augmented Four-Substance and Two-Cured Decoction 565315
+336 Jia Wei Tian Ma Tang  Augmented Gastrodia Decoction 666517
+337 Jia Wei Ting Li Da Zao Xie Fei Tang  Augmented Descurainia and Jujube Decoction to Drain the Lungs 878891
+338 Jia Wei Wen Dan Tang  Augmented Warm the Gallbladder Decoction 313156
+339 Jia Wei Wu Ling San  Augmented Five-Ingredient Powder with Poria 761519
+340 Jia Wei Wu Yao Tang  Augmented Lindera Decoction 887253
+341 Jia Wei Xiang Ru Tang  Augmented Elsholtzia Decoction 689153
+342 Jia Wei Xiao Yao San  Augmented Relax Wanderer Powder 878862
+343 Jia Wei Zhi Jing San  Augmented Stop Spasms Powder 575661
+344 Jia Wei Zhi Zi Chi Tang  Augmented Gardenia and Prepared Soybean Decoction 676152
+345 Jian Ling Tang  Construct Roof Tiles Decoction 813263
+346 Jian Pi Wan  Strengthen the Spleen Pill 595763
+347 Jian Wei Zhu Ye Shi Gao Tang  Reduced Lophatherus and Gypsum Decoction 665482
+348 Jiang Ni Zhi E Tang  Direct the Rebellious Qi Downward and Stop Hiccup Decoction 421619
+349 Jiao Ai Tang  Ass-Hide Gelatin and Mugwort Decoction Jin Gui Yao Lue 858617
+350 Jiao Mei Tang  Pepper and Mume Decoction 858573
+351 Jiao Tai Wan  Grand Communication Pill 935163
+352 Jie Geng Tang  Platycodon Decoction 831617
+353 Jie Gu Wan  Set the Bone Pill 177116
+354 Jin Gui Shen Qi Wan  Kidney Qi Pill from the Golden Cabinet 775116
+355 Jin Jian Qing Wei Yin  Clear the Stomach Decoction from Yi Zong Jin Jian 837316
+356 Jin Ling San  Melia Toosendan Powder 557116
+357 Jin Ling Zi San  Melia Toosendan Powder 931617
+358 Jin San Bao Long Wan  Hold the Dragon Pill 686872
+359 Jin She Zhi Jing San  Stop Spasms Powder with Viper 921716
+360 Jin Suo Gu Jin Wan  Metal Lock Pills to Stabilize the Essence 616173
+361 Jin Zhu Wan  Melia Toosendan and Evodia Pill 585751
+362 Jing Fang Bai Du San  Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences 931618
+363 Jiu Ni Tang  Rescue the Critical Condition Decoction 431516
+364 Jiu Wei Qiang Huo Tang  Nine-Herb Decoction with Notopterygium 571169
+365 Jiu Xian San  Nine-Immortal Powder 445996
+366 Jiu Zhi Er Chen Tang  Two-Cured Decoction with Chinese Chive Juice 454678
+367 Ju Ban Gui Ling Zhi Jiang Tang  Tangerine, Pinellia, Cinnamon Twig, Immatured Bitter Orange, and Ginger Decoction 917163
+368 Ju Ban Zhi Zhu Wan  Orange Peel, Pinellia, Immature Bitter Orange and Atractylodes Macrocephala Pill 835153
+369 Ju Fang Wen Jing Tang  Warm the Menses Decoction from Imperial Grace Formula 997816
+370 Ju Fang Xi Jiao Di Huang Wan  Rhinoceros Horn and Rehmannia Pill 879352
+371 Ju He Wan  Tangerine Seed Pill 586312
+372 Ju Hua Cha Tiao San  Chrysanthemum Powder to be Taken with Green Tea 989852
+373 Ju Pi Tang  Tangerine Peel Decoction from the Golden Cabinet 999132
+374 Ju Pi Zhu Ru Tang  Tangerine Peel and Bamboo Shaving Decoction 585131
+375 Ju Pi Zhu Ru Tang  Tangerine Peel and Bamboo Shaving Decoction from Formulas that Aid the Living 732154
+376 Ju Yuan Jian  Lift the Source Decoction 687152
+377 Juan Bi Tang  Remove Painful Obstruction Decoction 723163
+378 Juan Yin Liu Shen Tang  Six-Miracle Decoction to Expel Congested Fluid 997193
+379 Kai Wei Jian Pi Wan  Stimulating Appetite and Strengthen the Spleen Pill 989971
+380 Kang Bai Hou He Ji  Anti-Diphtheria Mixture 565965
+381 Ke Xue Fang  Coughing of Blood Formula 731263
+382 Kong Xian Dan  Control Mucous Special Pill 831564
+383 Ku Shen Zhi Li Jian  Sophorae to Stop Diarrhea Decoction 113116
+384 Lai Po Tong Jie Tang  Open the Blockage Decoction with Radish Seeds and Magnolia Bark 716163
+385 Lan Wei Hua Yu Tang  Transform Blood Stasis Decoction for Appendicitis 815516
+386 Lan Wei Qing Hua Tang  Clear and Transform the Appendicitis Decoction 931316
+387 Lan Wei Qing Jie Tang  Clear and Relieve the Appendicitis Decoction 993151
+388 Li Dan Wan  Promote Gallbladder Pill 635916
+389 Li Ling Tang  Regulate the Middle Decoction with Five-Ingredient Powder with Poria 991613
+390 Li Yu Tang  Carp Decoction 454421
+391 Li Zhong An Hui Wan  Regulate the Middle and Calm Roundworms Pill 515691
+392 Li Zhong Hua Tan Wan  Regulate the Middle and Transform Phlegm Pill 665451
+393 Li Zhong Jiang Tan Wan  Regulate the Middle and Direct Phlegm Decoction 935161
+394 Li Zhong Wan  Regulate the Middle Pill 911951
+395 Lian Li Tang  Coptis Decoction to Regulate the Middle 163143
+396 Lian Mei An Hui Tang  Picrorhizae and Mume Decoction to Calm Roundworms 225151
+397 Lian Po Yin  Coptis and Magnolia Bark Decoction 631963
+398 Lian Ru Er Chen Tang  Two-Cured Decoction with Coptis and Bamboo Shaving 545591
+399 Lian Yu Li Zhong Tang  Coptis and Evodia Decoction to Regulate the Middle 672593
+400 Liang Di Tang  Rehmannia and Lycium Root Bark Decoction 893176
+401 Liang Fu Wan  Galangal and Cyperus Pill 563152
+402 Liang Ge San  Cool the Diaphragm Powder 447573
+403 Liang Ying Qing Qi Tang  Cool Ying and Clear the Qi Decoction 989316
+404 Ling Gui Zhu Gan Tang  Poria, Cinnamon Twig, Atractylodes Macrocephalae, and Licorice Decoction 143163
+405 Ling Ma Bai Hu Tang  Antelope, Gastrodia White Tiger Decoction 775316
+406 Ling Yang Gou Teng Yin  Antelope Horn and Uncaria Decoction 765489
+407 Liu He Tang  Harmonize the Six Decoction 996317
+408 Liu Jun Zi Tang  Six-Gentleman Decoction 593163
+409 Liu Mo Tang  Six Milled-Herb Decoction 593332
+410 Liu Nao He Ji  Compound Mixture for Epidemic Encephalitis 989216
+411 Liu Wei Di Huang Wan  Six-Ingredient Pill with Rehmannia 873216
+412 Liu Yi San  Six-to-One Powder 973215
+413 Long Dan Xie Gan Tang  Gentiana Longdancao Decoction to Drain the Liver 667913
+414 Long Gu Wan  Dragon Bone Pill 735685
+415 Long Hu Ji Yin Dan  Dragon and Tiger to Benefit Yin Special Pill 931576
+416 Lou Bei Er Chen Tang  Two-Cured Decoction with Trichosanthis and Fritillaria 576134
+417 Lu Jiao Tu Si Wan  Deer Antler and Cuscuta Seed Pill 969153
+418 Ma Huang Fu Zi Gan Cao Tang  Ephedra, Prepared Aconite, and Licorice Decoction 536554
+419 Ma Huang Fu Zi Xi Xin Tang  Ephedra, Asarum, and Prepared Aconite Decoction 985169
+420 Ma Huang Jia Zhu Tang  Ephedra Decoction plus Atractylodes 893315
+421 Ma Huang Lian Qiao Chi Xiao Dou Tang  Ephedra, Forsythia and Azuki Bean Decoction 765515
+422 Ma Huang Tang  Ephedra Decoction 891516
+423 Ma Xing Er Chen Tang  Two-Cured Decoction with Ephedra and Apricot Kernel 731617
+424 Ma Xing Shi Gan Tang  Ephedra, Apricot Kernel, Gypsum and Licorice Decoction 535169
+425 Ma Xing Yi Gan Tang  Ephedra, Apricot Kernel, Coicis, and Licorice Decoction 445316
+426 Ma Zi Ren Wan  Hemp Seed Pill 396153
+427 Mai Men Dong Tang  Ophiopogonis Decoction 516153
+428 Mai Wei Di Huang Wan  Ophiopogonis, Schisandra and Rehmannia Pill 753168
+429 Mei Ren Tang  Prune Seed Decoction 531176
+430 Meng Shi Gun Tan Wan  Vaporize Phlegm Pill with Chlorite-Mica 556316
+431 Mi Niao Dao Pai Shi Fang  Expel Stone from the Urinary Tract Formula 431617
+432 Mi Yan Qing Wei San  Secret Clear the Stomach Powder from Experiences 512169
+433 Miao Yin Wan  Beautiful Voice Pill 463165
+434 Mu Fang Ji Jia Fu Ling Mang Xiao Tang  Cocculus with Mirabilitum and Poria Decoction 513164
+435 Mu Fang Ji Tang  Cocculus Decoction 893616
+436 Mu Li San  Oyster Shell Powder 535116
+437 Mu Xiang Bing Lang Wan  Aucklandia and Betel Nut Pill 573163
+438 Mu Xiang Wu Gong San  Aucklandia and Centipede Powder 893153
+439 Nan Gua Zi Fen Bing Lang Jian  Pumpkin Seed Powder and Betel Nut Decoction 511317
+440 Nei Bu Wan  Internal Tonify Pill 576173
+441 Nian Tou San  Twist the Head Powder 858116
+442 Niu Huang Bao Long Wan  Hold the Dragon Pill with Cattle Gallstone 776517
+443 Niu Huang Bao Long Wan  Hold the Dragon Pill with Cattle Gallstone Ming Yi Za Zhu 891816
+444 Niu Huang Qing Xin Wan  Cattle Gallstone Decoction to Clear the Heart 434654
+445 Nuan Gan Jian  Warm the Liver Decoction 517316
+446 Nuan Gong Wan  Mugwort and Cyperi Rhizome Pill for Warming the Womb 851517
+447 Pai Shi Tang  Expelling Stone Decoction 868751
+448 Pi Pa Qing Fei Yin  Loquat Leaf Decoction to Clear the Lung 911631
+449 Pi Yue Ma Ren Wan  Constraint Spleen Hemp Seed Pill 887353
+450 Ping Wei San  Calm and Stomach Powder 161719
+451 Pu Ji Xiao Du Yin  Universal Benefit Decoction to Eliminate Toxin 853453
+452 Qi Bao Mei Ran Dan  Seven-Treasure Special Pill for Beautiful Whiskers 913159
+453 Qi Fu Tang  Astragalus and Prepared Aconite Decoction 595454
+454 Qi Ju Di Huang Wan  Lycium Fruit, Chrysanthemum, and Rehmannia Pill 831197
+455 Qi Li San  Seven-Thousandths of a Tael Powder 667515
+456 Qi Pi Yin  Seven-Peel Decoction 776515
+457 Qi Wei Bai Zhu San  Seven-Ingredient Actractylodes Macrocephala Decocotion 686542
+458 Qi Wei Cong Bai Yin  Seven-Ingredient Scallion Decoction 771654
+459 Qi Xiao Si Wu Tang  Miraculous Effective Four-Substance Deccotion 897515
+460 Qian Jin Dang Bao Tang  Cleanse the Uterus Decoction from Thousand Ducat Formula 965432
+461 Qian Jin Dang Gui Tang  Tangkuei Decoction from Thousand Ducat Formula 913149
+462 Qian Jin Fu Shen Tang  Poria Cocos Pararadicis Decoction from Thousand Ducat Formula 879312
+463 Qian Jin Gui Zhi Qu Shao Yao Jia Zao Jia Tang  Cinnamon Decoction minus Peony plus Gleditsiae from Thousand Ducat Formula 676325
+464 Qian Jin Wei Jing Tang Jia Xing Ren Hua Shi Tang  Thousand Gold Reed Decoction with Apricot Kernel and Talcum Decoction 893215
+465 Qian Zheng San  Lead to Symmetry Powder 913167
+466 Qiang Huo Sheng Shi Tang  Notopterygium Decoction to Overcome Dampness 977532
+467 Qin Jiao Bie Jia San  Gentiana Qinjiao and Soft-shelled Turtle Shell Powder 264179
+468 Qin Lian Ju Ru Tang  Scutellaria, Coptis, Tangerine Peel and Bamboo Shaving Decoction 454321
+469 Qin Lian Si Wu Tang  Four-Substance Decoction with Scutellaria and Coptis 571379
+470 Qing Dan Li Shi Tang  Clear the Gallbladder and Drain Damp Decoction 839765
+471 Qing Dan Xie Huo Tang  Clear the Gallbladder and Drain Fire Decoction 586573
+472 Qing Dan Xing Qi Tang  Clear the Gallbladder and Move Qi Decoction 813117
+473 Qing Dan Xuan Bi Tang  Clear the Gallbladder and Disband Painful Obstruction Decoction 771379
+474 Qing E Wan  Young Maiden Pill 911793
+475 Qing Fei Jie Du Tang  Clear the Lung and Relieve Toxicity Decoction 535451
+476 Qing Fei Yin  Clear the Lung Decoction 319913
+477 Qing Gan Da Yu Tang  Clear the Liver to Reach Stagnation Decoction 856321
+478 Qing Gong Tang  Clear the Palace Decoction 867931
+479 Qing Gu San  Cool the Bones Powder Zheng Zhi Zhun Sheng 831313
+480 Qing Hao Bie Jia Tang  Artemisia Annua and Soft-shelled Turtle Shell Decoction 854321
+481 Qing Jin Hua Tan Tang  Clear the Metal and Transform Phlegm Decoction 887573
+482 Qing Jing Tang  Clear the Menses Decoction 931216
+483 Qing Jing Zhi Xue Tang  Cool the Menses and Stop Bleeding Decoction 993251
+484 Qing Pi Yin  Clear the Spleen Decoction 898932
+485 Qing Qi Hua Tan Wan  Clear the Qi and Transform Phlegm Pill 131699
+486 Qing Re Xi Feng Tang  Clear Heat and Extinguish Wind Decoction 973169
+487 Qing Re Zhi Beng Tang  Clear Heat and Stop Excessive Uterine Bleeding Decoction 979653
+488 Qing Re Zhi Dai Tang  Clear Heat and Stop Discharge Decoction 938389
+489 Qing Shu Yi Qi Tang  Clear Summerheat and Augment Qi Decoction 985316
+490 Qing Wei San  Clear the Stomach Powder 984583
+491 Qing Wen Bai Du Yin  Clear Epidemics and Overcome Toxin Decoction 885316
+492 Qing Xin Lian Zi Yin  Lotus Seed Decoction to Clear the Heart 873253
+493 Qing Xin Liang Ge San  Clear the Heart and Cool the Diaphragm Powder 977325
+494 Qing Yi Tang  Clear the Pancreas Decoction 978545
+495 Qing Ying Tang  Clear the Nutritive Level Decoction 393217
+496 Qing Zao Jiu Fei Tang  Eliminate Dryness and Rescue the Lungs Decoction 439815
+497 Qing Zhen Tang  Clear the Rash Decoction 497278
+498 Qing Zhong Tang  Clear the Middle Decoction 498312
+499 Qu Hui Tang  Expel Roundworm Decoction 831219
+500 Qu Mai Zhi Zhu Wan  Medicated Leaven, Barley Sprout, Immature Bitter Orange and Atractylodes Macrocephala Pill 899321
+501 Quan Sheng Bai Zhu San  Atractylodes Macrocephala Powder Quan Sheng Ji 879153
+502 Ren Ma Ping An San  Safe Powder for People and Horses 583153
+503 Ren Shen Bai Du San  Ginseng Powder to Overcome Pathogenic Influences 673173
+504 Ren Shen Ge Jie San  Ginseng and Gecko Powder 873183
+505 Ren Shen Ge Jie San  Ginseng and Gecko Powder Wei Sheng Bao Jian 667219
+506 Ren Shen Gu Ben Wan  Ginseng Pill to Reserve the Source 865332
+507 Ren Shen Hu Tao Tang  Ginseng and Walnut Decoction 776541
+508 Ren Shen Ju Pi Zhu Ru Tang  Ginseng, Tangerine Peel and Bamboo Shaving Decoction 853243
+509 Ren Shen Xi Jiao Tang  Ginseng and Rhinoceros Horn Decoction 997315
+510 Ren Shen Xie Xin Tang  Ginseng Decoction to Drain the Epigastrium 985364
+511 Ren Shen Yang Ying Tang  Ginseng Decoction to Nourish the Nutritive Qi 979153
+512 Ren Shen Zhu Ru Tang  Ginseng and Bamboo Shaving Decoction 993316
+513 Ru Fang Zhang Tong Jing Yan Fang  Empirical Formula for Breast Distention and Pain 454153
+514 Ru Xian Zeng Sheng Fang  Mastoplasia Formula 534139
+515 Ruan Jian San Jie Tang  Soften the Hardness and Scatter the Accumulation Decoction 731541
+516 Run Chang Wan  Moisten the Intestines Pill 832153
+517 San Ao Tang  Three-Unbinding Decoction 664215
+518 San Bi Tang  Three-Painful Obstruction Decoction 831326
+519 San Ceng Hui Xiang Wan  Three Layers Fennel Pill 917316
+520 San Hua Shen You Wan  Protected by Deities Pill with Three Flowers 873163
+521 San Huang Si Wu Tang  Three-Yellow and Four-Substance Decoction 913169
+522 San Huang Zhi Zhu Wan  Three-Yellow, Immature Bitter Orange and Atractylodes Macrocephala Pill 173163
+523 San Jai Fu Mai Tang  Three-Shell Decoction to Restore the Pulse 731136
+524 San Jia Jian Zheng Qi San  Third Modification of Rectify the Qi Powder 813159
+525 San Miao Wan  Three-Marvel Pill 553692
+526 San Ren Tang  Three-Nut Decoction 531316
+527 San Wu Bei Ji Wan  Three-Substance Pill Prepared for Emergency 779312
+528 San Xiang Tang  Three-Fragrant Decoction 713169
+529 San Zi Yang Qin Tang  Three-Seed Decoction to Nourish One’s Parents 731139
+530 Sang Dan Xie Bai San  Mulberry Leaf, Moutan Powder to Drain the White 831194
+531 Sang Dan Xie Bai Tang  Mulberry Leaf, Moutan Decoction to Drain the White 531197
+532 Sang Ju Yin  Mulberry Leaf and Chrysanthemum Decoction 693199
+533 Sang Ma Wan  Mulberry Leaf and Sesame Seed Pill 853116
+534 Sang Piao Xiao San  Mantis Egg-Case Powder 776542
+535 Sang Xing Tang  Mulberry Leaf and Apricot Kernel Decoction 513163
+536 Sha Ban Li Zhong Tang  Amomum and Pinellia Decoction to Regulate the Middle 531311
+537 Sha Lin Wan  Pill for Sandy Lin Syndrome 876532
+538 Sha Shen Mai Dong Tang  Glenhnia and Ophiopogonis Decoction 983163
+539 Shang Jiao Xuan Bi Tang  Disperse Painful Obstruction at the Upper Jiao Decoction 871312
+540 Shao Fu Zhu Yu Tang  Drive Out Blood Stasis in the Lower Abdomen Decoction 779352
+541 Shao Gan Zhi Jing Tang  Peony and Licorice Decoction to Stop Spasms 527163
+542 Shao Yao Gan Cao Fu Zi Tang  Peony, Licorice, and Prepared Aconite Decoction 987231
+543 Shao Yao Gan Cao Tang  Peony and Licorice Decoction 854332
+544 Shao Yao Tang  Peony Decoction 919132
+545 She Gan Ma Huang Tang  Belamcanda and Ephedra Decoction 783215
+546 Shen Fu Long Mu Tang  Ginseng, Prepared Aconite, Dragon Bone and Oyster Shell Decoction 916732
+547 Shen Fu Tang  Ginseng and Prepared Aconite Decoction 979163
+548 Shen Ling Bai Zhu San  Ginseng, Poria, and Atractylodes Macrocephala Powder 915332
+549 Shen Su San  Ginseng and Perilla Leaf Powder 717113
+550 Shen Su Yin  Ginseng and Perilla Leaf Decoction 798542
+551 Shen Tong Zhu Yu Tang  Drive Out Blood Stasis from a Painful Body Decoction 583216
+552 Shen Xi Dan  Magical Rhinoceros Special Pill 573214
+553 Shen Ying San  Magical Response Powder 583192
+554 Shen Zhu San  Marvelous Atractylodis Powder 677954
+555 Shen Zhuo Tang  Fixed at Kidney Decoction 871316
+556 Sheng Chai Liu Jun Zi Tang  Six-Gentleman Decoction with Cimicifuga and Bupleurum 897254
+557 Sheng Hua Tang  Generation and Transformation Decoction 831392
+558 Sheng Hua Tong Jing Tang  Generation and Transformation Decoction to Unblock the Menses 716734
+559 Sheng Jiang Ban Xia Tang  Fresh Ginger and Pinellia Decoction 893183
+560 Sheng Jiang San  Ascending Descending Powder 931132
+561 Sheng Jiang Xie Xin Tang  Fresh Ginger Decoction to Drain the Epigastrium 713163
+562 Sheng Ma Huang Qi Tang  Cimicifuga and Astragalus Decoction 994253
+563 Sheng Mai San  Generate the Pulse Powder 985816
+564 Sheng Pu Huang Tang  Fresh Cattail Pollen Decoction 877137
+565 Sheng Tie Luo Yin  Iron Filings Decoction 531719
+566 Sheng Xian Tang  Raise the Sinking Decoction 434519
+567 Sheng Yu Tang  Sage-Like Healing Decoction 531743
+568 Shi Bu Wan  Ten-Tonic Pill 915645
+569 Shi Di Tang  Persimmon Calyx Decoction 989432
+570 Shi Hu Ye Guang Wan  Dendrobium Pill for Night Vision 613176
+571 Shi Hui San  Ten Partially-Charred Substance Powder 843214
+572 Shi Jue Ming San  Haliotidis Shell Powder 469779
+573 Shi Pi San  Bolster the Spleen Powder 979854
+574 Shi Pi Yin  Bolster the Spleen Decoction 171653
+575 Shi Qian San  Persimmon Coin Powder 911716
+576 Shi Quan Da Bu Tang  All-Inclusive Great Tonifying Decoction 991542
+577 Shi Quan Ku Han Jiu Bu Tang  All-Inclusive Bitter and Cold Decoction to Rescue and Tonify 163216
+578 Shi Wei San  Pyrrosiae Powder 776379
+579 Shi Wei San  Pyrrosiae Powder Pu Ji Fang 373169
+580 Shi Wei San  Pyrrosiae Powder Zheng Zhi Hui Bu 931721
+581 Shi Wei Wen Dan Tang  Ten-Ingredient Decoction to Warm the Gallbladder 832169
+582 Shi Wei Xiang Ru Yin  Ten-Ingredient Elsholtzia Decoction 832189
+583 Shi Xiao San  Sudden Smile Powder 732169
+584 Shi Zao Tang  Ten-Jujube Decoction 913168
+585 Shou Se Zhi Dai Tang  Astringe and Stop Discharge Decoction 773169
+586 Shu Gan Jie Yu Tang  Spread the Liver and Resolve the Stagnation Decoction 793716
+587 Shu Jin Huo Luo Tang  Relax the Tendon and Invigorate Collaterals Decoction 671331
+588 Shu Yu Qing Gan Tang  Spread the Depression and Clear the Liver Decoction 732159
+589 Shu Yu Qing Gan Yin  Spread the Depression and Clear the Liver Beverage 859169
+590 Shu Zao Yin Zi  Unblock and Dig Formula 783118
+591 Shui Lu Er Xian Dan  Water and Earth Immortals Special Pill 613169
+592 Shun Qi San  Smooth the Qi Powder 673169
+593 Si Jia Jian Zheng Qi San  Fourth Modification of Rectify the Qi Powder 693173
+594 Si Jun Zi Tang  Four-Gentleman Decoction 993216
+595 Si Ling San  Four-Ingredient Powder with Poria 873214
+596 Si Ling San Jia Mu Gua Cao Guo Ban Xia Tang  Four-Ingredient Powder with Poria plus Chaenomelis Fruit, Amomi Tsaoko  and Pinellia 931332
+597 Si Ling Wan  Four Order Pill 913142
+598 Si Miao Tang  Four-Marvel Decoction 313193
+599 Si Miao Wan  Four-Marvel Pill 932193
+600 Si Miao Yong An Tang  Four-Valiant Decoction for Well-being 893173
+601 Si Mo Tang  Four Milled-Herb Decoction 773163
+602 Si Ni Jia Ren Shen Tang  Ginseng Decoction for Frigid Extremities 793179
+603 Si Ni San  Frigid Extremities Powder 854354
+604 Si Ni Tang  Frigid Extremities Decoction 893254
+605 Si Qi Tang  Four Seven Decoction 513169
+606 Si Shen Wan  Four-Miracle Pill 693572
+607 Si Shen Wan  Four-Miracle Pill Zheng Zhi Zhun Sheng 931719
+608 Si Sheng Wan  Four-Fresh Pill 831342
+609 Si Shou Yin  Four Beasts Decoction 931319
+610 Si Wei Xiang Ru Yin  Four-Ingredient Elsholtzia Decoction 877193
+611 Si Wu Tang  Four-Substance with Lidera Decoction 717693
+612 Si Wu Tang  Fou-Substance Decoction 816732
+613 Su He Xiang Wan  Liquid Styrax Pill 517154
+614 Su Ting Ma Xing Shi Gan Tang  Perilla Fruit, Lepidii Seeds, Ephedra, Apricot Kernel, Gypsum, and Licorice Decoction 531319
+615 Su Xing Er Chen Tang  Two-Cured Decoction with Perilla and Apricot Kernel 313169
+616 Su Zi Jiang Qi Tang  Perilla Fruit Decoction for Directing Qi Downward 931791
+617 Suan Zao Ren Tang  Sour Jujube Decoction 831691
+618 Suo Quan Wan  Shut the Sluice Pill 831331
+619 Tao He Cheng Qi Tang  Peach Pit Decoction to Order the Qi 316136
+620 Tao Hong Si Wu Tang  Four-Substance Decoction with Peach Pit and Safflower 831313
+621 Tao Hua Tang  Peach Blossom Decoction 913394
+622 Tao Ren Cheng Qi Tang  Order of Qi Decoction with Peach Kernel 399153
+623 Tian Tai Wu Yao San  Top-Quality Lindera Powder 469932
+624 Tian Wang Bu Xin Dan  Emperor of Heaven’s Special Pill to Tonify the Heart 573169
+625 Tiao Wei Cheng Qi Tang  Regulate the Stomach and Order the Qi Decoction 693169
+626 Ting Li Da Zao Xie Fei Tang  Descurainia and Jujube Decoction to Drain the Lungs 532169
+627 Tong Jing Huo Luo Tang  Unblock the Channel and Invigorate the Collateral Decoction 613179
+628 Tong Jing Zhu Yu Tang  Drive Out Blood Stasis and Unblock the Channel Decoction 831391
+629 Tong Mai Si Ni Jia Zhu Dan Zhi Tang  Unblock the Pulse Decoction with Pig Bile for Frigid Extremities 613149
+630 Tong Mai Si Ni Tang  Unblock the Pulse Decoction for Frigid Extremities 531339
+631 Tong Qiao Huo Xue Tang  Unblock the Orifices and Invigorate the Blood Decoction 877152
+632 Tong Ru San Jie Tang  Unblock Breast Milk and Scatter Accumulations Decoction 717136
+633 Tong Xie Yao Fang  Important Formula for Painful Diarrhea 783177
+634 Tong Yu Jian  Unblock the Stasis Decoction 913174
+635 Tu Si Zi Wan  Cuscuta Seed Pill 913177
+636 Tuo Hua Jian  Release from Flower Decoction 978169
+637 Wan Dai Tang  End Discharge Decoction 831983
+638 Wei Jing Tang  Reed Decoction 849316
+639 Wei Ling Tang  Calm the Stomach and Poria Decoction 799526
+640 Wen Dan Tang  Warm the Gallbladder Decoction 858932
+641 Wen Jing She Xue Tang  Warm the Menses, Control the Blood Decoction 583219
+642 Wen Jing Tang  Warm the Menses Decoction 867153
+643 Wen Pi San  Warm the Spleen Powder 887215
+644 Wen Pi Tang  Warm the Spleen Decoction Ben Shi Fang 894216
+645 Wen Pi Tang  Warm the Spleen Decoction Qian Jin Yao Fang 913913
+646 Wu Hu Zhui Feng Tang  Five-Tiger Decoction to Pursue Wind 775463
+647 Wu Ji Wan  Fifth and Sixth Heavenly Stem Pill 893168
+648 Wu Ji Wan  Infinity Pill 132193
+649 Wu Jia Jian Zheng Qi San  Fifth Modification of Rectify the Qi Powder 831913
+650 Wu Lin San  Five-Ingredient Powder for Painful Urinary Dysfunction 913193
+651 Wu Ling San  Five-Ingredient Powder with Poria 939139
+652 Wu Mei Wan  Mume Pill 874316
+653 Wu Mo Tang  Five Milled-Herb Decoction 931318
+654 Wu Pi San  Five-Peel Powder 572169
+655 Wu Pi Yin  Five-Peel Decoction 832913
+656 Wu Ren Wan  Five-Seed Pill 852113
+657 Wu Tou Tang  Aconite Decoction 789983
+658 Wu Wei Mai Dong Tang  Five-Ingredient Ophiopogonis Decoction 831316
+659 Wu Wei Xiao Du Yin  Five-Ingredient Decoction to Eliminate Toxin 838916
+660 Wu Wei Zi Tang  Schisandra Decoction 531516
+661 Wu Xie Liu Jun Zi Tang  Six-Gentleman Decoction with Aconite and Scorpion 539322
+662 Wu Xie Si Jun Zi Tang  Four-Gentleman Decoction with Aconite and Scorpion 931999
+663 Wu Yao Tang  Lindera Decoction 832316
+664 Wu Yu Mu Gua Tang  Evodia and Chinese Quince Fruit Decoction 888313
+665 Wu Zhi Yin  Five-Juice Decoction 533169
+666 Wu Zhu Yu Jia Fu Zi Tang  Evodia Decoction with Prepared Aconite 839319
+667 Wu Zhu Yu Tang  Evodia Decoction 999331
+668 Xi Di Qing Luo Yin  Clear the Collaterals Decoction with Rhinoceros Horn and Rehmannia 993951
+669 Xi Huang Wan  Rhinoceros Gallstone Pill 959321
+670 Xi Jiao Di Huang He Xie Xin Tang  Rhinoceros Horn and Rehmannia, and Drain the Epigastrium Decoction 656532
+671 Xi Jiao Di Huang Tang  Rhinoceros Horn and Rehmannia Decoction 993881
+672 Xi Ling Bai Hu Tang  Rhinoceros Horn, Antelope and White Tiger Decoction 779313
+673 Xia Si Tai Fang  Purge the Dead Fetus Formula 887318
+674 Xia Yu Xue Tang  Purge the Stagnant Blood Decoction 771613
+675 Xian Fang Huo Ming Yin  Sublime Formula for Sustaining Life 661316
+676 Xian Xiong Cheng Qi Tang  Sinking into the Chest and Order of Qi Decoction 883216
+677 Xiang Fu Xuan Fu Hua Tang  Cyperus and Inula Decoction 969321
+678 Xiang Lian Wan  Aucklandia and Coptis Pill 993231
+679 Xiang Ru San  Elsholtzia Powder 313992
+680 Xiang Sha Liu Jun Zi Tang  Six-Gentleman Decoction with Aucklandia and Amomum 832161
+681 Xiang Sha Ping Wei San  Calm the Stomach Powder with Aucklandia and Amomum 979712
+682 Xiang Sha Zhi Zhu Wan  Aucklandia, Amomum, Immature Bitter Orange and Atractylodes Macrocephala Pill 893216
+683 Xiang Su Cong Chi Tang  Cyperum, Perilla Leaf, Scallion, and Prepared Soybean Decoction 858582
+684 Xiang Su San  Cyperum and Perilla Leaf Decoction 858313
+685 Xiao Ban Qing Dai Yin  Indigo Decoction to Clear Rash 783216
+686 Xiao Ban Xia Jia Fu Ling Tang  Minor Pinellia Decoction with Poria 834341
+687 Xiao Ban Xia Tang  Minor Pinellia Decoction 834319
+688 Xiao Chai Hu Tang  Minor Bupleurum Decoction 873137
+689 Xiao Cheng Qi Tang  Minor Order of Qi Decoction 713372
+690 Xiao Ding Feng Zhu  Minor Arrest the Wind Pearl 589164
+691 Xiao Er Hui Chun Dan  Return of Spring Special Pill 832193
+692 Xiao Feng San  Eliminate Wind Powder 775432
+693 Xiao Feng San  Eliminate Wind Powder Zhang Shi Yi Tong 639163
+694 Xiao Fu Tang  Mirabilitum and Turnip Juice Mixture 989132
+695 Xiao Huang Bai Du San  Mirabilitum and Rhubarb Powder to Overcome Pathogenic Influences 973216
+696 Xiao Huo Luo Dan  Minor Invigorate the Collaterals Special Pill 831216
+697 Xiao Ji Yin Zi  Cephalanoplos Decoction Ji Sheng Fang 775321
+698 Xiao Jian Zhong Tang  Minor Construct the Middle Decoction 838131
+699 Xiao Pi Wan  Reduce the Focal Distention Pill 893721
+700 Xiao Pin Sheng Di Huang Tang  Small Rehmannia Decoction 843192
+701 Xiao Qing Long Jia Shi Gao Tang  Minor Bluegreen Dragon Decoction with Gypsum 853992
+702 Xiao Qing Long Tang  Minor Bluegreen Dragon Decoction 852154
+703 Xiao Shi Fan Shi San  Niter and Alum Powder 858532
+704 Xiao Shui San  Reduce the Water Powder 861531
+705 Xiao Xian Xiong Tang  Minor Sinking into the Chest Decoction 853261
+706 Xiao Xu Ming Tang  Minor Prolong Life Decoction 631672
+707 Xiao Yao San  Relax Wanderer Powder 915163
+708 Xiao Ying Jian  Minor Nourishing Decoction 993271
+709 Xie Bai San  Drain the White Powder 987253
+710 Xie Qing Wan  Drain the Green Pill 916131
+711 Xie Xin Dao Zhi Tang  Drain the Epigastrium and Guide Out the Red Decoction 991617
+712 Xin Ding Da Yuan Yin  Newly-Settled Reach the Membrane Source Decoction 983272
+713 Xin Jia Ba Wei Di Huang Wan  Newly-Augmented Eight-Ingredient Pill with Rehmannia 879331
+714 Xin Jia Bai Hu Tang  Newly Augmented White Tiger Decoction 983251
+715 Xin Jia Huang Long Tang  Newly Augmented Yellow Dragon Decoction 513161
+716 Xin Jia San Ao Tang  Newly Augmented Three-Unbinding Decoction 833216
+717 Xin Jia Xiang Ru Yin  Newly Augmented Elsholtzia Decoction 831661
+718 Xin Jia Yu Nu Jian  Newly Augmented Jade Woman Decoction 732173
+719 Xin Pi Shuang Bu Wan  Tonify Both Heart and Spleen Pill 775216
+720 Xin Shen Jiao Tai Tang  Grand Communication Decoction for Heart and Kidney 981313
+721 Xin Zhi Ju Pi Zhu Ru Tang  Newly Formulated Tangerine Peel and Bamboo Shaving Decoction 919912
+722 Xing Fu Liu Jun Zi Tang  Six-Gentleman Decoction with Arisaemae and Typhonii 979213
+723 Xing Jun San  Marching Powder 813999
+724 Xing Pi San  Awaken the Spleen Powder 844321
+725 Xing Ren Hua Shi Tang  Apricot Kernel and Talcum Decoction 843142
+726 Xing Su San  Apricot Kernel and Perilla Leaf Decoction 853154
+727 Xing Xiao Wan  Awaken and Eliminate Pill 867213
+728 Xiong Gui Er Chen Tang  Two–Cured Decoction with Ligusticum Chuanxiong and Tangkuei 861314
+729 Xiong Zhi Shi Gao Tang  Ligusticum Chuanxiong, Angelica Dahurica, and Gypsum Decoction 891316
+730 Xiong Zhu Wan  Ligusticum and Atractylodes Macrocephala Pill Dan Xi Xin Fa 888713
+731 Xuan Bai Cheng Qi Tang  Order of Qi Decoction to Diffuse the White 978163
+732 Xuan Bi Tang  Disband Painful Obstruction Decoction 873164
+733 Xuan Fu Dai Zhe Tang  Inula and Haematite Decoction 887272
+734 Xuan Fu Hua Tang  Inula Decoction 913164
+735 Xuan Hu Ku Liang Tang  Corydalis and Bitter Melia Toosendan Decoction 881391
+736 Xuan Hu Tang  Corydalis Decoction 877513
+737 Xuan Qing Dao Zhuo Tang  Disperse, Clear and Guide the Turbid Decoction 899134
+738 Xuan Tou Mo Yuan Fa  Disperse and Vent the Membrane Source Formula 537131
+739 Xue Fu Zhu Yu Tang  Drive Out Stasis in the Mansion of Blood Decoction 583161
+740 Yan Hu Suo San  Corydalis Powder 853131
+741 Yang He Tang  Yang-Heartening Decoction 986147
+742 Yang Xin Tang  Nourish the Heart Decoction 999347
+743 Yang Yin Qing Fei Tang  Nourish the Yin and Clear the Lungs Decoction 672154
+744 Yang Zang Tang  Nourishing the Organs Decoction 979843
+745 Ye Shi Yi Wei Tang  Ye’s Benefit the Stomach Decoction 933432
+746 Yi Gong San  Extraordinary Merit Powder 683216
+747 Yi Guan Jian  Linking Decoction 797833
+748 Yi Huang Tang  Change Yellow Decoction 931615
+749 Yi Jia Fu Mai Tang  One-Shell Decoction to Restore the Pulse 868632
+750 Yi Jia Jian Zheng Qi San  First Modification of Rectify the Qi Powder 773162
+751 Yi Nian Jin  One Pinch of Gold Decoction 898931
+752 Yi Qing Wan  Suppress the Green Pill 535251
+753 Yi Wei Tang  Benefit the Stomach Decoction 663217
+754 Yi Yi Zhu Ye San  Coicis and Lophatherus Powder 854232
+755 Yin Chen Hao Tang  Artemisia Yinchenhao Decoction 665432
+756 Yin Chen Si Ni Tang  Artemisia Yinchenhao Decoction for Frigid Extremities 775332
+757 Yin Chen Wei Ling Tang  Calm the Stomach and Poria Decoction with Artemisia Yinchenhao 854312
+758 Yin Chen Wu Ling San  Artemisia Yinchenhao and Five-Ingredient Powder with Poria 676815
+759 Yin Chen Zhu Fu Tang  Arstemisia Yinchenhao, Atractylodes and Prepared Aconite Decoction 832115
+760 Yin Hua Jie Du Tang  Honeysuckle Decoction to Relieve Toxicity 959821
+761 Yin Jia Wan  Silver Armour Pill 868543
+762 Yin Qiao Bai Du San  Honeysuckle and Forsythia Powder to Overcome Pathogenic Influences 979321
+763 Yin Qiao Bai Hu Tang  Honeysuckle, Forsythia and White Tiger Decoction 583981
+764 Yin Qiao Ma Bo San  Honeysuckle, Forsythia, and Puffball Powder 665329
+765 Yin Qiao Ma Xing Shi Gan Tang  Honeysuckle, Forsythia, Ephedra, Apricot Kernel, Gypsum, and Licorice  Decoction 987321
+766 Yin Qiao San  Honeysuckle and Forsythia Powder 561321
+767 You Gui Wan  Restore the Right (Kidney) Pill 464132
+768 You Gui Yin  Restore the Right (Kidney) Decoction 879153
+769 Yu Dai Wan  Cure Discharge Pill 979334
+770 Yu Ping Feng San  Jade Windscreen Powder 939972
+771 Yu Zhen San  True Jade Powder 838872
+772 Yu Zhu San  Jade Candle Decoction 736832
+773 Yuan Zhi Wan  Polygalae Pill 989251
+774 Yue Bi Jia Ban Xia Tang  Maidservant from Yue Decoction plus Pinellia 863254
+775 Yue Bi Jia Zhu Fu Tang  Maidservant from Yue Decoction plus Atractylodes and Prepared Aconite 839136
+776 Yue Bi Jia Zhu Tang  Maidservant from Yue Decoction plus Atractylodes 834617
+777 Yue Bi Tang  Maidservant from Yue Decoction 971132
+778 Yue Hua Wan  Moonlight Pill 854453
+779 Yue Ju Wan  Escape Restraint Pill 973214
+780 Zan Yu Dan  Special Pill to Aid Fertility 536152
+781 Zao Fan Wan  Red Date and Alum Pill 854231
+782 Zao Li Er Chen Tang  Two-Cured Decoction with Gleditsia and Bamboo Sap 931136
+783 Zao Shi Wan  Chisel the Stone Pill 665431
+784 Zeng Ye Cheng Qi Tang  Increase the Fluids and Order the Qi Decoction 931731
+785 Zeng Ye Tang  Increase the Fluids Decoction 565316
+786 Zha Qu Er Chen Tang  Two-Cured Decoction with Hawthorn and Medicated Leaven 897231
+787 Zha Qu Liu Jun Zi Tang  Six-Gentleman Decoction with Hawthorn Berry and Medicated Leaven 669316
+788 Zha Qu Ping Wei San  Calm the Stomach Powder with Hawthorn and Fermented Leaven 765431
+789 Zhen Gan Xi Feng Tang  Sedate the Liver and Extinguish the Wind Decoction 873189
+790 Zhen Gan Xi Feng Tang Jia Jian  Modified Sedate the Liver Extinguish Wind Decoction 973131
+791 Zhen Ni Bai Hu Tang  White Tiger Decoction to Suppress Rebellion 877156
+792 Zhen Ren Huo Ming Yin  True Man’s Formula for Sustaining Life 771719
+793 Zhen Wu Tang  True Warrior Decoction 919931
+794 Zhen Zhu Mu Wan  Mother of Pearl Pill 893321
+795 Zhen Zhu Mu Wan  True Mother of Pearl Pill 839916
+796 Zheng Gu Zi Jin Dan  Purple Gold Pill for Correcting the Bone 783179
+797 Zheng She San  Correct the Tongue Powder 793169
+798 Zhi Bai Ba Wei Wan  Eight-Ingredient Pill with Anemarrhena and Phellodendron 873159
+799 Zhi Bai Di Huang Wan  Anemarrhena, Phellodendron and Rehmannia Pill 973137
+800 Zhi Bao Dan  Greatest Treasure Special Pill 897253
+801 Zhi Beng Zheng Ji Yan Fang  Extreme Effective Formula in Treating Beng Syndromes 871566
+802 Zhi Gan Cao Tang  Honey-Fried Licorice Decoction 773215
+803 Zhi Jing San  Stop Spasms Powder 997316
+804 Zhi Mi Fu Ling Wan  Poria Pill from Zhi Mi Fang 775431
+805 Zhi Qian Lie Xian Yan Fang  Formula that Treats Prostatitis 553615
+806 Zhi Ru Yong Yan Fang  Empirical Formula in Treating Mastitis 838216
+807 Zhi Shi Dao Zhi Wan  Immature Bitter Orange Pill to Guide the Stagnation 717639
+808 Zhi Shi Li Zhong Tang  Immature Bitter Orange Decoction to Regulate the Middle 893163
+809 Zhi Shi Shao Yao San  Immature Bitter Orange and Peony Powder 577563
+810 Zhi Shi Xiao Pi Wan  Immature Bitter Orange Pill to Reduce Focal Distention 561316
+811 Zhi Shi Xie Bai Gui Zhi Tang  Immature Bitter Orange, Chinese Chive, and Cinnamon Twig Decoction 954329
+812 Zhi Suo San  Stop Coughing Powder 771692
+813 Zhi Xue San  Stop Bleeding Powder 832159
+814 Zhi Yu Wan  Gardenia and Evodia Pill 916463
+815 Zhi Zhong Tang  Treats the Middle Decoction 313163
+816 Zhi Zhu Pi Wei San  Calm the Stomach Powder with Immature Bitter Orange and Atractylodes Macrocephala 783139
+817 Zhi Zhu Wan  Immature Bitter Orange and Atractylodes Macrocephala Pill 778316
+818 Zhi Zi Bai Pi Tang  Gardenia, Phellodendron Decoction 838313
+819 Zhi Zi Chi Tang  Gardenia and Prepared Soybean Decoction 713136
+820 Zhi Zi Da Huang Tang  Gardenia and Rhubarb Decoction 731693
+821 Zhi Zi Gan Cao Chi Tang  Gardenia, Licorice, and Prepared Soybean Decoction 789182
+822 Zhi Zi Gan Jiang Tang  Gardenia and Ginger Decoction 917199
+823 Zhi Zi Hou Po Tang  Gardenia and Magnolia Bark Decoction 775453
+824 Zhi Zi Sheng Jiang Chi Tang  Gardenia, Fresh Ginger and Prepared Soybean Decoction 771139
+825 Zhong He Tang  Middle-Heartening Decoction 831716
+826 Zhou Che Wan  Vessel and Vehicle Pill 778816
+827 Zhu Che Wan  Stationed Vehicle Pill 585316
+828 Zhu Fu Tang  Atractylodes and Prepared Aconite Decoction 323117
+829 Zhu Jing Wan  Preserve Vistas Pill 665316
+830 Zhu Li Yin Zi  Bamboo Sap Decoction 583254
+831 Zhu Ling Tang  Polyporus Decoction 838141
+832 Zhu Mai Liu Jun Zi Tang  Six-Gentleman Decoction with Lophatherus and Ophiopogonis 913191
+833 Zhu Ru Tang  Bamboo Shaving Decoction 897753
+834 Zhu Sha An Shen Wan  Cinnabar Pill to Calm the Spirit 667216
+835 Zhu Ye Liu Bang Tang  Lophatherus, Willow and Burdock Seeds Decoction 613173
+836 Zhu Ye Shi Gao Tang  Lophatherus and Gypsum Decoction 998953
+837 Zi Long Wan  Purple Dragon Pill 775413
+838 Zi Shen Tong Guan Wan  Enrich the Kidneys and Open the ates Pill 885216
+839 Zi Shui Qing Gan Yin  Nourish Water Clear the Liver Decoction 813164
+840 Zi Su San  Perilla Powder 731323
+841 Zi Xue Dan  Purple Snow Special Pill 879163
+842 Zuo Gui Wan  Restore the Left (Kidney) Pill Jing Yue Quan Shu 874312
+843 Zuo Gui Yin  Restore the Left (Kidney) Decoction 931513
+844 Zuo Jin Wan  Left Metal Pill 789132

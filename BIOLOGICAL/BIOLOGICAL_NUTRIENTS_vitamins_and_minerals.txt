@@ -1,0 +1,49 @@
+Calcium
+Magnesium
+Phosphorus
+Potassium
+Sodium
+Chloride
+Chromium
+Copper
+Iodine
+Iron
+Fluoride
+Manganese
+Selenium
+Zinc
+A1 2344 
+A2 2404 
+B1 2544 
+B12 4614 
+B2 5434 
+B3 35043 
+B4 9456 
+B5 6743 
+B6 6534 
+B8 48803 
+B Complex
+Biotin 35109 
+C 3443 
+D1 7409 
+D2 7662
+D3 7643 
+D4 7622 
+E 4439 
+F 6246 
+G 3437 
+H 3447 
+H3 3658 
+J 33903 
+K1 3546 
+K2 7355 
+K3 3606 
+L 59205 
+L1 79988 
+M 58115 
+P 4584 
+P2 6043 
+S 97672 
+T 3423 
+Vitamin B9 - Folic Acid    4496507 
+X 65335  

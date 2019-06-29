@@ -1,0 +1,24 @@
+Alanine 4535 
+Arginine 2296 
+Asparagine 38427 
+Aspartic 464 
+Cysteine 4357 
+DL-Phenylalanine 879542 
+Glutamic 3624 
+Glutamine 97176 
+Glycine 2316 
+Histidine 4431 
+Hydroxyproline 43104 
+Iso-Leucine 621 
+L Carnitine 69969 
+Leucine 4226 
+Lysine 4236 
+Methionine 4361 
+Phenylalanine 3374 
+Proline 5885 
+Serine 7213 
+Taurine 89269 
+Threonine 3262 
+Trytophan 2458
+Tyrosine 3264 
+Valine 5339 

@@ -1,0 +1,202 @@
+91112141-Extreme (combi)-Actinomyces israelii (sh. Aktinomykose)
+"9371096-Reg.Deficiency-Actinomycosis (ray fungus disease; bacterium)"
+93717795-Reg.Deficiency-Actinomycetoma (by bacteria)
+11591212-Reg.Deficiency-Allergy by bacterial influences-
+7931370-Degeneration State-Asthma caused by bacteria-
+12131027-Degeneration State-Bacillus anthracis (Milzbrandbakterie)
+10718114-Reg.Deficiency-Bacterium proteus (Clark Biofeldtest)
+9663206-Regulation-Bacterium proteus (Clark Biofeldtest)
+8141051-Reg.Deficiency-Bacterium subtilis
+10151188-Reg.Deficiency-Bacterium X (bacterium) (krebsbegünstigend)
+21632689-Regulation-Bacterium X (bacterium) (krebsbegünstigend)
+31110730-Degeneration State-Bacterium X (bacterium) (krebsbegünstigend)
+31150510-Degeneration State-Bacteroides
+21418258-Reg.Deficiency-Bacteria and parasites (analysis pre-test)
+1015447-Reg.Deficiency-Bakterienbefall-
+1191111-Extreme (combi)-Bakterienbefall-
+92771453-Regulation-Bakterienbefall-
+10153410-Reg.Deficiency-dysentery-
+11435256-Regulation-Bang's disease (brucellosis)
+17588144-Reg.Deficiency-Bang's disease (brucellosis)
+38101815-Degeneration State-Bang's disease (brucellosis)
+11184153-Regulation-Bifidobacterium (lactic acid, acetic acid)
+21141856-Organ / Spec.-Bifidobacterium (lactic acid, acetic acid)
+41314117-Organ / Spec.-Bifidobacterium adolescentis (lactic acid, acetic acid, breast milk)
+41320191-Organ / Spec.-Bifidobacterium bifidum (lactic acid, acetic acid, breast milk)
+31767107-Affirmation-Bifidobacterium breve (lactic acid, acetic acid, breast milk)
+52133102-Degeneration State-Bifidobacterium infantis (lactic acid, acetic acid, breast milk)
+3810468-Regulation-Bifidobacterium infantis (lactic acid, acetic acid, breast milk)
+4138314-Organ/Spec.Bifidobacterium infantis (lactic acid, acetic acid, breast milk)
+33956565-Affirmation-Bifidobacterium longum (lactic acid, acetic acid, breast milk)
+21771063-Organ/Spec.Bifidus flora (lactic acid, acetic acid, digestive tract)
+66883149-Degeneration State-Biovar eltor (afrikan. Vibrio cholerae pathogens, often)
+29105133-Reg.Deficiency-Bordetella pertussis-
+2115217-Reg.Deficiency-Disease, elapsed (ticks)
+61117468-Regulation-Disease, acute (ticks)
+15112109-Extreme (combi)-Disease, acute (ticks)
+14457129-Extreme (combi)-Disease, chronic (ticks)
+21734207-Cause (Combined)Disease, chronic (ticks)
+61116226-Regulation-Disease, subacute (ticks)
+10512820-Regulation-Lyme disease (ticks)
+10616154-Extreme (combi)-Lyme disease (ticks)
+4919605-Reg.Deficiency-Botulinum toxin (bacterial toxin)
+14124812-Degeneration State-Botulism (bacterial toxin)
+4612493-Reg.Deficiency-Botulism (bacterial toxin)
+5119910-Regulation-Branhamella catarrhalis (Lunge, Bronchitis, Sinusitis)
+10191117-Extreme (combi)-Brucella melitensis (Maltafieber)
+"14115144-Regulation-Campylobacter Coli (= Helicobacter coli;) (krebsbegünstigend)"
+"1910988-Degeneration State-Campylobacter Coli (= Helicobacter coli;) (krebsbegünstigend"
+66510875-Reg.Deficiency-Chlamydia pneumoniae
+6652939-Reg.Deficiency-Chlamydia psittaci (Ornithosebakterie)
+12125824-Regulation-Chlamydia trachomatis
+66569112-Reg.Deficiency-Chlamydia trachomatis
+91016837-Degeneration State-Chlamydia trachomatis
+62134146-Reg.Deficiency-Chlamydia
+12126128-Degeneration State-Cholera
+"1461215-Reg.Deficiency-Clostridium botulinum (trace bildenden more Keim; bacteria)"
+"87113157-Regulation-Clostridium botulinum (trace bildenden more Keim; bacteria)"
+"1242014-Degeneration State-Clostridium cadaveris (trace bildenden more Keim; bacteria)"
+"14320878-Reg.Deficiency-Clostridium coctriatum (trace bildenden more Keim; bacteria)"
+"12122128-Degeneration State-Clostridium difficile (spores bildenden more Keim; bacteria)"
+"14310910-Reg.Deficiency-Clostridium inicium (trace bildenden more Keim; bacteria)"
+"12243187-Degeneration State-Clostridium innocuum (trace bildenden more Keim; bacteria)"
+"12751010-Degeneration State-Clostridium perfringens (trace bildenden more Keim; bacteria)"
+"58132118-Reg.Deficiency-Clostridium tetani (trace bildenden more Keim; bacteria)"
+12492134-Degeneration State-Clostridium tetani toxin (bacterial Tetanus-timer)
+5178146-Reg.Deficiency-Coli bacteria-
+11261010-Reg.Deficiency-Corynebacterium
+16114211-Degeneration State-Corynebacterium anaerobic (bacterium) (tooth)
+4710149-Reg.Deficiency-Corynebacterium anaerobic (bacterium) (tooth)
+9131020-Cause (Combined)Constant stress caused by bacteria infestation-
+12598571-Reg.Deficiency-Diplokokkus / Diplococcus
+8826782-Reg.Deficiency-Dysbacteria (sh. And intestinal flora)
+23262423-Degeneration State-Enteritis infectiosa
+2194415-Reg.Deficiency-Enterobakter (Bacterial)-
+21164956-Reg.Deficiency-Enterococcus/Enterokokkus-
+13121230-Extreme (combi)-Encephalitis, bacterial-
+11511132-Reg.Deficiency-Escherichia coli
+2046244-Degeneration State-Fleckfieber
+61917111-Degeneration State-Fleckfieber, endemisches (murine Fleckf., D. Rattenfloh)
+61436125-Degeneration State-Fleckfieber, epidemisches (Fleck Typhus, Läusefleckf.)
+18615252-Reg.Deficiency-Francisella tularensis (sh. Tularämie)
+1631371-Reg.Deficiency-Gardnerella vaginalis (formerly Haemophilus vaginalis)
+1066131-Degeneration State-Gasoedemerkrankung / Gas fire (d. Clostridium perfringens) (bakteriell)
+3511116-Reg.Deficiency-Haemophilus ducreyi (sh soft chancre. Chancroid)
+33117636-Reg.Deficiency-Haemophilus influenzae
+3516158-Reg.Deficiency-Haemophilus influenzae Serotype B
+3548255-Reg.Deficiency-Haemophilus parainfluenzae
+9138617-Regulation-Helicobacter pylori (bacterium) (krebsbegünstigend)
+13311116-Degeneration State-Helicobacter pylori (bacterium) (krebsbegünstigend)
+16371692-Regulation-Kieferostitis, chronic bacterial (dental)
+10221314-Reg.Deficiency-Childhood diseases: diphtheria
+10224116-Reg.Deficiency-Childhood diseases: pertussis
+10229115-Reg.Deficiency-Childhood diseases: scarlet fever
+1671087-Reg.Deficiency-Klebsiella ozaenae
+18187132-Degeneration State-Klebsiella ozaenae
+71517149-Regulation-Klebsiella ozaenae
+1428136-Reg.Deficiency-Klebsiella pneumoniae
+18138133-Degeneration State-Klebsiella pneumoniae
+71581325-Regulation-Klebsiella pneumoniae
+1288236-Organ / Spec.-Lactobacillus (lactic acid)
+14251821-Regulation-Lactobacillus (lactic acid)
+13128187-Regulation-Lactobacillus acidophilus (lactic acid)
+1111641-Organ / Spec.-Lactobacillus acidophilus (lactic acid)
+11110102-Organ / Spec.-Lactobacillus casei (lactic acid)
+1481265-Regulation-Lactobacillus casei (lactic acid)
+1111184-Organ / Spec.-Lactobacillus casei defensis (lactic acid, Actimel)
+11101587-Extreme (combi)-Lactobacillus casei defensis (lactic acid, Actimel)
+11111237-Organ / Spec.-Lactobacillus Döderlein (lactic acid) (also: L. cellobiosus)
+1345115-Regulation-Lactobacillus Döderlein (lactic acid) (also: L. cellobiosus)
+11119192-Organ / Spec.-Lactobacillus fermentum (bacteria,lactic acid)
+16791514-Affirmation-Lactobacillus fermentum (lactic acid)
+56511219-Cause (Combined)Lactobacillus fermentum (lactic acid)
+84710123-Extreme (combi)-Lactobacillus fermentum (lactic acid)
+2618715-Extreme (combi)-Food poisoning, microbial
+1013609-Degeneration State-Legionella
+71012671-Reg.Deficiency-Legionella
+1713118-Regulation-Leprosy
+6386113-Degeneration State-Leptospira
+2614710-Degeneration State-Leptospira icterohaemorrhagiae (sh. Because Crohn)
+63861312-Degeneration State-Leptospirosis
+63159785-Degeneration State-Leptospirosis canicola
+1191012-Degeneration State-Listeria
+41241591-Reg.Deficiency-Listeria
+61151016-Extreme (combi)-Listeriosis
+71010969-Cause (Combined)Listeriosis
+11220517-Degeneration State-Listeriosis konnatal
+2281298-Reg.Deficiency-Pulmonary tuberculosis
+31114157-Degeneration State-Pulmonary tuberculosis
+7114108-Extreme (combi)-Lyme disease (ticks)
+91561135-Reg.Deficiency-Lyme disease (ticks)
+85412126-Degeneration State-Maltafieber (Bakterielle Brucellosis)
+92361610-Cause (Combined)Mastitis, granulomatous (virus / bacteria / fungus ???) (Mamma)
+71011583-Degeneration State-Tuberculosa meningitis
+10921310-Extreme (combi)-Meningococcal encephalitis
+7619215-Degeneration State-Meningococcal encephalitis
+10221115-Extreme (combi)-Miliartuberkulose
+9101229-Reg.Deficiency-Milzbrand
+15151117-Degeneration State-Crohn Weil (Weil's disease)
+1064356-Degeneration State-Mycobacterium
+13101816-Extreme (combi)-Mycobacterium
+72371092-Reg.Mycobacterium
+8158145-Reg.Deficiency-Mycobacterium
+7431523-Degeneration State-Mycobacterium bovis (TB bacterium rare pathogen))
+7438414-Degeneration State-Mycobacterium leprae
+74376685-Degeneration State-Mycobacterium tuberculosis (Tuberkulose-Bakterie)
+10121373-Degeneration State-Mycoplasma
+71110830-Extreme (combi)-Mycoplasma
+8811361-Reg.Deficiency-Mycoplasma
+11561010-Reg.Deficiency-Neisseria
+3481445-Degeneration State-Neisseria
+34118116-Reg.Deficiency-Neisseria gonorrhoeae (Tripper)
+4410912-Degeneration State-Ornithose
+1042572-Reg.Deficiency-Parathyphus A
+1042573-Reg.Deficiency-Parathyphus B
+1042574-Reg.Deficiency-Parathyphus C
+16141299-Degeneration State-Pasteurellosis (Wundinfektion)
+74121611-Regulation-Pasteurellosis (Wundinfektion)
+4165149-Reg.Deficiency-Peptostreptococcus (anaerob)
+1234264-Regulation-Pest
+8461374-Organ / Spec.-Propolis (for fungal, viral, bacterial diseases)
+91641021-Reg.Deficiency-Proteus-
+16592118-Reg.Deficiency-Proteus rettgeri-
+7761231-Reg.Deficiency-Pseudomonas
+2332152-Reg.Deficiency-Pseudomonas aeruginosa (Pyozyanusbakterien)
+77911759-Reg.Deficiency-Pseudomonas mallei (sh. Snot)
+23156421-Reg.Deficiency-Pseudomonas pseudomallei (sh. Rotz)
+11167148-Regulation-Puerperalfieber (Wöchnerinnenfieber / Kindbettfieber)
+12141185-Extreme (combi)-Q fever (rickettsial disease, Balkan flu)
+30111668-Reg.Deficiency-Glanders (malleus / Mali Asmus) (by Pseudomonas mallei)
+8912574-Degeneration State-Relapsing fever (Borrelia by)
+12104498-Degeneration State-Salmonella
+13168218-Extreme (combi)-Salmonella
+35612671-Reg.Deficiency-Salmonella
+77137107-Regulation-Salmonella
+12109576-Degeneration State-Salmonellose
+5213111-Reg.Deficiency-Scarlet
+6521062-Regulation-Colds, bacterial (DD to allergic rhinitis)
+86855106-Reg.Deficiency-Side strand angina (bacterial pharyngitis)
+3177941-Reg.Deficiency-Shigella / Shigella (causative agent of dysentery)
+87111056-Reg.Deficiency-Staphylococcinum (Bakterientoxin)
+16132265-Reg.Deficiency-Staphylococci
+24151517-Reg.Deficiency-Streptococcinum (Bakterientoxin)
+24668183-Reg.Deficiency-Streptococcus haemolyticus
+24165410-Reg.Deficiency-Streptococcus viridans
+94921590-Regulation-Streptococcus viridans
+8889476-Reg.Deficiency-Streptococci
+32134184-Regulation-Tetanus (Wundstarrkrampf)
+1871073-Degeneration State-Trachoma (eye) (bacterial disease chlamydia)
+5713612-Regulation-Trachoma (eye) (bacterial disease chlamydia)
+17111116-Degeneration State-Treponema pallidum (Lues- / Syphilis-pathogen)
+13194137-Degeneration State-Tularämie
+1271752-Extreme (combi)-Tularemia, outer shapes
+57591058-Degeneration State-Tularämie, inner shape
+3122532-Degeneration State-Vibrio cholerae (Cholera-Vibrionen) (Bakteriensammelbezeichnung)
+5125106-Degeneration State-Waterhouse-Friderichsen syndrome (Compl.llen which meningitis)
+9808999-Degeneration State-Yersinia enterocolitica
+12615407-Degeneration State-Yersinia pestis
+15968223-Reg.Deficiency-Yersinia pseudotuberculosis
+9131242-Degeneration State-Yersinia arthritis (after Yersiniendurchfall)
+22201011-Reg.Deficiency-Tick-Lyme disease
+13150775-Degeneration State-Tick-borne relapsing fever
+81754112-Regulation-Tick-borne relapsing fever

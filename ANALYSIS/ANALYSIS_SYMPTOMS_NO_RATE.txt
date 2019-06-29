@@ -1,0 +1,857 @@
+Abdominal pain
+Back pain
+Chest pain
+Otalgia (Earache)
+Headache
+Chronic pain
+Pelvic pain
+Toothache (ache)
+Vaginal (Pain)
+Rectal pain
+Dermatomal pain
+Extremities pain
+Chills
+Fever
+Paresthesia (numbness, tingling, electric tweaks)
+Light-headed
+Dizzy
+Dizzy – about to Dizzy – black out
+Dizzy – with the room Dizzy – spinning around me
+My mouth is dry
+Nauseated
+Sick - like I have the flu
+Sick -like I have to vomit
+Short of breath
+Sleepy
+Sweaty
+Thirsty
+Tired
+Weak
+I can't:Breathe normally
+I can't:Hear normally:
+losing hearing
+sounds are too loud
+ringing or hissing in my ears
+I can't:Move one side – arm and/or leg
+I can't:Pass a bowel action normally
+I can't:Pass urine normally
+I can't:Remember normally
+I can't:See properly:
+Blindness
+blurred vision
+double vision
+I can't:Sleep normally
+I can't:Smell things normally
+I can't:Speak normally
+I can't:Stop passing watery bowel actions
+I can't:Stop scratching
+I can't:Stop sweating
+I can't:Swallow normally
+I can't:Taste properly
+I can't:Walk normally
+I can't:Write normally
+cachexia (R64)
+loss of appetite (R63.0)
+weight loss (R63.4)
+weight gain (R63.5)
+dry mouth (R68.2)
+fatigue (R53)
+malaise
+asthenia
+muscle weakness (M62.8)
+pyrexia (R50)
+jaundice (P58, P59, R17)
+pain
+abdominal pain (R10)
+chest pain (R07)
+bruising (Sx0 (x=0 through 9))
+epistaxis (R04.0)
+tremor (R25.1)
+convulsions (R56)
+muscle cramps (R25.2)
+tinnitus (H93.1)
+dizziness / vertigo (R42)
+syncope (R55)
+hypothermia (T68)
+hyperthermia (T670)
+discharge
+bleeding
+swelling
+deformity
+sweats
+chills and shivering
+acalculia
+acrophobia
+agnosia
+agoraphobia
+akathisia
+akinesia
+alexia
+amusia
+anhedonia
+anomia
+anosognosia
+anxiety
+apraxia
+arachnophobia
+ataxia
+bradykinesia
+cataplexy (G47.4)
+chorea
+claustrophobia
+confusion
+deliberate self harm and drug overdose
+depression
+dysarthria
+dysdiadochokinesia
+dysgraphia
+dystonia
+euphoria
+hallucination
+headache
+hemiballismus and ballismus
+homicidal ideation
+insomnia (F51.0, G47.0)
+Lhermitte's sign (as if an electrical sensation shoots down back & into arms)
+mania (F30)
+paralysis
+paranoia or persecution
+paresthesia
+phobia (see the List of Phobias)
+prosopagnosia
+sciatica
+somnolence (R40.0)
+suicidal ideation
+tic
+tremor
+amaurosis fugax (G45.3) and amaurosis
+blurred vision
+Dalrymple's sign
+double vision (H53.2)
+exophthalmos (H05.2)
+mydriasis/miosis (H570)
+nystagmus
+anorexia (R63.0)
+bloating (R14)
+belching (R14)
+blood in stool: melena (K92.1), hematochezia
+constipation (K59.0)
+diarrhea (A09, K58, K59.1)
+dysphagia (R13)
+dyspepsia (K30)
+flatulence (R14)
+fecal incontinence
+haematemesis
+nausea (R11)
+odynophagia
+proctalgia fugax
+pyrosis (R12)
+rectal malodor
+steatorrhea
+vomiting (R11)
+chest pain (R07)
+claudication
+palpitation (R00.2)
+tachycardia (R00.0)
+bradycardia (R00.1)
+arrhythmia
+dysuria (R30.0)
+hematuria (R31)
+impotence (N48.4)
+polyuria (R35)
+retrograde ejaculation
+strangury
+urinary frequency (R35)
+urinary incontinence (R32)
+urinary retention
+hypoventilation
+hyperventilation
+bradypnea (R06.0)
+apnea
+cough (R05)
+dyspnea (R06.0)
+hemoptysis (R04.2)
+pleuritic chest pain
+sputum production (R09.3)
+tachypnea (R06.0)
+abrasion
+alopecia
+anasarca (R60.1)
+blister (T14.0)
+edema (R60)
+hirsutism
+itching (L29)
+laceration
+paresthesia (R20.2)
+rash (R21)
+urticaria (L50)
+abnormal vaginal bleeding
+bloody show preceding onset of labour
+painful intercourse (N94.1)
+pelvic pain
+infertility
+labour pains
+vaginal bleeding in early pregnancy / miscarriage
+vaginal bleeding in late pregnancy
+vaginal discharge
+vaginismus (N94.2)
+(780) General symptoms
+(780.0) Alteration of consciousness
+(780.01) Coma
+(780.02) Transient alteration of awareness
+(780.03) Persistent vegetative state
+(780.09) Semicoma, stupor
+(780.1) Hallucinations
+(780.2) Syncope
+(780.3) Convulsions
+(780.31) Febrile convulsions
+(780.32) Complex febrile convulsions
+(780.39) Other convulsions
+(780.4) Dizziness/vertigo, NOS
+(780.5) Sleep disturbance, unspec.
+(780.50) Unspecified sleep disturbance
+(780.51) Insomnia with sleep apnea, unspecified
+(780.52) Insomnia, unspecified
+(780.53) Hypersomnia with sleep apnea, unspecified
+(780.54) Hypersomnia, unspecified
+(780.55) Disruptions of 24-hour sleep-wake cycle, unspecified
+(780.56) Dysfunctions associated with sleep stages or arousal from sleep
+(780.57) Unspecified sleep apnea
+(780.58) Sleep related movement disorder, unspecified
+(780.59) Other sleep disturbances
+(780.6) Fever, nonperinatal
+(780.7) Malaise and fatigue
+(780.71) Chronic fatigue syndrome
+(780.72) Functional quadriplegia
+(780.79) Other malaise and fatigue
+(780.8) Sweating, excessive
+(780.9) Other general symptoms
+(780.91) Fussy infant
+(780.92) Crying, infant, excessive
+(780.93) Memory loss
+(780.94) Early satiety
+(780.95) Other excessive crying
+(780.96) Generalized pain
+(780.97) Altered mental status
+(780.99) Other general symptoms
+(781) Symptoms involving nervous and musculoskeletal systems
+(781.0) Abnormal involuntary movements
+(781.1) Disturbances, smell and taste
+(781.2) Gait abnormality
+(781.3) Lack of coordination
+Dysdiadochokinesia
+Ataxia NOS
+Hypotonia
+(781.5) Clubbing of fingers
+(781.8) Neurologic neglect syndrome
+(781.9) Other symptoms involving nervous and musculoskeletal systems
+(781.91) Loss of height
+(781.92) Abnormal posture
+(781.94) Facial weakness
+(782) Symptoms involving skin and other integumentary tissue
+(782.0) Sensory disturbance skin
+(782.1) Rash, nonvesicular, unspec.
+(782.2) Localized swelling/mass, superficial
+(782.3) Edema, localized, NOS
+(782.4) Jaundice
+(782.5) Cyanosis
+(782.7) Petechiae
+(782.8) Change in skin texture
+(782.9) Other symptoms involving skin
+(784) Symptoms involving head and neck
+(784.0) Headache
+(784.1) Throat pain
+(784.2) Swelling mass or lump in head and neck
+(784.3) Aphasia
+(784.4) Voice disturbance
+(784.41) Aphonia
+(784.49) Hoarseness
+(784.5) Dysarthria
+(784.6) Other symbolic dysfunction
+(784.60) Symbolic dysfunction, unspecified
+(784.61) Alexia and dyslexia
+(784.7) Epistaxis
+(784.8) Hemorrhage from throat
+(784.9) Other symptoms involving head and neck
+(784.91) Postnasal drip
+(785) Symptoms involving cardiovascular system
+(785.0) Tachycardia
+(785.1) Palpitations
+(785.2) Murmur of heart, undiagnosed
+(785.3) Other abnormal heart sounds
+(785.4) Gangrene
+(785.5) Shock, unspec.
+(785.50) Shock unspecified
+(785.51) Cardiogenic shock
+(785.52) Septic shock
+(785.6) Enlarged lymph nodes
+(785.9) Bruit
+(786) Symptoms involving respiratory system and other chest symptoms
+(786.0) Dyspnea and respiratory abnormalities
+(786.03) Apnea
+(786.04) Cheyne-Stokes respiration
+(786.05) Shortness of breath
+(786.06) Tachypnea
+(786.07) Wheezing
+(786.09) Other respiratory abnormalities
+Bradypnea
+(786.1) Stridor
+(786.2) Cough
+(786.3) Hemoptysis
+(786.4) Abnormal sputum
+(786.5) Chest pain, unspec.
+(786.51) Precordial pain
+(786.52) Pleuritic pain
+(786.6) swelling, mass, or lump in chest
+(786.7) Abnormal chest sounds
+Rales
+(786.8) Hiccoughs
+(787) Symptoms involving digestive system
+(787.0) Nausea and vomiting
+(787.01) Nausea w/vomiting
+(787.02) Nausea, alone
+(787.03) Vomiting, alone
+(787.1) Heartburn
+(787.2) Dysphagia
+(787.3) Gas/bloating
+(787.4) Visible peristalsis
+(787.5) Abnormal bowel sounds
+(787.6) Encopresis, NOS, fecal incontinence
+(787.9) Other symptoms involving digestive system
+(787.91) Diarrhea, NOS
+(788) Symptoms involving urinary system
+(788.0) Renal colic
+(788.1) Dysuria
+(788.2) Retention of urine
+(788.3) Urinary incontinence
+(788.30) Urinary incontinence unspecified
+(788.31) Urge incontinence
+(788.32) Stress incontinence
+(788.33) Mixed incontinence
+(788.34) Incontinence without sensory awareness
+(788.35) Post-void dribbling
+(788.36) Nocturnal enuresis
+(788.37) Continuous leakage
+(788.38) Overflow incontinence
+(788.39) Other urinary incontinence
+(788.4) Frequency of urination and polyuria
+(788.41) Urinary frequency
+(788.42) Polyuria
+(788.43) Nocturia
+(788.5) Oliguria and anuria
+(788.6) Other abnormality of urination
+(788.63) Urgency of urination
+(789) Other symptoms involving abdomen and pelvis
+(789.0) Abdominal pain
+(789.1) Hepatomegaly
+(789.2) Splenomegaly
+(789.3) Abdominal/pelvic mass, unspec.
+(789.4) Abdominal rigidity
+(789.5) Ascites
+(789.6) Abdominal tenderness
+(790) Nonspecific findings on examination of blood
+(790.0) Abnormal red blood cell
+(790.1) Elevated sedimentation rate
+(790.2) Abnormal glucose
+(790.21) Impaired fasting glucose
+(790.22) Impaired glucose tolerance test (oral)
+(790.29) Other abnormal glucose
+(790.3) Excessive blood level of alcohol
+(790.4) Abnormal transaminase/LDH
+(790.5) Other nonspecific abnormal serum enzyme levels
+(790.6) Abnormal blood chemistry, other
+Iron overload disorder
+(790.7) Bacteremia (not septicemia)
+(790.8) Viremia, unspecified
+(790.9) Other nonspecific findings on examination of blood
+(790.91) Abnormal arterial blood gases
+(790.92) Abnormal coagulation profile
+(790.93) Abnormal prostate specific antigen
+(790.99) Other
+Reticulocytosis
+(791) Nonspecific findings on examination of urine
+(791.0) Proteinuria
+Albuminuria
+(791.2) Hemoglobinuria
+(791.5) Glycosuria
+(792) Nonspecific abnormal findings in other body substances
+(792.1) Blood in stool, occult
+(793) Nonspecific abnormal findings on radiological and other examination
+(793.1) Abnormal X-ray, lung TERM: 9/30/11
+(793.8) Mammogram, abnormal, unspec.
+(794) Nonspecific abnormal results of function studies
+(794.1) Peripheral nervous system and special senses
+(794.15) Abnormal auditory function study
+(794.3) Cardiovascular
+(794.31) Abnormal electrocardiogram
+(795) Nonspecific abnormal histological and immunological findings
+(795.0) Nonspecific abnormal Papanicolaou smear of cervix
+(795.5) Positive PPD TERM: 9/30/11
+(796) Other nonspecific abnormal findings
+(796.2) Elevated BP w/o hypertension
+(797) Senility without mention of psychosis
+(798) Sudden death, cause unknown
+(798) Sudden infant death syndrome
+(799) Other ill-defined and unknown causes of morbidity and mortality
+(799.0) Asphyxia
+(799.1) Respiratory arrest
+(799.2) Nervousness
+(799.3) Debility
+(799.4) Cachexia
+(799.8) Other ill-defined conditions
+(799.81) Decreased libido
+(799.89) Other ill-defined conditions
+(R00) Abnormalities of heart beat
+(R00.0) Tachycardia, unspecified
+(R00.1) Bradycardia, unspecified
+(R00.2) Palpitations
+(R00.8) Other and unspecified abnormalities of heart beat
+(R01) Cardiac murmurs and other cardiac sounds
+(R01.0) Benign and innocent cardiac murmurs
+(R01.1) Cardiac murmur, unspecified
+Cardiac bruit NOS
+(R01.2) Other cardiac sounds
+(R02) Gangrene, not elsewhere classified
+(R03) Abnormal blood-pressure reading, without diagnosis
+(R03.0) Elevated blood-pressure reading, without diagnosis of hypertension
+(R03.1) Nonspecific low blood-pressure reading
+(R04) Haemorrhage from respiratory passages
+(R04.0) Epistaxis
+(R04.1) Haemorrhage from throat
+(R04.2) Haemoptysis
+(R04.8) Haemorrhage from other sites in respiratory passages
+(R04.9) Haemorrhage from respiratory passages, unspecified
+(R05) Cough
+(R06) Abnormalities of breathing
+(R06.0) Dyspnoea
+Orthopnoea
+(R06.1) Stridor
+(R06.2) Wheezing
+(R06.3) Periodic breathing
+Cheyne-Stokes respiration
+(R06.4) Hyperventilation
+(R06.5) Mouth breathing
+Snoring
+(R06.6) Hiccup
+(R06.7) Sneezing
+(R06.8) Other and unspecified abnormalities of breathing
+Choking sensation
+(R07) Pain in throat and chest
+(R07.0) Pain in throat
+(R07.1) Chest pain on breathing
+(R07.2) Precordial pain
+(R07.3) Other chest pain
+(R07.4) Chest pain, unspecified
+(R09) Other symptoms and signs involving the circulatory and respiratory systems
+(R09.0) Asphyxia
+(R09.1) Pleurisy
+(R09.2) Respiratory arrest
+(R09.3) Abnormal sputum
+(R09.8) Other specified symptoms and signs involving the circulatory and respiratory systems
+Rales
+Arterial Bruit
+(R10) Abdominal and pelvic pain
+(R10.0) Acute abdomen
+(R10.1) Pain localized to upper abdomen
+(R10.2) Pelvic and perineal pain
+(R10.3) Pain localized to other parts of lower abdomen
+(R10.4) Other and unspecified abdominal pain
+Abdominal tenderness NOS
+Colic, NOS
+infantile colic
+(R11) Nausea and vomiting
+(R12) Heartburn
+(R13) Dysphagia
+(R14) Flatulence and related conditions
+Abdominal distension (gaseous)
+Bloating
+Eructation
+Gas pain
+Tympanites (abdominal)(intestinal)
+(R15) Faecal incontinence
+Encopresis
+(R16) Hepatomegaly and splenomegaly, not elsewhere classified
+(R16.0) Hepatomegaly, not elsewhere classified
+(R16.1) Splenomegaly, not elsewhere classified
+(R16.2) Hepatomegaly with splenomegaly, not elsewhere classified
+Hepatosplenomegaly NOS
+(R17) Unspecified jaundice
+(R18) Ascites
+(R19) Other symptoms and signs involving the digestive system and abdomen
+(R19.0) Intra-abdominal and pelvic swelling, mass and lump
+(R19.1) Abnormal bowel sounds
+(R19.2) Visible peristalsis
+(R19.3) Abdominal rigidity
+(R19.4) Change in bowel habit
+(R19.5) Other faecal abnormalities
+(R19.6) Halitosis
+(R19.8) Other specified symptoms and signs involving the digestive system and abdomen
+(R20) Disturbances of skin sensation
+(R20.0) Anaesthesia of skin
+(R20.1) Hypoaesthesia of skin
+(R20.2) Paraesthesia of skin
+(R20.3) Hyperaesthesia
+(R20.8) Other and unspecified disturbances of skin sensation
+(R21) Rash and other nonspecific skin eruption
+(R22) Localized swelling, mass and lump of skin and subcutaneous tissue
+(R22.0) Localized swelling, mass and lump, head
+(R22.1) Localized swelling, mass and lump, neck
+(R22.2) Localized swelling, mass and lump, trunk
+(R22.3) Localized swelling, mass and lump, upper limb
+(R22.4) Localized swelling, mass and lump, lower limb
+(R22.7) Localized swelling, mass and lump, multiple sites
+(R22.9) Localized swelling, mass and lump, unspecified
+(R23) Other skin changes
+(R23.0) Cyanosis
+(R23.1) Pallor
+(R23.2) Flushing
+(R23.3) Spontaneous ecchymoses
+Petechiae
+(R23.4) Changes in skin texture
+Desquamation
+Induration
+(R23.8) Other and unspecified skin changes
+(R25) Abnormal involuntary movements
+(R25.0) Abnormal head movements
+(R25.1) Tremor, unspecified
+(R25.2) Cramp and spasm
+(R25.3) Fasciculation
+(R25.8) Other and unspecified abnormal involuntary movements
+(R26) Abnormalities of gait and mobility
+(R26.0) Ataxic gait
+(R26.1) Paralytic gait
+(R26.2) Difficulty in walking, not elsewhere classified
+(R26.8) Other and unspecified abnormalities of gait and mobility
+(R27) Other lack of coordination
+(R27.0) Ataxia, unspecified
+(R27.8) Other and unspecified lack of coordination
+(R29) Other symptoms and signs involving the nervous and musculoskeletal systems
+(R29.0) Tetany
+(R29.1) Meningismus
+(R29.2) Abnormal reflex
+Hyperreflexia
+(R29.3) Abnormal posture
+(R29.4) Clicking hip
+(R29.8) Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems
+(R30) Pain associated with micturition
+(R30.0) Dysuria
+(R30.1) Vesical tenesmus
+(R30.9) Painful micturition, unspecified
+(R31) Unspecified haematuria
+(R32) Unspecified urinary incontinence
+(R33) Retention of urine
+(R34) Anuria and oliguria
+(R35) Polyuria
+Nocturia
+(R36) Urethral discharge
+(R39) Other symptoms and signs involving the urinary system
+(R39.0) Extravasation of urine
+(R39.1) Other difficulties with micturition
+(R39.2) Extrarenal uraemia
+(R39.8) Other and unspecified symptoms and signs involving the urinary system
+(R40) Somnolence, stupor and coma
+(R40.0) Somnolence
+(R40.1) Stupor
+(R40.2) Coma, unspecified
+(R41) Other symptoms and signs involving cognitive functions and awareness
+(R41.0) Disorientation, unspecified
+(R41.1) Anterograde amnesia
+(R41.2) Retrograde amnesia
+(R41.3) Other amnesia
+(R41.8) Other and unspecified symptoms and signs involving cognitive functions and awareness
+(R42) Dizziness and giddiness
+Vertigo NOS
+(R43) Disturbances of smell and taste
+(R43.0) Anosmia
+(R43.1) Parosmia
+(R43.2) Parageusia
+(R43.8) Other and unspecified disturbances of smell and taste
+(R44) Other symptoms and signs involving general sensations and perceptions
+(R44.0) Auditory hallucinations
+(R44.1) Visual hallucinations
+(R44.2) Other hallucinations
+(R44.3) Hallucinations, unspecified
+(R44.8) Other and unspecified symptoms and signs involving general sensations and perceptions
+(R45) Symptoms and signs involving emotional state
+(R45.0) Nervousness
+(R45.1) Restlessness and agitation
+(R45.2) Unhappiness
+(R45.3) Demoralization and apathy
+(R45.4) Irritability and anger
+(R45.5) Hostility
+(R45.6) Physical violence
+(R45.7) State of emotional shock and stress, unspecified
+(R45.8) Other symptoms and signs involving emotional state
+Suicidal ideation (tendencies)
+(R46) Symptoms and signs involving appearance and behaviour
+(R46.0) Very low level of personal hygiene
+(R46.1) Bizarre personal appearance
+(R46.2) Strange and inexplicable behaviour
+(R46.3) Overactivity
+(R46.4) Slowness and poor responsiveness
+(R46.5) Suspiciousness and marked evasiveness
+(R46.6) Undue concern and preoccupation with stressful events
+(R46.7) Verbosity and circumstantial detail obscuring reason for contact
+(R46.8) Other symptoms and signs involving appearance and behaviour
+(R47) Speech disturbances, not elsewhere classified
+(R47.0) Dysphasia and aphasia
+(R47.1) Dysarthria and anarthria
+(R47.8) Other and unspecified speech disturbances
+(R48) Dyslexia and other Symbolic dysfunctions, not elsewhere classified
+(R48.0) Dyslexia and alexia
+(R48.1) Agnosia
+(R48.2) Apraxia
+(R48.8) Other and unspecified Symbolic dysfunctions
+Acalculia
+Agraphia
+(R49) Voice disturbances
+(R49.0) Dysphonia
+(R49.1) Aphonia
+(R49.2) Hypernasality and hyponasality
+(R49.8) Other and unspecified voice disturbances
+(R50) Fever of unknown origin
+(R50.0) Fever with chills
+(R50.1) Persistent fever
+(R50.9) Fever, unspecified
+(R51) Headache
+(R52) Pain, not elsewhere classified
+(R52.0) Acute pain
+(R52.1) Chronic intractable pain
+(R52.2) Other chronic pain
+(R52.9) Pain, unspecified
+(R53) Malaise and fatigue
+Asthenia NOS
+Debility NOS
+General physical deterioration
+Lethargy
+Tiredness
+(R54) Senility
+(R55) Syncope and collapse
+(R56) Convulsions, not elsewhere classified
+(R56.0) Febrile convulsions
+(R56.8) Other and unspecified convulsions
+Fit NOS
+Seizure (convulsive) NOS
+(R57) Shock, not elsewhere classified
+(R57.0) Cardiogenic shock
+(R57.1) Hypovolaemic shock
+(R57.8) Other shock
+(R57.9) Shock, unspecified
+(R58) Haemorrhage, not elsewhere classified
+(R59) Enlarged lymph nodes
+(R59.0) Localized enlarged lymph nodes
+(R59.1) Generalized enlarged lymph nodes
+Lymphadenopathy NOS
+(R60) Oedema, not elsewhere classified
+(R60.0) Localized oedema
+Peripheral edema
+(R60.1) Generalized oedema
+(R60.9) Oedema, unspecified
+(R61) Hyperhidrosis
+(R61.0) Localized hyperhidrosis
+(R61.1) Generalized hyperhidrosis
+(R61.9) Hyperhidrosis, unspecified
+Night sweats
+(R62) Lack of expected normal physiological development
+(R62.0) Delayed milestone
+(R62.8) Other lack of expected normal physiological development
+Failure to gain weight
+Failure to thrive
+Infantilism NOS
+Lack of growth
+Physical retardation
+(R62.9) Lack of expected normal physiological development, unspecified
+(R63) Symptoms and signs concerning food and fluid intake
+(R63.0) Anorexia
+(R63.1) Polydipsia
+(R63.2) Polyphagia
+(R63.3) Feeding difficulties and mismanagement
+(R63.4) Abnormal weight loss
+(R63.5) Abnormal weight gain
+(R63.8) Other symptoms and signs concerning food and fluid intake
+(R64) Cachexia
+(R68) Other general symptoms and signs
+(R68.0) Hypothermia, not associated with low environmental temperature
+(R68.1) Nonspecific symptoms peculiar to infancy
+(R68.2) Dry mouth, unspecified
+(R68.3) Clubbing of fingers
+(R68.8) Other specified general symptoms and signs
+(R69) Unknown and unspecified causes of morbidity
+(R70) Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity
+(R70.0) Elevated erythrocyte sedimentation rate
+(R70.1) Abnormal plasma viscosity
+(R71) Abnormality of red blood cells
+Anisocytosis
+Poikilocytosis
+(R72) Abnormality of white blood cells, not elsewhere classified
+(R73) Elevated blood glucose level
+(R73.0) Abnormal glucose tolerance test
+Impaired glucose tolerance
+Prediabetes
+(R73.9) Hyperglycaemia, unspecified
+(R74) Abnormal serum enzyme levels
+(R74.0) Elevation of levels of transaminase and lactic acid dehydrogenase (LDH)
+(R74.8) Abnormal levels of other serum enzymes
+acid phosphatase
+alkaline phosphatase
+amylase
+lipase (triacylglycerol lipase)
+(R74.9) Abnormal level of unspecified serum enzyme
+(R75) Laboratory evidence of human immunodeficiency virus (HIV)
+(R76) Other abnormal immunological findings in serum
+(R76.0) Raised antibody titre
+(R76.1) Abnormal reaction to tuberculin test
+(R76.2) False-positive serological test for syphilis
+(R76.8) Other specified abnormal immunological findings in serum
+(R76.9) Abnormal immunological finding in serum, unspecified
+(R77) Other abnormalities of plasma proteins
+(R77.0) Abnormality of albumin
+(R77.1) Abnormality of globulin
+(R77.2) Abnormality of alphafetoprotein
+(R77.8) Other specified abnormalities of plasma proteins
+(R77.9) Abnormality of plasma protein, unspecified
+(R78) Findings of drugs and other substances, not normally found in blood
+(R78.0) Finding of alcohol in blood
+(R78.1) Finding of opiate drug in blood
+(R78.2) Finding of cocaine in blood
+(R78.3) Finding of hallucinogen in blood
+(R78.4) Finding of other drugs of addictive potential in blood
+(R78.5) Finding of psychotropic drug in blood
+(R78.6) Finding of steroid agent in blood
+(R78.7) Finding of abnormal level of heavy metals in blood
+(R78.8) Finding of other specified substances, not normally found in blood
+(R78.9) Finding of unspecified substance, not normally found in blood
+(R79) Other abnormal findings of blood chemistry
+(R79.0) Abnormal level of blood mineral
+(R79.8) Other specified abnormal findings of blood chemistry
+Abnormal blood-gas level
+(R79.9) Abnormal finding of blood chemistry, unspecified
+(R80) Isolated proteinuria
+Albuminuria
+(R81) Glycosuria
+(R82) Other abnormal findings in urine
+(R82.0) Chyluria
+(R82.1) Myoglobinuria
+(R82.2) Biliuria
+(R82.3) Haemoglobinuria
+(R82.4) Acetonuria
+Ketonuria
+(R82.5) Elevated urine levels of drugs, medicaments and biological substances
+(R82.6) Abnormal urine levels of substances chiefly nonmedicinal as to source
+(R82.7) Abnormal findings on microbiological examination of urine
+(R82.8) Abnormal findings on cytological and histological examination of urine
+(R82.9) Other and unspecified abnormal findings in urine
+Cells and casts in urine
+Crystalluria
+Melanuria
+(R83) Abnormal findings in cerebrospinal fluid
+(R84) Abnormal findings in specimens from respiratory organs and thorax
+(R85) Abnormal findings in specimens from digestive organs and abdominal cavity
+(R86) Abnormal findings in specimens from male genital organs
+(R87) Abnormal findings in specimens from female genital organs
+(R89) Abnormal findings in specimens from other organs, systems and tissues
+(R90) Abnormal findings on diagnostic imaging of central nervous system
+(R90.0) Intracranial space-occupying lesion
+(R90.8) Other abnormal findings on diagnostic imaging of central nervous system
+(R91) Abnormal findings on diagnostic imaging of lung
+(R92) Abnormal findings on diagnostic imaging of breast
+(R93) Abnormal findings on diagnostic imaging of other body structures
+(R93.0) Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified
+(R93.1) Abnormal findings on diagnostic imaging of heart and coronary circulation
+(R93.2) Abnormal findings on diagnostic imaging of liver and biliary tract
+(R93.3) Abnormal findings on diagnostic imaging of other parts of digestive tract
+(R93.4) Abnormal findings on diagnostic imaging of urinary organs
+(R93.5) Abnormal findings on diagnostic imaging of other abdominal regions, including retroperitoneum
+(R93.6) Abnormal findings on diagnostic imaging of limbs
+(R93.7) Abnormal findings on diagnostic imaging of other parts of musculoskeletal system
+(R93.8) Abnormal findings on diagnostic imaging of other specified body structures
+(R94) Abnormal results of function studies
+(R94.0) Abnormal results of function studies of central nervous system
+Abnormal electroencephalogram
+(R94.1) Abnormal results of function studies of peripheral nervous system and special senses
+(R94.2) Abnormal results of pulmonary function studies
+Reduced vital capacity
+(R94.3) Abnormal results of cardiovascular function studies
+Abnormal electrocardiogram
+(R94.4) Abnormal results of kidney function studies
+Abnormal renal function test
+(R94.5) Abnormal results of liver function studies
+(R94.6) Abnormal results of thyroid function studies
+(R94.7) Abnormal results of other endocrine function studies
+(R94.8) Abnormal results of function studies of other organs and systems
+Abnormal basal metabolic rate (BMR)
+(R95) Sudden infant death syndrome
+(R96) Other sudden death, cause unknown
+(R96.0) Instantaneous death
+(R96.1) Death occurring less than 24 hours from onset of symptoms, not otherwise explained
+(R98) Unattended death
+(R99) Other ill-defined and unspecified causes of mortality
+Amaurosis fugax
+Asymptomatic
+At risk mental state
+Basic symptoms of schizophrenia
+Behavior change (individual)
+Bronchorrhea
+Burning mouth syndrome
+Cardinal sign (pathology)
+Cholestasis facies
+Chronic subjective dizziness
+Collapse (medical)
+Drooling
+Exacerbation
+Exercise intolerance
+Exercise-induced nausea
+Periorbital dark circles
+Fatigue
+FLACC scale
+The great imitator
+Haemolacria
+Hematemesis
+Hematospermia
+Influenza-like illness
+Jarisch–Herxheimer reaction
+Jaw claudication
+Lethargy
+List of causes of genital pain
+List of medical symptoms
+Lymphocytic pleocytosis
+Macropsia
+Medically unexplained physical symptoms
+Mucopurulent discharge
+Pathognomonic
+Phenotype (clinical medicine)
+Phrenitis
+Postdrome
+Prayer bump
+Premorbidity
+Presenting problem
+Prodrome
+Relationship obsessive–compulsive disorder
+Rheum
+Self-disorder
+Sickness behavior
+Skin discoloration
+Sniffle
+Subclinical infection
+Tinnitus
+Torticollis
+Tullio phenomenon
+Abnormal basal metabolic rate
+Alcohol intolerance
+Asynergy
+Atony
+Calcinosis
+Calculus (medicine)
+Dysbiosis
+Dyssynergia
+Esthiomene
+Fibrosis
+Fistula
+Lipoatrophy
+Malaise
+Monoplegia
+Paresis
+Post-exertional malaise
+Proarrhythmia
+Protein toxicity
+Ureterovaginal fistula

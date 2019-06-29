@@ -1,0 +1,265 @@
+51312848-Regulat.Abies nigra ¯ 
+31497226-Regulat.Abrotanum ¯ 
+86691017-Regulat.Acalypha indica ¯ 
+91231537-Regulat.Acidum benzoicum ¯ 
+91014146-Regulat.Acidum fluoricum ¯ 
+96724138-Regulat.Acidum hydrochloricum ¯ 
+96772316-Regulat.Acidum hydrocyanicum ¯ 
+9371068-Regulat.Acidum nitricum ¯ 
+91112284-Regulat.Acidum phosphoricum ¯ 
+9123690-Regulat.Acidum picrinicum ¯ 
+9835149-Regulat.Acidum sulphicum ¯ 
+76225153-Regulat.Aconitum napellus ¯ 
+5877128-Regulat.Aesculus hippocastanum ¯ 
+51024321-Regulat.Agaricus muscarius ¯ 
+34411145-Regulat.Agnus castus ¯ 
+11173157-Regulat.Ailanthus glandulosa ¯ 
+11531288-Regulat.Aletris farinosa ¯ 
+38410145-Regulat.Allium sativum ¯ 
+1111779-Regulat.Aloe ¯ 
+11277497-Regulat.Alumina ¯ 
+1199607-Regulat.Ambra ¯ 
+61457137-Regulat.Ammonium bromate ¯ 
+61913968-Regulat.Ammonium carbonicum ¯ 
+3651166-Regulat.Anacardium oriental ¯ 
+38165817-Regulat.Antimonium arsenicosum ¯ 
+38813830-Regulat.Antimonium crudum ¯ 
+12128479-Regulat.Antimonium sulfuratum aurantiacum ¯ 
+81138940-Regulat.Apis mellifica ¯ 
+1918129-Regulat.Apocynum cannabinum ¯ 
+67131010-Regulat.Apomorphinum hydrochloric ¯ 
+12111212-Regulat.Aralia racemosa ¯ 
+5478179-Regulat.Aranea diadema ¯ 
+1618147-Regulat.Argentum metallicum ¯ 
+16874129-Regulat.Argentum nitricum ¯ 
+51081814-Regulat.Arnica montana ¯ 
+66128319-Regulat.Arsenicum album ¯ 
+6981168-Regulat.Arsenicum iodatum ¯ 
+13911219-Regulat.Artemisia Cina ¯ 
+16114200-Regulat.Arum triphyllum ¯ 
+8261212-Regulat.Asa foetida ¯ 
+3314661-Regulat.Asarum ¯ 
+15663967-Regulat.Asclepias tuberosa ¯ 
+47143361-Regulat.Atropinum ¯ 
+1471110-Regulat.Aurum cloratum natronatum ¯ 
+71517310-Regulat.Aurum colloidal ¯ 
+7227192-Regulat.Aurum iodatum ¯ 
+19712148-Regulat.Baptisia ¯ 
+10224546-Regulat.Baryum carbonicum ¯ 
+10910100-Regulat.Baryum chloratum ¯ 
+1026157-Regulat.Baryum iodatum ¯ 
+2187115-Regulat.Belladonna ¯ 
+1127777-Regulat.Bellis perennis ¯ 
+15161289-Regulat.Berberis ¯ 
+71771091-Regulat.Bismuthum subnitrate ¯ 
+51413199-Regulat.Borax ¯ 
+1060211-Regulat.Bovista ¯ 
+51512662-Regulat.Bromum ¯ 
+11124107-Regulat.Bryonia ¯ 
+1811139-Regulat.Bufo rana ¯ 
+7151095-Regulat.Cactus grandiflorus ¯ 
+7721121-Regulat.Caladium seguinum ¯ 
+7212910-Regulat.Calcium arsenicosum ¯ 
+7227215-Regulat.Calcium carbonicum ¯ 
+71310127-Regulat.Calcium fluoratum ¯ 
+7210167-Regulat.Calcium iodatum ¯ 
+76813138-Regulat.Calcium phosphoricum ¯ 
+7117779-Regulat.Calcium sulphuricum ¯ 
+51391010-Regulat.Calendula officinalis ¯ 
+3341267-Regulat.Camphora ¯ 
+3133788-Regulat.Cantharis ¯ 
+31331062-Regulat.Capsicum ¯ 
+12101657-Regulat.Carbo animalis ¯ 
+12119114-Regulat.Carbo Vegetable ¯ 
+8231524-Regulat.Carduus marianus ¯ 
+35814116-Regulat.Caulophyllum ¯ 
+91510527-Regulat.Causticum Hahnemanni ¯ 
+1495148-Regulat.Ceanothus americanus ¯ 
+57101110-Regulat.Cedron ¯ 
+11366910-Regulat.Cepa ¯ 
+16151614-Regulat.Chamomilla ¯ 
+91714148-Regulat.Chelidonium majus ¯ 
+10204116-Regulat.Chimaphilia umbellata ¯ 
+19613171-Regulat.China ¯ 
+86122214-Regulat.Chininum arsenicosum ¯ 
+8611513-Regulat.Chininum sulphuricum ¯ 
+7171414-Regulat.Chionanthus virginica ¯ 
+16516677-Regulat.Cholesterol ¯ 
+9391311-Regulat.Cicuta virosa ¯ 
+71113170-Regulat.Cimicifuga racemosa ¯ 
+5957103-Regulat.Cinnbaris ¯ 
+71541263-Regulat.Clematis recta ¯ 
+6871362-Regulat.Cobaltum metallicum ¯ 
+11331510-Regulat.Cocculus ¯ 
+5313732-Regulat.Coccus cacti ¯ 
+3521412-Regulat.Coffea cruda ¯ 
+11315358-Regulat.Colchicum autumnale ¯ 
+12214146-Regulat.Collinsonia canadensis ¯ 
+11142205-Regulat.Colocynthis ¯ 
+3113107-Regulat.Condurango ¯ 
+8139100-Regulat.Conium maculatum ¯ 
+65747818-Regulat.Convallaria majalis ¯ 
+31711882-Regulat.Corallium rubrum ¯ 
+34879155-Regulat.Crocus sativus ¯ 
+11101517-Regulat.Crotalus durissus ¯ 
+11175892-Regulat.Croton tiglium ¯ 
+91491047-Regulat.Cuprum aceticum ¯ 
+91386171-Regulat.Cuprum arsenicosum ¯ 
+96191066-Regulat.Cuprum metallicum ¯ 
+92111486-Regulat.Cyclamen ¯ 
+18531016-Regulat.Cypripedium pubescens ¯ 
+1211712-Regulat.Digitalis ¯ 
+71014311-Regulat.Dioscorea villosa ¯ 
+79879539-Regulat.Dolichos pruriens ¯ 
+11131222-Regulat.Drosera rotundifolia ¯ 
+14331108-Regulat.Dulcamara ¯ 
+8134563-Regulat.Echinacea angustifolia ¯ 
+11617711-Regulat.Equisetum arvense ¯ 
+81769153-Regulat.Erigeron canadensis ¯ 
+16961183-Regulat.Eucalyptus ¯ 
+6107516-Regulat.Eupatorium perfoliatum ¯ 
+61085742-Regulat.Eupatorium purpureum ¯ 
+4016173-Regulat.Euphorbium ¯ 
+12189810-Regulat.Euphrasia ¯ 
+22717690-Regulat.Fagopyrum esculentum ¯ 
+14128129-Regulat.Ferrum arsenicosum ¯ 
+14781648-Regulat.Ferrum metallicum ¯ 
+1417876-Regulat.Ferrum phosphoricum ¯ 
+14134122-Regulat.Ferrum picrinicum ¯ 
+7161441-Regulat.Formica rufa ¯ 
+18133122-Regulat.Gelsemium ¯ 
+1221695-Regulat.Ginseng ¯ 
+87493362-Regulat.Glonoinum ¯ 
+1376145-Regulat.Gnaphalium polycephalum ¯ 
+81037811-Regulat.Graphites ¯ 
+11811111-Regulat.Grindelia robusta ¯ 
+10131412-Regulat.Guajacum ¯ 
+12145171-Regulat.Hamamelis virginiana ¯ 
+12593151-Regulat.Hekla lava ¯ 
+9124014-Regulat.Helleborus niger ¯ 
+14961637-Regulat.Helonias dioica ¯ 
+1651159-Regulat.Hepar sulfuris calcareum ¯ 
+8146811-Regulat.Hydrastis canadensis ¯ 
+1314849-Regulat.Hydrocotyle asiatica ¯ 
+16151091-Regulat.Hyoscyamus ¯ 
+10158111-Regulat.Hypericum perforatum ¯ 
+14258318-Regulat.Iberis amara ¯ 
+12014108-Regulat.Ignatia ¯ 
+5210730-Regulat.Ipecacuanha ¯ 
+66101714-Regulat.Iris versicolor ¯ 
+16721095-Regulat.Jaborandi ¯ 
+81888866-Regulat.Iodine ¯ 
+12351390-Regulat.Potassium bichromicum ¯ 
+47108898-Regulat.Potassium bromate ¯ 
+12725316-Regulat.Potassium carbonicum ¯ 
+12791238-Regulat.Potassium chloratum ¯ 
+1211416-Regulat.Potassium iodatum ¯ 
+1269215-Regulat.Potassium nitricum ¯ 
+12116180-Regulat.Potassium phosphoricum ¯ 
+12551215-Regulat.Potassium sulphuricum ¯ 
+51161579-Regulat.Kalmia latifolia ¯ 
+1115762-Regulat.Creosote ¯ 
+15728916-Regulat.Lachesis ¯ 
+81116827-Regulat.Latrodectus mactans ¯ 
+11896912-Regulat.Laurocerasus ¯ 
+15351586-Regulat.Ledum palustre ¯ 
+17961294-Regulat.Lilium tigrinum ¯ 
+7605148-Regulat.Lobelia inflata ¯ 
+8225264-Regulat.Lupulus ¯ 
+1551469-Regulat.Lycopodium ¯ 
+11727748-Regulat.Lycopus virginicus ¯ 
+24106524-Regulat.Magnesium carbonicum ¯ 
+24189573-Regulat.Magnesium chloratum ¯ 
+24911216-Regulat.Magnesium phosphoricum ¯ 
+24414103-Regulat.Magnesium sulphuricum ¯ 
+13191648-Regulat.Manganum metallicum ¯ 
+15556149-Regulat.Mephistis mephistis ¯ 
+12163715-Regulat.Mercurius cyanatus ¯ 
+12181252-Regulat.Mercurius dulcis ¯ 
+4413653-Regulat.Mercurius jodatus ruber ¯ 
+4104636-Regulat.Mercurius sublimatus corrosive ¯ 
+1216985-Regulat.Mercurius sulfuricus ¯ 
+22891742-Regulat.Mercurius vivus ¯ 
+11197962-Regulat.Mezereum ¯ 
+1692102-Regulat.Millefolium ¯ 
+1012659-Regulat.Myrica cerifera ¯ 
+43181297-Regulat.Myristica sebifera ¯ 
+22610969-Regulat.Well tripudians ¯ 
+24720322-Regulat.Naphthalene ¯ 
+1597872-Regulat.Sodium carbonicum ¯ 
+15152279-Regulat.Sodium muriaticum ¯ 
+15193616-Regulat.Sodium phosphoricum ¯ 
+15821791-Regulat.Sodium sulfuricum ¯ 
+78895100-Regulat.Nux moschata ¯ 
+7813587-Regulat.Nux vomica ¯ 
+5105134-Regulat.Oenanthe crocata ¯ 
+7299596-Regulat.Oleander ¯ 
+49825533-Regulat.Paeonia officinalis ¯ 
+48218751-Regulat.Pareira brava ¯ 
+51142229-Regulat.Petroleum ¯ 
+51113139-Regulat.Petroselinum ¯ 
+13165148-Regulat.Phelandrium aquaticum ¯ 
+37107214-Regulat.Phosphorus ¯ 
+5010129-Regulat.Phytolacca decandra ¯ 
+31021813-Regulat.Plantago major ¯ 
+31813952-Regulat.Platinum metallicum ¯ 
+11160109-Regulat.Plumbum metallicum ¯ 
+11131020-Regulat.Podophyllum peltatum ¯ 
+13714284-Regulat.Populus tremuloides ¯ 
+1110613-Regulat.Psorinum ¯ 
+10161028-Regulat.Pulsatilla ¯ 
+57144226-Regulat.Pyrogenium ¯ 
+7127983-Regulat.Ranunculus bulbosus ¯ 
+10768866-Regulat.Rheum ¯ 
+15016611-Regulat.Rhododendron ¯ 
+8154512-Regulat.Rhus toxicodendron ¯ 
+14135750-Regulat.Robinia pseudoacacia ¯ 
+93781011-Regulat.Rumex crispus ¯ 
+31209810-Regulat.Ruta graveolens ¯ 
+78819710-Regulat.Sabadilla ¯ 
+24466167-Regulat.Sabal serrulatum ¯ 
+1426338-Regulat.Sabina ¯ 
+13961117-Regulat.Sambucus nigra ¯ 
+55131110-Regulat.Sanguinaria canadensis ¯ 
+71183111-Regulat.Sarsaparilla ¯ 
+10101416-Regulat.Scilla maritima ¯ 
+18351012-Regulat.Secale cornutum ¯ 
+1499122-Regulat.Selenium ¯ 
+81171578-Regulat.Senecio aureus ¯ 
+10212181-Regulat.Senega ¯ 
+6134473-Regulat.Sepia officinalis ¯ 
+14211377-Regulat.Silicea ¯ 
+12209160-Regulat.Solidago virga aurea ¯ 
+1073210-Regulat.Spigelia ¯ 
+32812124-Regulat.Spongia tosta ¯ 
+1219147-Regulat.Stannum metallicum ¯ 
+15212130-Regulat.Staphysagria ¯ 
+51611312-Regulat.Sticta pulmonaria ¯ 
+6108939-Regulat.Stramonium ¯ 
+14141269-Regulat.Strontium carbonicum ¯ 
+1686415-Regulat.Strophanthus gratus ¯ 
+50716180-Regulat.Strychninum phosphoricum ¯ 
+9571162-Regulat.Sulfur iodatum ¯ 
+12213162-Regulat.Sulfur ¯ 
+17151879-Regulat.Symphytum officinale ¯ 
+41881620-Regulat.Tabacum ¯ 
+3310160-Regulat.Tarantula fasciiventris ¯ 
+1393719-Regulat.Taraxacum officinale ¯ 
+31089415-Regulat.Terebinthina ¯ 
+71414124-Regulat.Teucrium scorodonia ¯ 
+5129437-Regulat.Thallium sulphuricum ¯ 
+11111026-Regulat.Thuja occidentalis ¯ 
+21409911-Regulat.Trillium pendulum ¯ 
+11123138-Regulat.Tuberculinum ¯ 
+85415864-Regulat.Urtica urens ¯ 
+66512128-Regulat.Ustilago maydi ¯ 
+13231015-Regulat.Valeriana ¯ 
+3431240-Regulat.Veratrum album ¯ 
+3431469-Regulat.Veratrum viride ¯ 
+38104506-Regulat.Verbascum thapsiforme ¯ 
+9610812-Regulat.Viburnum opulus ¯ 
+15161543-Regulat.Viola tricolor ¯ 
+43201121-Regulat.Vipera berus ¯ 
+88151461-Regulat.Viscum album ¯ 
+4271362-Regulat.Zincum metallicum ¯ 
+4691548-Regulat.Zincum valerianicum ¯ 

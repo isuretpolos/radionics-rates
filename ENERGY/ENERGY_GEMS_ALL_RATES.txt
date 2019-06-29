@@ -1,0 +1,209 @@
+Opaque Gems ÊAmazonite Ê6986
+Opaque Gems ÊHematite Ê8881
+Opaque Gems ÊJade Ê13303
+Opaque Gems ÊJet Ê9115
+Opaque Gems ÊLapis Lazuli Ê6759
+Opaque Gems ÊMalachite Ê6276
+Opaque Gems ÊMoonstone Ê7684
+Opaque Gems ÊObsidian Ê4681
+Opaque Gems ÊRhodochrosite Ê4415
+Opaque Gems ÊRhodonite Ê9193
+Opaque Gems ÊTurquoise Ê8984
+Quartz Gems ÊAgate Ê6224
+Quartz Gems ÊAmethyst Ê9773
+Quartz Gems ÊBlack Opal Ê6191
+Quartz Gems ÊBloodstone Ê7162
+Quartz Gems ÊCarnelian Ê9917
+Quartz Gems ÊChrysoprase Ê5861
+Quartz Gems ÊCitrine Ê6352
+Quartz Gems ÊFire Opal Ê2154
+Quartz Gems ÊJasper Ê6817
+Quartz Gems ÊOnyx Ê3893
+Quartz Gems ÊPrecious Opal Ê5654
+Quartz Gems ÊRock Crystal Ê9449
+Quartz Gems ÊRose Quartz Ê5148
+Quartz Gems ÊSard Ê6588
+Quartz Gems ÊSmoky Quartz Ê7288
+Quartz Gems ÊWhite Chalcedony Ê4428
+Transparent Gems Alexandrite Ê6213
+Transparent Gems Almandite Ê3981
+Transparent Gems Aquamarine Ê4242
+Transparent Gems Chrysoberyl Ê3519
+Transparent Gems Demantoid Ê4349
+Transparent Gems Diamond Ê3144
+Transparent Gems Emerald Ê5364
+Transparent Gems Golden Beryl Ê71282
+Transparent Gems Hiddenite Ê3662
+Transparent Gems Kunzite Ê3861
+Transparent Gems Peridot Ê41873
+Transparent Gems Pyrope Ê4496
+Transparent Gems Ruby Ê5382
+Transparent Gems Sapphire Ê5547
+Transparent Gems Spinel Ê6395
+Transparent Gems Topaz Ê5482
+Transparent Gems Tourmaline Ê3291
+Transparent Gems Zircon Ê15768
+Agate (brown) (healingstone) 21238885
+Agate (bunt) (healingstone) 5381011
+Agate (yellow) (healingstone) 21237911
+Agate (White) (healingstone) 5381119
+Algae agate (healingstone) 2114598
+Amazonit (healingstone) 12111136
+Amethyst (healingstone) 21781276
+Amethyst goethite (healingstone) 25111527
+Amethystquarz (healingstone) 1011228
+Ametrin (healingstone) 21781823
+Andalusite (healingstone) 37117717
+Apatite (healingstone) 22262926
+Apophyllit (healingstone) 12129208
+Aquamarin (healingstone) 18299923
+Aquamarin (healingstone) 6531714
+Aragonite (brown) (healingstone) 11338885
+Aragonite (green) (healingstone) 11337118
+Aragonite (red) (healingstone) 11331396
+Aventurine (Blue) (healingstone) 12121438
+Aventurine (green) (healingstone) 12121465
+Azurit (healingstone) 3169926
+Tree agate (healingstone) 3810598
+Rock crystal (healingstone) 9760118
+Bernstein (healingstone) 98101114
+Beryl (dark green) (healingstone) 91382845
+Beryll (healingstone) 4144909
+Biotit (healingstone) 41610926
+Blauquarz (healingstone) 21088117
+Galena (healingstone) 1130313
+Boji Stone (male) (healingstone) 12537878
+Boji Stone (female) (healingstone) 8391213
+Boji stone pair (healingstone) 12534317
+Bornite (healingstone) 6159175
+Bustanit (healingstone) 51095136
+Calcit (healingstone) 69142926
+Chalco Pyrite (healingstone) 15258136
+Chalcedony (healingstone) 15117511
+Charoid (healingstone) 59862922
+Chiastolith (healingstone) 15572088
+Chrysoberyll (healingstone) 1120918
+Chrysokoll (healingstone) 11799159
+Chrysolith (healingstone) 11171178
+Chrysopras (healingstone) 51579285
+Citrin (fired) (healingstone) 15142018
+Citrin (natural) (healingstone) 15146887
+Celestite (healingstone) 12321014
+Diamant (healingstone) 61010526
+Dioptas (healingstone) 6164732
+Dolomite (healingstone) 51581926
+Calcite (healingstone) 58416628
+Dumortierit (healingstone) 1213586
+increase natural vibration of healingstone 10191284
+Eosit (healingstone) 10112926
+Hawk Eye (Blue) (healingstone) 18311145
+Falkenauge (rot) (healingstone) 18319148
+Feueropal (healingstone) 91591439
+Fluorit (healingstone) 71771826
+Gagat (healingstone) 20011026
+Mica (healingstone) 12010177
+Garnet (healingstone) 18231026
+Grossularite (healingstone) 69107136
+Green quartz (healingstone) 11458117
+Hematite (healingstone) 11163178
+Heliotrop (Blutjaspis) (healingstone) 1251895
+Herkimer Diamond (healingstone) 25183142
+Hiddenit (healingstone) 23612136
+Howlit (natural) (magnetite) (healingstone) 18228416
+Iolit (healingstone) 12152926
+Jade (green) (healingstone) 34984323
+Jadeit (healingstone) 34272926
+Jasper (gelb) (healingstone) 12143162
+Jasper (rot) (healingstone) 35414814
+Karneol (healingstone) 97771609
+Cat Eye tourmaline (healingstone) 1451535
+Coral (pink) (healingstone) 13101460
+Coral (red) (healingstone) 13109148
+Korallenachat (healingstone) 13106598
+Kunzit (healingstone) 11101217
+Kyanit (healingstone) 1127926
+Labradorit (healingstone) 3847188
+Lapislazuli (healingstone) 3656119
+Larimar (healingstone) 10712907
+Lavender Jade (healingstone) 23171311
+Lavender quartz (healingstone) 23259710
+Lepidolith (healingstone) 1113378
+Magnesite (healingstone) 2712136
+Magnetite (healingstone) 2715136
+Mahogany obsidian (healingstone) 91612106
+Malachit (healingstone) 10212136
+Manganocalcit (healingstone) 6156158
+Milk quartz (healingstone) 38589710
+Moldavit (healingstone) 25511136
+Mondstein (healingstone) 2901114
+Mookait (healingstone) 10139118
+Moosachat (healingstone) 10136598
+Moosopal (healingstone) 10136819
+Morganite (healingstone) 2325136
+Muscovit (healingstone) 40617136
+Nephrit (healingstone) 79872926
+Nickel gravel (healingstone) 1227185
+Obsidian (healingstone) 86131333
+Olivin (healingstone) 72013923
+Onyx (black) (healingstone) 17579298
+Oolit (healingstone) 86092926
+Opal (rosa) (healingstone) 8291460
+Opal (White) (healingstone) 11010174
+Verd antique (healingstone) 1880158
+Pearl (healingstone) 47070927
+Phantomquarz (healingstone) 18138117
+Pietersit (healingstone) 1324717
+Prasem (healingstone) 28322718
+Prehnit (healingstone) 21610148
+Pyrite (healingstone) 51072926
+Pyrite sun (healingstone) 14311989
+Pyrope (deep red and translucent garnet) (healingstone) 17913214
+Rauchquarz (healingstone) 88589728
+Rainbow Jasper (healingstone) 18137925
+Rainbow Obsidian (healingstone) 10371665
+Rhodochrosit (healingstone) 13713717
+Rhodonit (healingstone) 13511136
+Rosenquarz (healingstone) 1059710
+Rubin (healingstone) 1072923
+Rutilquarz (healingstone) 2599710
+Ryolith (healingstone) 10811178
+Sapphire (healingstone) 62082907
+Sarder (healingstone) 67222707
+Sardonyx (healingstone) 67511124
+Snowflake Obsidian (healingstone) 14632157
+Schšrl (black tourmaline) (healingstone) 1411137
+Selenit (Marie Glass) (healingstone) 71611148
+Serpentine (yellow jade) (healingstone) 12728195
+Silver eye (serpentine asbestos) (healingstone) 1661571
+Emerald (healingstone) 69800122
+Smaragdit (Aktinolith) (healingstone) 13109298
+Sodalite (healingstone) 61012088
+Spektrolith (healingstone) 72372088
+Spinell (healingstone) 61271609
+Sugilith (healingstone) 86112088
+Tektit (healingstone) 10151017
+Thulit (healingstone) 81611926
+Tiger's Eye (brown) (healingstone) 21791103
+Tiger iron (healingstone) 21011115
+Topaz (blue) (healingstone) 9844108
+Topas (colorless) (healingstone) 21191011
+Topaz (yellow) (healingstone) 98439911
+Tourmaline (green) (healingstone) 3705893
+Turquoise (healingstone) 12101014
+Tourmaline (bunt) (healingstone) 3313611
+Tourmaline (Yellow) (healingstone) 33134911
+Tourmaline (red/pink) (healingstone) 33131053
+Turmalinquarz (healingstone) 33131910
+Ulexite (healingstone) 81814926
+Unakit (healingstone) 10410926
+Uwarowit (healingstone) 92882926
+Fossilized coral (healingstone) 81215518
+Petrified wood (healingstone) 89121179
+Vesuvian (Iolith/Cordierit) (healingstone) 13321210
+Watermelon tourmaline (healingstone) 1211486
+Zeolite (healingstone) 4411178
+Zinnober (healingstone) 12146897
+Zircon (brown) (healingstone) 41611103
+Zirconium (healingstone) 12169623
+Zoisit (healingstone) 11177926
+Zoisit with Rubin (healingstone) 31599833

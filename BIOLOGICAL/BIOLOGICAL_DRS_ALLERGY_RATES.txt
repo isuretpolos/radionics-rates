@@ -1,0 +1,236 @@
+Allergy to bacterial influences -11591212
+Allergy due to DNA/DNA altering influences -8355414
+Allergy due to enzyme deficiency -1433920
+Allergy due to enzyme deficiency -7136823
+Allergy to genetically modified foods -11121195
+Allergy to genetically modified foods -7231313
+Allergy to geopathic stress (Stress V) -1512391
+Allergy due to climate and weather (stress I) -71314545
+Allergy due to climate and weather (stress I) -1514812
+Allergy through food chemistry -11141617
+Allergy to magnetic fields and electrosmog (Stress III) -81331115
+Allergy to magnetic fields and electrosmog (Stress III) -1181831
+Allergy due to lack of regeneration (Stress II) -11166152
+Allergy to organ dysfunction (s) -81041410
+Allergy to organ dysfunction (s) -71351115
+Allergy to fungal infections -7134886
+Allergy through products chemical industry -11624254
+Allergy to psychosocial stress (Stress IV) -71349144
+Allergy due to radioactivity or gamma rays -81754200
+Allergy due to radioactivity or gamma rays -11171218
+Allergy by cleanliness mania -71381515
+Allergy to heavy metals -7131064
+Allergy to stress (general) -71313125
+Allergy to viral influences -71392109
+Allergy to viroids -76163579
+Allergy due to vitamin/mineral deficit -11189101
+Allergy to residential poisons -7136126
+Allergy to this genetically modified food (filter) -81051914
+Allergy genetically conditioned -14415143
+allergies -9461417
+allergies -31515785
+Allergies to chemicals -14578619
+Allergies to chemicals -22142010
+Allergies to food (food allergy) -72445133
+"Allergy type ""X"" (previously unknown, but existing, 5th type) -15161015"
+Allergy Type I (immediate reaction type) -77372155
+Allergy Type II (Cytotoxic Immune Response) -16311296
+Allergy type III (immune complex reaction) -22121353
+Allergy type IV (cellular late reaction) -77156453
+Allergy (filter) -12317122
+Anaphylactoid conditions (allergy) -83101721
+Autoaggressive diseases (autoimmune diseases) -5159215
+Autoaggressive diseases (autoimmune diseases) -21378172
+Autoaggressive diseases (autoimmune diseases) -92119678
+Chromosome 18 -21456518
+Chromosome 18, repair of -37114183
+Chromosome 19 -21456519
+Chromosome 19, repair of -37501720
+Memory Cells -51291677
+Major allergen (filter) -91672107
+hay fever -1083312
+Histamine Intolerance -6122715
+"Immunoglobulin ""X"" (previously unknown, 6th IG group) -12198395"
+Immunoglobulin A -12198373
+Immunoglobulin A -8210167
+Immunoglobulin D -12198392
+Immunoglobulin E -14675023
+Immunoglobulin E -12198387
+Immunoglobulin G -12198372
+Immunoglobulin G -8210118
+Immunoglobulin M -12198371
+Immunvasculitis (allergic inflammation of small veins and arteries) -14476611
+Immunvasculitis (allergic inflammation of small veins and arteries) -30910514
+Immunvasculitis, atyp. (allergic inflammation, small veins and arteries) -10108152
+Cross allergy (also filters) -91353146
+Cross allergy (also filters) -92191669
+Pseudo-allergy (also filters) -77151695
+Pseudo-allergy (also filters) -11711456
+Rheumatism, allergic -11611884
+Rheumatism, allergic -7145216
+T-helper cells -15101277
+Normalize T helper cell construction -71131514
+T-suppressor cells -23971122
+T cells, cytotoxic -14227718
+01. Beef (LM section 1) -85141310
+02. Milk (general) (LM-Section 2) -9931057
+03. Butter (LM Section 3) -1611100
+04. Citrus fruits untreated (LM-Section 4) -49141215
+05. strawberry (LM-Section 5) -1349998
+06. Walnut/walnuts (LM section 6) -941598
+07. Sugar (white and brown) (LM Section 7) -10467177
+08. Chocolate (LM Section 8) -5293510
+09. Wheat (LM Section 9) -1210487
+10. Rye (LM Section 10) -12441707
+11. Paprika (LM section 11) -17386403
+12. Saltpetre (E 251-252) (LM Section 12) -13147177
+13. Pollen (LM section 13) -1951787
+14. Pork (LM Section 1) -7102109
+15. Chicken egg white (chicken protein) (LM section 2) -10109177
+16. Quark (LM Section 3) -1145514
+17th pear (LM section 4) -1147717
+18. Currant (LM Section 5) -4810129
+19. Peanut/Peanuts (LM Section 6) -1174998
+20. Dextrose (LM section 7) -10176469
+21. Beans (LM Section 8) -2851687
+22. Wheat Bran (LM Section 9) -81240128
+23. Baker's yeast/sourdough (LM section 10) -38118225
+24. Pepper (LM Section 11) -2103939
+25. red wine/white wine (LM section 12) -14954457
+26. Insects/lower animals (LM section 13) -72024188
+27. Lard (sausage) (LM Section 1) -11342094
+28. Chicken Yolk (LM Section 2) -1112967
+29. Trout (LM Section 3) -4681016
+30. Kiwi (LM Section 4) -35231223
+31. Banana (LM Section 5) -3831087
+32. Thistle oil (LM section 6) -16109119
+33. Milk sugar (LM section 7) -13970122
+34. Cauliflower (LM Section 8) -52312518
+35. Barley (LM Section 9) -3710677
+36. Juniper (LM Section 10) -1515400
+37. Aromas (nature identical/synthetic) (LM Section 11) -1794149
+38. Beer (LM Section 12) -3156720
+39. Detergents/Personal Care (LM Section 13) -2210917
+40. mutton/lamb meat (LM section 1) -10116144
+41. Cheese (mixed) (LM Section 2) -1461655
+42nd eel (LM section 3) -42030318
+43. Grape (LM section 4) -11183614
+44. Sweet cherry (LM section 5) -51214017
+45. Margarine (LM Section 6) -46525587
+46. Sweetener (cyclamate/saccharin) (LM section 7) -11149435
+47. Mushrooms (LM Section 8) -81011698
+48. Oats (LM Section 9) -4184920
+49. onion (LM section 10) -5511816
+50. Dyes (artificial) (LM Section 11) -51317109
+51. Tobacco smoke (LM section 12) -16973519
+52. Animal hair/furs/feathers (LM section 13) -1115316
+53. Veal (LM Section 1) -1791450
+54. Yoghurt (LM-Section 2) -5841276
+55. Herring (LM Section 3) -51510572
+56. Apple (LM Section 4) -59711718
+57. Nuts (mixed) (LM Section 5) -1079136
+58. Olive oil (LM section 6) -81168109
+59. Fructose (LM Section 7) -77810100
+60th tomato (LM section 8) -66441517
+61. Spelled (LM Section 9) -6551298
+62. Wort (LM Section 10) -65601017
+63. PHB esters (E 214-219) (LM Section 11) -13111316
+64. Coffee (LM Section 12) -69431717
+65. Wood preservatives/pesticides (LM Section 13) -57106191
+66. Chicken meat (LM section 1) -13123299
+67. Gelatin (LM Section 2) -24118108
+68. Fish Pyrogen (LM Section 3) -71121287
+69. Blackberry (LM Section 4) -13151537
+70. Hazelnut/hazelnuts (LM section 5) -8891212
+71. Palm/coconut fat (LM section 6) -18232111
+72. Honey (LM Section 7) -71241202
+73. Potato (LM Section 8) -78565398
+74. Buckwheat (LM Section 9) -9157214
+75. Garlic (LM section 10) -8998109
+76. Sulfur Compounds (E 220-227) (LM Section 11) -33839139
+77. Metals/Plastics/Plastics (LM Section 12) -1549316
+78. Molds (LM Section 13) -12214119
+33.Milk sugar (LM ¥ Section 7}  -13970127
+45. Hofer (LM-Section 9p -?184920
+Acetylsalicylic acid (ASA) (food)-11151511
+Apricot flavor (food)-10105951
+Flavorings, nature identical (food)-14222117
+Flavorings, natural (food)-14951164
+Flavorings, synthetic (food)-14206613
+Chromium oxide (food)-12811813
+E 100 Curcumin (food)-77117515
+E 101 Lactoflavin (riboflavin) (food)-17152876
+E 102 Tartrazine (food)-1066176
+E 103 Choline yellow (food)-91091242
+E 110 Sunset yellow S (food)-77910778
+E 120 Genuine Carmine (Cochineal, Karmic Acid) (food)-18856177
+E 122 Azorubin (food)-1010715
+E 123 Amaranth (food)-1190810
+E 124 Cochenillerot A (food)-7108153
+E 127 Erythrosin (food)-1572116
+E 131 Patent Blue V (food)-11131139
+E 132 Indigotin I (Indigo-carmine) (food)-37144255
+E 140 Chlorophylls a + b (food)-8157123
+E 141 copper chlorophyll (food)-41515712
+E 142 Brilliant Acid Green (food)-7913244
+E 150 caramel (food)-13897611
+E 151 Brillant Black BN (food)-7913928
+E 153 Carbo medicinalis vegetabilis (food)-10651146
+E 160 a-f carotenes and carotenoids (food)-4312107
+E 161 a-g xanthophylls (food)-6310210
+E 162 Beetroot, Betanine (food)-71141585
+E 163 Anthocyanins (food)-15121865
+E 170 Calcium carbonate (food)-13915418
+E 171 titanium oxide (food)-16679154
+E 172 Iron oxides and hydroxides (food)-14387105
+E 173 aluminum (as LM-dye) (food)-83686132
+E 174 silver (as LM dye) (food)-15168163
+E 175 gold (as LM dye) (food)-1883109
+E 180 ruby __pigment BK (litholubin) (food)-13694365
+E 200-203 sorbic acid (food)-71521611
+E 210-213 Benzoic acid (food)-81314205
+E 214-219 PHB esters (food)-12488415
+E 220-227 sulfur compounds (food)-17811222
+E 230 biphenyl (diphenyl) (food)-2361633
+E 231-232 Orthophenylphenol u. Sodium salt (food)-5727814
+E 233 thiabendazole (food)-15101894
+E 236-238 Formic acid (compounds) (food)-81949168
+E 239 hexamethylenetetramine (food)-1176611
+E 250 sodium nitrite (food)-5215243
+E 251-252 Salpeter (nitrates) (food)-51201065
+E 251 Sodium Nitrate (food)-6215262
+E 260-263 Acetic acid and acetates (food)-51081157
+E 280-283 Propionic Acid (compounds) (food)-88728168
+E 310-312 Gallate (food)-94285445
+E 320 BHA (butylhydroxanisole) (food)-37361713
+E 321 BHT (butylhydroxitoluene) (food)-77361174
+E 339-341 Phosphates (food)-20102318
+E 400-405 Alginic acid (compounds) (food)-1491283
+E 406 agar-agar (food)-15110711
+E 407 carrageenan (food)-1668106
+E 412 guar gum (food)-1259118
+E 413 tragacanth (food)-1548810
+E 414 gum arabic (food)-1496394
+E 415 Xanthan (food)-17781025
+E 420 sorbitol (food)-13810114
+E 421 Mannitol (food)-56257144
+E 461 Methylcellulose (food)-12122119
+E 466 carboxymethylcellulose (food)-8952148
+E 514 Sodium sulfate (food)-8221182
+E 620-625 Glutamate (food)-13141155
+Strawberry flavor (food)-1032185
+Dyes in food (E 100-180) (food)-15912178
+Dyes, artificial (food)-15922713
+Dyes, natural (food)-15131015
+Gum arabic (food)-22203985
+Raspberry flavor (food)-1332185
+Cobalt nitrate (food)-14143105
+Sodium fluoride (food)-12561394
+Nickel sulphate (food)-9395765
+Orange flavor (food)-9961185
+Phenol (food)-8137613
+Curing substance (food)-5665126
+Procaine (food)-91631015
+Sulfadiazine (food)-18151105
+Sulfaguanidine (food)-18209136
+Lemon flavor (food)-2598111

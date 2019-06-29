@@ -1,0 +1,200 @@
+ 31814510-Aff.2-4-5-T Recovery (pesticide)
+ 1051031-Aff.Acesulfame Recovery
+ 67983394-Aff.Aclarubicin Recovery (chemotherapy)
+ 1211305-Aff.Acrylamide, Recovery (krebsbegünstigend, DNA changing?)
+ 21921021-Aff.Aflatoxin Recovery (fungal toxin krebsbegünstigend)
+ 51453102-Aff.Aldrin Recovery (pesticide)
+ 13914510-Aff.Alcohol Recovery
+ 14101441-Aff.Alkyl mercury Recovery (heavy metal)
+ 21921031-Aff.Aluminum Recovery
+ 3913147 RecoveryReg. Deficiency-Amalgam Recovery (tooth)
+ 51412101-Aff.Amalgam Recovery (tooth)
+ 83921021-Aff.Aniline Recovery (krebsbegünstigend)
+ 10103394-Aff.Antibiotic Recovery
+ 10496395-Aff.Antioxidant Recovery
+ 13123384-Aff.Flavors-rejection
+ 4633904-Aff.Arsenic Recovery
+ 9353102-Aff.Asbestos Recovery (Wohngift)
+ 9811395-Aff.Aspartame Recovery
+ 11191086-Aff.Atrazine Recovery (pesticide)
+ 1120916-Mix-Code Recovery aluminum (Council Code)
+ 61558916-Mix-Code Recovery amalgam (Council Code)
+ 10101115-Mix-Code Recovery formaldehyde (Council Code) (Wohngift)
+ 1771117-Aff.Recovery cationic softeners
+ 73382302-Mix-Code Recovery palladium (Council Code)
+ 71220711-Mix-Code Recovery environmental pollutants (Council Code) (Wohngift)
+ 90374788-Aff.Recovery, accelerated
+ 66910395-Aff.Barbiturates Recovery
+ 13283394-Aff.Bendamustine Recovery (chemotherapy)
+ 74921021-Aff.Gasoline Recovery (Wohngift) (sh. And benzene)
+ 11021021-Aff.Benzene Recovery (Wohngift) (sh. And gasoline)
+ 8391086-Aff.Benzopyrene Recovery (krebsbegünstigend)
+ 3114510-Aff.Lead Recovery (heavy metal)
+ 3453102-Aff.Bleomycin Recovery (chemotherapy)
+ 61583384-Aff.Busulfan Recovery (chemotherapy)
+ 9115395-Aff.Butane Recovery (Wohngift)
+ 11914510-Aff.Cadmium Recovery / cadmium Recovery (heavy metal)
+ 13131086-Aff.Cesium Recovery
+ 16514917-Aff.Carbendazim Recovery (Wohngift)
+ 16126395-Aff.Carboplatin Recovery (chemotherapy)
+ 82921021-Aff.Carmustine Recovery (chemotherapy)
+ 51361031-Aff.Chlorambucil Recovery (chemotherapy)
+ 13163384-Aff.Chloro Recovery
+ 3148021-Aff.Chromium (6-valent) outtake-
+ 11183384-Aff.Chrome Recovery
+ 62921021-Aff.Cisplatin Recovery (chemotherapy)
+ 16453102-Aff.CFC-Mix Recovery (pesticide)
+ 31421144-Aff.Cortisone / corticosteroid Recovery
+ 15129395-Aff.Cyclamate Recovery
+ 7121141-Aff.Cyclophosphamide Recovery (chemotherapy)
+ 14991086-Aff.Cyfluthrin Recovery (pyrethrum derivative, pyrethroids) (insecticide)
+ 10141021-Aff.Cytarabine Recovery (chemotherapy)
+ 73253102-Aff.Dactinomycin Recovery (chemotherapy)
+ 11412031-Aff.Daunorubicin Recovery (chemotherapy)
+ 75310101-Aff.DDT Recovery (pesticide)
+ 31111510-Aff.Dichlorvos Recovery (pesticide)
+ 7183394-Aff.Dieldrin Recovery (pesticide)
+ 17431021-Aff.Di-isocyanates Recovery (DHI) (Wohngift)
+ 9221542-Aff.Dimethylnitrosamine Recovery (krebsbegünstigend)
+ 10921021-Aff.Dioxin Recovery
+ 63983394-Aff.Doxorubicin Recovery (chemotherapy)
+ 1893394-Aff.Fertilizer Recovery
+ 36639104-Aff.Iron excretion-
+ 11178684-Aff.Electric currents Recovery
+ 10103394-Aff.Emulsifier Recovery
+ 14114510-Aff.Endosulfan Recovery (pesticide)
+ 6362101-Aff.Epirubicin Recovery (chemotherapy)
+ 3121031-Aff.Natural Gas Recovery (Wohngift)
+ 41133904-Aff.Eulan Recovery (pesticide)
+ 42914510-Aff.Dyes Recovery
+ 11161086-Aff.CFC Recovery
+ 41193384-Aff.Fenvalerate Recovery (pyrethrum derivative, pyrethroids) (insecticide)
+ 15163384-Aff.Fluoro Recovery
+ 7761031-Aff.Fluorouracil Recovery (chemotherapy)
+ 6127101-Aff.LPG Recovery (Wohngift)
+ 43103384-Aff.Formaldehyde Recovery (Wohngift)
+ 21191086-Aff.Gemcitabine Recovery (chemotherapy)
+ 4921031-Aff.Fiber Recovery (Wohngift)
+ 54727283-Aff.Influenza 2000 (rejection late charges)
+ 55727283-Aff.Influenza 2001 (rejection late charges)
+ 7727283-Aff.Influenza 2002 (rejection late charges)
+ 15810106-Aff.Influenza 78 (Recovery late charges) (virus)
+ 12810106-Aff.Influenza 79 (Recovery late charges) (virus)
+ 51523414-Aff.Influenza 80 (Recovery late charges) (virus)
+ 1679123 RecoveryWithout Code-Influenza 83 (rejection late loads) (Virus)
+ 91810106-Aff.Influenza 84 (Recovery late charges) (virus)
+ 14810106-Aff.Influenza 86 (rejection late loads) (Virus)
+ 10724115 RecoveryWithout Code-Influenza 87 (Recovery late charges) (virus)
+ 15717314 RecoveryWithout Code-Influenza 88 (Recovery late charges) (virus)
+ 11810106-Aff.Influenza 89 (Recovery late charges) (virus)
+ 51223414-Aff.Influenza 90 (Recovery late charges) (virus)
+ 14623414 RecoveryWithout Code-Influenza 93 (rejection late loads) (Virus)
+ 51423414-Aff.Influenza 95 (Recovery late charges) (virus)
+ 1857311 RecoveryWithout Code-Influenza 96 (rejection late loads) (Virus)
+ 10121516 RecoveryWithout Code-Influenza 97 (Recovery late charges) (virus)
+ 11441698 RecoveryWithout Code-Influenza 98 (rejection late loads) (Virus)
+ 98617314 RecoveryWithout Code-Influenza 99 (rejection late loads) (Virus)
+ 56116395-Aff.Hexachlorophene Recovery (pesticide)
+ 19114510-Aff.Idarubicin Recovery (chemotherapy)
+ 11131021-Aff.Ifosfamide Recovery (chemotherapy)
+ 59812686-Aff.Impfnosode: Cholera active (Recovery)
+ 11103205-Aff.Impfnosode: diphtheria e active (Recovery)
+ 11102205-Aff.Impfnosode: diphtheria K active (Recovery)
+ 11146815-Aff.Impfnosode: diphtheria passive (Recovery)
+ 11141654-Aff.Impfnosode: diphtheria-tetanus-pertussis (DPT) active (Recovery)
+ 11101272-Aff.Impfnosode: diphtheria-tetanus (DT) active (Recovery)
+ 51119714-Aff.Impfnosode: TBE active (Recovery)
+ 51138394-Aff.Impfnosode: TBE passive (Recovery)
+ 58411394-Aff.Impfnosode: Yellow fever (Recovery)
+ 11121217-Aff.Impfnosode: Flu 88 active (Recovery)
+ 1210135-Aff.Impfnosode: Haemophilus influenzae type b (HIB) (Recovery)
+ 58148272-Aff.Impfnosode: Hepatitis B active (Recovery)
+ 14487144-Aff.Impfnosode: Hepatitis B passively (Recovery)
+ 51310321-Aff.Impfnosode: Ig passive (Recovery)
+ 59161031-Aff.Impfnosode: Measles active (Recovery)
+ 5910466-Aff.Impfnosode: Measles passive (Recovery)
+ 23171414-Aff.Impfnosode: measles, mumps active (Recovery)
+ 2385815-Aff.Impfnosode: measles-mumps-rubella active (Recovery)
+ 12161012-Aff.Impfnosode: active mumps (Recovery)
+ 5942872-Aff.Impfnosode: Pertussis passive (whooping cough) (Recovery)
+ 59714510-Aff.Impfnosode: smallpox (Recovery)
+ 59168384-Aff.Impfnosode: Polio active (polio) (Recovery)
+ 5891741-Aff.Impfnosode: Rubella active (Recovery)
+ 5898631-Aff.Impfnosode: rubella passive (Recovery)
+ 6161596-Aff.Impfnosode: Tetanus active (Recovery)
+ 61310154-Aff.Impfnosode: Tetanus passive (Recovery)
+ 61410101-Aff.Impfnosode: rabies active (Recovery)
+ 51078205-Aff.Impfnosode: rabies passive (Recovery)
+ 14681013-Aff.Impfnosode: tuberculosis (BCG) active (Recovery)
+ 5121394-Aff.Impfnosode: Typhus active (Recovery)
+ 21111114-Aff.Vaccination adverse effects Recovery
+ 52321031-Aff.Insecticide Recovery (insecticides)
+ 4613105-Aff.Isopropyl alcohol rejection (Clark biofield, Wohngift)
+ 45310101-Aff.Iodine-rejection (eg. As in hyperthyroidism) (thyroid)
+ 80921031-Aff.Kanamycin Recovery
+ 67070803 RecoveryOrgan / Spec.-Kenya (supporting Ausleitungskuren)
+ 31613516-Aff.Preservatives Recovery
+ 12171010-Aff.Cancer toxin Recovery
+ 91453102-Aff.Copper Recovery
+ 1362101-Aff.Nitrous Oxide Recovery
+ 6814495-Aff.Alloying additions Recovery
+ 31453102-Aff.Lindane Recovery (pesticide)
+ 27283384-Aff.Lomustine Recovery (chemotherapy)
+ 1243431-Aff.Solvents and diluents Recovery (Wohngift)
+ 15121021-Aff.Solder vapors Recovery (Wohngift)
+ 66314237 RecoveryOrgan / Spec.-M 13 Recovery toxins (Rostock essences)
+ 94621021-Aff.Malathion Recovery (pesticide)
+ 97253102-Aff.Measles vaccine Recovery
+ 11653102-Aff.Melphalan Recovery (chemotherapy)
+ 6810401-Aff.Mercaptopurine Recovery (chemotherapy)
+ 9693394-Aff.Methotrexate Recovery (chemotherapy)
+ 98821031-Aff.Methoxychlor Recovery (pesticide)
+ 81863394-Aff.Microwave Recovery
+ 1010321-Aff.Mitomycin Recovery (chemotherapy)
+ 7311401-Aff.Anesthetic agent Recovery
+ 16346395-Aff.Nimustine Recovery (chemotherapy)
+ 73163384-Aff.Nitrosamines Recovery (krebsbegünstigend)
+ 15191086-Aff.Ozone Recovery
+ 9953102-Aff.Palladium Recovery
+ 11183394-Aff.Paraquat Recovery (pesticide)
+ 10453102-Aff.Parathion Recovery (pesticide)
+ 5903993-Aff.PCB- Mix Recovery (Wohngift)
+ 12111010-Aff.Penicillin Recovery
+ 9441413-Aff.Pentachlorophenol Recovery (PCP) (Wohngift)
+ 13814510-Aff.Permethrin Recovery (pyrethrum derivative, pyrethroids) (insecticide)
+ 22151021-Aff.Plant poison Recovery (Wohngift)
+ 2253102-Aff.Phenol Recovery
+ 3151498-Aff.Phenylmercuric Recovery (Wohngift)
+ 8189395-Aff.Phosphate Recovery
+ 1770395-Aff.Phthalic Recovery
+ 1259021-Aff.Smallpox Vaccine Recovery
+ 11431396-Aff.Polychlorinated biphenyl Recovery
+ 26914510-Aff.Polystyrene Recovery
+ 1053394-Aff.Polyurethane Recovery
+ 12128101-Aff.Polyvinyl chloride rejection (PVC)
+ 81021021-Aff.Propane Recovery (Wohngift)
+ 8117101-Aff.Psychosmog Recovery (psyche)
+ 11881086-Aff.Pyrethroid Recovery
+ 20183394-Aff.Mercury Recovery (heavy metal)
+ 13953102-Aff.Radium Recovery
+ 21639104-Aff.Radon Recovery
+ 21163394-Aff.Flue Gas Recovery
+ 1017996-Aff.An X-ray Recovery
+ 11104510-Aff.Silicon Recovery
+ 66314510-Aff.Smog accompanying fabric Recovery
+ 81453102-Aff.Styrene Recovery
+ 22214510-Aff.Tar Recovery
+ 25621031-Aff.Teflon Recovery
+ 68921021-Aff.Tetramethrin Recovery (pyrethrum derivative, pyrethroids) (insecticide)
+ 10191010-Aff.Thimerosal Recovery
+ 10553384-Aff.Thiotepa Recovery (chemotherapy)
+ 91253102-Aff.Thioguanine Recovery (chemotherapy)
+ 81314510-Aff.Treosulfan Recovery (chemotherapy)
+ 1489135-Aff.Tributylzinnoxyd Recovery (Wohngift)
+ 5973384-Aff.Trofosfamide Recovery (chemotherapy)
+ 20105100-Aff.Vinblastine Recovery (chemotherapy)
+ 69114510-Aff.Vincristine Recovery (chemotherapy)
+ 71410394-Aff.Vindesine Recovery (chemotherapy)
+ 8177101-Aff.Vinorelbine Recovery (chemotherapy)
+ 1510113-Aff.Vinyl chloride excretion (PVC precursor, chlorine gas)
+ 12361086-Aff.Wool Toxin Recovery (insecticide)

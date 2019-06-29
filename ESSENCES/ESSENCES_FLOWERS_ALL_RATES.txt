@@ -1,0 +1,2810 @@
+Algerian iris 736259 
+Almond 250725 
+Arizona Fir 2595259 
+Bistort 2367 
+Blackthorn 27574 
+Bladder Sienna 72525207 
+Bluebell 89435 
+Bog Asphodel 1646 
+Bracken (Alc) 6598 
+Bracken (Aqu) 4581 
+Butterbur 61872 
+Buttercup 25628 
+Charlock 91067 
+Compact Rush 415259 
+Cyprus Rock Rose 6225259 
+Dog Rose 627059 
+Double Snowdrop 47299 
+Early Purple Orchid 8362 
+Firethorn 53349 
+Flame and Azelea 2829597 
+Flowering Currant 22399 
+Foxglove 45928 
+Fuji Cherry 2595952 
+Hairy Sedge 35629 
+Hankweed 6998247 
+Holly Leaf 6840509 
+Honesty 3683 
+Honeysuckle 689959 
+Leopardsbane 266162 
+Lesser Stitchwort 2756464 
+Lilac 3715 
+Lily Of The Valley 64857 
+Marigold 72632 
+Marsh Thistle 53786 
+Milk Thistle 27827 
+Monk's Hood 823171 
+Moss 3253 
+Nasturtium 624895 
+Pine Cones 248725 
+Pink Purslane 63137 
+Red Clover 36589 
+Rhododendrum 6987 
+Rosebay Willow Herb  251851 
+Scabious 4759408 
+Scarlet Pimpernel 8371098 
+Sea Campion 37482298 
+Sheeps Sorrel 4709929 
+Siberian Spruce 53535 
+Single Snowdrop 4568 
+Soapwort 2610556 
+Solomon's Seal 6591 
+Spring Squill 16469 
+Sumach 5629 
+Thrift 7473 
+Trailing St Johns Wort  7959525 
+Tufted Vetch 85475 
+Valerian 48963 
+Welsh Poppy 7654 
+White Lotus 26851 
+Witch Hazel 7414 
+Wood Anemone 8154 
+Yew 56166460 
+Yorkshire Fog 517527 
+Alpine Mint Bush 57585 
+Angelsword 88999 
+Autumn Leaves 970809 
+Banksia Robur 57556 
+Bauhinia 946481 
+Billy Goat Plum 42362 
+Black Eyed Susan 31566 
+Blue Bell 239488 
+Boab 995808 
+Boronia 925719 
+Bottle Brush 5498162 
+Bush Fuchsia 681662 
+Bush Gardenia 22924 
+Bush Iris 379696 
+Christmas Bell 9725 
+Crowea 44467 
+Dagger Hakea 526464 
+Dog Rose 89210272 
+Dog Rose Of The Wild Forces 25356 
+Five Corners 116316 
+Flannel Flower 38368 
+Freshwater Mangrove  55958 
+Fringed Violet 383401 
+Green Essence 5995099 
+Green Spider Orchid 727051 
+Grey Spider Flower 895695 
+Gymea Lily 575159 
+Hibbertia 592233 
+Illawara Flame Tree 4699942 
+Isopogon 913241 
+Jacaranda 83403 
+Kangaroo Paw 829255 
+Kapok Bush 3954326 
+Little Flannel Flower 7391113 
+Macrocarpa 520623 
+Mint Bush 57099 
+Monga Waratah 619501 
+Mountain Devil 68802 
+Mulla Mulla 22397 
+Old Man Banksia 474376 
+Paw Paw 1323424 
+Peach Flowered Tea Tree 930931 
+Philotheca 77642 
+Pink Flannel Flower 995816 
+Pink Mulla Mulla 881269 
+Red Grevillea 253688 
+Red Helmet 67849 
+Red Lily 263115 
+Red Suva Frangpani 36601 
+Rough Bluebell 159516 
+She Oak 717223 
+Silver Princess 36899 
+Slender Rice Flower 535351 
+Southern Cross 359877 
+Spinifex 98362 
+Sturt Desert Pea 468134 
+Sturt Desert Rose 30603 
+Sundew 131983 
+Sunshine Wattle 64526 
+Sydney Rose 51599 
+Tall Mulla Mulla 59046 
+Tall Yellow Top 94031 
+Turkey Bush 466832 
+Waratah 58719 
+Wedding Bush 307473 
+Wild Potato Bush 134292 
+Wisteria 85581 
+Yellow Cowslip Orchid 7428421
+Baby Blue Eyes 685259 
+Basil 98777 
+Black Cohosh 8841575 
+Blackberry 333104 
+Black Eyed Susan 23151 
+Bleeding Heart 5275151 
+Borage 438931 
+Buttercup 2103410 
+Calendula 66426 
+California Pitcher Plant  13778 
+California Poppy 77367 
+California Wild Rose 63852 
+Californian Alpine Lily  69595999 
+Canyon Dudlea Plant   6275295 
+Cayenne 77471 
+Chamomile 25538 
+Corn 110152 
+Cosmos 77055 
+Dandelion 108256 
+Deerbrush 30684 
+Dill 444392 
+Dogwood 41675 
+Easter Lily 72667 
+Echinacea 13352 
+Evening Primrose 91301 
+Fairy Lantern 231519 
+Fawn Lily 30441 
+Filaree 66886 
+Fuchsia 879818 
+Golden Ear Drops 68047 
+Golden Rod 62361 
+Hibiscus 17945 
+Hound's Tongue 36972 
+Iris 912555 
+Madia 4757 
+Manzanita 954837 
+Morning Glory 4931 
+Nasturtium 249531 
+Penstemon 3626 
+Pink Yarrow 1198629 
+Red Clover 323672 
+Sagebrush 747555 
+Scarlet Monkey Flower  7463112 
+Scotch Broom 125488 
+Self Heal 9966 
+Shasta Daisy 885217 
+Star Tulip 242342 
+Sticky Monkey Flower  376359 
+Sunflower 5961881 
+Sweet Pea 1926 
+Yarrow 5866
+Almond 111063 
+Aloe Vera 48688 
+Amaranthus 21593 
+Angelica 15877 
+Apricot 115104 
+Avocado 69674 
+Banana 32175 
+Bells Of Ireland 21441 
+Blackberry 18465 
+Bleeding Heart 4667 
+Bloodroot 756101 
+Blue Flag 33995 
+Bo Tree 535825 
+Borage 41405 
+Bottle Brush 71554 
+California Poppy 451063 
+Camphor 21341 
+Carob 74666 
+Cedar 108425 
+Celandine 15533 
+Centaury Agave 46281 
+Chamomile (German)  49743 
+Chaparral 28066 
+Coffee 35777 
+Comfrey 295105 
+Corn 110152 
+Cosmos 77055 
+Cotton 46224 
+Daffodil 71717 
+Dandelion 108256 
+Date Palm 49461 
+Dill 24352 
+Eucalyptus 109881 
+Fig 79577 
+Forget Me Not 46463 
+Four Leaf Clover 21156 
+French Marigold 15222 
+Garlic 37511 
+Ginseng 1471 
+Grapefruit 24125 
+Green Rose 11634 
+Harvest Brodiaea 514106 
+Hawthorne 27801 
+Helleborus (Black) 47955 
+Henna 106163 
+Hops 66824 
+Hyssop 12215 
+Jasmine 15021 
+Khat 72775 
+Koenigin Van Daenemark 2104102 
+Lavender 25742 
+Lemon 60346 
+Lilac 77221 
+Live Forever 37555 
+Loosestrife 86867 
+Loquat 651097 
+Lotus 97521 
+Luffa 29112 
+Madia 26758 
+Mallow 951063 
+Mango 33632 
+Manzanita 51575 
+Maple 110121 
+Morning Glory 77923 
+Mugwort 52391 
+Mullein 55136 
+Nasturtium 622102 
+Nectarine 813101 
+Onion 19436 
+Orange 101667 
+Pansy 66231 
+Papaya 13956 
+Passion Flower 45921 
+Pawpaw 55456 
+Peach 106583 
+Pear 44451 
+Pennyroyal 99995 
+Petunia 25533 
+Pomegranate 24777 
+Prickly Pear Cactus 854103 
+Queen Anne's Lace 35865 
+Redwood 22727 
+Rosa Webbiana 33374 
+Rosemary 121036 
+Sage 510377 
+Saguaro 108503 
+Scarlet Pimpernel 610755 
+Self Heal 765104 
+Shooting Star 35766 
+Skullcap 67881 
+Snapdragon 22546 
+Spicebrush 58473 
+Spiderwort 89552 
+Spruce 5210710 
+Squash Acorn 134103 
+Squash Crookneck 89569 
+Squash Zucchini 55513 
+St. John's Wort 18535 
+Star Jasmine 831097 
+Star Thistle 710334 
+Star Tulip 311052 
+Stinging Nettle 85335 
+Sugar Beet 16761 
+Sunflower 26875 
+Sweet Flag 15454 
+Sweet Pea 55878 
+Thyme 33779 
+Tuberrose 689102 
+Watermelon 12127 
+Wisteria Chinese 410862 
+Wood Betony Red/Purple 86665 
+Yarrow Pink 661064 
+Yarrow Red 42667 
+Yarrow White 64566 
+Yerba Mate 12469 
+Yerba Santa 32633 
+Zinnia 26462
+Agrimony 10161396
+Aspen 11571617
+Beech 59615149
+centaury 53174712
+Cerato 51212129
+Cherry plum 17776920
+Chestnut Bud 9121752
+Chicory 16841273
+Clematis 11533912
+Crab Apple 3711105
+Elm 91438151
+Gentian 38397105
+Gorse 31313146
+Heather 16149917
+Holly 1616723
+Honeysuckle 88111460
+Hornbeam 81749102
+Impatiens 21416164
+Larch 16171949
+Mimulus 76371611
+Mustard 1491012
+Oak 13131410
+olive 61013179
+Pine 8817486
+Red Chestnut 8711174
+Rock Rose 23161184
+Rock Water 23164817
+Scleranthus 61091193
+Star of Bethlehem 71131299
+Sweet Chestnut 56822629
+vervain 81291346
+Vine 6496344
+Walnut 71414897
+Water Violet 4017159
+White Chestnut 48109117
+Wild Oat 11667159
+Wild rose 11143126
+Willow 19165103
+Rescue Remedy 43131714
+Bach flowers, all, as a mix (Rates in code) 74160309
+Ackergauchheil (Africa Research Essences) 54137510
+Agave (Desert Alchemy Essences Arizona) 17576115
+Aggression Orchid (Orchid Essences) 10920118
+Alder (Alaskan flower essences) 99816886
+Almond (Master's Flower Essences) 65913196
+Aloe (Desert Alchemy Essences Arizona) 1112816
+Aloe Vera (FES Californian Flower Essences) 14121123
+Aloe vera (wild plant essences) 5114216
+Alpine Azalea (Alaskan flower essences) 4141143
+Alpine Lily (FES California Flower Essences) 6151244
+Alpine Mint Bush (Bush Flower Essences Australia) 44961498
+Amazon Water (orchid essences) 51810187
+Ambassador (Perelandra Rose Essences) 1710685
+American linden (tree blossom essences) 31014103
+Amur cork tree (tree blossom essences) 41312213
+Anemone (Sea ) (Pacific Sea Essences) 81496147
+Angel of Protection Orchid 34581682
+Angel Orchid (Orchid Essences) 11101711
+Angels's Trumpet (FES California Flower Essences) 9512511
+Angelsword (Bush Flower Essences Australia) 46181155
+Antiseptic Bush (Living Essences Australia) 91211810
+Apple (Master's Flower Essences) 1574163
+Arizona White Oak (Desert Alchemy Essences Arizona) 30715411
+Arnica (FES Californian Flower Essences) 15814118
+Arnica (wild plant essences) 3215339
+Ashoka Flower (AUM Himalaya essences) 81224886
+Aura Cleaning (Mix) (AUM Himalayan Essences) 1782657
+Auriga Jupiter (flower essences) 74133157
+Auriga Mars (flower essences) 71121075
+Auriga Merkur (flower essences) 74341112
+Auriga moon (flower essences) 7410114
+Auriga Saturn (flower essences) 7468812
+Auriga sun (flower essences) 7461177
+Auriga Venus (flower essences) 7452112
+Authenticity (Mix) (AUM Himalayan Essences) 91811163
+Avocado (Master's Flower Essences) 13208958
+Baby Blue Eyes (FES Californian Flower Essences) 15814118
+Valerian (wild plant essences) 28101210
+Balga Blackboy (Living essences Australia) 15141397
+Balsam Poplar (Alaskan flower essences) 97028147
+Banana (Master's Flower Essences) 1174119
+Banana (Africa Research Essences) 71386146
+Bangoon Creeper (AUM Himalayan Essences) 91311512
+Banksia Robur (Bush Flower Essences Australia) 11177158
+Banyan Tree (AUM Himalayan Essences) 91810816
+Barnacle (Pacific Sea Essences) 5221210
+Basil (FES Californian Flower Essences) 9742311
+Basil (wild plant essences) 95129139
+Bauhinia (Buddhafield essences) 81010147
+Bauhinia (Bush Flower Essences Australia) 8111495
+Baumerika (Africa Research Essences) 14168511
+Tree hazel (tree blossom essences) 23412311
+Beargrass (Desert Alchemy Essences Arizona) 87111213
+Beemdkroon (Dutch flower essences) 7111110
+Betty Prior (Perelandra Rose Essences) 16101310
+Big Root Jatropha (Desert Alchemy Essences Arizona) 88192941
+Billy Goat Plum (Bush Flower Essences Australia) 1114692
+Bisbee Beehive Cactus (Desert Alchemy Essences Arizona) 12131914
+Black Cohosh (FES California Flower Essences) 13735291
+Black Kangaroo Paw (Living Essences Australia) 16139585
+Black Spruce (Alaskan Flower Essences) 21161495
+Blackberry (FES California flower essences) 91118312
+Blackberry (Master's Flower Essences) 91210013
+Black Eyed Susan (Bush Flower Essences Australia) 91547119
+Black Eyed Susan (FES Californian Flower Essences) 17151971
+Bladderwort (Alaskan Flower Essences) 13813187
+Blaze Improved (Perelandra Rose Essences) 97413511
+Bleeding Heart (FES California Flower Essences) 4166410
+Leadwort (Africa Research Essences) 2512646
+Blue Berry Cactus (Cactus Essences) 91347147
+Blue China Orchid (Living Essences Australia) 99138118
+Blue Dragon (Mix) (AUM Himalayan Essences) 2516367
+Blue Elf Viola (Alaskan Flower Essences) 24103410
+Blue Leschenaultia (Living essences Australia) 21026669
+Blue Topped Cow Weed (Living Essences Australia) 1020915
+Blue Bell (Bush Flower Essences Australia) 37111666
+Blueberry pollen (Alaskan flower essences) 95718218
+Blue green algae (Pacific sea essences) 85147155
+Flower ash (tree blossom essences) 26135949
+Boab (Bush Flower Essences Australia) 41241414
+Bog Blueberry (Alaskan Flower Essences) 1691033
+Bog Rosemary (Alaskan Flower Essences) 11237958
+Borage (FES California flower essences) 1766482
+Boronia (Bush flower essences Australia) 8187222
+Borage (wild plant essences) 10969475
+Bosrank (Dutch flower essences) 13410293
+Bottlebrush (Bush Flower Essences Australia) 1477487
+Bougainvillea (AUM Himalaya essences) 71695218
+Bougainvillea (Buddhafield essences) 71015413
+Bougainvillea (Desert Alchemy Essences Arizona) 9714103
+Boundaries (children's flower essences) 1076295
+Bouvardia (Desert Alchemy Essences Arizona) 17215113
+Brachycome (Living essences Australia) 61070180
+Brownelle (wild plant essences) 7477105
+Bright Star (Desert Alchemy Essences Arizona) 3210615
+Broccoli (Perelandra garden essences) 10114958
+Blackberry (wild plant essences) 93115339
+Brown Boronia (Living essences Australia) 1686916
+Brown Kelp (Pacific Sea Essences) 88158211
+Buffalo Gourd (Desert Alchemy Essences Arizona) 7712816
+Bunchberry (Alaskan flower essences) 11123758
+Bush Fuchsia (Bush Flower Essences Australia) 71821134
+Bush Gardenia (Bush Flower Essences Australia) 12981397
+Bush Iris (Bush Flower Essences Australia) 71817914
+Buttercup (FES Californian Flower Essences) 4010146
+Butterfly Lily (AUM Himalayan Essences) 7169167
+Calendula (FES Californian Flower Essences) 91214195
+California Pitcher Plant (FES California Flower Essences) 4805132
+California Poppy (FES California Flower Essences) 3113734
+California Wild Rose (FES California Flower Essences) 68118410
+Calla (wild plant essences) 13159118
+Calla Lilly (FES Californian Flower Essences) 8513134
+Calm Time (Children's Flower Essences) 4106216
+Camphorweed (Desert Alchemy Essences Arizona) 42111213
+Candy Barrel Cactus (Desert Alchemy Essences Arizona) 51863156
+Cane Cholla Cactus (Desert Alchemy Essences Arizona) 17241168
+Cannon Ball Flower (AUM Himalayan Essences) 14148173
+Canyon Dudleya (FES California Flower Essences) 21774411
+Cape Bluebell (Living essences Australia) 36824115
+Caralluma russeliana (cactus essences) 4163827
+Cardon (Desert Alchemy Essences Arizona) 2048141
+Cassandra (Alaskan flower essences) 19541093
+Castor Oil Plant (AUM Himalaya essences) 1141521
+Cat's Paw (Living Essences Australia) 10541498
+Cattail pollen (Alaskan flower essences) 37103410
+Cauliflower (Perelandra Garden Essences) 1016146
+Cayenne (FES Californian Flower Essences) 51471612
+Celery (Perelandra Garden Essences) 51735187
+Cereus peruvianus (cactus essences) 11512146
+Ceropegia fusca (cactus essences) 71012146
+Chamomile (Buddhafield essences) 11135187
+Chamomile (FES California flower essences) 3361362
+Champagne (Mix) (AUM Himalayan Essences) 1025847
+Channeling Orchid (orchid essences) 1611548
+Chaparral (Desert Alchemy Essences Arizona) 3311133
+Chaparral (FES Californian Flower Essences) 16612812
+Cherry (Master's Flower Essences) 84541058
+Chicago Peace (Perelandra Rose Essences) 15839884
+Child Glow (Children's Flower Essences) 12162227
+Chiming Bells (Alaskan Flower Essences) 64412816
+Chiton (Pacific Sea Essences) 2055192
+Chives (Perelandra Garden Essences) 12812213
+Chocolate Orchid (Orchid Essences) 12141222
+Christ's Torah (AUM Himalayan Essences) 18121016
+Chrysanthemum (FES Californian Flower Essences) 25337146
+Clarity (Mix) (AUM Himalayan Essences) 10712188
+Cleistocactus ritteri (cactus essences) 72278358
+Cleistocactus strausii (cactus essences) 71161211
+Cliff Rose (Desert Alchemy Essences Arizona) 18589115
+Coconut (Master's Flower Essences) 78181985
+Coconut Palm (AUM Himalaya essences) 11141819
+Color Orchid (orchid essences) 11476167
+Columbine (Alaskan flower essences) 4821495
+Comandra (Alaskan flower essences) 17139310
+Comfrey (Perelandra Garden Essences) 3111432
+Commelina (AUM Himalayan Essences) 20111914
+Common White Spider Orchid (Living Essences Australia) 16614129
+Compass Barrell Cactus (Desert Alchemy Essences Arizona) 12114278
+Conception (Gravidity & Birth Essences) 19951682
+Coordination Orchid (orchid essences) 31417493
+Coral (Pacific Sea Essences) 14168125
+Coral Bean (Desert Alchemy Essences Arizona) 1351887
+Corn (Perelandra Garden Essences) 61071210
+Corn (FES Californian Flower Essences) 71548218
+Corn (Master's Flower Essences) 92119311
+Correa (Living essences Australia) 38142024
+Cosmos (FES Californian Flower Essences) 9125278
+Cotton (Buddhafield essences) 1183310
+Cotton Grass (Alaska flower essences) 11222992
+Cow Parsnip (Alaskan Flower Essences) 1357619
+Cow Parsnip (Desert Alchemy Essences Arizona) 13923149
+Cowkicks (Living Essences Australia) 21313154
+Cowslip Orchid (Living essences Australia) 71081317
+Crowea (Bush Flower Essences Australia) 11313186
+Crown of Thorns (Desert Alchemy Essences Arizona) 5575616
+Cucumber (Perelandra Garden Essences) 7669816
+Curry Leaf (AUM Himalayan Essences) 14912311
+Dagger Hakea (Bush Flower Essences Australia) 9913993
+Damiana (Desert Alchemy Essences Arizona) 1536128
+Dampiera (Living essences Australia) 68111385
+Dandelion (Alaskan flower essences) 2295211
+Dandelion (FES Californian Flower Essences) 11210227
+Date (Master's Flower Essences) 19181844
+Day Blooming Jessamine (AUM Himalayan Essences) 15191391
+Deerbrush (FES Californian Flower Essences) 14131111
+Desert Christmas Cholla Cactus (Des. Alch. Essences Arizona) 1118971
+Desert Holly (Desert Alchemy Essences Arizona) 81964216
+Desert Marigold (Desert Alchemy Essences Arizona) 46911397
+Desert Sumac (Desert Alchemy Essences Arizona) 71512819
+Desert Willow (Desert Alchemy Essences Arizona) 31587139
+German medlar (tree blossom essences) 1514459
+Deva Orchid (orchid essences) 3148124
+Devil's Claw (Desert Alchemy Essences Arizona) 25121214
+Diatoms (Pacific Sea Essences) 15101311
+Dill (FES Californian Flower Essences) 74122816
+Dill (Perelandra Garden Essences) 41061213
+Dill (wild plant essences) 8139411
+Dog Rose (Bush Flower Essences Australia) 7767923
+Dogwood (FES California Flower Essences) 32255147
+Dolphin (Pacific Sea Essences) 92145128
+Down to Earth (Mix) (AUM Himalayan Essences) 5112105
+Drum Stick (AUM Himalayan Essences) 1117424
+Easter Lily (FES Californian Flower Essences) 4214533
+Echinacea (FES Californian Flower Essences) 1211766
+Echinocactus grusonii (cactus essences) 9151476
+Echinocereus scheeri (cactus essences) 3014131
+Echinopsis oxygona (cactus essences) 13649311
+Eclipse (Perelandra Rose Essences) 8598108
+Ecstasy (Mix) (AUM Himalaya essences) 20155218
+Sweet chestnut (tree blossom essences) 1683611
+Intrusive hawthorn (tree blossom essences) 27846895
+Elsbeere (tree blossom essences) 1770314
+Emmelwortel (Dutch flower essences) 1320356
+Ephedra (Desert Alchemy Essences Arizona) 2510102
+Eucalyptus (Africa Research Essences) 32044105
+European hops beech (tree blossom essences) 12161012
+Evening Primrose (FES California Flower Essences) 73923185
+Evening Star (Desert Alchemy Essences Arizona) 14625104
+Expansion (Mix) (AUM Himalayan Essences) 1111468
+Fairy Duster (Desert Alchemy Essences Arizona) 16491315
+Fairy Lantern (FES California Flower Essences) 9713147
+Fawn Lily (FES California Flower Essences) 10611113
+Fensterblatt (Africa Research Essences) 21276311
+Ferocactus schwarzii (cactus essences) 7151262
+Fire lily (wild plant essences) 18117210
+Fig (Master's flower essences) 1350339
+Filaree (FES Californian Flower Essences) 78730311
+Fire Prickly Pear Cactus (Desert Alchemy Essences Arizona) 87872714
+Fireweed (Alaskan flower essences) 1625411
+Fishhook Cactus (Desert Alchemy Essences Arizona) 11114614
+Five Corners (Bush Flower Essences Australia) 6167158
+Flannel Flower (Bush Flower Essences Australia) 81210914
+Flight (Mix) (AUM Himalayan Essences) 2011711
+Foothills Paloverde (Desert Alchemy Essences Arizona) 69891490
+Forget Me Not (Alaskan Flower Essences) 17413128
+Forget Me Not (FES California Flower Essences) 13111113
+Foxglove (Alaskan flower essences) 33199118
+Freshwater mangrove (Bush flower essences Australia) 40161713
+Fringed Lily Twiner (Living Essences Australia) 7151376
+Fringed Mantis Orchid (Living Essences Australia) 41831360
+Fringed Violet (Bush Flower Essences Australia) 51114812
+Fuchsia (FES California flower essences) 84171112
+Fuchsia Grevillea (Living essences Australia) 81581017
+Fuchsia Gum (Living essences Australia) 8810969
+Cornucopia Cattleya (orchid essences) 48154310
+Fun Orchid (orchid essences) 22121792
+Daisies (wild plant essences) 51822224
+Goose Thistle (Africa Research Essences) 13211251
+Garlic (FES Californian Flower Essences) 1020108
+Gateway (Mix) (AUM Himalayan Essences) 7692311
+Common Horse Chestnut (Tree Blossom Essences) 91297257
+Common bladder shrub (tree blossom essences) 21516168
+Geraldton Wax (Living essences Australia) 2018431
+Geranium (Africa Research Essences) 1241722
+Gingko tree (tree blossom essences) 12136895
+Goddess (Mix) (AUM Himalayan Essences) 73120148
+Goddess Grasstree (Living Essences Australia) 73118101
+Golden Corydalis (Alaskan Flower Essences) 14311213
+Golden Ear Drops (FES California Flower Essences) 74819112
+Golden Glory Grevillea (Living Essences Australia) 71513919
+Golden Rod (AUM Himalayan Essences) 15611212
+Golden Waitsia (Living Essences Australia) 78454193
+Golden Yarrow (FES Californian Flower Essences) 11121721
+Goldenrod (FES Californian Flower Essences) 71122234
+Grape (Master's Flower Essences) 31114163
+Grass of Parnassus (Alaskan Flower Essences) 3112198
+Gratefulness (Mix) (AUM Himalayan Essences) 10151463
+Green Bells of Ireland (Alaskan Flower Essences) 3751522
+Green Bog Orchid (Alaskan flower essences) 6101315
+Green Fairy Orchid (Alaskan Flower Essences) 61651422
+Green Rose (AUM Himalaya essences) 11914311
+Green Rose (Living essences Australia) 1141044
+Green Seaweed (Pacific Sea Essences) 12481810
+Green Spider Orchid (Bush Flower Essences Australia) 11449560
+Gray Spider Flower (Bush Flower Essences Australia) 19131375
+Grove Sandwort (Alaskan Flower Essences) 71222105
+Green alder (tree blossom essences) 21031384
+Greetings to Aachen (Perelandra Rosen essences) 81315174
+Gulmohar (AUM Himalayan Essences) 23116107
+Gymnea Lily (Bush Flower Essences Australia) 6556024
+Hackberry (Desert Alchemy Essences Arizona) 17521324
+Buttercup (wild plant essences) 10765858
+Hairy Butterwort (Alaskan Flower Essences) 92114310
+Happiness (Mix) (AUM Himalayan Essences) 1214559
+Happy Wanderer (Living Essences Australia) 10158118
+Harebell (Alaskan flower essences) 10198914
+Healing (Mix) (AUM Himalayan Essences) 61048138
+Heart of Tantra (Mix) (AUM Himalayan Essences) 82671096
+Heart Orchid (orchid essences) 58216816
+Hedgehog Cactus (Desert Alchemy Essences Arizona) 15147146
+Hermit Crab (Pacific Sea Essences) 5142178
+Hibbertia (Bush Flower Essences Australia) 31619155
+Hibiscus (AUM Himalaya essences) 10215611
+Hibiscus (FES Californian Flower Essences) 9688128
+Hidden Splendor (Mix) (AUM Himalayan Essences) 91325257
+Higher Self Orchid (Orchid Essences) 21361162
+Hops Bush (Living Essences Australia) 41216146
+Hoptree (Desert Alchemy Essences Arizona) 9589115
+Horsetail (Alaskan flower essences) 2108167
+Hound's Tongue (FES California Flower Essences) 99516413
+Hybrid Pink Fairy Cowslip Orchid (Living Essences Australia) 12591552
+Hylocereus undatus (cactus essences) 95665339
+Icelandic Poppy (Alaskan Flower Essences) 2557619
+Illawara Flame Tree (Bush Flower Essences Australia) 18611157
+Illyarrie (Living essences Australia) 91214414
+Indian Almond (AUM Himalayan Essences) 51415313
+Indian Coral (AUM Himalaya essences) 9671695
+Indian Gooseberry (AUM Himalayan Essences) 52013910
+Indian Mulberry (AUM Himalayan Essences) 57731210
+Indian Paintbrush (FES California Flower Essences) 57715476
+Indian Pink (FES California Flower Essences) 97215210
+Indian Root (Desert Alchemy Essences Arizona) 13981196
+Indian Tobacco (Desert Alchemy Essences Arizona) 71414382
+Indigo Bush (Desert Alchemy Essences Arizona) 9111213
+Initiative (Children's Flower Essences) 1577886
+Inmortal (Desert Alchemy Essences Arizona) 10153811
+Inspiration Orchid (Orchid Essences) 6167213
+Iris (FES Californian Flower Essences) 31250178
+Iris (wild plant essences) 11182244
+Isan (Mix) (AUM Himalayan Essences) 38381275
+Isopogon (Bush flower essences Australia) 1255138
+Ixora (orange white pink) (AUM Himalaya essences) 5111115
+Jacaranda (Bush Flower Essences Australia) 1388819
+Jack Fruit Tree (AUM Himalayan Essences) 18141611
+Jacob's Ladder (Alaskan Flower Essences) 81888415
+Japanese quince quince (tree blossom essences) 17832263
+Jasmine (Buddhafield essences) 3632282
+Jellyfish (Pacific Sea Essences) 11687218
+St. John's wort (wild plant essences) 91110382
+St. John's wort (tree blossom essences) 99181196
+Jojoba (Desert Alchemy Essences Arizona) 15911397
+Judaspenning (Dutch flower essences) 7151289
+Jujube Tree (AUM Himalayan Essences) 4101676
+Jumping Cholla Cactus (Desert Alchemy Essences Arizona) 12170515
+K9 (Research Essence) (Africa Research Essences) 51457156
+Chamomile (wild plant essences) 1189162
+Canary Climbing Bellflower (Africa Research Essences) 71222118
+Canarian wormwood (Africa research essences) 17133954
+Kangaroo Paw (Bush Flower Essences Australia) 41171613
+Kapok Bush (Bush Flower Essences Australia) 8187477
+Klaproos (Dutch flower essences) 6917712
+Klein's Pencil Cholla Cactus (Des. Alch. Essences Arizona) 19351182
+Little Viltinkszwam (Dutch flower essences) 81792613
+Kno_terich (wild plant essences) 11407147
+Coconut palm (Africa research essences) 10122010
+Kolokoltchik (Living essences Australia) 17941187
+Komkommerkruid (Dutch flower essences) 15205175
+Mullein (wild plant essences) 11137886
+Kruidje Roer Me Rivet (Dutch Flower Essences) 77671018
+Pumpkin (wild plant essences) 1298147
+Labor of Love (Gravidity & Birth Essences) 1159910
+Labrador Tea (Alaskan Flower Essences) 81515415
+Lace Flower (Alaska flower essences) 9291216
+Ladies' Tresses (Alaskan Flower Essences) 10910495
+Lady's Slipper (Alaska Flower Essences) 10766295
+Lady's Slipper (FES California Flower Essences) 10397163
+Lamb's Quarters (Alaskan Flower Essences) 81115912
+Larkspur (FES Californian Flower Essences) 10961957
+Lavender (wild plant essences) 12802013
+Lavender (FES Californian Flower Essences) 17925884
+Leafless Orchid (Living Essences Australia) 19712512
+Lemon (Buddhafield essences) 50627125
+Let go (Mix) (AUM Himalaya essences) 2124344
+Lettuce (Master's flower essences) 5451412
+Little Flannel Flower (Bush Flower Essences Australia) 98721429
+Longevity (Mix) (AUM Himalayan Essences) 9835611
+Lotus (AUM Himalaya essences) 27122227
+Lotus (FES Californian Flower Essences) 33104957
+Lotus (Mix) (AUM Himalaya essences) 29272511
+Lotus (wild plant essences) 3129139
+Love Lies Bleeding (FES California Flower Essences) 1265149
+Love Orchid (Orchid Essences) 13111011
+Dandelion (wild plant essences) 81710296
+Macrocarpa (Bush Flower Essences Australia) 16146216
+Macrozamia (Living essences Australia) 1338923
+Madia (FES Californian Flower Essences) 14971025
+Corn (wild plant essences) 71313107
+Mala Mujer (Desert Alchemy Essences Arizona) 1521266
+Malabar Nut Flower (AUM Himalaya essences) 11221350
+Mallow (FES Californian Flower Essences) 17211195
+Mamillaria rubrograndis (cactus essences) 26970167
+Almond tree (wild plant essences) 15101015
+Mango (Buddhafield essences) 12149159
+Many Headed Dryandra (Living Essences Australia) 8161713
+Manzanita (FES Californian Flower Essences) 91481818
+Mariola (Desert Alchemy Essences Arizona) 81113458
+Mariposa Lily (Desert Alchemy Essences Arizona) 92578014
+Mariposa Lily (FES California Flower Essences) 96104739
+Mast Flower (AUM Himalaya essences) 1911657
+Mauve Melaleuca (Living essences Australia) 11114157
+Maybelle Stearns (Perelandra Rose Essences) 8151032
+Melon Loco (Desert Alchemy Essences Arizona) 12141814
+Menalih (AUM Himalaya essences) 1384108
+Menzies Banksia (Living essences Australia) 11415154
+Mesquite (Desert Alchemy Essences Arizona) 1753939
+Mexican Shell Flower (Desert Alchemy Essences Arizona) 39336534
+Mexican Star (Desert Alchemy Essences Arizona) 2718144
+Milkweed (FES Californian Flower Essences) 19412116
+Milky Nipple Cactus (Desert Alchemy Essences Arizona) 16457133
+Mimosa (Africa Research Essences) 62154858
+Mint Bush (Bush Flower Essences Australia) 13271118
+Mistletoe (wild plant essences) 44817415
+Monkshood (Alaskan Flower Essences) 11323114
+Moon Snail (Pacific Sea Essences) 12615167
+Morning Glory (AUM Himalayan Essences) 63048138
+Morning Glory (Buddhafield Essences) 63513124
+Morning Glory (FES California Flower Essences) 6375460
+Morning Glory Tree (Desert Alchemy Essences Arizona) 7412106
+Moschatel (Alaskan flower essences) 20348187
+Mother and Child (Gravidity & Birth Essences) 13111031
+Mountain Devil (Bush Flower Essences Australia) 7261193
+Mountain Mahogany (Desert Alchemy Essences Arizona) 14910102
+Mountain Pennyroyal (FES California Flower Essences) 10591213
+Mountain Pride (FES California Flower Essences) 91541016
+Mountain Wormwood (Alaskan Flower Essences) 7387958
+Mr. Lincoln (Perelandra Rose Essences) 51442339
+Mugwort (FES Californian Flower Essences) 10551027
+Mulla Mulla (Bush Flower Essences Australia) 71862222
+Mullein (Desert Alchemy Essences Arizona) 11117813
+Mullein (FES California Flower Essences) 12121721
+Mussel (Pacific Sea Essences) 1694395
+Mycena (Dutch flower essences) 9124413
+Nasturtium (FES Californian Flower Essences) 4771514
+Nasturtium (Perelandra Garden Essences) 51010144
+Adderhead (Africa Research Essences) 10211251
+Neem (AUM Himalayan Essences) 12771413
+New Family (Gravidity & Birth Essences) 14238163
+Nicotiana (FES California flower essences) 81241022
+Night Jasmine (AUM Himalayan Essences) 1459224
+Night Queen (AUM Himalayan Essences) 75610912
+Nilgiri Longy (AUM Himalayan Essences) 7737149
+Nirjara (Mix) (AUM Himalayan Essences) 14134339
+Nortern Twayblade (Alaskan flower essences) 51031387
+Northern Lady's Slipper (Alaska Flower Essences) 7128102
+Nymphenburg (Perelandra Rose Essences) 61412446
+Ocotillo (Desert Alchemy Essences Arizona) 1475616
+Office Flower (AUM Himalaya essences) 3341081
+Okra (Perelandra Garden Essences) 51134696
+Old Maid (Pink) (AUM Himalayan Essences) 3944495
+Old Maid (White) (AUM Himalayan Essences) 31611314
+Old Man Banksia (Bush Flower Essences Australia) 71712410
+One Sided Bottlebrush (Living Essences Australia) 85116916
+One Sided Wintergreen (Alaskan Flower Essences) 81314134
+Opium Poppy (Alaskan Flower Essences) 1415639
+Opuntia cardiosperma (cactus essences) 1422414
+Opuntia deiecta (cactus essences) 16149163
+Orange (Buddhafield essences) 4511511
+Orange (Master's Flower Essences) 4781715
+Orange Leschenaultia (Living essences Australia) 7131894
+Orange Ruffles (Perelandra Rose Essences) 7943358
+Orange spiked Pea Flower (Living Essences Australia) 39421914
+Orbea variegata (cactus essences) 8199166
+Oregold (Perelandra Rose Essences) 94661395
+Oregon Grape (Desert Alchemy Essences Arizona) 71410481
+Oregon Grape (FES California Flower Essences) 71145119
+Organ Pipe Cactus (Desert Alchemy Essences Arizona) 8151299
+Oyster (Pacific Sea Essences) 11191028
+Paarse Dovenetel (Dutch flower essences) 70810147
+Pagoda Tree (AUM Himalaya essences) 11314124
+Pale Sundew (Living essences Australia) 1188879
+Papagaaieblad (Dutch flower essences) 21048121
+Papaya (Buddhafield essences) 3855924
+Paper Birch (Alaskan flower essences) 35337464
+Bird of Paradise Flower (Africa Research Essences) 9946910
+Parakeelya (Living essences Australia) 4968167
+Parrot Tree (AUM Himalaya essences) 51071694
+Parval (AUM Himalayan Essences) 4048138
+Passion flower (wild plant essences) 38569713
+Past Life Orchid (orchid essences) 18744162
+Paw Paw (Bush Flower Essences Australia) 13581416
+Peace (Rose) (Perelandra Rose Essences) 51460311
+Peach (Master's Flower Essences) 82915139
+Peach flowered Tea Tree (Bush flower essences Australia) 1358114
+Peacock Flower (AUM Himalayan Essences) 3122119
+Pear (Master's Flower Essences) 13173107
+Peepal Tree (AUM Himalaya essences) 98942313
+Pencil Cholla Cactus (Desert Alchemy Essences Arizona) 71564672
+Penstemon (FES Californian Flower Essences) 12374122
+Peppermint (FES Californian Flower Essences) 78448124
+Petunia (Buddhafield essences) 81051210
+Philotheca (Bush Flower Essences Australia) 1231061
+Pill Bearing Spurge (AUM Himalayan Essences) 48886419
+Pilosocereus pachycladus (cactus essences) 1433777
+Pin Cushion Hakea (Living Essences Australia) 7813431
+Pineapple (Master's Flower Essences) 12142227
+Pineapple Weed (Alaskan Flower Essences) 12118339
+Pink Everlasting Strawflower (Living essences Australia) 92111253
+Pink Fairy Orchid (Living essences Australia) 92161612
+Pink Fountain Trigger Plant (Living Essences Australia) 5121493
+Pink Impatiens (Living Essences Australia) 87781238
+Pink Monkeyflower (FES California Flower Essences) 3313264
+Pink Mulla Mulla (Bush Flower Essences Australia) 71058135
+Pink Powder Puff (Buddhafield Essences) 21015100
+Pink Rose (Karma Flower Essences) 2178212
+Pink Seaweed (Pacific Sea Essences) 21498858
+Pink Trumpet Flower (Living Essences Australia) 2516146
+Pink Yarrow (FES Californian Flower Essences) 21374122
+Pixie Pug (Living Essences Australia) 51131033
+Plankton (Pacific Sea Essences) 61291611
+Poison Oak (FES California Flower Essences) 2235291
+Pomegranate (Buddhafield essences) 83122375
+Pomegranate (Desert Alchemy Essences Arizona) 83154103
+Pomegranate (FES Californian Flower Essences) 83105758
+Portia Tree (AUM Himalaya essences) 31471058
+Pregnancy Tonic (Gravidity & Birth Essences) 6129611
+Prenatal Heal (Gravidity & Birth Essences) 84596816
+Pretty Face (FES California Flower Essences) 5611712
+Prickley Pear Cactus (Desert Alchemy Essences Arizona) 8294715
+Prickly Wild Rose (Alaskan Flower Essences) 18918663
+Morning Glory (Wild Plant Essences) 48116178
+Psycho Orchid (orchid essences) 1441276
+Purple and Red Kangaroo Paw (Living Essences Australia) 14921417
+Purple Enamel Orchid (Living Essences Australia) 22111181
+Purple Eremophila (Living essences Australia) 11131111
+Purple Flag Flower (Living Essences Australia) 6014334
+Purple Flower (Dutch flower essences) 15816413
+Purple Lotus (Buddhafield essences) 18197013
+Purple Mat (Desert Alchemy Essences Arizona) 91286489
+Purple Monkeyflower (FES California Flower Essences) 11111354
+Purple Nymph Water Lily (Living Essences Australia) 18176624
+Quaking Grass (FES California Flower Essences) 11413112
+Queen Anne's Lace (FES California Flower Essences) 91114195
+Queen of the Night (Desert Alchemy Essences Arizona) 14374510
+Queen Scallop (Pacific Sea Essences) 6015139
+Queensland Bottlebrush (Living Essences Australia) 8013445
+Quince (FES Californian Flower Essences) 10121721
+Rabbit Orchid (Living essences Australia) 15131587
+Rabbitbrush (FES Californian Flower Essences) 17763758
+Radish (AUM Himalayan Essences) 51344495
+Rain Tree (AUM Himalayan Essences) 98115611
+Rainbow Cactus (Desert Alchemy Essences Arizona) 1020486
+Rainbow Kelp (Pacific Sea Essences) 14171989
+Rangoon Creeper (AUM Himalayan Essences) 2719463
+Raspberry (Master's Flower Essences) 17818125
+Ratany (Desert Alchemy Essences Arizona) 14912209
+Red and Green Kangaroo Paw (Living Essences Australia) 34498148
+Red Beak Orchid (Living Essences Australia) 89511414
+Red Clover (FES Californian Flower Essences) 2091779
+Red Feather Flower (Living Essences Australia) 13424229
+Red Grevillea (Bush Flower Essences Australia) 10779913
+Red Helmet (Bush Flower Essences Australia) 2910922
+Red Hibiscus (AUM Himalayan Essences) 3133257
+Red Hollycock (Buddhafield Essences) 2109467
+Red Hot Cat Tail (AUM Himalayan Essences) 24131114
+Red Leschenaultia (Living essences Australia) 9718514
+Red Lily (Bush Flower Essences Australia) 13613154
+Red Powder Puff (Buddhafield Essences) 10252394
+Red Root (Desert Alchemy Essences Arizona) 4137616
+Red Silk Cotton (AUM Himalayan Essences) 9109129
+Red Suva Frangipani (Bush Flower Essences Australia) 51071061
+Red Orange Epiphyllum (Desert Alchemy Essences Arizona) 92781720
+Hoarfrost Daffodil (Africa Research Essences) 3127113
+Reuzenbalsemien (Dutch flower essences) 11512145
+Ribbon Pea (Living Essences Australia) 73151105
+Rippy Hillox (AUM Himalayan Essences) 58122227
+River Beauty (Alaskan Flower Essences) 11101016
+Rode Bosvogeltje (Dutch flower essences) 5764119
+Pink yarrow (wild plant essences) 14152286
+Rose Cone Flower (Living Essences Australia) 5614617
+Rosemary (FES Californian Flower Essences) 10664610
+Roseneibisch (Africa Research Essences) 21122179
+Rosemary (wild plant essences) 18411129
+Red clover (wild plant essences) 68711958
+Rough Bluebell (Bush Flower Essences Australia) 18814585
+Round leaved sundew (Alaskan flower essences) 17103711
+Royal Highness (Perelandra Rose Essences) 1029762
+Russian Centaurea (Living Essences Australia) 16734177
+Russian Forget Me Not (Living Essences Australia) 13116143
+Sacred Datura (Desert Alchemy Essences Arizona) 14814142
+Sage (FES California Flower Essences) 2196995
+Sagebrush (FES Californian Flower Essences) 21031067
+Saguaro (Desert Alchemy Essences Arizona) 4988598
+Saguaro (FES Californian Flower Essences) 49646475
+Saint John's Word (FES California Flower Essences) 30311712
+Sage (wild plant essences) 13569475
+Salvia (Perelandra garden essences) 85212147
+Sand Dollar (Pacific Sea Essences) 42471695
+Scarlet Monkeyflower (FES California Flower Essences) 31171758
+Yarrow (wild plant essences) 18113218
+Scorpion Weed (Desert Alchemy Essences Arizona) 71081156
+Scotch Broom (FES California Flower Essences) 22412116
+Screw Pine (AUM Himalayan Essences) 1211987
+Sea Horse (Pacific Sea Essences) 15156164
+Sea Lettuce (Pacific Sea Essences) 69158211
+Sea Palm (Pacific Sea Essences) 27225187
+Sea Potato (Pacific Sea Essences) 71171514
+Sea Turtle (Pacific Sea Essences) 58134013
+Selenicerus grandiflorus (cactus essences) 4106126
+Self Heal (FES California Flower Essences) 10121123
+Senita (Desert Alchemy Essences Arizona) 56119914
+Seticereus icosagonus (cactus essences) 1835757
+Shasta Daisy (FES California Flower Essences) 79410175
+She Oak (Bush Flower Essences Australia) 81351214
+Shooting Star (Alaskan Flower Essences) 92069310
+Shooting Star (FES California Flower Essences) 9731067
+Shy Blue Orchid (Living essences Australia) 92121417
+Silver Princess (Bush Flower Essences Australia) 1220139
+Silver Princess Gum (Living essences Australia) 8177109
+Single Delight (Alaskan Flower Essences) 96981985
+Sithihea (AUM Himalaya essences) 18771413
+Sitka Burnet (Alaskan Flower Essences) 11611163
+Sitka Spruce pollen (Alaska flower essences) 12711612
+Slender Rice Flower (Bush Flower Essences Australia) 61214149
+Slow Match (AUM Himalayan Essences) 10102511
+Snake Bush (Living Essences Australia) 8131397
+Snake Vine (Living Essences Australia) 10212119
+Snap Dragon (FES California Flower Essences) 51711597
+Snap Pea (Perelandra Garden Essences) 71250146
+Sneeuwklokje (Dutch flower essences) 56718914
+Soapberry (Alaskan flower essences) 61911107
+Soaptree Yucca (Desert Alchemy Essences Arizona) 56771343
+Sober up (Mix) (AUM Himalaya essences) 13181275
+Sonia (Perelandra Rose Essences) 11511213
+Sunflower (wild plant essences) 1724094
+Sopa Nut Tree (AUM Himalayan Essences) 10181052
+Southern Cross (Bush Flower Essences Australia) 42279105
+Southern Cross (Living Essences Australia) 10121632
+Sow Thistle (Desert Alchemy Essences Arizona) 8788598
+Spanish Bayonet Yucca (Desert Alchemy Essences Arizona) 6911944
+Spathodea (Buddhafield essences) 7101081
+Sphagnum Moss (Alaskan Flower Essences) 37124119
+Spinach (Master's Flower Essences) 11451412
+Spineless Prickly Pear (Desert Alchemy Essences Arizona) 15111213
+Spinifex (Bush Flower Essences Australia) 1075669
+Spiraea (Alaskan flower essences) 10214012
+Sponge (Pacific Sea Essences) 55581195
+Spotted Gliricidia (AUM Himalayan Essences) 10782210
+Staghorn Algae (Pacific Sea Essences) 34111412
+Staghorn Cholla Cactus (Desert Alchemy Essences Arizona) 32815131
+Star Leaf (Desert Alchemy Essences Arizona) 19710148
+Star of Bethlehem (Living Essences Australia) 99917116
+Star Primrose (Desert Alchemy Essences Arizona) 8911277
+Star Thistle (FES California Flower Essences) 2351046
+Star Tulip (FES Californian Flower Essences) 6471514
+Starfish (Pacific Sea Essences) 88121069
+Staudenfeuerkraut (wild plant essences) 14147511
+Holly (tree blossom essences) 84610314
+Stenocereus marginatus (cactus essences) 1058877
+Sticky Geranium (Alaskan flower essences) 15156114
+Sticky Monkeyflower (FES California Flower Essences) 17852073
+Pedunculate oak (tree blossom essences) 10492213
+Stopelia gigantea (cactus essences) 3214463
+Strawberry (Master's Flower Essences) 81210178
+Strawberry Cactus (Desert Alchemy Essences Arizona) 87839139
+Strength (Mix) (AUM Himalayan Essences) 1044339
+Sturt Desert Pea (Bush Flower Essences Australia) 71361739
+Sturt Desert Rose (Bush Flower Essences Australia) 76137515
+Summer Squash (Perelandra Garden Essences) 5419139
+Sun Plant (AUM Himalayan Essences) 10101011
+Sundew (Bush Flower Essences Australia) 18715116
+Sunflower (Alaskan flower essences) 7982139
+Sunflower (Buddhafield essences) 75622527
+Sunflower (FES Californian Flower Essences) 71012103
+Sun Orchid (Orchid Essences) 74111358
+Sunshine Wattle (Bush Flower Essences Australia) 11478107
+Surfgrass (Pacific Sea Essences) 91023924
+Swallow Wart (AUM Himalayan Essences) 1016987
+Sweet Bell Pepper (Perelandra Garden Essences) 41133142
+Sweet Pea (FES Californian Flower Essences) 16910816
+Sweetgale (Alaskan flower essences) 11156912
+Sweetgrass (Alaskan flower essences) 41112119
+Syrian Rue (Desert Alchemy Essences Arizona) 14287139
+Tachinaste (white) (Africa Research Essences) 91514711
+Tall Yellow Top (Bush Flower Essences Australia) 4169112
+Tamarack (Alaskan flower essences) 15348187
+Tamarind Tree (AUM Himalayan Essences) 3475157
+Tansy (FES Californian Flower Essences) 51110187
+Tarbush (Desert Alchemy Essences Arizona) 15811101
+Tassel Flower (AUM Himalaya essences) 2949314
+Teakwood Flower (AUM Himalaya essences) 8730311
+Teddy Bear Cholla Cactus (Desert Alchemy Essences Arizona) 11112108
+Temple (AUM Himalayan Essences) 10141384
+Terra (Rescue Mix) (Dutch Flower Essences) 71610226
+Teunisbloem (Dutch flower essences) 10162658
+The Pongam (Mix) (AUM Himalayan Essences) 46111616
+Theresa Cactus (Desert Alchemy Essences Arizona) 70159137
+Thistle (Desert Alchemy Essences Arizona) 11114101
+Thunbergia (Buddhafield essences) 12962064
+Thurber's Gilia (Desert Alchemy Essences Arizona) 17398175
+Thyme (Buddhafield essences) 1571514
+Tiffany (Perelandra Rose Essences) 8415957
+Tiger Lily (FES California Flower Essences) 14788128
+Tomato (Master's Flower Essences) 14191310
+Tomato (Perelandra Garden Essences) 10101247
+Torroyia Rorshi (AUM Himalayan Essences) 7193159
+Bleeding heart (wild plant essences) 91145128
+Trauma Relief (Children's Flower Essences) 5118663
+Trillium (FES Californian Flower Essences) 5132103
+Trumpet Vine (FES California Flower Essences) 10872657
+Tulip Tree (AUM Himalaya essences) 17111616
+Tundra Rose (Alaskan Flower Essences) 74114411
+Tundra Twayblade (Alaskan Flower Essences) 61013196
+Turkey Bush (Bush Flower Essences Australia) 14153177
+Twinflower (Alaskan flower essences) 17541093
+Ukshi (AUM Himalayan Essences) 9921412
+Urchin (Pacific Sea Essences) 16909657
+Urchin Dryandra (Living essences Australia) 16103638
+Ursinia (Living essences Australia) 17246108
+Primeval Sequoia (tree blossom essences) 1297188
+Valerian (karma flower essences) 13867105
+Veil of Dreams (Mix) (AUM Himalayan Essences) 24131316
+Violets (wild plant essences) 24121216
+Venus orchid (orchid essences) 31954310
+Forget me not (wild plant essences) 18813816
+Veronica (Living essences Australia) 17217169
+Victoria Regia (Orchid Essences) 78141792
+Vilayati Amli (AUM Himalayan Essences) 13912344
+Violet (FES California flower essences) 45562227
+Violet Butterfly (Living Essences Australia) 5822913
+Violet Curis (Desert Alchemy Essences Arizona) 41465136
+Vital Spark (Mix) (AUM Himalayan Essences) 71171694
+Wallflower Donkey Orchid (Living Essences Australia) 91712615
+Walnut (tree blossom essences) 19112211
+Waratah (Bush Flower Essences Australia) 65813923
+Warrior (Mix) (AUM Himalayan Essences) 14151392
+Water Lily (AUM Himalayan Essences) 1511711
+Water Lily (Karma Flower Essences) 92718125
+Wedding Bush (Bush Flower Essences Australia) 91415512
+Christmas Star (Africa Research Essences) 8013112
+White lily (wild plant essences) 1567147
+Well being (Mix) (AUM Himalaya essences) 86422310
+West Australian Christmas Tree (Living Essences Australia) 7944107
+West Australian Smoke Bush (Living Essences Australia) 6191445
+Whale (Pacific Sea Essences) 97316564
+White Bluebell (Karma Flower Essences) 61210166
+White Coral (AUM Himalayan Essences) 91122227
+White Desert Primrose (Desert Alchemy Essences Arizona) 99914661
+White Eremophila (Living essences Australia) 7828413
+White Fireweed (Alaskan Flower Essences) 20619713
+White Hibiscus (AUM Himalaya essences) 8540495
+White Hollycock (Buddhafield essences) 74198146
+White Lightnin '(Perelandra Rose Essences) 85738211
+White Lotus (Buddhafield essences) 7996895
+White Nymph Water Lily (Living Essences Australia) 12513316
+White Spruce (Alaskan Flower Essences) 1112167
+White Violet (Alaskan flower essences) 91152012
+Whitethorn (Desert Alchemy Essences Arizona) 9521324
+Wild Grapevine (Desert Alchemy Essences Arizona) 1716266
+Wild Iris (Alaskan Flower Essences) 79131213
+Wild Iris (Karma Flower Essences) 7977884
+Wild Orchid (karma flower essences) 51110013
+Wild Potato Bush (Bush Flower Essences Australia) 11141994
+Wild Rhubarb (Alaskan flower essences) 66816108
+Wild Violet (Living Essences Australia) 1091561
+Wild apple (tree blossom essences) 20322310
+Wild carrot (wild plant essences) 91561211
+Wild garlic (wild plant essences) 11478139
+Willow (Alaska flower essences) 1194139
+Wisteria (Bush Flower Essences Australia) 99130172
+Wolfberry (Desert Alchemy Essences Arizona) 11912816
+Wolly Banksia (Living Essences Australia) 76131615
+Wolly Smokebush (Living Essences Australia) 16825115
+Wood Apple (AUM Himalayan Essences) 9117249
+Worthiness (children's flower essences) 23128187
+Woven Spine Pineapple Cactus (Des. Alch. Essences Arizona) 13105170
+Yarrow (Alaskan flower essences) 13107619
+Yarrow (Buddhafield essences) 11766310
+Yarrow (FES California Flower Essences) 13742311
+Yarrow Special Formula (FES California Flower Essences) 21112162
+Yellow and Green Kangaroo Paw (Living Essences Australia) 52971487
+Yellow Boronia (Living Essences Australia) 15212914
+Yellow Canna (AUM Himalayan Essences) 21692311
+Yellow Champa (AUM Himalayan Essences) 19158148
+Yellow Cone Flower (Living Essences Australia) 23151286
+Yellow Cowslip Orchid (Bush Flower Essences Australia) 1190913
+Yellow Flag Flower (Living Essences Australia) 19174157
+Yellow Leschenaultia (Living Essences Australia) 10111510
+Yellow Rattle (karma flower essences) 10413227
+Yellow Silk Cotton (AUM Himalayan Essences) 11714424
+Yellow Star Tulip (FES Californian Flower Essences) 10101457
+Yellow Star Tulip (Dutch Flower Essences) 9171046
+Yellow Yarrow (Perelandra Garden Essences) 10145196
+Yerba Santa (FES California Flower Essences) 15881231
+Witch hazel (tree blossom essences) 31012159
+Zinnia (Buddhafield essences) 18302118
+Zinnia (FES California flower essences) 10133616
+Zinnia (Perelandra garden essences) 12847166
+Zinnia (wild plant essences) 15831213
+Cistus (Africa Research Essences) 14164187
+Zucchini (Perelandra garden essences) 2448713
+Amber (essential oil) 31259159
+Angelica seeds (essential oil) 37748168
+Angelica root (essential oil) 31925173
+Anise (essential oil) 11414109
+Arnica (essential oil) 1197654
+Valerian (essential oil) 2991015
+Basil (essential oil) 61231092
+Bay (essential oil) 13138135
+Benzoea leaves (essential oil) 10511973
+Bergamot (essential oil) 8691093
+Birchwood (essential oil) 74778168
+Bitter almond (essential oil) 14541265
+Blood Orange (essential oil) 3147882
+Savory (essential oil) 62271092
+Cananga (essential oil) 8122511
+Cascarilla (essential oil) 5299124
+Cassia (essential oil) 41245172
+Citronella (essential oil) 36811119
+Clementine (essential oil) 16023810
+Cumin (essential oil) 59118129
+Curacao shells (essential oil) 1017911
+Dill herb (essential oil) 6559922
+Dill seed (essential oil) 11127249
+Noble fir (essential oil) 13113593
+Oakmoss (essential oil) 15051422
+Elemi (essential oil) 93109110
+Strawberry (essential oil) 9214811
+Tarragon (essential oil) 5138135
+Eucalyptus (essential oil) 3667414
+Fennel (essential oil) 3312793
+Spruce needle (essential oil) 71537338
+Lilac (essential oil) 8878811
+Fresie (essential oil) 1379124
+Galbanum (essential oil) 9214108
+Honeysuckle (essential oil) 52431618
+Geranium (essential oil) 44204883
+Gingergrass (essential oil) 77109383
+Grapefruit (essential oil) 30831113
+Grapefruit seed (essential oil) 3417328
+Guaiac wood (essential oil) 28137882
+Hops (essential oil) 11361018
+Hyacinth (essential oil) 37579012
+Immortelle (essential oil) 14596174
+Ginger (essential oil) 3231521
+Jasmine (essential oil) 11969204
+Kalmus (essential oil) 59412641
+Chamomile (essential oil) 12561430
+Camphor (essential oil) 91078811
+Cardamom (essential oil) 5135793
+Carrot seeds (essential oil) 95731521
+Pine needle (essential oil) 18251311
+Garlic (essential oil) 63141344
+Coriander (essential oil) 5119119
+Spearmint (essential oil) 12645793
+Caraway (essential oil) 8779313
+Labdanum (essential oil) 39217127
+Mountain pine (essential oil) 11111311
+Lavandin (essential oil) 2674310
+Lavender (essential oil) 17414237
+Lemongrass (essential oil) 13612183
+Lovage (essential oil) 41214108
+Lime (essential oil) 15108891
+Lime blossom (essential oil) 61861611
+Litsea cubeba (essential oil) 91091015
+Lotus (essential oil) 10111531
+Macis flower (essential oil) 12810912
+Magnolia (essential oil) 70101612
+Lilies of the valley (essential oil) 10101265
+Marjoram (essential oil) 7171311
+Mandarin (essential oil) 9114109
+Sea pine (essential oil) 99925173
+Melissa (essential oil) 91679313
+Mint, Chinese (essential oil) 16911122
+Mint, Japanese (essential oil) 1584793
+Clary sage (essential oil) 10111150
+Nutmeg (essential oil) 82091015
+Myrrh (essential oil) 2118107
+Myrtle (essential oil) 91815143
+Spikenard (essential oil) 3851422
+Daffodil (essential oil) 17815143
+Neem (essential oil) 15101051
+Carnation (essential oil) 21138135
+Neroli (essential oil) 1055527
+Niouli (essential oil) 5231521
+Olibanum (Frankincense) (essential oil) 1792481
+Opoponax (essential oil) 13525174
+Orange (essential oil) 1172183
+Orchid (essential oil) 14115793
+Palatino (essential oil) 11183122
+Palmarosa (essential oil) 13101611
+Patchouli (essential oil) 14101051
+Peru balsam (essential oil) 71057911
+Parsley (essential oil) 5151582
+Petitgrain (essential oil) 11511793
+Pepper (essential oil) 88316297
+Peppermint (essential oil) 8877892
+Peach (essential oil) 91113664
+Allspice (essential oil) 91015310
+Poleyminze (essential oil) 4171092
+Pomeranian peels (essential oil) 12132182
+Ravensara (essential oil) 71313917
+Rose (essential oil) 17138135
+Rosewood (essential oil) 91111343
+Rosemary (essential oil) 3757116
+Sage (essential oil) 13164883
+Sandalwood (essential oil) 6210135
+Yarrow (essential oil) 91839124
+Celery (essential oil) 6145793
+Shiu (essential oil) 23550117
+Siam wood (essential oil) 82145172
+Speik (essential oil) 20251713
+Star anise (essential oil) 5745172
+Styrax (essential oil) 2057982
+Tobacco (essential oil) 89152297
+Tagetes (essential oil) 46217127
+Pine cones (essential oil) 22957116
+Tea tree (cajeput, essential oil) 91368168
+Turpentine (essential oil) 11312879
+Thyme (essential oil) 15116174
+Tulip (essential oil) 14710135
+Tulsi (essential oil) 1157116
+Vanilla (essential oil) 48316297
+Verbena (essential oil) 46214108
+Vetiver (essential oil) 34139467
+Juniper berries (essential oil) 11101064
+Juniper wood (essential oil) 1182793
+Grape (essential oil) 8157249
+Vermouth (essential oil) 12194810
+Wintergreen (essential oil) 19857116
+Worm seed (essential oil) 1735143
+Ylang Ylang (essential oil) 9139119
+Hyssop (essential oil) 42991012
+Cedar (essential oil) 18113593
+Cedar wood (essential oil) 12481216
+Cinnamon leaves (essential oil) 7931113
+Cinnamon bark (essential oil) 28107459
+Cistus (essential oil) 67143122
+Lemon (essential oil) 51823873
+Onion (essential oil) 75251713
+Cypress (essential oil) 1027696
+Ackergauchheil (Africa Research Essences) 54137510
+Agave (Desert Alchemy Essences Arizona) 17576115
+Aggression Orchid (Orchid Essences) 10920118
+Alder (Alaska Flower Essences) 99816886
+Almond (Master's Flower Essences) 65913196
+Aloe (Desert Alchemy Essences Arizona) 1112816
+Aloe Vera (FES Californian Flower Essences) 14121123
+Aloe vera (wild plant essences) 5114216
+Alpen Eisenhut (Alpine Flower Essences) 54101210
+Alpen man litter (Alpen flower essences) 75182453
+Alpine Azalea (Alaskan Flower Essences) 4141143
+Alpine Lily (FES California Flower Essences) 6151244
+Alpine Mint Bush (Bush Flower Essences Australia) 44961498
+Amazon Water (orchid essences) 51810187
+Ambassador (Perelandra Rose Essences) 1710685
+American linden (tree blossom essences) 31014103
+Amur cork tree (tree blossom essences) 41312213
+Anemone (Sea ) (Pacific Sea Essences) 81496147
+Angel of Protection Orchid 34581682
+Angel Orchid (Orchid Essences) 11101711
+Angels's Trumpet (FES California Flower Essences) 9512511
+Angelsword (Bush Flower Essences Australia) 46181155
+Antiseptic Bush (Living Essences Australia) 91211810
+Apple (Master's Flower Essences) 1574163
+Arizona White Oak (Desert Alchemy Essences Arizona) 30715411
+Arnica (FES Californian Flower Essences) 15814118
+Arnica (wild plant essences) 3215339
+Ashoka Flower (AUM Himalayan Essences) 81224886
+Aura Cleaning (Mix) (AUM Himalayan Essences) 1782657
+Auriga Jupiter (flower essences) 74133157
+Auriga Mars (flower essences) 71121075
+Auriga Merkur (flower essences) 74341112
+Auriga moon (flower essences) 7410114
+Auriga Saturn (flower essences) 7468812
+Auriga sun (flower essences) 7461177
+Auriga Venus (flower essences) 7452112
+Authenticity (Mix) (AUM Himalayan Essences) 91811163
+Avocado (Master's Flower Essences) 13208958
+Baby Blue Eyes (FES Californian Flower Essences) 15814118
+Valerian (wild plant essences) 28101210
+Balga Blackboy (Living Essences Australia) 15141397
+Balsam Poplar (Alaskan Flower Essences) 97028147
+Banana (Master's Flower Essences) 1174119
+Banana (Africa Research Essences) 71386146
+Bangoon Creeper (AUM Himalayan Essences) 91311512
+Banksia Robur (Bush Flower Essences Australia) 11177158
+Banyan Tree (AUM Himalayan Essences) 91810816
+Barnacle (Pacific Sea Essences) 5221210
+Basil (FES Californian Flower Essences) 9742311
+Basil (wild plant essences) 95129139
+Bauhinia (Buddhafield Essences) 81010147
+Bauhinia (Bush Flower Essences Australia) 8111495
+Baumerika (Africa Research Essences) 14168511
+Tree hazel (tree blossom essences) 23412311
+Beargrass (Desert Alchemy Essences Arizona) 87111213
+Beemdkroon (Dutch flower essences) 7111110
+Betty Prior (Perelandra Rose Essences) 16101310
+Big Root Jatropha (Desert Alchemy Essences Arizona) 88192941
+Billy Goat Plum (Bush Flower Essences Australia) 1114692
+Bisbee Beehive Cactus (Desert Alchemy Essences Arizona) 12131914
+Black Cohosh (FES California Flower Essences) 13735291
+Black Kangaroo Paw (Living Essences Australia) 16139585
+Black Spruce (Alaskan Flower Essences) 21161495
+Blackberry (FES California flower essences) 91118312
+Blackberry (Master's Flower Essences) 91210013
+Black Eyed Susan (Bush Flower Essences Australia) 91547119
+Black Eyed Susan (FES Californian Flower Essences) 17151971
+Bladderwort (Alaskan Flower Essences) 13813187
+Blaze Improved (Perelandra Rose Essences) 97413511
+Bleeding Heart (FES California Flower Essences) 4166410
+Leadwort (Africa Research Essences) 2512646
+Blue Berry Cactus (Cactus Essences) 91347147
+Blue China Orchid (Living Essences Australia) 99138118
+Blue Dragon (Mix) (AUM Himalayan Essences) 2516367
+Blue Elf Viola (Alaskan Flower Essences) 24103410
+Blue Leschenaultia (Living essences Australia) 21026669
+Blue Topped Cow Weed (Living Essences Australia) 1020915
+Blue Bell (Bush Flower Essences Australia) 37111666
+Blueberry pollen (Alaska flower essences) 95718218
+Blue green algae (Pacific sea essences) 85147155
+Flower ash (tree blossom essences) 26135949
+Boab (Bush Flower Essences Australia) 41241414
+Bog Blueberry (Alaskan Flower Essences) 1691033
+Bog Rosemary (Alaskan Flower Essences) 11237958
+Borage (FES California flower essences) 1766482
+Boronia (Bush flower essences Australia) 8187222
+Borage (wild plant essences) 10969475
+Bosrank (Dutch flower essences) 13410293
+Bottlebrush (Bush Flower Essences Australia) 1477487
+Bougainvillea (AUM Himalayan Essences) 71695218
+Bougainvillea (Buddhafield Essences) 71015413
+Bougainvillea (Desert Alchemy Essences Arizona) 9714103
+Boundaries (children flower essences) 1076295
+Bouvardia (Desert Alchemy Essences Arizona) 17215113
+Brachycome (Living Essences Australia) 61070180
+Brownelle (wild plant essences) 7477105
+Bright Star (Desert Alchemy Essences Arizona) 3210615
+Broccoli (Perelandra garden essence/Users/svanhees/Documents/Processing/OpenSourceRadionics master 2/software/processing/AetherOneProcessingV0007_2211/data/ESSENCES/ESSENCES_MeditativeProvings.txts) 10114958
+Blackberry (wild plant essences) 93115339
+Brown Boronia (Living Essences Australia) 1686916
+Brown Kelp (Pacific Sea Essences) 88158211
+Buffalo Gourd (Desert Alchemy Essences Arizona) 7712816
+Bunchberry (Alaskan Flower Essences) 11123758
+Bush Fuchsia (Bush Flower Essences Australia) 71821134
+Bush Gardenia (Bush Flower Essences Australia) 12981397
+Bush Iris (Bush Flower Essences Australia) 71817914
+Buttercup (FES Californian Flower Essences) 4010146
+Butterfly Lily (AUM Himalayan Essences) 7169167
+Calendula (FES Californian Flower Essences) 91214195
+California Pitcher Plant (FES California Flower Essences) 4805132
+California Poppy (FES California Flower Essences) 3113734
+California Wild Rose (FES California Flower Essences) 68118410
+Calla (wild plant essences) 13159118
+Calla Lilly (FES Californian Flower Essences) 8513134
+Calm Time (Children's Flower Essences) 4106216
+Camphorweed (Desert Alchemy Essences Arizona) 42111213
+Candy Barrel Cactus (Desert Alchemy Essences Arizona) 51863156
+Cane Cholla Cactus (Desert Alchemy Essences Arizona) 17241168
+Cannon Ball Flower (AUM Himalayan Essences) 14148173
+Canyon Dudleya (FES California Flower Essences) 21774411
+Cape Bluebell (Living Essences Australia) 36824115
+Caralluma russeliana (cactus essences) 4163827
+Cardon (Desert Alchemy Essences Arizona) 2048141
+Cassandra (Alaskan Flower Essences) 19541093
+Castor Oil Plant (AUM Himalayan Essences) 1141521
+Cat's Paw (Living Essences Australia) 10541498
+Cattail pollen (Alaskan flower essences) 37103410
+Cauliflower (Perelandra Garden Essences) 1016146
+Cayenne (FES Californian Flower Essences) 51471612
+Celery (Perelandra Garden Essences) 51735187
+Cereus peruvianus (cactus essences) 11512146
+Ceropegia fusca (cactus essences) 71012146
+Chamomile (Buddhafield Essences) 11135187
+Chamomile (FES California flower essences) 3361362
+Champagne (Mix) (AUM Himalayan Essences) 1025847
+Channeling Orchid (orchid essences) 1611548
+Chaparral (Desert Alchemy Essences Arizona) 3311133
+Chaparral (FES Californian Flower Essences) 16612812
+Cherry (Master's Flower Essences) 84541058
+Chicago Peace (Perelandra Rose Essences) 15839884
+Child Glow (Children's Flower Essences) 12162227
+Chiming Bells (Alaskan Flower Essences) 64412816
+Chiton (Pacific Sea Essences) 2055192
+Chives (Perelandra Garden Essences) 12812213
+Chocolate Orchid (Orchid Essences) 12141222
+Christ's Torah (AUM Himalayan Essences) 18121016
+Chrysanthemum (FES Californian Flower Essences) 25337146
+Clarity (Mix) (AUM Himalayan Essences) 10712188
+Cleistocactus ritteri (cactus essences) 72278358
+Cleistocactus strausii (cactus essences) 71161211
+Cliff Rose (Desert Alchemy Essences Arizona) 18589115
+Coconut (Master's Flower Essences) 78181985
+Coconut Palm (AUM Himalayan Essences) 11141819
+Color Orchid (orchid essences) 11476167
+Columbine (Alaska flower essences) 4821495
+Comandra (Alaskan Flower Essences) 17139310
+Comfrey (Perelandra Garden Essences) 3111432
+Commelina (AUM Himalayan Essences) 20111914
+Common White Spider Orchid (Living Essences Australi en) 16614129
+Compass Barrell Cactus (Desert Alchemy Essences Arizona) 12114278
+Conception (Gravidity & Birth Essences) 19951682
+Coordination Orchid (orchid essences) 31417493
+Coral (Pacific Sea Essences) 14168125
+Coral Bean (Desert Alchemy Essences Arizona) 1351887
+Corn (Perelandra Garden Essences) 61071210
+Corn (FES Californian Flower Essences) 71548218
+Corn (Master's Flower Essences) 92119311
+Correa (Living Essences Australia) 38142024
+Cosmos (FES Californian Flower Essences) 9125278
+Cotton (Buddhafield Essences) 1183310
+Cotton Grass (Alaskan Flower Essences) 11222992
+Cow Parsnip (Alaskan Flower Essences) 1357619
+Cow Parsnip (Desert Alchemy Essences Arizona) 13923149
+Cowkicks (Living Essences Australia) 21313154
+Cowslip Orchid (Living Essences Australia) 71081317
+Crowea (Bush Flower Essences Australia) 11313186
+Crown of Thorns (Desert Alchemy Essences Arizona) 5575616
+Cucumber (Perelandra Garden Essences) 7669816
+Curry Leaf (AUM Himalayan Essences) 14912311
+Dagger Hakea (Bush Flower Essences Australia) 9913993
+Damiana (Desert Alchemy Essences Arizona) 1536128
+Dampiera (Living Essences Australia) 68111385
+Dandelion (Alaskan Flower Essences) 2295211
+Dandelion (FES Californian Flower Essences) 11210227
+Date (Master's Flower Essences) 19181844
+Day Blooming Jessamine (AUM Himalayan Essences) 15191391
+Deerbrush (FES Californian Flower Essences) 14131111
+Desert Christmas Cholla Cactus (Des. Alchem. Essences Arizona) 1118971
+Desert Holly (Desert Alchemy Essences Arizona) 81964216
+Desert Marigold (Desert Alchemy Essences Arizona) 46911397
+Desert Sumac (Desert Alchemy Essences Arizona) 71512819
+Desert Willow (Desert Alchemy Essences Arizona) 31587139
+German Medlar (Tree Blossom Essences) 1514459
+Deva Orchid (orchid essences) 3148124
+Devil's Claw (Desert Alchemy Essences Arizona) 25121214
+Diatoms (Pacific Sea Essences) 15101311
+Dill (FES Californian Flower Essences) 74122816
+Dill (Perelandra Garden Essences) 41061213
+Dill (wild plant essences) 8139411
+Dog Rose (Bush Flower Essences Australia) 7767923
+Dogwood (FES California Flower Essences) 32255147
+Dolphin (Pacific Sea Essences) 92145128
+Down to Earth (Mix) (AUM Himalayan Essences) 5112105
+Drum Stick (AUM Himalayan Essences) 1117424
+Easter Lily (FES Californian Flower Essences) 4214533
+Echinacea (FES Californian Flower Essences) 1211766
+Echinocactus grusonii (cactus essences) 9151476
+Echinocereus scheeri (cactus essences) 3014131
+Echinopsis oxygona (cactus essences) 13649311
+Eclipse (Perelandra Rose Essences) 8598108
+Ecstasy (Mix) (AUM Himalayan Essences) 20155218
+Sweet chestnut (tree blossom essences) 1683611
+Common hawthorn (tree blossom essences) 27846895
+Elsberry (tree blossom essences) 1770314
+Emmelwortel (Dutch flower essences) 1320356
+Ephedra (Desert Alchemy Essences Arizona) 2510102
+Eucalyptus (Africa Research Essences) 32044105
+European hops beech (tree blossom essences) 12161012
+Evening Primrose (FES California Flower Essences) 73923185
+Evening Star (Desert Alchemy Essences Arizona) 14625104
+Expansion (Mix) (AUM Himalayan Essences) 1111468
+Fairy Duster (Desert Alchemy Essences Arizona) 16491315
+Fairy Lantern (FES California Flower Essences) 9713147
+Fawn Lily (FES California Flower Essences) 10611113
+Fensterblatt (Africa Research Essences) 21276311
+Ferocactus schwarzii (cactus essences) 7151262
+Fire lily (wild plant essences) 18117210
+Fig (Master's flower essences) 1350339
+Filaree (FES Californian Flower Essences) 78730311
+Fire Prickly Pear Cactus (Desert Alchemy Essences Arizona) 87872714
+Fireweed (Alaskan Flower Essences) 1625411
+Fishhook Cactus (Desert Alchemy Essences Arizona) 11114614
+Five Corners (Bush Flower Essences Australia) 6167158
+Flannel Flower (Bush Flower Essences Australia) 81210914
+Flight (Mix) (AUM Himalayan Essences) 2011711
+Foothills Paloverde (Desert Alchemy Essences Arizona) 69891490
+Forget Me Not (Alaska Flower Essences) 17413128
+Forget Me Not (FES California Flower Essences) 13111113
+Foxglove (Alaskan Flower Essences) 33199118
+Freshwater mangrove (Bush flower essences Australia) 40161713
+Fringed Lily Twiner (Living Essences Australia) 7151376
+Fringed Mantis Orchid (Living Essences Australia) 41831360
+Fringed Violet (Bush Flower Essences Australia) 51114812
+Spring Cowslip (Alpine Flower Essences) 13138716
+Fuchsia (FES California flower essences) 84171112
+Fuchsia Grevillea (Living Essences Australia) 81581017
+Fuchsia Gum (Living Essences Australia) 8810969
+Cornucopia Cattleya (orchid essences) 48154310
+Fun Orchid (orchid essences) 22121792
+Gamander Ehrenpreis (Alpine Flower Essences) 10518865
+Daisies (wild plant essences) 51822224
+Goose Thistle (Africa Research Essences) 13211251
+Garlic (FES Californian Flower Essences) 1020108
+Gateway (Mix) (AUM Himalayan Essences) 7692311
+Common Horse Chestnut (Tree Blossom Essences) 91297257
+Common bladder shrub (tree blossom essences) 21516168
+Geraldton Wax (Living Essences Australia) 2018431
+Geranium (Africa Research Essences) 1241722
+Gingko tree (tree blossom essences) 12136895
+Goddess (Mix) (AUM Himalayan Essences) 73120148
+Goddess Grasstree (Living Essences Australia) 73118101
+Golden Corydalis (Alaskan Flower Essences) 14311213
+Golden Ear Drops (FES California Flower Essences) 74819112
+Golden Glory Grevillea (Living Essences Australia) 71513919
+Golden Rod (AUM Himalayan Essences) 15611212
+Golden Waitsia (Living Essences Australia) 78454193
+Golden Yarrow (FES Californian Flower Essences) 11121721
+Goldenrod (FES Californian Flower Essences) 71122234
+Grape (Master's Flower Essences) 31114163
+Grass of Parnassus (Alaskan Flower Essences) 3112198
+Gratefulness (Mix) (AUM Himalayan Essences) 10151463
+Green Bells of Ireland (Alaskan Flower Essences) 3751522
+Green Bog Orchid (Alaskan Flower Essences) 6101315
+Green Fairy Orchid (Alaskan Flower Essences) 61651422
+Green Rose (AUM Himalayan Essences) 11914311
+Green Rose (Living Essences Australia) 1141044
+Green Seaweed (Pacific Sea Essences) 12481810
+Green Spider Orchid (Bush Flower Essences Australia) 11449560
+Gray Spider Flower (Bush Flower Essences Australia) 19131375
+Grove Sandwort (Alaskan Flower Essences) 71222105
+Green alder (tree blossom essences) 21031384
+Greetings to Aachen (Perelandra Rosen essences) 81315174
+Gulmohar (AUM Himalayan Essences) 23116107
+Gymnea Lily (Bush Flower Essences Australia) 6556024
+Hackberry (Desert Alchemy Essences Arizona) 17521324
+Buttercup (wild plant essences) 10765858
+Hairy Butterwort (Alaskan Flower Essences) 92114310
+Happiness (Mix) (AUM Himalayan Essences) 1214559
+Happy Wanderer (Living Essences Australia) 10158118
+Harebell (Alaskan flower essences) 10198914
+Healing (Mix) (AUM Himalayan Essences) 61048138
+Heart of Tantra (Mix) (AUM Himalayan Essences) 82671096
+Heart Orchid (orchid essences) 58216816
+Hedgehog Cactus (Desert Alchemy Essences Arizona) 15147146
+Hermit Crab (Pacific Sea Essences) 5142178
+Hibbertia (Bush flower essences Australia) 31619155
+Hibiscus (AUM Himalayan Essences) 10215611
+Hibiscus (FES Californian Flower Essences) 9688128
+Hidden Splendor (Mix) (AUM Himalayan Essences) 91325257
+Higher Self Orchid (Orchid Essences) 21361162
+Hops Bush (Living Essences Australia) 41216146
+Hoptree (Desert Alchemy Essences Arizona) 9589115
+Horsetail (Alaskan Flower Essences) 2108167
+Hound's Tongue (FES California Flower Essences) 99516413
+Hybrid Pink Fairy Cowslip Orchid (Living Essences Australia) 12591552
+Hylocereus undatus (cactus essences) 95665339
+Icelandic Poppy (Alaskan Flower Essences) 2557619
+Illawara Flame Tree (Bush Flower Essences Australia) 18611157
+Illyarrie (Living Essences Australia) 91214414
+Indian Almond (AUM Himalayan Essences) 51415313
+Indian Coral (AUM Himalayan Essences) 9671695
+Indian Gooseberry (AUM Himalayan Essences) 52013910
+Indian Mulberry (AUM Himalayan Essences) 57731210
+Indian Paintbrush (FES California Flower Essences) 57715476
+Indian Pink (FES California Flower Essences) 97215210
+Indian Root (Desert Alchemy Essences Arizona) 13981196
+Indian Tobacco (Desert Alchemy Essences Arizona) 71414382
+Indigo Bush (Desert Alchemy Essences Arizona) 9111213
+Initiative (Children's Flower Essences) 1577886
+Inmortal (Desert Alchemy Essences Arizona) 10153811
+Inspiration Orchid (Orchid Essences) 6167213
+Iris (FES Californian Flower Essences) 31250178
+Iris (wild plant essences) 11182244
+Isan (Mix) (AUM Himalayan Essences) 38381275
+Isopogon (Bush Flower Essences Australia) 1255138
+Ixora (orange white pink) (AUM Himalayan essences) 5111115
+Jacaranda (Bush Flower Essences Australia) 1388819
+Jack Fruit Tree (AUM Himalayan Essences) 18141611
+Jacob's Ladder (Alaskan Flower Essences) 81888415
+Japanese quince quince (tree blossom essences) 17832263
+Jasmine (Buddhafield Essences) 3632282
+Jellyfish (Pacific Sea Essences) 11687218
+St. John's wort (wild plant essences) 91110382
+St. John's wort (tree blossom essences) 99181196
+Jojoba (Desert Alchemy Essences Arizona) 15911397
+Judaspenning (Dutch flower essences) 7151289
+Jujube Tree (AUM Himalayan Essences) 4101676
+Jumping Cholla Cactus (Desert Alchemy Essences Arizona) 12170515
+K9 (Research Essence) (Africa Research Essences) 51457156
+Chamomile (wild plant essences) 1189162
+Canary Climbing Bellflower (Africa Research Essences) 71222118
+Canarian wormwood (Africa research essences) 17133954
+Kangaroo Paw (Bush Flower Essences Australia) 41171613
+Kapok Bush (Bush Flower Essences Australia) 8187477
+Klaproos (Dutch flower essences) 6917712
+Klein's Pencil Cholla Cactus (Des. Alch. Essences Arizona) 19351182
+Little Viltinkszwam (Dutch flower essences) 81792613
+Knšterich (wild plant essences) 11407147
+Coconut palm (Africa Research Essences) 10122010
+Kolokoltchik (Living Essences Australia) 17941187
+Komkommerkruid (Dutch flower essences) 15205175
+Mullein (wild plant essences) 11137886
+Kruidje Roer Me Rivet (Dutch Flower Essences) 77671018
+Pumpkin (wild plant essences) 1298147
+Labor of Love (Gravidity & Birth Essences) 1159910
+Labrador Tea (Alaskan Flower Essences) 81515415
+Lace Flower (Alaskan Flower Essences) 9291216
+Ladies' Tresses (Alaskan Flower Essences) 10910495
+Lady's Slipper (Alaskan Flower Essences) 10766295
+Lady's Slipper (FES California Flower Essences) 10397163
+Lamb's Quarters (Alaskan Flower Essences) 81115912
+Larkspur (FES Californian Flower Essences) 10961957
+Lavender (wild plant essences) 12802013
+Lavender (FES Californian Flower Essences) 17925884
+Leafless Orchid (Living essences Australia) 19712512
+Lemon (Buddhafield Essences) 50627125
+Let go (Mix) (AUM Himalayan Essences) 2124344
+Lettuce (Master's flower essences) 5451412
+Little Flannel Flower (Bush Flower Essences Australia) 98721429
+Longevity (Mix) (AUM Himalayan Essences) 9835611
+Lotus (AUM Himalayan Essences) 27122227
+Lotus (FES Californian Flower Essences) 33104957
+Lotus (Mix) (AUM Himalayan Essences) 29272511
+Lotus (wild plant essences) 3129139
+Love Lies Bleeding (FES California Flower Essences) 1265149
+Love Orchid (Orchid Essences) 13111011
+Dandelion (wild plant essences) 81710296
+Macrocarpa (Bush Flower Essences Australia) 16146216
+Macrozamia (Living essences Australia) 1338923
+Madia (FES Californian Flower Essences) 14971025
+Corn (wild plant essences) 71313107
+Mala Mujer (Desert Alchemy Essences Arizona) 1521266
+Malabar Nut Flower (AUM Himalayan Essences) 11221350
+Mallow (FES Californian Flower Essences) 17211195
+Mamillaria rubrograndis (cactus essences) 26970167
+Almond tree (wild plant essences) 15101015
+Mango (Buddhafield Essences) 12149159
+Many Headed Dryandra (Living Essences Australia) 8161713
+Manzanita (FES Californian Flower Essences) 91481818
+Mariola (Desert Alchemy Essences Arizona) 81113458
+Mariposa Lily (Desert Alchemy Essences Arizona) 92578014
+Mariposa Lily (FES California Flower Essences) 96104739
+Mast Flower (AUM Himalayan Essences) 1911657
+Mauve Melaleuca (Living Essences Australia) 11114157
+Maybelle Stearns (Perelandra Rose Essences) 8151032
+Melon Loco (Desert Alchemy Essences Arizona) 12141814
+Menalih (AUM Himalayan Essences) 1384108
+Menzies Banksia (Living Essences Australia) 11415154
+Mesquite (Desert Alchemy Essences Arizona) 1753939
+Mexican Shell Flower (Desert Alchemy Essences Arizona) 39336534
+Mexican Star (Desert Alchemy Essences Arizona) 2718144
+Milkweed (FES Californian Flower Essences) 19412116
+Milky Nipple Cactus (Desert Alchemy Essences Arizona) 16457133
+Mimosa (Africa Research Essences) 62154858
+Mint Bush (Bush Flower Essences Australia) 13271118
+Mistletoe (wild plant essences) 44817415
+Monkshood (Alaskan Flower Essences) 11323114
+Moon Snail (Pacific Sea Essences) 12615167
+Morning Glory (AUM Himalayan Essences) 63048138
+Morning Glory (Buddhafield Essences) 63513124
+Morning Glory (FES California Flower Essences) 6375460
+Morning Glory Tree (Desert Alchemy Essences Arizona) 7412106
+Moschatel (Alaskan flower essences) 20348187
+Mother and Child (Gravidity & Birth Essences) 13111031
+Mountain Devil (Bush Flower Essences Australia) 7261193
+Mountain Mahogany (Desert Alchemy Essences Arizona) 14910102
+Mountain Pennyroyal (FES California Flower Essences) 10591213
+Mountain Pride (FES California Flower Essences) 91541016
+Mountain Wormwood (Alaskan Flower Essences) 7387958
+Mr. Lincoln (Perelandra Rose Essences) 51442339
+Mugwort (FES Californian Flower Essences) 10551027
+Mulla Mulla (Bush Flower Essences Australia) 71862222
+Mullein (Desert Alchemy Essences Arizona) 11117813
+Mullein (FES California Flower Essences) 12121721
+Mussel (Pacific Sea Essences) 1694395
+Mycena (Dutch flower essences) 9124413
+Nasturtium (FES Californian Flower Essences) 4771514
+Nasturtium (Perelandra Garden Essences) 51010144
+Adderhead (Africa Research Essences) 10211251
+Neem (AUM Himalayan Essences) 12771413
+New Family (Gravidity & Birth Essences) 14238163
+Nicotiana (FES Californian Flower Essences) 81241022
+Night Jasmine (AUM Himalayan Essences) 1459224
+Night Queen (AUM Himalayan Essences) 75610912
+Nilgiri Longy (AUM Himalayan Essences) 7737149
+Nirjara (Mix) (AUM Himalayan Essences) 14134339
+Northern Twayblade (Alaskan Flower Essences) 51031387
+Northern Lady's Slipper (Alaskan Flower Essences) 7128102
+Nymphenburg (Perelandra Rose Essences) 61412446
+Ocotillo (Desert Alchemy Essences Arizona) 1475616
+Office Flower (AUM Himalayan Essences) 3341081
+Okra (Perelandra Garden Essences) 51134696
+Old Maid (Pink) (AUM Himalayan Essences) 3944495
+Old Maid (White) (AUM Himalayan Essences) 31611314
+Old Man Banksia (Bush Flower Essences Australia) 71712410
+One Sided Bottlebrush (Living Essences Australia) 85116916
+One Sided Wintergreen (Alaskan Flower Essences) 81314134
+Opium Poppy (Alaskan Flower Essences) 1415639
+Opuntia cardiosperma (cactus essences) 1422414
+Opuntia deiecta (cactus essences) 16149163
+Orange (Buddhafield Essences) 4511511
+Orange (Master's Flower Essences) 4781715
+Orange Leschenaultia (Living essences Australia) 7131894
+Orange Ruffles (Perelandra Rose Essences) 7943358
+Orange spiked Pea Flower (Living Essences Australia) 39421914
+Orbea variegata (cactus essences) 8199166
+Oregold (Perelandra Rose Essences) 94661395
+Oregon Grape (Desert Alchemy Essences Arizona) 71410481
+Oregon Grape (FES California Flower Essences) 71145119
+Organ Pipe Cactus (Desert Alchemy Essences Arizona) 8151299
+Oyster (Pacific Sea Essences) 11191028
+Paarse Dovenetel (Dutch flower essences) 70810147
+Pagoda Tree (AUM Himalayan Essences) 11314124
+Pale Sundew (Living Essences Australia) 1188879
+Papagaaieblad (Dutch flower essences) 21048121
+Papaya (Buddhafield Essences) 3855924
+Paper Birch (Alaskan Flower Essences) 35337464
+Bird of paradise flower (Africa Research Essences) 9946910
+Parakeelya (Living Essences Australia) 4968167
+Parrot Tree (AUM Himalayan Essences) 51071694
+Parval (AUM Himalayan Essences) 4048138
+Passion flower (wild plant essences) 38569713
+Past Life Orchid (orchid essences) 18744162
+Paw Paw (Bush Flower Essences Australia) 13581416
+Peace (Rose) (Perelandra Rose Essences) 51460311
+Peach (Master's Flower Essences) 82915139
+Peach flowered Tea Tree (Bush Flower Essences Australia) 1358114
+Peacock Flower (AUM Himalayan Essences) 3122119
+Pear (Master's Flower Essences) 13173107
+Peepal Tree (AUM Himalayan Essences) 98942313
+Pencil Cholla Cactus (Desert Alchemy Essences Arizona) 71564672
+Penstemon (FES Californian Flower Essences) 12374122
+Peppermint (FES Californian Flower Essences) 78448124
+Petunia (Buddhafield Essences) 81051210
+Philotheca (Bush Flower Essences Australia) 1231061
+Pill Bearing Spurge (AUM Himalayan Essences) 48886419
+Pilosocereus pachycladus (cactus essences) 1433777
+Pin Cushion Hakea (Living Essences Australia) 7813431
+Pineapple (Master's Flower Essences) 12142227
+Pineapple Weed (Alaskan Flower Essences) 12118339
+Pink Everlasting Strawflower (Living Essences Australia) 92111253
+Pink Fairy Orchid (Living Essences Australia) 92161612
+Pink Fountain Trigger Plant (Living Essences Australia) 5121493
+Pink Impatiens (Living Essences Australia) 87781238
+Pink Monkeyflower (FES California Flower Essences) 3313264
+Pink Mulla Mulla (Bush Flower Essences Australia) 71058135
+Pink Powder Puff (Buddhafield Essences) 21015100
+Pink Rose (karma flower essences) 2178212
+Pink Seaweed (Pacific Sea Essences) 21498858
+Pink Trumpet Flower (Living Essences Australia) 2516146
+Pink Yarrow (FES Californian Flower Essences) 21374122
+Pixie Pug (Living Essences Australia) 51131033
+Plankton (Pacific Sea Essences) 61291611
+Poison Oak (FES California Flower Essences) 2235291
+Pomegranate (Buddhafield Essences) 83122375
+Pomegranate (Desert Alchemy Essences Arizona) 83154103
+Pomegranate (FES Californian Flower Essences) 83105758
+Portia Tree (AUM Himalayan Essences) 31471058
+Pregnancy Tonic (Gravidity & Birth Essences) 6129611
+Prenatal Heal (Gravidity & Birth Essences) 84596816
+Pretty Face (FES California Flower Essences) 5611712
+Prickley Pear Cactus (Desert Alchemy Essences Arizona) 8294715
+Prickly Wild Rose (Alaskan Flower Essences) 18918663
+Morning Glory (Wild Plant Essences) 48116178
+Psycho Orchid (orchid essences) 1441276
+Purple and Red Kangaroo Paw (Living Essences Australia) 14921417
+Purple Enamel Orchid (Living Essences Australia) 22111181
+Purple Eremophila (Living Essences Australia) 11131111
+Purple Flag Flower (Living Essences Australia) 6014334
+Purple Flower (Dutch flower essences) 15816413
+Purple Lotus (Buddhafield Essences) 18197013
+Purple Mat (Desert Alchemy Essences Arizona) 91286489
+Purple Monkeyflower (FES California Flower Essences) 11111354
+Purple Nymph Water Lily (Living Essences Australia) 18176624
+Quaking Grass (FES California Flower Essences) 11413112
+Queen Anne's Lace (FES California Flower Essences) 91114195
+Queen of the Night (Desert Alchemy Essences Arizona) 14374510
+Queen Scallop (Pacific Sea Essences) 6015139
+Queensland Bottlebrush (Living Essences Australia) 8013445
+Quince (FES Californian Flower Essences) 10121721
+Rabbit Orchid (Living Essences Australia) 15131587
+Rabbitbrush (FES Californian Flower Essences) 17763758
+Radish (AUM Himalayan Essences) 51344495
+Rain Tree (AUM Himalayan Essences) 98115611
+Rainbow Cactus (Desert Alchemy Essences Arizona) 1020486
+Rainbow Kelp (Pacific Sea Essences) 14171989
+Rangoon Creeper (AUM Himalayan Essences) 2719463
+Raspberry (Master's Flower Essences) 17818125
+Ratany (Desert Alchemy Essences Arizona) 14912209
+Red and Green Kangaroo Paw (Living Essences Australia) 34498148
+Red Beak Orchid (Living Essences Australia) 89511414
+Red Clover (FES Californian Flower Essences) 2091779
+Red Feather Flower (Living Essences Australia) 13424229
+Red Grevillea (Bush Flower Essences Australia) 10779913
+Red Helmet (Bush Flower Essences Australia) 2910922
+Red Hibiscus (AUM Himalayan Essences) 3133257
+Red Hollycock (Buddhafield Essences) 2109467
+Red Hot Cat Tail (AUM Himalayan Essences) 24131114
+Red Leschenaultia (Living Essences Australia) 9718514
+Red Lily (Bush Flower Essences Australia) 13613154
+Red Powder Puff (Buddhafield Essences) 10252394
+Red Root (Desert Alchemy Essences Arizona) 4137616
+Red Silk Cotton (AUM Himalayan Essences) 9109129
+Red Suva Frangipani (Bush Flower Essences Australia) 51071061
+Red Orange Epiphyllum (Desert Alchemy Essences Arizona) 92781720
+Hoarfrost Daffodil (Africa Research Essences) 3127113
+Reuzenbalsemien (Dutch flower essences) 11512145
+Ribbon Pea (Living Essences Australia) 73151105
+Rippy Hillox (AUM Himalayan Essences) 58122227
+River Beauty (Alaskan Flower Essences) 11101016
+Rode Bosvogeltje (Dutch flower essences) 5764119
+Pink yarrow (wild plant essences) 14152286
+Rose Cone Flower (Living Essences Australia) 5614617
+Rosemary (FES Californian Flower Essences) 10664610
+Roseneibisch (Africa Research Essences) 21122179
+Rosemary (wild plant essences) 18411129
+Red clover (wild plant essences) 68711958
+Rough Bluebell (Bush Flower Essences Australia) 18814585
+Round leaved Sundew (Alaskan Flower Essences) 17103711
+Royal Highness (Perelandra Rose Essences) 1029762
+Russian Centaurea (Living Essences Australia) 16734177
+Russian Forget Me Not (Living Essences Australia) 13116143
+Sacred Datura (Desert Alchemy Essences Arizona) 14814142
+Sage (FES California Flower Essences) 2196995
+Sagebrush (FES Californian Flower Essences) 21031067
+Saguaro (Desert Alchemy Essences Arizona) 4988598
+Saguaro (FES Californian Flower Essences) 49646475
+Saint John's Word (FES California Flower Essences) 30311712
+Sage (wild plant essences) 13569475
+Salvia (Perelandra garden essences) 85212147
+Sand Dollar (Pacific Sea Essences) 42471695
+Scarlet Monkeyflower (FES California Flower Essences) 31171758
+Yarrow (wild plant essences) 18113218
+Scorpion Weed (Desert Alchemy Essences Arizona) 71081156
+Scotch Broom (FES California Flower Essences) 22412116
+Screw Pine (AUM Himalayan Essences) 1211987
+Sea Horse (Pacific Sea Essences) 15156164
+Sea Lettuce (Pacific Sea Essences) 69158211
+Sea Palm (Pacific Sea Essences) 27225187
+Sea Potato (Pacific Sea Essences) 71171514
+Sea Turtle (Pacific Sea Essences) 58134013
+Selenicerus grandiflorus (cactus essences) 4106126
+Self Heal (FES California Flower Essences) 10121123
+Senita (Desert Alchemy Essences Arizona) 56119914
+Seticereus icosagonus (cactus essences) 1835757
+Shasta Daisy (FES California Flower Essences) 79410175
+She Oak (Bush Flower Essences Australia) 81351214
+Shooting Star (Alaskan Flower Essences) 92069310
+Shooting Star (FES California Flower Essences) 9731067
+Shy Blue Orchid (Living Essences Australia) 92121417
+Silver Princess (Bush Flower Essences Australia) 1220139
+Silver Princess Gum (Living Essences Australia) 8177109
+Single Delight (Alaskan Flower Essences) 96981985
+Sithihea (AUM Himalayan Essences) 18771413
+Sitka Burnet (Alaskan Flower Essences) 11611163
+Sitka Spruce Pollen (Alaskan Flower Essences) 12711612
+Slender Rice Flower (Bush Flower Essences Australia) 61214149
+Slow Match (AUM Himalayan Essences) 10102511
+Snake Bush (Living Essences Australia) 8131397
+Snake Vine (Living Essences Australia) 10212119
+Snap Dragon (FES California Flower Essences) 51711597
+Snap Pea (Perelandra Garden Essences) 71250146
+Sneeuwklokje (Dutch flower essences) 56718914
+Soapberry (Alaskan flower essences) 61911107
+Soaptree Yucca (Desert Alchemy Essences Arizona) 56771343
+Sober up (Mix) (AUM Himalayan Essences) 13181275
+Sonia (Perelandra Rose Essences) 11511213
+Sunflower (wild plant essences) 1724094
+Sopa Nut Tree (AUM Himalayan Essences) 10181052
+Southern Cross (Bush Flower Essences Australia) 42279105
+Southern Cross (Living Essences Australia) 10121632
+Sow Thistle (Desert Alchemy Essences Arizona) 8788598
+Spanish Bayonet Yucca (Desert Alchemy Essences Arizona) 6911944
+Spathodea (Buddhafield Essences) 7101081
+Sphagnum Moss (Alaskan Flower Essences) 37124119
+Spinach (Master's Flower Essences) 11451412
+Spineless Prickly Pear (Desert Alchemy Essences Arizona) 15111213
+Spinifex (Bush Flower Essences Australia) 1075669
+Spiraea (Alaskan flower essences) 10214012
+Sponge (Pacific Sea Essences) 55581195
+Spotted Gliricidia (AUM Himalayan Essences) 10782210
+Staghorn Algae (Pacific Sea Essences) 34111412
+Staghorn Cholla Cactus (Desert Alchemy Essences Arizona) 32815131
+Star Leaf (Desert Alchemy Essences Arizona) 19710148
+Star of Bethlehem (Living Essences Australia) 99917116
+Star Primrose (Desert Alchemy Essences Arizona) 8911277
+Star Thistle (FES Californian Flower Essences) 2351046
+Star Tulip (FES Californian Flower Essences) 6471514
+Starfish (Pacific Sea Essences) 88121069
+Staudenfeuerkraut (wild plant essences) 14147511
+Holly (tree blossom essences) 84610314
+Stenocereus marginatus (cactus essences) 1058877
+Sticky Geranium (Alaskan Flower Essences) 15156114
+Sticky Monkeyflower (FES California Flower Essences) 17852073
+Pedunculate oak (tree blossom essences) 10492213
+Stopelia gigantea (cactus essences) 3214463
+Strawberry (Master's Flower Essences) 81210178
+Strawberry Cactus (Desert Alchemy Essences Arizona) 87839139
+Strength (Mix) (AUM Himalayan Essences) 1044339
+Sturt Desert Pea (Bush Flower Essences Australia) 71361739
+Sturt Desert Rose (Bush Flower Essences Australia) 76137515
+Summer Squash (Perelandra Garden Essences) 5419139
+Sun Plant (AUM Himalayan Essences) 10101011
+Sundew (Bush Flower Essences Australia) 18715116
+Sunflower (Alaskan Flower Essences) 7982139
+Sunflower (Buddhafield Essences) 75622527
+Sunflower (FES Californian Flower Essences) 71012103
+Sun Orchid (Orchid Essences) 74111358
+Sunshine Wattle (Bush Flower Essences Australia) 11478107
+Surfgrass (Pacific Sea Essences) 91023924
+Swallow Wart (AUM Himalayan Essences) 1016987
+Sweet Bell Pepper (Perelandra Garden Essences) 41133142
+Sweet Pea (FES Californian Flower Essences) 16910816
+Sweetgale (Alaskan Flower Essences) 11156912
+Sweetgrass (Alaskan Flower Essences) 41112119
+Syrian Rue (Desert Alchemy Essences Arizona) 14287139
+Tachinaste (white) (Africa Research Essences) 91514711
+Tall Yellow Top (Bush Flower Essences Australia) 4169112
+Tamarack (Alaskan Flower Essences) 15348187
+Tamarind Tree (AUM Himalayan Essences) 3475157
+Tansy (FES Californian Flower Essences) 51110187
+Tarbush (Desert Alchemy Essences Arizona) 15811101
+Tassel Flower (AUM Himalayan Essences) 2949314
+Teakwood Flower (AUM Himalayan Essences) 8730311
+Teddy Bear Cholla Cactus (Desert Alchemy Essences Arizona) 11112108
+Temple (AUM Himalayan Essences) 10141384
+Terra (Rescue Mix) (Dutch Flower Essences) 71610226
+Teunisbloem (Dutch flower essences) 10162658
+The Pongam (Mix) (AUM Himalayan Essences) 46111616
+Theresa Cactus (Desert Alchemy Essences Arizona) 70159137
+Thistle (Desert Alchemy Essences Arizona) 11114101
+Thunbergia (Buddhafield Essences) 12962064
+Thurber's Gilia (Desert Alchemy Essences Arizona) 17398175
+Thyme (Buddhafield Essences) 1571514
+Tiffany (Perelandra Rose Essences) 8415957
+Tiger Lily (FES California Flower Essences) 14788128
+Tomato (Master's Flower Essences) 14191310
+Tomato (Perelandra Garden Essences) 10101247
+Torroyia Rorshi (AUM Himalayan Essences) 7193159
+Bleeding heart (wild plant essences) 91145128
+Trauma Relief (Children's Flower Essences) 5118663
+Trillium (FES Californian Flower Essences) 5132103
+Trumpet Vine (FES California Flower Essences) 10872657
+Tulip Tree (AUM Himalayan Essences) 17111616
+Tundra Rose (Alaskan Flower Essences) 74114411
+Tundra Twayblade (Alaskan Flower Essences) 61013196
+Spotted St. John's wort (Alpine flower essences) 74101210
+Turkey Bush (Bush Flower Essences Australia) 14153177
+Twinflower (Alaskan Flower Essences) 17541093
+Ukshi (AUM Himalayan Essences) 9921412
+Urchin (Pacific Sea Essences) 16909657
+Urchin Dryandra (Living Essences Australia) 16103638
+Ursinia (Living Essences Australia) 17246108
+Primeval Sequoia (Tree Blossom Essences) 1297188
+Valerian (karma flower essences) 13867105
+Veil of Dreams (Mix) (AUM Himalayan Essences) 24131316
+Violets (wild plant essences) 24121216
+Venus orchid (orchid essences) 31954310
+Forget me not (wild plant essences) 18813816
+Veronica (Living Essences Australia) 17217169
+Victoria Regia (Orchid Essences) 78141792
+Vilayati Amli (AUM Himalayan Essences) 13912344
+Violet (FES California flower essences) 45562227
+Violet Butterfly (Living Essences Australia) 5822913
+Violet Curis (Desert Alchemy Essences Arizona) 41465136
+Vital Spark (Mix) (AUM Himalayan Essences) 71171694
+Wallflower Donkey Orchid (Living Essences Australia) 91712615
+Walnut (tree blossom essences) 19112211
+Waratah (Bush Flower Essences Australia) 65813923
+Warrior (Mix) (AUM Himalayan Essences) 14151392
+Water Lily (AUM Himalayan Essences) 1511711
+Water Lily (karma flower essences) 92718125
+Wedding Bush (Bush Flower Essences Australia) 91415512
+Poinsettia (Africa Research Essences) 20814307
+White lily (wild plant essences) 1567147
+White Narcissus (Alpine flower essences) 87131665
+Well being (Mix) (AUM Himalayan Essences) 86422310
+West Australian Christmas Tree (Living Essences Australia) 7944107
+West Australian Smoke Bush (Living Essences Australia) 6191445
+Whale (Pacific Sea Essences) 97316564
+White Bluebell (Karma Flower Essences) 61210166
+White Coral (AUM Himalayan Essences) 91122227
+White Desert Primrose (Desert Alchemy Essences Arizona) 99914661
+White Eremophila (Living essences Australia) 7828413
+White Fireweed (Alaskan Flower Essences) 20619713
+White Hibiscus (AUM Himalayan Essences) 8540495
+White Hollycock (Buddhafield Essences) 74198146
+White Lightnin '(Perelandra Rose Essences) 85738211
+White Lotus (Buddhafield Essences) 7996895
+White Nymph Water Lily (Living Essences Australia) 12513316
+White Spruce (Alaskan Flower Essences) 1112167
+White Violet (Alaskan Flower Essences) 91152012
+Whitethorn (Desert Alchemy Essences Arizona) 9521324
+Wild Grapevine (Desert Alchemy Essences Arizona) 1716266
+Wild Iris (Alaskan Flower Essences) 79131213
+Wild Iris (karma flower essences) 7977884
+Wild Orchid (karma flower essences) 51110013
+Wild Potato Bush (Bush Flower Essences Australia) 11141994
+Wild Rhubarb (Alaskan Flower Essences) 66816108
+Wild Violet (Living Essences Australia) 1091561
+Wild apple (tree blossom essences) 20322310
+Wild carrot (wild plant essences) 91561211
+Wild Peony (Alpine Flower Essences) 62271648
+Wild garlic (wild plant essences) 11478139
+Willow (Alaskan Flower Essences) 1194139
+Wisteria (Bush Flower Essences Australia) 99130172
+Wolfberry (Desert Alchemy Essences Arizona) 11912816
+Wolly Banksia (Living Essences Australia) 76131615
+Wolly Smokebush (Living Essences Australia) 16825115
+Wood Apple (AUM Himalayan Essences) 9117249
+Worthiness (children flower essences) 23128187
+Woven Spine Pineapple Cactus (Des. Alchem. Essences Arizona) 13105170
+Yarrow (Alaskan flower essences) 13107619
+Yarrow (Buddhafield Essences) 11766310
+Yarrow (FES California Flower Essences) 13742311
+Yarrow Special Formula (FES California Flower Essences) 21112162
+Yellow and Green Kangaroo Paw (Living Essences Australia) 52971487
+Yellow Boronia (Living Essences Australia) 15212914
+Yellow Canna (AUM Himalayan Essences) 21692311
+Yellow Champa (AUM Himalayan Essences) 19158148
+Yellow Cone Flower (Living Essences Australia) 23151286
+Yellow Cowslip Orchid (Bush Flower Essences Australia) 1190913
+Yellow Flag Flower (Living Essences Australia) 19174157
+Yellow Leschenaultia (Living Essences Australia) 10111510
+Yellow Rattle (karma flower essences) 10413227
+Yellow Silk Cotton (AUM Himalayan Essences) 11714424
+Yellow Star Tulip (FES Californian Flower Essences) 10101457
+Yellow Star Tulip (Dutch Flower Essences) 9171046
+Yellow Yarrow (Perelandra Garden Essences) 10145196
+Yerba Santa (FES California Flower Essences) 15881231
+Witch hazel (tree blossom essences) 31012159
+Zinnia (Buddhafield Essences) 18302118
+Zinnia (FES California flower essences) 10133616
+Zinnia (Perelandra garden essences) 12847166
+Zinnia (wild plant essences) 15831213
+Cistus (Africa Research Essences) 14164187
+Zucchini (Perelandra garden essences) 2448713
+Dwarf Alpenrose (Alpine Flower Essences) 6610463
+FE ACACIA 2 3 3 4.  6 10 13 14.  6 9 4 5 6
+FE ACONITE 2 2 3 4.  7 8 11 15.  7 9 2 4 4
+FE AFRICAN TULIP TREE 2 3 4 7 8.  9 12 15 31 34.   8 6 5 6 4 2
+FE AFRICAN VIOLET 1 2 2 3 3.  4 7 8 10 13.  6 9 4 1 5 7
+FE AGAVE 3 4 6 8 10.  10 16 24 35 42.  3 3 1 3 6 7
+FE AGAVE YAUIANA 1 2 2 3 3.  3 5 8 10 11.  3 5 6 8 3 7
+FE AGGRESSION ORCHID 1 1 1 1 1.  1 2 3 4 5.  3 3 4 5 9 6
+FE AGRIMONY 1 2 2 3 3.  3 6 8 11 12.  7 2 2 4 5 2
+FE ALDER 1 1 1 2 2.  2 3 5 5 5.  5 9 7 2 5 1
+FE ALDER (AMERICAN) 1 2 2 3 3.  3 6 9 12 13.  4 6 7 2 3 4
+FE ALFALFA 1 1 2 2 2.  2 3 7 8 8.  4 5 5 7 14
+FE ALFILARIA (FILAREE) 1 2 3 3.  4 7 9 13.  5 9 1 6 3
+FE ALLSPICE 1 2 2 2 3.  3 6 6 8 10.  4 8 3 9 1 7
+FE ALMOND 1 4 6 7 10.  5 14 23 30 41.  7 6 3 1 1 9
+FE ALOE VERA 2 3 5 10 10.  8 10 20 40 43.  2 1 4 2 3 3
+FE ALPINE AZALEA 1 1 1 2 2.  2 4 5 5 7.  4 5 9 2 7 9
+FE ALPINE LADYÕS MANTLE 1 1 2 2 2.  2 4 6 7 7.  4 3 6 8 2 5
+FE ALPINE LILY 1 1 2 2 3.  3 4 8 9 12.  4 5 8 9 1 9
+FE AMARANTHUS (RED) 2 2 4 7 9.  7 9 1627 38.  3 7 5 2 7 6
+FE AMARANTHUS-GOLDEN 1 2 2.  5 7 9.  7 87 4
+FE AMARYLIS 1 2 3 4 5.  3 5 13 16 19.  5 4 5 7 1 4
+FE AMAZON WATER 1 1 2 2 3.  2 4 7 9 10.  4 5 5 8 3 7
+FE ANEMONE 1 2 3 4.  3 7 11 14.  3 8 34 9
+FE ANGEL OF PROTECTION ORCHID 1 1 1 1 2.  3 3 4 4 6.  4 58 2 7 8
+FE ANGEL ORCHID 1 1 1 1 2.  2 2 34 7.  3 58 6 5 9
+FE ANGEL'S TRUMPHET 2 3 3 4.  7 11 1317.  9 34 8 6
+FE ANGELICA 1 3 5 7 10.  3 12 1928 42.  4 4 9 1 6 6
+FE APPLE 2 2 3 6 9.  6 8 12 25 38.  7 8 5 3 1 6
+FE APRICOT 2 3 4 5 7.  5 9 15 19 30.  32 6 2 5 9
+FE ARCHANGEL 1 1 3 3.  1 4 13 14.  3 5 4 9 3
+FE ARNICA 1 3 5 6 9.  3 10 18 26 36.  6 1 3 6 5 3
+FE ARTICHOKE (GLOBE) 2 2 3.  6 9 12.  7 9 2 9
+FE ASPARAGUS 2 2 3 3.  5 7 9 12.  5 6 1 2 5
+FE ASPEN 1 1 1 2 2.  3 4 4 8 9.  6 9 3 1 4 5
+FE ASTER (GOLDEN) 1 3 5 6 9.  3 11 19 26 36.  5 5 9 5 5 2
+FE ASTER (PINK) 1 2 2 2.  4 6 7 8.  6 6 7 9 1
+FE AVOCADO 2 5 5 7 9.  9 20 22 30 39.  5 2 5 8 4 6
+FE AZALEA 1 2 2 3.  3 6 8 11.  5 6 9 3 5
+FE BABY BLUE EYES 1 2 2 2 2.  4 5 6 7 7.  5 5 9 6 1 8
+FE BABYÕS BREATH 1 2 3 3 4.  4 7 9 13 17.  38 1 5 8 7
+FE BACHELOR'S BUTTON 2 3 5 6 9.  6 11 20 27 39.  7 4 1 8 6 8
+FE BALM OF GILEAD 1 1 1 2.  2 3 4 5.  5 5 6 1 8
+FE BALSAM POPLAR 1 1 1 1 1.  1 1 2 2 3.  3 5 4 6 8 8
+FE BAMBOO (JAPANESE) 2 2 3.  6 7 12.  6 8 4 9
+FE BAMBOO (SACRED) 2 3 4 5.  6 12 16 19.  9 6 5 9 2
+FE BANANA 1 2 6 10.  2 9 23 44.  6 4 5 7 4
+FE BANANA PASSION FLOWER 3 5 6 6 9.  12 21 23 25 38.  1 8 3 8 1 3
+FE BANANA PLANT 1 1 1 2 2.  4 4 5 5 6.  3 6 9 5 8 4
+FE BANKSIA BAXTENA 1 1 2 3.  3 5 6 11.  6 7 7 3 5
+FE BANKSIA LARICINA 1 1 2 2.  3 3 6 8.  4 7 7 9 9
+FE BANKSIA MARGINATA 1 2 2.  4 6 8.  6 6 9 3
+FE BANYAN 1 1 2 2.  2 3 7 9.  4 4 6 9 5
+FE BAOBAB TREE 1 1 2 3 4.  1 5 6 12 14.  5 7 7 6 6 4
+FE BARLEY 1 2 2 2.  3 6 7 8.  36 7 9 7
+FE BASIL(SACRED) 1 2 3 4 4 .  4 8 9 14 17.  6 1 1 6 9 5
+FE BASIL(SWEET) 1 2 3 6 8 .  2 8 13 24 31.  1 4 9 4 1 1
+FE BAYBERRY 1 2 3 3 .  3 6 9 12.  5 7 1 2 6
+FE BE-STILL  3 7 8 8 1 0 .  12 28 32 35 44.  1 8 5 3 2 1
+FE BEARBERRY 1 1 2 2 .  3 4 7 9.  6 9 7 8 3
+FE BEARDED IRIS 1 1 1 1 2.  2 3 4 5 5.  4 4 5 8 1 4
+"FE BED STRAW 2 2 2 3 3 .  6 8 9 11 12
+.  7 2 7 2 1 1
+"
+"FE BEECH 1 2 3 3 .  5 9 12 12
+.  8 9 2 6 7"
+FE BEECH (COPPER) 1 2 3 3 .  5 6 9 13.  8 1 2 5 7
+FE BEGONIA 1 1 2 3 3 .  2 4 7 9 12.  4 5 6 2 3 2
+FE BELLADONNA 1 2 2 2 .  3 6 7 9.  58 9 8 3
+FE BELLS OF IRELAND 1 3 5 5 8 .  1 11 20 22 35.  36 6 6 1 4
+FE BERGAMOT (SWEET) 1 3 5 6 1 0 .  5 10 19 26 42.  9 1 1 5 6 4
+FE BETAL NUT 2 3 3 3 4 .  7 11 13 14 17.  9 4 5 9 7 7
+FE BETHROOT 2 3 3 4 5 .  6 9 11 17 20.  2 1 4 8 2 8
+FE BETONY 1 1 1 2 2 .  1 4 5 7 8.  3 4 7 5 7 8
+FE BIRCH (WHITE EUROPE,FEMALE) 1 3 4 4 .  5 10 17 18.  7 3 9 9 1
+FE BIRCH (WHITE EUROPE,MALE) 2 4 5 7 9 .  7 16 22 28 39.  1 7 2 8 2 2
+FE BISTORT 1 2 4 5 .  59 18 21.  8 9 8 9 7
+FE BITTERSWEET 1 2 3 3 3 .  27 11 11 11.  5 7 2 7 9 3
+"FE BLACK SAMPSON  2 2 2 2 2 .  6 7 7 8 9.  6 7 1 5 9 1"
+FE BLACK SPRUCE 1 1 1 2 2 .  2 3 4 6 6.  3 5 4 7 9 1
+FE BLACK-EYED SUSAN 1 2 4 6 7 .  3 8 17 26 28 .  4 1 6 5 6 4
+FE BLACK-EYED SUZAN VINE (T.G.) 1 1 1 2 2.  2 3 3 7 8 .  5 8 3 9 4 2
+FE BLACKBERRY(RUBUS FRUCTOSUS) 5 5 5 7 9 .  18 20 22 29 39.  3 6 2 2 4 8
+FE BLACKBERRY(RUBUS URSINUS) 1 2 2 3 .  2 57 10.  3 5 7 9 6
+FE BLACKTHORN 1 1 1 1 2.  2 34 56.  4 4 8 7 7 3
+FE BLADDERWORT 1 1 1 2 2.  3 44 57.  4 5 6 1 8 6
+FE BLEEDING HEART 1 4 6 8 9.  3 14 24 32 39.   2 6 7 4 7 8
+FE BLESSED THISTLE 1 2 2 3.  3 7 8 11.  4 5 1 2 3
+FE BLOODROOT 2 4 4 6 9.  5 15 18 24 37.   4 3 7 7 3 6
+FE BLUE ELF VIOLA 1 1 1 2 2.  2 3 4 5 7.  4 8 5 1 7 7
+FE BLUE FLAG 1 3 4 6 8.  1 10 16 25 35.   1 3 14 4 4
+FE BLUEBELL 2 2 2 3 3.  7 7 9 13 13.  9 3 9 3 5 2
+FE BLUEBERRY POLLEN ESSENCE 1 1 2 2 2.  2 4 6 8 8.  5 5 7 8 1 8
+FE BO TREE  1 1 2 2.  3 4 6 8.  6 6 1 2 6
+FE BOG ASPHODEL 1 1 1 1 2.  2 2 3 4 5.  4 7 9 6 1 9
+FE BOG BLUEBERRY  1 1 1 1 1.  1 2 3 3 4.  4 4 4 6 8 8
+FE BOG ROSEMARY 1 2 3 3 3.  3 9 11 13 14.  5 8 3 3 8 9
+FE BORAGE 1 3 5 7 9.  3 11 20 30 37.   5 6 9 1 6 9
+FE BOTTLEBRUSH 2 4 5 6 10.  8 16 20 23 42.  7 7 6 5 3 1
+FE BOUGAINVILLEA 1 2 3 3.  3 5 10 12.  5 5 3 3 7
+FE BOUQUET OF HARMONY 1 3 4.  5 11 18.  8 4 8 2
+FE BOX 1 2 2 3 3.  4 7 8 10 13.  3 7 8 9 5 5
+FE BRACKEN (ALCOHOL EXTRACT) 1 1 2 2 2.  4 5 5 6 8.  5 7 2 6 8 1
+FE BRACKEN (AQUEOUS EXTRACT) 1 1 2 2 2.  1 1 6 8 8.  4 7 7 7 1 8
+FE BRAZIL NUT 2 3 3 3 4.  6 9 12 13 16.  8 2 5 9 9 6
+FE BREADFRUIT 3 4 6 6 7.  12 16 23 26 28.  5 8 3 8 9 6
+FE BRITTLEBUSH 1 1 12 2.  3 4 5 7 7.  6 17 7 2 5
+FE BROOM TEA 1 1 2 2 2.  3 5 6 7 8.  6 7 6 8 9 9
+FE BRUSSEL SPROUT 1 2 2.   3 6 7.  6 6 5 8
+FE BUDDLEIA 1 2 2 2 2.  3 6 8 9 9.  4 6 6 8 9 6
+FE BUNCHBERRY 1 1 1 2 2.  3 3 4 6 7.  3 7 16 6 5
+FE BURDOCK 1 1 2 2.  2 3 6 7.  3 7 7 8 7
+FE BUSH MUSK 1 1 1 12.  1 2 2 3 6.  4 4 7 5 6 8
+FE BUTTERBUR 1 1 1 1 1.  1 11 2 2.  3 6 8 4 7 1
+FE BUTTERCUP (CALIFORNIAN) 1 3 6 8 10.  3 12 24 34 40.   3 2 7 7 3 4
+FE CACAO 1 2 2.  4 6 7.  5 7 8 2
+FE CALENDULA (POT MARIGOLD) 1 2 2 3.  3 6 8 9.  4 7 8 2 3 
+FE CALIFORNIA PITCHER PLANT 2 2 5 7 9.  6 9 19 28 36.  6 9 2 6 3 8
+FE CALIFORNIA POPPY 1 2 2 3.  4 7 8 11.  5 8 1 3 8 
+FE CALIFORNIA WILD ROSE 2 4 5 6 9.  8 17 20 26 38.   19 2 6 3 3
+FE CALLA LILY 1 2 4 7 10.  3 9 18 29 43.  4 3 8 9 4 1
+FE CALYPSO ORCHID 1 1 2 2.  2 4 6 7.  4 4 6 5 1
+FE CAMPHOR 2 3 3 5.  6 10 10 22.  8 3 7 4 4
+FE CANDLENUT TREE 2 4 5 5 6.  8 14 19 20 23.   4 7 6 8 2 9
+FE CANTALUPE 1 2 3 3.  4 8 11 11.  6 8 2 7 5
+FE CANYON DUDLEYA 1 1 4 4 5.  1 3 14 15 20.  4 5 4 6 2 3
+FE CARAWAY 1 2 3 4 5.  3 6 10 17 19.  6 6 9 9 14
+FE CARDINAL FLOWER 1 2 5 5 6.  4 8 19 22 26.  5 2 5 6 7 7
+FE CARNATION PINK  2 4 5 8 9.  8 17 22 32 39.   2 1 5 4 8 2
+FE CARNATION RED 1 2 2.   2 7 8.  3 5 8 7
+FE CAROB 5 6 8 9.  18 24 33 39.  2 7 5 8 4
+FE CARROT 2 3 3 3.  6 9 11 12.  9 2 3 5 1
+FE CASHEW NUT 1 2 2 2 2.  5 7 8 8 9.  8 9 8 1 5 4
+FE CASSANDRA 1 1 1 1 2.  2 2 4 4 5.  3 5 3 6 1 9
+FE CASTOR BEAN TREE 1 1 2 2.  2 5 5 7.  3 7 5 5 2
+FE CAT'S TAIL 1 1 2 2 2.  3 4 7 7 8.  4 6 6 1 4 3
+FE CAT'S TAIL POLLEN ESSENCE 1 2 2 2 2.  4 6 6 8 8.  5 6 9 8 2 3
+FE CATNIP 1 1 1 2.  2 3 4 6.  3 5 6 6 2
+FE CAYENNE 5 5 6 9 9.  19 21 24 36 39.  6 3 6 5 1 3
+FE CEDAR 2 3 5 6 8.  9 12 18 27 36.  7 4 3 9 8 4
+FE CELANDINE (LESSER) 3 4 5 6 9.  11 14 21 25 38.  4 6 4 4 5 5
+FE CENTAURY 3 4 5 6 8.  10 17 18 28 32.  3 8 3 2 4 2
+FE CENTAURY AGAVE 1 1 2 3 3.  3 4 7 12 13.  5 6 7 3 5 8
+FE CERATO 1 2 2 3 3.  3 6 8 12 12.  3 7 8 4 6 1
+FE CHAMOMILE 1 2 2.  3 7 9.  3 7 9 1
+FE CHAMOMILE-DYE 1 1 1 2 2.  2 4 5 6 8.  3 4 8 7 7 2
+FE CHANNELLING ORCHID 2 3 3 4 4.  8 10 13 14 15.  9 13 6 9 1
+FE CHAPARRAL 2 5 7 1 0.  9 21 29 44.  3 5 7 4 1
+FE CHARLOCK 1 1 1 1 2.  2 3 3 4 7.  5 4 7 5 7 1
+FE CHELIDONIUM 1 3 3 7 10.  3 18 21 28 42.  4 2 4 2 8 2
+FE CHERRY 4 4 7 9 10.  14 17 28 36 42.  4 9 4 4 14'
+FE CHERRY PLUM 1 3 4 6 9.  1 10 14 24 36.  3 3 7 7 5 7
+FE CHERVIL 2 2 2 2.  6 7 8 9.   8 7 7 3 7
+FE CHESTNUT BUD 1 1 1 2 2.  2 3 3 6 6.  5 9 2 6 9 4
+FE CHICKWEED 1 2 3 3.  3 6 10 12.  5 7 3 2 8
+FE CHICORY 2 2 3 3.  7 8 11 1 1.  9 9 2 5 7
+FE CHIMING BELLS 1 1 1 1 1.  1 2 3 3 4.  4 3 3 6 5 3
+FE CHINESE WISTARIA 1 2 2 2 2.  3 5 7 8 9.  5 5 9 4 7 3
+FE CHINESE WITCH HAZEL 1 1 1 2 2.  2 3 3 5 6.  4 9 4 5 8 3
+FE CHOCOLATE ORCHID 1 1 2 2 2.  2 4 6 6 8.  5 5 7 1 8 8
+FE CHOLLA 1 5 6 9 9.  4 18 27 37 40.  5 1 9 5 9 2
+FE CHRISTÕS THORN 2 2 2 2.  6 9 9 9.  1 3 5 9 9
+FE CHRYSANTHEMUM 1 1 2.  3 4 6.  3 6 6 6
+FE CINNAMON 1 1 1 1 2.  1 3 3 4 6.  2 3 7 1 6 1
+FE CINQUEFOIL 1 3 4 7 9.  2 10 14 30 36.  1 3 6 6 1 8
+FE CLARKIA 1 2 2 3 3.  3 5 8 10 13.  4 5 8 9 4 3
+FE CLARY SAGE 1 1 1 3 3.  2 3 4 9 12.  5 4 6 1 4 2
+FE CLEAVERS 2 3 4 5 5.  7 12 16 19 21.  9 1 9 9 9 1
+FE CLOVE 1 2 3 3 3.  3 7 10 10 12.  6 9 3 6 4 1
+FE CLOVER (RED) 1 2 2 2.  3 6 8 9.  6 7 9 9 4
+FE CLOVER-ALL VARIETIES 1 1 1 1 2.  2 3 4 4 7.  3 6 9 6 7 4
+FE CO-ORDINATION ORCHID 1 2 2 3 3.  1 7 9 10 1 1.  3 5 7 1 3 1
+FE COCONUT TREE 1 2 3 3.  4 8 10 1 1.  6 9 1 6 4
+FE COFFEE 3 3 5 8 8.  10 11 22 31 35.  9 4 9 1 9 5
+FE COHOSH (BLACK) 2 2 3 4.  6 9 12 14.  6 9 2 4 3
+FE COLEUS 1 1 1 1 1.  1 2 4 4 5.  2 3 4 6 9 6
+FE COLORADO SPRUCE 1 1 1 2 2.  3 4 5 5 7.  4 5 8 3 7 9
+FE COLOUR ORCHID 1 1 2 2 2.  3 5 7 8 9.  4 7 6 1 5 5
+FE COLTSFOOT 1 1 1 1 2.  2 3 4 4 8.  4 5 8 5 8 3
+FE COLUMBINE (CRIMSON) 1 4 5 7 10.  4 17 22 30 41.  9 7 3 2 9 3
+FE COLUMBINE (SCARLET & GOLD) 1 1 2 2 3.  1 3 7 7 10.  3 3 7 9 1 5
+FE COMBINATION 1 2 2 3 3 3.  6 7 12 13 14.  7 7 3 5 8 3
+FE COMBINATION 2 1 2 3 3 3.  3 7 10 11 13.  6 7 1 4 4 4
+FE COMBINATION 3 1 1 2 2 2.  2 2 6 8 8.  3 7 8 8 2 1
+FE COMFREY 1 2 4 7 9.  2 9 17 29 38.  3 5 3 9 1 3
+FE COMFREY (RUSSIAN) 1 2 2 3 3.  1 7 8 10 13.  4 7 4 1 4 2
+FE COMMANDRA 1 1 1 1 2.  2 2 3 4 7.  4 6 9 5 7 4
+FE COMMON MONKEY FLOWER 1 3 4 6 8.  4 10 14 24 33.  6 6 3 5 8 1
+FE CORAL HIBISCUS 1 2 5 7 9.  3 9 19 30 37.  2 9 2 1 3 8
+FE CORAL PEA 1 1 2 2 2.  2 3 6 7 7.  4 4 6 7 2 5
+FE CORAL ROOT 1 2 2 2.  3 6 6 7.  6 7 3 8 6
+FE CORIANDER 1 2 3.  3 6 9.  6 8 1 6
+FE CORN (HOPI) 1 1 1 2.  2 3 4 7.  3 5 6 6 2
+FE CORN (SWEET) 3 4 5 6 7.  10 18 21 25 28.  8 8 3 1 3 5
+FE CORN LILY 1 1 2 3 3.  3 3 7 9 12.  4 7 7 1 1 2
+FE CORNFLOWER 2 2 2 3 3.  5 6 8 10 1 1.  5 9 1 1 5 3
+FE COSMOS 4 5 6 9 10.  16 20 24 36 40.  4 6 6 4 2 4
+FE COTTON GRASS (COMMON) 1 4 5 5 8.  2 17 20 21 34.  1 7 4 6 5 5
+FE COTTON GRASS (COMMON) 1 1 1 1 2.  2 3 3 4 6.  3 4 7 6 7 9
+FE COW PARSNIP 1 1 1 2 2.  1 3 3 5 7.  2 4 6 5 7 6
+FE COWSLIP 1 3 4 4.  4 10 14 15.  6 6 7 2 3
+FE CRAB APPLE 2 4 7 8 10.  9 17 29 35 43.  9 7 3 6 4 2
+FE CRANESBILL 4 5 5 8 10.  17 20 22 34 42.  2 2 9 5 9 9
+FE CRAPE MYRTLE 1 1 1 2.  3 4 4 7.  5 9 5 8 9
+FE CREEPING THISTLE 1 1 1 2.  2 3 4 5.  2 5 4 5 7
+FE OREOSOTE 4 5 6 6 7.  15 20 23 27 30.   5 3 6 9 6 2
+FE CROSSANDRA 2 3 4 5 6.  7 12 18 22 25.  9 8 9 4 5 8
+FE CROWN OF THORNS 1 1 1 2.  2 3 4 6.  3 6 5 6 2
+FE CYCLAMEN 1 1 2 3 4.  3 5 7 14 16.  6 8 7 8 7 9
+FE DAFFODIL 3 5 5 7 9.  12 19 19 30 39.  3 4 8 4 2 3
+FE DAHLIA 1 1 2 3.  2 4 7 9.   7 6 9 2 6
+FE DAISY (ENGLISH) 1 1 3 7 8.  2 5 13 29 33.  7 7 2 5 6 9
+FE DANDELION 1 2 5 6 10.  3 8 19 26 41.  9 6 2 9 5 4
+FE DAPHNE 1 2 2 2 3.  3 6 7 7 10.  5 7 7 1 1 3
+FE DATE PALM 2 4 6 8 9.  7 14 25 32 38.  1 2 8 1 8 2
+FE DATURA SANGUINEA 1 2 3 3 3.  5 7 9 11 12.  7 8 1 4 3 5
+FE DAYFLOWER 1 1 2 2.  2 4 6 6.   3 5 7 2 8
+FE DEER BRUSH 1 1 1.  1 3 4.  4 5 6 6
+FE DESERT WILLOW 3 4 6 1 0.  13 15 24 40.  4 2 1 3 1
+FE DEVA ORCHID 1 1 2 2 2.  1 4 6 6 8.  4 3 7 9 7 3
+FE DIANTHUS 1 2 3 4 4.  4 7 10 14 17.  6 9 1 5 7 1
+FE DIGGER PINE 1 1 1 1 1.  1 2 2 4 5.  4 4 6 4 8 8
+FE DILL 2 4 5 7 9.  6 15 22 27 39.  9 8 5 1 1 6
+FE DOG ROSE 1 2 2 2 3.  4 5 8 9 10.  6 1 2 6 3 9
+FE DOGS TOOTH VIOLET 1 1 1 1 2.  2 3 3 4 5.  4 5 7 9 5 3
+FE DOGWOOD (FLORIDA) 1 2 2 2.  2 6 6 8.  5 7 3 2 8
+FE DOGWOOD (PACIFIC) 2 3 5 7 9.  6 13 20 31 39.  7 7 1 3 2 2
+FE DOUBLE SNOWDROP 1 1 2 2 2.  3 3 6 6 6.  4 6 6 7 1 6
+FE DUTCHMANÕS BREECHES 1 2 3 4 4.  4 8 12 14 17.  4 8 1 7 6 8
+FE DWARF AMERICAN COWSLIP 1 1 2 2 2.  2 5 7 8 9.  4 7 8 9 4 5
+FE EARLY PURPLE ORCHID 1 1 1 1 2.  2 2 4 5 7.  4 7 5 8 6 3
+FE EASTER LILY 2 3 3 4.  6 10 13 14.  7 8 4 1 2
+FE EDELWEISS 1 2 2 2.  4 7 8 8.  6 8 5 8 9
+FE ELECAMPAGNE 1 1 2 2.  2 4 6 7.  2 5 7 6 2
+FE ELM (ENGLISH) 1 2 3 4 4.  2 6 10 15 17.  3 1 5 1 6 7
+FE EUCALYPTUS 2 5 7 9.  8 20 31 38.  9 2 5 4 2
+FE EUROPEAN MOUNTAIN ASH 2 5 6 7 8.  8 19 26 31 34.  8 2 5 3 7 7
+FE EVENING PRIMROSE 1 3 4 5 7.  2 10 17 24 29.  3 4 9 4 7 9
+FE EYEBRIGHT 1 1 1.  2 3 4.  3 5 3 2
+FE FAIRY LANTERN 2 2 3 3.  6 8 12 13.  7 1 8 6 4
+FE FAWN LILY 1 2 3 3 4.  4 7 11 12 15.  5 6 2 2 5 2
+FE FENNEL 1 1 2 3.  3 3 6 9.  4 7 7 1 1
+FE FEVERFEW 1 2 3 3.  3 6 10 13.  5 8 3 5 3
+FE FIELD HORSETAIL 1 2 2 3 3.  4 7 9 12 12.  6 6 7 2 5 8
+FE FIG 5 5 7 9 9.  19 22 29 37 40.  7 5 2 4 8 8
+FE FIGWORT 1 1 1 2.  2 3 4 7.  4 5 5 9 5
+FE FIRE THORN 1 1 1 2 2.  1 4 5 6 6.  3 5 8 7 1 6
+FE FIRETHORN (RED FRUITED) 1 1 2 3.  4 5 7 9.  4 7 6 1 9
+FE FIREWEED 3 5 7 9 10.  9 20 28 38 42.  1 3 3 9 1 8
+FE FLAME OF THE FOREST 1 1 1 1 2.  2 3 3 4 7.  3 4 7 5 7 8
+FE FLAX 1 2 3 3 3.  5 8 11 12 12.  7 9 3 4 8 4
+FE FLEAWORT SEED 1 1 1 1 1.  1 1 2 4 5.  4 8 3 5 8 1
+FE FLOSS FLOWER 1 2 2 2.  3 6 7 7.  6 6 9 3 6
+FE FLOWERING CURRANT 1 2 2 2 3.  2 6 8 8 10.  3 6 9 1 1 2
+FE FORGET-ME-NOT 1 2 4 7 10.  3 7 18 29 42.  6 2 5 3 3 1
+FE FORGET-ME-NOT (ALPINE) 1 1 2 2 3.  3 4 6 8 10.  4 8 6 8 1 9
+FE FORSYTHIA 2 4 4 6 9.  6 16 18 23 40.  7 3 6 8 9 6
+FE FOUR LEAF CLOVER 2 5 6 5 10.  9 18 25 35 43.  5 2 1 3 6 8
+FE FOUR-OÕCLOCK (SWEET) 1 2 5 6 10.  4 8 22 26 40.  6 2 3 6 1 9
+FE FOXGLOVE 1 2 2 3 3.  2 7 8 10 12.  6 8 2 4 4 6
+FE FRANGIPANI 1 1 2 2 3.  2 3 7 8 1 1.  5 1 9 1 2 9
+FE FREESIA 1 3 4 5 7.  5 9 16 22 29.  8 2 9 7 1 9
+FE FUCHSIA 4 5 6 3 9.  16 19 23 32 38.  4 9 7 8 1 2
+FE FUJI CHERRY 1 2 2 2.  4 6 9 9.  3 7 7 8 7
+FE FULLHORN CATLEYA 1 1 1 1 1.  1 2 2 3 4.  3 4 7 9 4 9
+FE FUMITORY 1 1 2 2 2.  3 4 6 6 7.  4 4 8 2 8 8
+FE FUN ORCHID 1 2 3 3 3.  4 7 9 12 13.  5 8 2 4 5 6
+FE GARLIC 4 6 8 9 9.  18 23 32 36 40.  8 6 5 5 6 3
+FE GARLIC (CHIVES) 1 1 1 2 2.  2 4 4 6 7.  3 4 6 7 7 9
+FE GARLIC (SOCIETY) 1 1 1 2 2.  2 4 5 7 9.  4 5 9 7 7 5
+FE GAS PLANT(FRAXI./BURN.BUSH) 1 1 1 1.  1 2 3 4.  5 2 7 5 1
+FE GENTIAN 1 2 4 4.  5 5 14 17.  7 2 7 8 6
+FE GERANIUM (PINK) 1 1 2 2.  3 4 6 3.  5 9 7 9 3
+FE GERANIUM PROCURRENS 1 1 1 1 2.  3 3 4 4 7.  3 6 1 5 6 3
+FE GILIA 2 4 4 5 7.  7 15 18 21 30.  8 9 8 5 5 8
+FE GiNGER (RED) 13 6 6 8.  1 12 25 26 34.  6 4 3 3 1 8
+FE GINGER (WILD) 1 1 2 2.  2 5 7 5.  4 7 2 9 4
+FE GINSENG (AMERICAN) 1 1 2 2 2.  2 4 6 7 9.  3 4 7 8 9 4
+FE GLADIOLI 1 1 2 2.  3 4 6 8.  5 4 9 9 9
+FE GLORY BUSH 2 4 5 7 9.  9 16 20 28 38.  7 5 3 7 8 3
+FE GOLDEN CORYDALIS 1 1 2 3 3.  4 5 8 10 12.  5 8 8 9 3 6
+FE GOLDEN EAR DROPS 1 2 6 7 10.  3 9 24 30 42.  6 8 6 1 4 7
+FE GOLDEN ROD (CANADIAN) 1 3 7 9 10.  3 11 28 36 41.  2 2 9 6 8 9
+FE GOLDEN ROD BUD 1 2 3 3 3.  4 8 10 12 12.  5 9 3 4 7 1
+FE GOLDEN SEAL 1 1 2 2.  2 5 5 6.  6 7 1 6 2
+FE GOOSEBERRY 2 3 4.  5 12 14.  5 3 6 5
+FE GORSE 1 1 1 1 2.  1 2 3 3 5.  3 3 5 7 5 5
+FE GOTA KOLA 1 1 2 2 3.  3 5 7 9 11.  5 7 9 3 4 1
+FE GRAPEFRUIT 2 3 4 7 8.  9 14 17 29 35.  6 9 8 7 9 3
+FE GRASS OF PARNASSUS 1 2 2 2 2.  4 6 7 7 8.  6 6 8 3 6 2
+FE GREAT LEOPARDS's BANE 1 2 2 3 3.  3 8 9 10 10.  4 1 9 3 5 4
+FE GREEK VINE 1 1 2 3 4.  2 4 8 11 16.  6 6 6 2 8 1
+FE GREEN BOG ORCHID 2 2 3 3 4.  6 8 12 13 14.   7 9 2 5 5 1
+FE GREEN FAIRY ORCHID 1 1 2 2 3.  3 4 7 7 10.  3 5 7 1 1 8
+FE GREEN ROSE 1 3 4 7 9.  3 11 17 29 39.   4 9 7 2 6 1
+FE GROVE SANDWORT 1 1 1 2 2.  3 3 4 6 7.  4 7 6 7 7 4
+FE GUAVA 1 1 1 1 2.  2 3 4 5 6.  5 4 6 8 6 2
+FE GUM-PLANT 2 3 5 7 10.  8 12 20 30 42.  7 2 3 2 6 2
+FE HAIRY BUTTERWORT 1 1 2 2 2.  3 4 6 6 6.  6 3 7 1 4 3
+FE HAIRY CAT'S EARS  1 1 1 1 2.  1 1 2 3 6.  3 5 4 4 6 4
+FE HAIRY SEDGE 1 1 1 2.  2 4 5 6.  4 4 7 8 5
+FE HARE BELL 1 1 1 1 1.  2 2 3 3 3.  3 6 8 4 7 1
+FE HARVEST BRODIAEA 1 2 4 6 9.  3 9 14 23 37.  4 7 4 4 7 8
+FE HAWTHORN 1 4 5 6 9.  5 17 20 24 40.  7 6 4 3 7 9
+FE HAWTHORN (ENGLISH) 1 1 1 1 1.  2 3 3 4 4.  6 9 5 8 1 2
+FE HEART ORCHID 1 2 2 3 3.  3 6 8 11 11.   4 6 7 2 6 7
+FE HEATH BEDSTRAW 1 1 1 2 2.  2 3 5 5 8.  4 5 9 3 7 1
+FE HEATHER 1 1 1 1 1.  2 3 3 3 4.  6 9 3 7 5 3
+FE HEATHER (RED MOUNTAIN) 2 2 3 3.  6 8 12 12.  9 8 1 3 3
+FE HELLEBORE (BLACK) 1 1 2.  2 3 6.  4 4 8 7
+FE HELLEBORE (WHITE) 1 1 1 2.  2 3 3 5.  3 8 4 5 2
+FE HENBANE 1 2 2 3.  4 6 8 9.  4 8 9 2 5
+FE HENNA 3 4 5 8 10.  11 14 20 31 41.   6 4 4 2 5 3
+FE HIBISCUS 1 3 4 5 6.  2 12 18 22 23.  1 5 9 2 6 5
+FE HIGHER SELF ORCHID 1 2 2 2 3.  3 6 8 9 11.  4 7 9 3 2 7
+FE HIMALAYAN 'TOUCH-ME-NOT' 1 1 2 2 3.   3 4 5 8 10.   4 9 5 8 1 9
+FE HIMALAYAN BALSAM 1 1 2 2 2.  1 3 5 • 9.  4 4 5 8 8 2
+FE HOLLY 1 1 1 1 1.  1 2 2 4 4.  3 4 7 3 5 4
+FE HOLLYHOCK 1 4 6 8 10.  2 14 23 33 43.  3 6 5 4 5 5
+FE HONESTY 1 1 3 3.  2 4 11 12.  4 5 2 3 5
+FE HONEYSUCKLE 1 1 1 2.  3 4 5 6.  5 5 9 6 7
+FE HOPS 4 5 7 8 9.  16 21 29 34 36.   2 8 9 7 1 9
+FE HOREHOUND 1 1 1 1 1.  2 3 3 4 5.  5 9 5 9 7 8
+FE HORN OF PLENTY ORCHID 1 1 1 1 1.  1 2 2 3 4.  3 4 7 9 4 9
+FE HORNBEAM 1 1 1 2 2.  3 3 4 7 9.  3 6 6 7 7 2
+FE HORSERADISH 1 2 2 3.  4 7 8 13.  6 8 1 3 9
+FE HORSETAIL 1 1 1 1 1.  1 1 3 3 4.  4 7 3 7 1 4
+FE HOUND'S TONGUE 1 2 2.  3 6 8.  5 8 1 5
+FE HOUSELEEK 1 1 2 2 2.  3 4 7 8 9.  4 6 7 1 9 9
+FE HYACINTH (WHITE) 1 1 2 2.  3 5 6 7.  6 7 7 7 9
+FE HYDRANGEA (GREEN) 1 1 2 2 2.  2 2 6 6 7.  4 7 7 1 9 1
+FE HYSSOP 1 3 4 5 8.  4 12 17 22 34.  6 1 9 4 1 3
+FE ICELAND POPPY 1 1 2 2 2.  4 4 7 7 8.  3 6 6 8 8 4
+FE ILIMA LEI  3 5 6 7 9.  12 19 24 28 39.   4 9 6 2 7 1
+FE IMPATIENS (WALLERIANA) 5 6 8 9 10.  21 23 33 39 43.   8 6 4 7 7 5
+FE INDIAN PAINTBRUSH 2 2 5 6 9.  6 9 19 25 36.   6 3 9 4 5 9
+FE INDIAN PINK 1 2 2 2.  5 7 8 9.  8 8 1 9 8
+FE INDIGO (WILD) 1 1 2 2 2.  2 3 7 8 9.  6 6 9 1 5 9
+FE INSPIRATION ORCHID 1 1 2 2 2.  1 3 6 7 9.  4 4 6 6 7 9
+FE IPECACUANHA 1 1 3 5.  2 3 13 18.  5 9 5 2 3
+FE IRIS (DOUGLASIANA) 1 2 2.   37 9.  4 9 7 2
+FE JACOBÕS LADDER 1 2 2 2.  4 6 7 9.  6 9 7 9 4
+FE JACOBÕS LADDER (PURPLE) 1 2 2 3 3.  3 5 9 9 12.  5 5 8 1 2 3
+FE JAPANESE HONEYSUCKLE 2 2 2 3 3.  6 6 9 12 12.  7 2 9 3 5 8
+FE JAPANESE MAGNOLIA 2 3 3 3 3.  8 10 10 12 12.  9 3 7 4 8 4
+FE JAPANESE MAPLE 1 1 1 1 2.  2 3 4 4 7.  4 4 8 3 7 8
+FE JASMINE 1 2 3 3.  4 7 9 11.  6 9 1 3 1
+FE JERUSALEM ARTICHOKE 1 2 3 3 4.  4 8 11 13 17.  6 1 4 6 8 7
+FE JEWEL FLOWER 3 5 6 7 10.  10 19 23 28 41.  3 2 5 8 5 5
+FE JIMSON WEED 1 2 2 3.  3 6 8 13.  6 8 1 5 2
+FE JOJOBA 1 1 1 1 1.  1 2 3 4 5.  5 4 4 5 8 8
+FE JUDAS TREE 1 2 2 2 3.  2 5 5 8 13.  4 6 1 1 5 8
+FE KAHILI GINGER 1 4 6 7 9.  2 14 24 31 38.  4 2 2 6 4 9
+FE KAT (KHAT) 2 3 3 4.  • 9 12 14.  8 2 4 7 3
+FE KIDNEY BEAN 1 2 4 4.  3 8 15 1e.  5 8 5 8 8
+FE KIWI 1 3 3 4 4.  51 1 12 14 18.  9 3 4 7 9 5
+FE KNOT GRASS 1 2 2 3.   3 7 9 12.  6 1 9 2 9
+FE KOENIGN VAN DAENMARK 1 1 2.  2 3 6.  5 5 1 2
+FE KOHLRABI 1 1 2 2 3.  3 4 6 81 2.  6 9 8 9 2 7
+FE LABRADOR TEA 1 1 2 2 2.  4 5 5 5 6.  4 8 2 3 6 5
+FE LACE FLOWER 1 2 2 2 3.  3 5 8 8 10.  4 4 8 2 9 9
+FE LADYÕS MANTLE 1 1 1 1 1.   11 2 3 4.  3 5 3 4 4 1
+FE LADYÕS PURSE 1 2 2 2 3.  2 6 7 8 12.  3 6 6 7 2 5
+FE LADYÕS SLIPPER 1 1 1 1 2.  1 2 3 4 5.  4 3 6 5 5 5
+FE LADYÕS SLIPPER WHITE & RED 1 1 2 2 2.  3 3 5 7 9.  3 6 5 6 8 1
+FE LADYÕS TRESSES 1 1 1 1 2.  1 2 3 4 7.  4 3 4 6 9 8
+FE LAMBS QUARTERS 1 2 2 2 2.  3 6 8 8 9.  3 6 9 2 6 8
+FE LANTANA 1 1 2 2.  3 5 6 8.   5 7 9 1 4
+FE LARCH 1 1 1 1 1.  1 1 2 3 4.  3 5 4 8 4 6
+FE LARKSPUR 2 4 5 7 10.  8 16 20 28 40.  8 2 2 2 2 7
+FE LAVENDER (ENGLISH) 1 5 5 6 8.  3 20 22 25 34.  6 3 2 6 4 3
+FE LAVENDER (FRENCH) 1 2 3 4 5.  5 7 12 16 21.  7 7 4 8 1 9
+FE LEEK 1 2 2 4.   2 6 6 16.  5 6 9 8 1
+FE LEHUA 1 2 2 4.  1 6 6 15.  5 8 1 6 2
+FE LEMON 1 2 4 8 9.  1 5 17 31 40.  2 3 6 2 7 2
+FE LEMON BALM 1 1 2 2.  2 3 5 6.   3 4 4 8 1
+FE LEMON GRASS 1 2 2 2 3.  3 6 6 7 10.  6 8 3 1 9 9
+FE LENTEN ROSE 2 4 6 7.  9 18 27 30.  9 8 7 1 7
+FE LETTUCE (COMMON CABBAGE) 1 1 1 1 2.  1 2 3 3 5.  2 5 9 4 5 7
+FE LETTUCE (WILD) 1 2 3 3 4.  4 6 10 10 14.  6 7 3 7 6 2
+FE LICORICE 2 2 3 3 5.  7 8 11 13 20.  8 9 3 9 4 6
+FE LIGUSTRUM 1 1 1 2 2.  2 3 5 6 8.  5 5 7 8 1 8
+FE LILAC 3 4 7 9 10.  10 14 28 40 41.  9 7 9 9 6 4
+FE LILY (WHITE) 1 2 3 4 4.  5 8 12 14 15.  7 1 7 4 5 6
+FE LILY OF THE NILE 1 1 2 3 3.  3 5 8 10 13.  4 7 7 8 5 4
+FE LILY OF THE VALLEY 1 1 2 2 2.  3 4 6 8 9.  4 5 6 8 9 5
+FE LIMA BEAN 2 2 3 4 6.  6 8 12 17 23.  8 1 4 8 5 8
+FE LIME 1 1 1 1 1.  1 1 2 3 3.  3 5 5 8 4 7
+FE LIME FLOWERS 2 2 3 4.  6 6 9 16.  7 2 2 8 1
+FE LIONÕS TAIL 1 2 3 3 4.  5 5 10 13 16.  7 4 8 6 8 6
+FE LITCHI 1 1 2 3.   11 7 10.  3 7 3 1 5
+FE LIVE FOREVER/PEARLY EVERLNG 1 3 5 8 10.  2 12 22 32 40.  9 1 6 4 1 3
+FE LIVE LONG 3 4 5 8 9.  13 15 20 35 40.  4 3 8 2 7 6
+FE LIVERWORT 2 3 3 4 4.  5 12 12 14 18.  5 2 4 5 8 6
+FE LOBELIA 1 1 2 2.  1 5 5 6.   2 7 3 1 4
+FE LOOSESTRIFE 1 1 2 2 3.  2 5 7 8 10.  4 8 8 9 1 3
+FE LOQUAT 1 1 2 3 3.  2 4 8 10 12.  5 5 8 9 2 2
+FE LOTUS 1 4 5 8 9.  3 18 22 33 39.  4 8 2 4 8 8
+FE LOUSEWORT/WOOD BETONY/RED 1 1 1 2 2.  1 2 4 7 7.  4 4 4 7 9 1
+FE LOVE ORCHID 1 1 1 1 2.  2 2 3 3 7.  4 7 9 5 7 5
+FE LUFFA 1 2 2 3.  2 6 8 13.  4 6 8 5 5
+FE LUNGWORT 1 2 2 2 2.  3 6 6 7 7.  5 6 1 5 9 8
+FE LUPINE 2 3 5 7 9.  6 11 22 29 37.  7 2 5 1 9 6
+FE MACADAMIA TREE 1 2 2 3.  5 5 7 13.  8 2 9 4 5
+FE MACARTNEY ROSE 2 2 3 4.   6 9 13 17.  7 9 4 7 9
+FE MADIA 2 3 4 8 10.  6 10 17 33 42.  6 6 2 8 3 7
+FE MADRONE 4 5 7 9 10.  14 22 28 37 43.  4 3 6 11!1 4 3
+FE MAGNOLIA, 2 2 3 3 3.  6 8 11 13 13.  9 8 3 2 6 1
+FE MAHOGANY  2 3 3 4 4.  6 9 11 17 18.  8 2 2 9 5 8
+FE MALLOW 1 2 3 3.  4 7 9 11.  6 9 2 9 8
+FE MANDRAKE 1 1 2 3.  3 4 7 9.   6 6 2 1 6
+FE MANGO 4 6 8 9 10.  16 25 33 39 42.  4 4 7 3 6 6
+FE MANY BLOSSOMS 1 1 1 2 2.  2 2 3 6 8.  4 7 1 8 8 1
+FE MAPLE 2 4 6 7 9.  9 17 23 28 38.  7 2 2 9 2 4
+FE MARIGOLD (AFRICAN) 1 1 2 3 4.  3 5 8 10 14.  7 8 4 5 6 3
+FE MARIGOLD (FRENCH) 2 4 5 6 8.  8 17 21 25 35.  9 8 6 5 1 2
+FE MARIPOSA LILY 1 1 1 2.  1 3 3 6.  3 5 7 6 3
+FE MARSH THISTLE 1 1 1 1 1.  1 2 2 3 3.  3 4 6 8 5 8
+FE MEADOW BUTTERCUP 1 1 1 1 2.  1 2 4 5 5.  4 3 5 8 2 4
+FE MEADOW SAFFRON 1 1 2 2 2.  2 3 6 6 7.  5 9 6 3 1 6
+FE MEADOW SAFFRON (WHITE) 1 1 1 1 1.  1 2 2 3 3.  3 4 6 5 7 7
+FE MEADOWSWEET (SPIRAEA) 1 2 2 2 3.  3 6 6 9 13.  3 6 1 9 3 4
+FE MESQUITE 1 1 2 2.  2 4 6 7.  5 6 6 8 7
+FE MEXICAN SAGE 1 1 1 1 2.  2 3 4 5 7.  4 3 5 8 7 9
+FE MEZEREUM 1 1 1 1 2.  1 2 4 5 6.  2 3 5 7 7 6
+FE MILKWEED 2 5 6 7 9.  6 19 26 30 37.  8 9 8 6 5 9
+FE MILLET 1 2 2 2 2.  3 6 7 7 8.  3 6 8 9 8 7
+FE MIMOSA 1 4 5 6 8.  1 17 22 26 33.  1 7 4 8 8
+FE MIMULUS 2 3 7 9 10.  8 10 31 39 43.  1 7 8 4 4 6
+FE MISTLETOE 1 1 2 2 2.  3 4 7 7 9.  5 5 7 1 7 7
+FE MOJAVE (ASTER) 5 6 7 9 10.  20 23 30 39 42.  9 1 9 6 1 8
+FE MONEY PLANT 1 1 2 2.  2 5 5 6.  4 7 3 8 4
+FE MONKSHOOD (COLUMBIAN) 1 2 3 4 5.  4 8 11 14 20.  5 9 6 5 4 2
+FE MONKSHOOD (DELPHIN.LEAVED) 1 1 1 1 2.  3 3 4 5 6.  4 7 2 7 8 1
+FE MONTEREY PINE 1 1 1 1 2.  2 3 4 5 5.  5 5 5 9 4 1
+FE MOON FLOWER 3 8 9 9 10.  13 35 36 38 43.  4 7 6 2 6 7
+FE MORMAN TEA 2 2 2 3 4.  6 7 8 12 16.  8 1 5 3 8 7
+FE MORNING GLORY 3 4 5 6 8.  10 16 22 25 33.  1 1 5 5 8 2
+FE MOSCHATEL (TUBEROUS MOSCH.) 1 3 5 6 8.  1 13 20 23 35.  1 9 4 3 9 8
+FE MOSS 2 2 2 2 3.  6 8 9 9 10.  6 1 5 9 3 6
+FE MOSS ROSE 2 2 3 4 4.  5 8 12 15 15.  1 5 7 8 2 5
+FE MOUNTAIN GRAPE (OREGON GR.) 1 2 2 3.  3 6 8 12.  5 7 1 4 8
+FE MOUNTAIN LUNGWORT 1 1 1 2 2.  2 3 4 7 7.  5 8 5 7 1 8
+FE MOUNTAIN PENNYROYAL 1 3 5 6 9.  5 11 20 25 38.  8 3 1 5 8 7
+FE MOUNTAIN PRIDE 1 1 2 3 3.  2 3 6 10 13.  4 7 7 9 1 1
+FE MUGWORT 2 4 5 9 10.  8 17 22 38 40.  7 9 7 7 3 6
+FE MULBERRY (RED) 1 3 4 4 5.  2 11 14 15 18.  5 5 7 3 2 4
+FE MULLEIN 2¡3 5 6 10.  5 12 20 26 41.  3 4 3 3 2 6
+FE MUSHROOM 1 2 3 4 4.  4 7 11 14 18.  6 8 9 6 8 1
+FE MUSTARD 1 1 1 2 2.  2 4 5 5 6.  4 6 9 3 8 3
+FE MUSTARD (FIELD) 3 5 5 6 9.  13 19 22 27 40.  3 2 5 7 9 8
+FE MYCENA 1 1 2 3 3.  2 4 7 10 11.  4 4 5 9 9 4
+FE MYRRH 1 1 1 1 1.  1 1 2 3 4.  4 7 5 6 9 4
+FE NARCISSUS 2 2 3 3 4.  6 8 12 13 15.  7 2 6 3 3 3
+FE NARSTURTIUM 2 5 5 6 8.  8 19 20 26 33.  8 4 3 3 2 2
+FE NECTARINE 2 4 6 9 9.  9 17 25 36 39.  9 2 9 2 1 5
+FE NEEM TREE 1 1 1 1 1.  1 3 3 4 4.  3 4 7 1 4 1
+FE NEW JERSEY TEA (RED ROOT) 1 1 1 2 2.  1 3 3 7 9.  3 3 6 7 8 9
+FE NOBLE STAR FLOWER CACTUS 1 1 2 2 2.  3 4 6 8 8.  5 8 6 9 2 3
+FE NORTHERN LADYÕS SLIPPER 1 1 2 2 3.  2 4 8 9 10.  4 6 9 3 1 5
+FE NORTHERN TWAYBLADE 1 2 2 2 2.  3 6 7 7 8.  4 6 8 2 5 7
+FE NUTMEG 1 1 1 1.  2 3 3 4.  5 8 5 9 9
+FE OAK 1 1 2 2 3.  2 4 6 8 10.  4 3 6 8 8 2
+FE OKRA 1 1 1 2.  2 2 3 8.  3 5 3 9 2
+FE OLD MAN'S BEARD 1 2 2 2 2.  4 6 7 7 9.  5 6 6 9 8 7
+FE OLEANDER 1 1 2 3 3.  1 4 7 11 13.  4 6 3 4 6 5
+FE OLIvE 1 1 1 1 2.  2 3 4 4 6.  6 7 1 6 7 9
+FE ONION 2 3 4 6 8.  8 10 17 25 35.  5 6 8 4 1 6
+FE OPIUM POPPY (PAPAVER SOMN.) 1 1 1 2 2.  2 3 4 6 8.  4 5 6 6 7 1
+FE ORANGE 1 2 2 3.  4 5 8 10.  6 5 9 9 2
+FE ORANGE HOCKWEED 1 3 5 8 10.  3 10 22 35 44.  4 1 3 4 2 5
+FE ORCHID 1 1 1 2.  3 4 5 6.  5 4 7 6 4
+FE OREGON GRAPE ROOT 1 2 2 3 3.  3 6 9 10 11.  4 6 7 1 3 3
+FE OXALIS 1 1 2 2 2.  2 4 7 7 9.  3 4 6 9 8 3
+FE PAMPAS GRASS 1 1 2 3 3.  3 5 7 11 13.  5 7 7 3 7 2
+FE PANSY 4 5 6 8 8.  14 21 23 32 36.  7 8 3 1 8 9
+FE PAPAYA 2 4 5 7 9.  9 17 22 27 39.  7 9 4 4 4 1
+FE PAPER BIRCH 1 1 2 2 2.  3 3 6 6 6.  9 4 6 2 4 7
+FE PAPYRUS 2 2 3 3 4.  6 8 11 13 16.  8 9 3 7 8 8
+FE PARSLEY 1 1 3 4.  2 4 12 14.  5 4 2 5 7
+FE PASOUE FLOWER 2 3 4 4 4.  6 9 14 17 17.  9 1 6 8 3 9
+FE PASSION FLOWER 3 4 5 6 10.  10 17 20 26 40.  1 3 2 2 1 9
+FE PAST LIFE ORCHID 1 1 1 2 2.  2 4 5 7 9.  3 4 7 6 7 9
+FE PATCHOULI 1 1 3 3 3.  2 4 10 10 11.  4 6 5 8 3 8
+FE PAW PAW (AMERICAN) 1 3 3 5 6.  4 9 12 19 23.  6 1 4 2 6 1
+FE PEACH 2 4 5 8 8.  7 15 18 31 35.  2 3 3 2 7 8
+FE PEANUT 1 1 2 2.  3 4 6 6.  5 9 7 2 5
+FE PEAR 3 4 5 8 9.  11 15 19 33 37.  6 3 6 3 3 3
+FE PECAN 1 1 1 2 2.  2 3 4 6 6.  5 8 6 6 1 8
+FE PENNYROYAL 1 2 2 2 2.  4 6 6 7 8.  5 8 2 8 9 5
+FE PENSTEMON 1 3 5 6 8.  5 10 20 25 35.  7 1 3 4 4 1
+FE PENSTEMON (MEADOW) 1 3 4 5 8.  4 11 18 22 32.  4 7 9 7 1 1
+FE PENTAS 1 3 4 4 4.  5 11 15 17 18.  7 2 8 9 7 5
+FE PEONY (WHITE) 1 2 2.  3 5 6 6.  Û 6 8 9 4 9
+FE PEPPER 2 2 2 3.  5 8 9 10.  5 9 9 4 9
+FE PEPPERMINT 1 1 2.  3 3 5.  9 4 4 8
+FE PERIWINKLE 1 2 2.  3 7 8.  4 2 9 6
+FE PERSIMMONS (FEMALE) 1 1 1 1 1.  1 1 2 3 4.  5 8 5 4 8 3
+FE PERSIMMONS (MALE) 1 1 1 1 1.  1 2 2 3 4.  5 9 5 5 5 2
+FE PETUNIA 1 3 4 7 9.  2 9 18 28 37.  3 2 9 7 6 9
+FE PETUNIA (DEEP PURPLE) 1 2 2 2.  5 6 7 7.  7 8 8 2 7
+FE PHLOX 1 1 1 1 1.  2 3 3 4 5.  6 1 5 5 8 7
+FE PIMPERNEL 2 4 6 7 8.  9 15 26 29 35.  5 3 8 7 2 7
+FE PINE (SCOTCH PINE) 1 1 2 2.  2 3 5 8.  5 4 7 1 8
+FE PINE CONES 1 1 1 2 2.  1 1 3 6 7.  3 5 4 8 5 7
+FE PINEAPPLE 1 2 2 3.  3 6 9 1 1.  2 8 8 5 5
+FE PINEAPPLE GUAVE 1 1 2 2 2.  2 3 5 6 6.  5 4 5 8 2 6
+FE PINEAPPLE WEED 1 1 2 2 2.  2 4 7 7 9.  4 5 6 9 7 4
+FE PINK MONKEYFLOWER 2 4 4 5 5.  8 15 15 20 22.  1 8 3 3 3 9
+FE PINK PURSLANE 1 2 2 3 3.  3 6 9 12 13.  5 7 9 5 5 4
+FE PISTACHIO 1 2 2 3.  3 5 8 11.  4 5 7 3 1
+FE PLANTAIN (LANCEOLATA) 3 4 6 9 10.  11 17 26 37 42.  9 1 5 6 5 8
+FE PLEURISY ROOT 12 3.  4 7 11.  6 1 4 2
+FE PLUM TREE 1 1 2 3.  5 5 7 12.  7 9 8 2 8
+FE PLUMERIA (RED JASMINE) 1 5 7 10 10.  1 19 27 44 44.  3 4 4 4 8 5
+FE POINSETTIA 2 3 5 6 6.  7 12 19 23 25.  7 4 8 1 5 7
+FE POISON IVY 1 1 2 2.  3 4 7 8.  3 6 7 7 5
+FE POISON NUT 1 1 2 3 3.  2 3 6 9 12.  3 9 8 2 3 7
+FE POISON OAK 1 1 2 3 3.  3 4 9 12 13.  6 9 9 4 3 4
+FE POKE ROOT 1 1 1 3 3.  3 4 5 12 13.  6 8 9 5 9 1
+FE POMEGRANATE 1 2 6 7 9.  3 9 23 29 39.  4 5 3 2 7 3
+FE POND LILY 2 2 3 4.  7 8 12 14.  8 9 5 5 9
+FE PONDEROSA PINE 1 1 1 1 1.  1 1 2 3 4.  3 6 9 4 6 1
+FE POPPY 1 2 2 3 3.  4 6 8 11 13.  6 7 1 3 5 4
+FE PORCUPINE CACTUS 2 2 3 4 4.  6 9 12 15 18.  7 9 3 5 7 4
+FE POTATOE 1 2 3 3.  3 7 11 12.  7 9 2 4 4
+FE PRAYER PLANT 2 2 3 3.  5 8 11 13.  4 1 3 5 4
+FE PRETTY FACE 1 1 2 3 3.  4 5 7 9 10.  6 8 7 1 3 7
+FE PRICKLY PEAR 1 5 6 7 8.  3 19 23 28 35.  5 6 4 1 6 4
+FE PRICKLY POPPY 1 1 2 2 2.  3 3 5 7 8.  3 6 5 7 7 1
+FE PRICKLY WILD ROSE 1 1 2 2 2.  3 4 6 7 7.  5 5 6 6 8 3
+FE PRIMROSE (PARRY'S) 3 5 7 7 9.  12 18 27 30 39.  4 1 2 9 6 4
+FE PSYCHO ORCHID 1 2 2 3 3.  3 5 9 10 12.  4 5 9 9 3 3
+FE PUMPKIN (FEMALE) 1 1 2 3 3.  3 5 6 10 10.  7 7 2 5 8 2
+FE PUMPKIN (MALE) 1 1 1 1 2.  1 1 3 3 6.  3 6 4 7 6 8
+FE PUSSYPAWS 2 4 6 8 8.  8 14 23 33 36.  8 7 6 2 9 5
+FE PYRETHRUM 1 2 3 4.  4 8 12 15.  6 9 1 3 1
+FE QUAKING GRASS 2 4 5 9 10.  6 16 22 37 42.  9 7 2 7 1 8
+FE QUEEN ANNEÕS LACE (CARROT) 1 5 5 7 9.  3 18 22 29 36.  4 2 2 1 3 3
+FE OUEENIS DELIGHT 3 4 5 5 5.  12 17 19 2C 22.  2 8 8 9 3 3
+FE OUINCE 2 4 5 8 9.  7 17 22 36 37.  7 7 6 8 8 9
+FE OUINOA 1 1 1 2.  2 3 5 6.  5 4 8 7 6
+FE RABBITBRUSH 2 4 6 7 8.  8 16 24 28 35.  1 3 5 4 2 6
+FE RADISH 3 3 4 4.  9 11 17 18.  1 4 7 7 1
+FE RAGWEED-AMBROSIA 2 2 4 4 5.  6 9 15 18 22.  7 8 5 5 2 9
+FE RANUNCULUS 2 3 3 4 5.  6 13 14 17 21.  7 4 8 6 1 8
+FE RASPBERRY 2 1 4 5.  7 12 18 20.  8 2 8 2 2
+FE RAUWOLFIA 1 3 4 4.  4 10 16 18.  5 1 7 7 2
+FE FRED BUD 1 3 3 4 5.  4 9 13 17 22.  5 2 2 7 3 1
+FE RED CHESTNUT 1 1 1 1 2.  1 2 3 4 5.  2 5 9 5 5 8
+FE RED HELLEBORINE 1 2 2 2 2.  4 5 8 9 9.  5 5 9 3 6 1
+FE RED PASSION FLOWER 7 8 9 10.  28 35 38 43.  8 5 7 6 8
+FE RED TRILLIUM 1 3 6 8 9.  5 12 23 32 40.  9 5 3 5 9 4
+FE REDWOOD  2 3 4 5.  6 9 18 21.  8 1 9 4 4
+FE RHODODENDRON (BLUE) 2 3 3 3 4.  7 9 11 12 14.  1 1 4 5 6 8
+FE RHODODENDRON (PURPLE/PINK) 1 1 1 1 1.  1 1 2 2 2.  4 7 2 5 7 7
+FE RHUBARB 1 1 2 3 4.  3 5 7 12 14.  5 9 1 1 6 4
+FE RICE 1 3 3 4 5.  4 11 11 14 19.  6 5 8 6 9 7
+FE RICE-PAPER TREE 1 4 6 8 10.  4 16 27 34 42.  6 7 8 5 1 9
+FE RIVER BEAUTY 1 1 2 2 2.  2 4 5 6 6.  3 5 1 6 1 7
+FE ROBINIA 1 3 3 4.  5 9 10 14.  7 2 5 5 1
+FE ROCK ROSE 1 1 1 1 1.  2 2 3 3 4.  2 5 8 2 5 4
+FE ROCK ROSE CISTUS 1 1 1 2 2.  2 4 5 7 8.  3 5 7 8 8 4
+FE ROCK SOAPWORT 1 1 1 2 2.  3 4 4 7 7.  5 8 2 7 2 6
+FE ROSE (RED) 1 2 3 3.  2 5 10 11.  7 4 9 4 6
+FE ROSE (WHITE) 2 2 4 4 5.  6 9 14 18 22.  7 8 6 7 3 4
+FE ROSE CAMPION 1 1 1 2.  3 4 5 5.  5 8 7 5 7
+FE ROSE OF SHARON 1 2 2 2 3.  2 7 7 8 11.  6 8 3 6 2 7
+FE ROSE PINK 1 1 2 3 4.  3 4 7 9 14.  6 4 9 2 6 9
+FE ROSEMARY 1 3 4 6 9.  4 10 15 25 37.  5 3 3 6 7 6
+FE ROYAL WATER LILY 1 1 1 1 2.  2 3 4 4 7.  3 5 9 4 6 9
+FE RUBBER TREE 1 1 1 1 2.  1 2 2 4 8.  4 3 6 6 8 9
+FE RUDRAKSHA TREE 2 2 3 3 3.  6 7 10 11 12.  6 8 9 5 1 2
+FE RUE 1 2 3 4 4.  3 7 11 15 16.  6 9 5 5 8 6
+FE RYE 1 2 3 3 4.  4 8 11 13 15.  6 7 3 4 6 8
+FE SACAHUISTA 1 2 3 3 4.  5 5 9 12 14.  7 5 1 4 7 6
+FE SAGE 1 2 6 7 8.  3 7 24 28 34.  6 7 5 4 4 8
+FE SAGE (AMBIGENS) 1 1 1 1 2.  2 3 3 4 7.  5 5 7 5 7 2
+FE SAGE (CLEVELANDII) 1 1 2 2 2.  3 4 6 7 9.  4 5 7 7 8 4
+FE SAGE (ULIGNOSA) 1 1 1 2 2.  2 3 3 7 7.  4 4 7 8 2 7
+FE SAGEBRUSH 2 4 5 6 10.  8 14 21 26 41.  1 6 5 1 8 3
+FE SAGUARO 1 2 4 5 5.  4 8 14 19 22.  6 5 7 9 5 5
+FE SAINT JOHN'S WORT 1 3 5 6 7.  4 13 19 23 29.  4 5 2 2 3 7
+FE SALVIA 1 2 2 3 3.  3 6 9 12 13.  6 9 3 7 6 4
+FE SANDALWOOD TREE 3 4 4 6 7.  9 16 18 23 28.  1 7 8 3 8 9
+FE SASSAFRAS 1 2 2 2 2.  3 5 7 7 8.  4 5 7 1 4 3
+FE SCARLET BUGLER 3 5 5 6 9.  12 18 21 25 40.  2 3 4 4 7 2
+FE SCARLET MONKEYFLOWER 2 4 5 8 9.  9 17 20 33 37.  3 4 2 4 8 3
+FE SCARLET RUNNER BEAN 1 2 2 3 3.  3 7 8 10 11.  4 6 8 1 3 4
+FE SCLERANTHUS 1 1 1 2 2.  2 2 3 7 8.  4 7 4 7 1 5
+FE SCOTCH BROOM 2 6 7 9 10.  7 23 30 36 43.  2 5 9 6 7 2
+FE SCOTCH PINE 1 1 2 2.  2 3 6 8.  5 4 7 1 8
+FE SEASIDE MORNING GLORY 1 3 5 7 9.  4 10 21 30 36.  9 4 8 6 1 1
+FE SELF HEAL 1 1 4 6 9.  2 5 18 25 39.  3 7 8 5 8 4
+FE SENSITIVE PLANT (HUMBLE P.) 1 3 5 6 7.  1 9 21 26 31.  7 2 5 9 9 5
+FE SHASTA DAISY 1 1 1 2 2.  2 3 5 6 7.  4 5 8 8 9 7
+FE SHEPARD'S PURSE 1 2 3 3.  2 7 10 13.  4 6 1 5 7
+FE SHINING FLOWER 2 3 5 7 10.  7 13 19 28 41.  7 3 4 4 8 8
+FE SHOOTING STAR 1 1 1 2 2.  2 3 4 7 8.  3 6 6 7 8 3
+FE SHRIMP PLANT 1 1 1 1 2.  2 3 4 4 6.  4 5 8 4 8 2
+FE SIBERIAN SPRUCE 1 1 1 1 1.  2 3 3 4 4.  5 9 7 1 4 8
+FE SIERRA IRIS 2 5 7 9 9.  8 20 28 36 39.  9 9 1 3 6 1
+FE SIERRA IRIS 1 1 1 1 2.  2 3 3 4 6.  5 4 7 2 6 6
+FE SILK TREE 1 2 2 3 3.  3 6 8 10 12.  4 7 8 3 3 7
+FE SILVER SWORD 1 2 4 4.  4 e 14 17.  4 9 6 8 9
+FE SILVERWEED 1 2 2 2.  4 7 7 8.  6 9 3 1 1
+FE SINGLE DELIGHT 1 1 1 1 2.  2 3 3 5 5.  3 8 2 7 2 4
+FE SINGLE SNOWDROP 1 1 1 1.  2 3 3 4.  5 2 6 9 4
+FE SITKA BURNET 1 2 2 2 3.  4 7 8 9 12.  6 7 9 9 2 6
+FE SITKA SPRUCE POLLEN 1 1 1 1 2.  3 3 4 5 5.  4 6 5 7 5 9
+FE SKULLCAP 1 2 3 7 9.  4 9 11 31 36.  8 7 8 6 1 3
+FE SLIPPERY ELM 1 3 3 4.  3 11 12 14.  6 2 3 5 7
+FE SNAKEROOT 2 2 2 4.  5 7 9 14.  5 7 8 5 7
+FE SNAPDRAGON 1 3 4 7 9.  2 9 17 29 36.  6 2 7 5 4 6
+FE SOAP PLANT 1 2 2 3.  4 6 9 10.  6 7 5 3 6
+FE SOAPBERRY 1 1 1 1 2.  3 4 4 5 7.  5 8 2 7 6 1
+FE SOAPROOT  1 1 1 2 2.  2 3 3 6 7.  5 96 6 7 6
+FE SOAPWORT (COMMON) 1 1 2 2 2.  3 4 5 6 7.  4 6 5 7 7 2
+FE SOLOMON'S SEAL (COMMON) 2 3 3 4 4.  7 9 11 14 17.  9 1 2 6 8 8
+FE SOLOMON'S SEAL (WHORLED) 1 1 1 1 2.  1 3 4 5 5.  3 6 5 8 2 6
+FE SONOMA SAGE 2 2 3 4.  6 8 13 16.  6 1 4 8 1
+FE SORREL 1 2 2 2 3.  4 7 7 8 9.  5 7 2 9 1 6
+FE SOURGRASS 1 1 1 1.  2 2 3 3.   3 6 9 5 5
+FE SOUTHERNWOOD 2 3 4 5.  7 13 15 19.  7 3 6 8 6
+FE SPEEDWELL 1 1 2 3.  4 4 7 10.  3 6 5 8 4
+FE SPHAGNUM MOSS 1 1 1 2 2.  2 4 5 6 6.  3 5 9 6 9 5
+FE SPICE-BUSH 1 4 6 7 9.  2 16 23 31 39.  2 3 7 7 4 5
+FE SPIDER LILY 1 2 4 5 5.  1 6 14 20 21.  3 4 1 5 8 3
+FE SPIDERWORT 2 2 3 3 4.  6 8 12 13 14.  7 9 2 4 5 9
+FE SPIKENARD (CALIFORNIAN) 1 3 4 5 6.  4 11 15 22 24.  5 2 5 3 4 1
+FE SPIKEWEED 1 1 2 2 3.  2 4 6 9 11.  6 8 9 9 9 5
+FE SPIRAEA 1 1 2 2 3.  2 5 7 8 10.  4 7 7 1 1 2
+FE SPRING BEAUTY 1 12.  2 3 4 6.  4 4 4 7 1
+FE SPRING SQUILL 1 1 1 2 2.  2 1d 5 5 8.  3 5 8 1 5 5
+FE SPRUCE 1 3 6 7 9.  4 12 23 29 38.  1 2 2 5 4 5
+FE SQUASH-ACORN (FEMALE) 2 4 5 7 8.  7 18 22 29 35.  3 8 4 5 2 4
+FE SQUASH-ACORN (MALE) 1 1 2 2.  O1 03 05 08.  3 3 4 9 1
+FE SQUASH-CROOKNECK (FEMALE) 1 3 3 4 4.  2 10 13 15 18.  5 8 5 6 7 4
+FE SQUASH-CROOKNECK (MALE) 1 2 2 2 3.  1 5 8 9 12.  3 4 9 3 1 2
+FE SQUASH-ZUCCHINI (FEMALE) 1 2 3 4.  4 7 12 16.  6 8 2 7 5
+FE SQUASH-ZUCCHINI (MALE) 2 2 2 3 3.  6 7 8 10 11.  6 9 9 9 9 6
+FE SQUAW VINE 1 2 3 4 4.  3 6 11 14 15.  5 8 2 6 6 9
+FE STAR JASMINE 1 2 3 3 3.  4 8 10 11 12.  6 8 9 4 4 4
+FE STAR OF BETHLEHEM 1 1 1 1 1.  2 3 3 4 5.  4 8 4 6 9 4
+FE STAR THISTLE 1 1 2 2 2.  2 4 6 6 7.  3 6 6 2 6 5
+FE STAR TULIP 1 3 5 5 6.  5 11 18 21 25.  7 2 2 1 5 8
+FE STICKY GERANIUM 12 2 3 3.  3 7 9 12 12.  5 6 7 3 7 1
+FE STICKY MONKEYFLOWER 3 4 5 6 8.  1 1 17 22 25 33.  3 9 7 5 8 5
+FE STINGING NETTLE 1 2 4 6 8.  2 8 14 24 35.  2 4 5 4 1 8
+FE STOCK (VIRGINIAN) 2 3 3 3.  7 10 12 12.  9 1 3 6 1
+FE STONE ROOT 1 2 2 3 3.  3 5 8 10 13.  5 5 8 1 5 6
+FE STRAWBERRY 2 5 6 9 9.  7 20 26 36 38.  1 1 6 6 1 6
+FE SUGAR BEET 1 3 4 5 5.  3 12 16 21 21.  2 7 2 4 8 5
+FE SUGAR CANE 1 1 2 3 3.  1 2 7 12 12.  4 4 8 4 6 8
+FE SUMACH 1 2 2 2 2.  4 7 7 8 9.  3 6 1 5 9 6
+FE SUN CUP 1 1 1 2 2.  1 3 4 8 8.  3 4 5 7 1 3
+FE SUN ORCHID 1 2 2 2 2.  3 7 7 8 9.  4 8 2 1 5 2
+FE SUNCUP 1 2 3 3 4.  5 8 9 11 15.  7 1 2 3 6 1
+FE SUNDEW (ROUND LEAVED) 1 1 1 1 2.  1 2 4 5 6.  6 1 5 8 7 9
+FE SUNFLOWER 1 2 2 2.  4 7 8 9.  6 7 9 8 3
+FE SWEET ALYSSUM VIOLET/YELLOW 2 4 6 9 10.  7 14 25 37 42.  9 4 1 5 7 8
+FE SWEET ALYSUM WHITE 1 1 1 1 2.  1 2 4 5 7.  4 5 4 7 8 1
+FE SWEET CHERRY 2 4 4 5 5.  8 14 17 21 22.  1 6 8 8 4 9
+FE SWEET CHESTNUT 2 2 2 2 2.  6 6 8 8 9.  6 9 8 2 5 3
+FE SWEET CICELY 1 1 1 1 2.  1 3 4 5 5.  4 4 5 8 1 4
+FE SWEET FLAG 2 4 7 9 10.  5 18 31 36 42.  6 9 6 6 6 6
+FE SWEET PEA 2 4 5 7 8.  9 15 21 27 34.  8 8 5 2 3 8
+FE SWEET WOODRUFF 1 2 2 4 4.  3 7 9 14 18.  5 7 7 5 9 7
+FE SWEETGALE (MYRICA GALE) 1 1 2 2 2.  2 4 7 7 7.  5 5 6 9 3 1
+FE SWEETGRASS 1 1 1 1 2.  2 3 4 5 6.  5 5 5 8 6 2
+FE SYCAMORE 1 1 1 2 2.  2 2 3 6 5.  4 7 5 6 9 4
+FE TAHOCA DAISY 4 6 8 8 9.  18 27 31 35 39.  7 8 1 3 6 7
+FE TAMARACK (LARIX LARICINA) 1 1 2 2 2.  3 4 7 8 8.  3 4 5 9 1 4
+FE TANSY 3 4 7 9 10.  10 18 29 39 41.  4 9 2 1 2 9
+FE TARRAGON 2 2 3 3 4.  6 7 9 13 15.  8 9 2 6 6 4
+FE TEA PLANT 1 1 2 2.  2 5 6 7.  4 7 6 7 6
+FE TEA TREE (ELIPTICAL LEAVED) 1 1 1 1 2.  1 1 2 4 8.  3 7 1 5 7 5
+FE THISTLE (SHOWY) 1 3 5 7 9.  3 13 21 31 40.  7 5 5 9 7 6
+FE THRIFT 1 2 2 3.  3 6 9 9.  2 6 8 1 8
+FE THYME 2 4 5 7 10.  8 17 19 29 42.  7 2 5 2 4 2
+FE TICKSEED 1 2 2 3 3.  3 7 9 13 13.  6 7 8 4 7 5
+FE TIGER LILY 1 1 2 2 2.  3 4 5 6 8.  4 5 4 6 7 8
+FE TIGERÕS JAW CACTUS 1 1 2 2 3.  3 4 7 8 9.  5 8 1 9 2 7
+FE TOAD FLAX 1 2 2 2 2.  2 7 8 9 9.  4 9 8 3 7 4
+FE TOBACCO 1 2 6 6 7.  3 6 24 27 28.  6 3 7 7 8 4
+FE TOBACCO-PIPE 1 2 2 3 3.  4 7 8 10 12.  5 9 4 9 3 3
+FE TOMATO 2 2 3 4.  6 8 12 14.  7 9 5 6 9
+FE TREE MALLOW 1 1 2 2 2.  2 4 7 7 9.  3 5 7 1 7 5
+FE TREE OF HEAVEN 2 2 3 4 5.  7 9 12 16 19.  8 8 2 7 1 8
+FE TREE OF LIFE 1 2 4 4.  3 6 14 16.  4 8 7 7 8
+FE TRUMPET VINE 1 2 4 6 8.  3 8 18 25 35.  7 8 9 3 9 9
+FE TUBEROSE 2 3 3 4 5.  6 9 13 18 22.  7 2 4 9 3 7
+FE TUFTED VETCH 1 1 1 1 1.  2 2 3 3 3.  4 7 1 4 7 5
+FE TULIP 1 1 2 2 2.  2 5 8 9 9.  5 8 1 6 9 2
+FE TUNDRA ROSE 1 2 2 2 3.  4 6 7 9 10.  5 7 7 9 3 4
+FE TUNDRA TWAYBLADE 1 1 1 2 2.  3 3 4 6 7.  3 7 9 6 8 6
+FE TURK'S CAP 4 5 6 8 9.  16 21 25 32 37.  4 1 5 6 7 5
+FE TWINFLOWER 1 1 1 1 1.  1 2 3 3 5.  4 5 9 4 7 2
+FE VALERIAN 1 2 2 3 3.  3 6 8 10 13.  6 9 1 8 3 9
+FE VANILLA 1 1 1 2 3.  2 3 4 7 9.  2 6 6 7 1 4
+FE VENUS ORCHID 1 1 1 2 2.  3 3 4 5 8.  3 6 9 5 6 2
+FE VERBENA 1 2 3.  4 8 12.  4 9 6 1
+FE VERVAIN 1 1 1 2 2.  2 4 5 8 8.  4 5 8 6 8 4
+FE VINE 1 1 1 1 2.  3 3 4 4 7.  4 7 1 5 7 6
+FE VIOLET 2 3 3 4 5.  7 10 12 17 22.  7 3 3 9 4 8
+FE VIRGINÕS BOWER 1 1 1 1 2.  2 3 3 3 5.  5 9 2 3 5 6
+FE ANAKEROBIN 1 2 2 3 3.  3 6 8 11 11.  4 6 8 2 6 8
+FE WALLFLOWER 1 1 2 2 2.  2 3 6 7 8.  5 5 7 7 9 6
+FE WALNUT 3 7 8 9.  10 29 35 38.  3 2 9 1 6
+FE WANDERING JEW 1 1 2.  1 3 6.  3 7 8 9
+FE WATER CRESS 2 3 8 9 9.  8 13 35 37 38.  7 3 6 1 3 2
+FE WATER LILY (NYMPHEA ALBA) 1 2 3 3 3.  4 7 11 12 12.  6 7 2 2 6 5
+FE WATER MELON 1 2 4 7 9.  1 7 14 28 36.  4 7 6 2 6 7
+FE WATER VIOLET 1 1 2 3 3.  1 3 6 10 11.  4 4 6 9 4 9
+FE WELSH POPPY 1 1 2 2 2.  4 5 6 6 6.  5 6 6 8 2 2
+FE WHEAT 1 2 2 2 3.  3 6 6 6 10.  5 9 3 2 1 2
+FE WHITE CHESTNUT 1 1 2 3 3.  3 4 7 9 12.  4 6 7 1 1 1
+FE WHITE FIREWEED 1 1 1 1 1.  2 3 3 4 4.  4 4 7 2 5 4
+FE WHITE NARCISSUS 1 2 2 2 2.  4 5 6 6 8.  4 5 8 2 8 9
+FE WHITE SPRUCE (PICEA GLAUCA) 1 1 2 2 3.  2 3 5 8 9.  3 4 5 7 1 2
+FE WHITE TRILLIUM 1 4 6 9 10.  3 18 24 37 41.  4 9 4 9 6 7
+FE WHITE VIOLET (V. RENIFOLIA) 1 1 2 2 2.  2 4 7 7 8.  5 5 8 2 7 9
+FE WILD CHAMOMILE 1 3 7 9 10.  4 10 30 37 42.  9 8 4 5 6 5
+FE WILD FUCHSIA 1 1 8 9.  2 3 35 38.  9 5 7 4 7
+FE WILD IRIS (B)(LIGHT PURPLE) 1 1 2 2 3.  2 4 6 8 10.  5 4 6 8 1 6
+FE WILD MINT 1 1 2 2.  2 3 6 6.  4 6 8 4 4
+FE WILD MORNING GLORY 1 1 1 2 2.  2 2 3 5 7.  2 7 4 4 7 6
+FE WILD OAT 1 1 2 2 2.  1 3 6 6 8.  4 3 7 9 8 4
+FE WILD ONION 1 1 2 2 3.  2 5 7 8 12.  6 8 7 2 5 1
+FE WILD RHUBARB 1 2 2 2 3.  4 7 7 9 12.  5 7 1 9 2 6
+FE WILD SAGE 1 1 1 1 1.  1 1 3 3 4.  4 8 3 7 9 4
+FE WILD VIOLET 3 4 5 10 10.  12 18 19 42 44.  3 9 2 2 6 4
+FE WILLOW 1 1 1 1 1.  1 2 4 4 5.  2 4 3 5 7 3
+FE WILLOW (BABBIANA) 1 1 1 1 2.  1 3 4 4 6.  3 4 8 5 6 8
+FE WIND ORCHID 1 2 7 8 8.  4 6 30 34 35.  1 2 4 3 6 7
+FE WINTERGREEN 1 2 3 4 4.  5 7 11 16 18.  7 1 3 7 8 8
+FE WINTERGREEN (ONE SIDED) 1 1 1 2 2.  2 3 3 5 6.  5 9 3 5 8 3
+FE WISTERIA 1 5 6 7 9.  4 19 26 28 38.  3 4 1 9 4 3
+FE WITCH HAZEL (VIRGINIAN) 1 1 1 1.  1 1 2 3.  4 7 1 5 8
+FE WOOD ANEMONE 1 2 2 2.  4 8 8 9.  6 8 1 3 9
+FE WOOD BETONY 1 4 6 10 10.  2 14 24 41 43.  1 4 2 7 8 4
+FE WORMWOOD 1 1 1 2.  2 3 5 7.  3 4 7 8 4
+FE WORMWOOD (TILESIL) 1 2 2 2 3.  3 5 6 8 10.  6 5 8 1 1 3
+FE YARROW (GOLDEN) 2 5 6 9 9.  6 20 24 36 39.  8 1 7 4 6 8
+FE YARROW (NORTHERN) 1 2 2 2 2.  3 6 6 8 8.  3 6 8 7 9 6
+FE YARROW (PINK) 2 4 5 6 8.  8 17 22 26 34.  9 2 3 5 4 5
+FE YARROW (RED) 1 2 2 2 3.  3 7 8 9 13.  5 9 1 5 4 6
+FE YARROW (WHITE) 1 3 5 7 10.  4 10 21 30 41.  6 4 6 5 8 2
+FE YARROW (YELLOW) 1 1 1 1 2.  1 3 4 5 7.  3 3 5 8 7 8
+FE YELLOW DRYAS 1 1 1 1 2.  1 3 4 5 5.  4 3 5 8 2 4
+FE YELLOW GINGER 1 2 6 7 10.  2 6 24 29 42.  5 4 6 7 4 8
+FE YELLOW LADYÕS PURSE 1 1 1 1 2.  2 2 4 5 5.  3 6 5 8 3 7
+FE YELLOW LADYÕS SLIPPER 2 2 3 3.  5 9 12 13.  4 9 4 11 3
+FE YELLOW RATTLE 1 1 1 1 2.  2 3 4 4 5.  4 4 8 6 2 6
+FE YELLOW SPINED THISTLE 1 3 3 7 7.  4 12 14 31 31.  1 1 8 6 8 6
+FE YELLOW STAR TULIP 1 2 2 2 3.  2 5 7 7 11.  4 4 9 3 2 4
+FE YERBA BUENA 1 1 2 3 4.  2 3 7 9 14.  5 7 8 2 7 2
+FE YERBA MANSA 5 5 7 9.  20 22 27 38.  9 9 5 3 8
+FE YERBA MATE 2 4 5 7 10.  6 14 20 30 42.  2 1 2 2 7 5
+FE YERBA SANTA 3 4 5 6 8.  1 1 15 19 26 34.  3 2 2 5 5 8
+FE YEW 1 2 2 2 3.  3 5 8 8 10.  3 5 8 1 9 8
+FE YUCCA 1 2 2 2 3.  4 6 7 9 13.  6 6 7 9 2 3
+FE YUCCA (CREAM/PURPLE) 1 1 1 2 2.  2 3 4 5 8.  5 4 5 5 7 8
+FE ZINNIA 1 3 4 6 9.  4 12 18 23 39.  4 3 9 7 6 2

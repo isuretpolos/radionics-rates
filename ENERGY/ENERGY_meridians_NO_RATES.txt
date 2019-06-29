@@ -1,0 +1,20 @@
+LU          Lung
+LI          Large Intestine
+ST          Stomach
+SP          Spleen
+HT          Heart
+SI          Small Intestine
+BL          Bladder 
+KI          Kidney
+PC          Pericardium 
+TE          Triple Energizer 
+GB          Gallbladder     
+LV          Liver
+GV  Dumai   Governing Vessel
+CV  Renmai  Conception Vessel
+TV  Chongmai    Thrusting Vessel
+BV  Daimai  Belt Vessel
+YinHV   Yinqiaomai  Yin Heel Vessel
+YangHV  Yangqiaomai     Yang Heel Vessel
+YinLV   Yinweimai   Yin Link Vessel
+YangLV  Yangweimai  Yang Link Vessel

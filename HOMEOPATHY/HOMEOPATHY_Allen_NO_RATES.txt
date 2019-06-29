@@ -1,0 +1,835 @@
+Abies canadensis. ---------- Abies-c.
+Abies nigra. ---------- Abies-n.
+Abrotanum. see Artemisia abrotanum. ---------- Abrot.
+Absinthium. ---------- Absin.
+Acalypha indica. ---------- Acal.
+Acetic acid. ---------- Acet-ac.
+Aconitinum. ---------- Aconitin.
+Aconitum anthora, l. ---------- Acon-a.
+Aconitum cammarum. ---------- Acon-c.
+Aconitum ferox. ---------- Acon-f.
+Aconitum lycoctonum. ---------- Acon-l.
+Aconitum. ---------- Acon.
+Aconitum septentrionale, koelle. ---------- Acon-s.
+Actæa racemosa see Cimicifuga---------- Act-r.
+Actæa spicata. ---------- Act-sp.
+Adelheidsquelle. ---------- Adel.
+Adoxa. ---------- Adox.
+Æsculus glabra. ---------- Aesc-g.
+Æsculus hippocastanum. ---------- Aesc.
+Æthusa. ---------- Aeth.
+Agaricus campanulatus. ---------- Agar-cpn.
+Agaricus campestris. ---------- Agar-cps.
+Agaricus citrinus. ---------- Agar-cit.
+Agaricus emeticus. ---------- Agar-em.
+Agaricus. ---------- Agar.
+Agaricus pantherinus. ---------- Agar-pa.
+Agaricus phalloides. ---------- Agar-ph.
+Agaricus procerus. ---------- Agar-pr.
+Agaricus semiglobatus. ---------- Agar-se.
+Agaricus stercorarius. ---------- Agar-st.
+Agkistrodon contortrix. ---------- Agk.
+Agnus castus. ---------- Agn.
+Agrostemma githago. ---------- Agro.
+Ailanthus. ---------- Ail.
+Alcohol. ---------- Alco.
+Aldehyde. ---------- Ald.
+Aletris farinosa. ---------- Alet.
+Allium cepa. ---------- All-c.
+Allium sativum. ---------- All-s.
+Aloe. ---------- Aloe.
+Alstonia. ---------- Alst.
+Alstonia scholaris. ---------- Alst-s.
+Alumen. ---------- Alumn.
+Alumina. ---------- Alum.
+Ambra. ---------- Ambr.
+Ambrosia artemisiæfolia. ---------- Ambro.
+Ammoniacum. ---------- Ammc.
+Ammonium aceticum. ---------- Am-a.
+Ammonium benzoicum. ---------- Am-be.
+Ammonium bromatum. ---------- Am-br.
+Ammonium carbonicum. ---------- Am-c.
+Ammonium causticum (ammonia). ---------- Am-caust.
+Ammonium iodatum. ---------- Am-i.
+Ammonium muriaticum. ---------- Am-m.
+Ammonium nitricum. ---------- Am-n.
+Ammonium phosphoricum. ---------- Am-p.
+Ampelopsis. ---------- Amp-qu.
+Amphisbœna. ---------- Amph.
+Amygdalæ amaræ aqua. ---------- Amyg.
+Amyl nitrosum. ---------- Aml-n.
+Amylamine chlorohydrate. ---------- Amyl.
+Anacardium. ---------- Anac.
+Anagallis. ---------- Anag.
+Anantherum. ---------- Anan.
+Angelica atropurpurea. ---------- Angel.
+Angustura. ---------- Angus.
+Anilinum. ---------- Anil.
+Anisum stellatum see Illicium anisatum. ---------- Anis.
+Anthemis nobilis. ---------- Anth.
+Anthrakokali. ---------- Anthro.
+Antimonium arsenitum. ---------- Ant-a.
+Antimonium chloratum. ---------- Ant-chl.
+Antimonium crudum. ---------- Ant-c.
+Antimonium oxigenatum (or oxigenisatum). ---------- Ant-ox.
+Antimonium sulph. auratum. ---------- Ant-s.
+Antimon. et potass. tart. ---------- Ant-t.
+Aphis chenopodii glauci. ---------- Aphis.
+Apis. ---------- Apis.
+Apium graveolens. ---------- Ap-g.
+Apocynum androsæmifolium. ---------- Apoc-a.
+Apocynum cannabinum. ---------- Apoc.
+Apomorphinum. ---------- Apom.
+Aqua marina (sea-water). ---------- Aq-m.
+Aqua petra. ---------- Aq-p.
+Aralia racemosa. ---------- Aral.
+Aranea diadema. ---------- Aran.
+Aranea scinencia. ---------- Aran-s.
+Argentum cyanatum. ---------- Arg-c.
+Argemone. ---------- Arge.
+Argentum metallicum. ---------- Arg-m.
+Argentum muriaticum. ---------- Arg-mur.
+Argentum nitricum. ---------- Arg-n.
+Aristolochia colombiana. ---------- Arist-c.
+Aristolochia (milhomens). ---------- Arist-m.
+Aristolochia serpentaria. see Serpentaria. ---------- Arist-s.
+Arnica. ---------- Arn.
+Arsenicum album. ---------- Ars.
+Arsenicum hydrogenisatum. ---------- Ars-h.
+Arsenicum iodatum. ---------- Ars-i.
+Arsenicum metallicum. ---------- Ars-m.
+Arsenicum sulfuratum flavum. ---------- Ars-s-f.
+Arsenicum sulfuratum rubrum. ---------- Ars-s-r.
+Artemisia absinthium see Absintium. ---------- Art-abs.
+Artemisia contra and judaica see Cina. ---------- Art-c.
+Artemisia abrotanum. ---------- Art-abr.
+Artemisia vulgaris. ---------- Art-v.
+Arum dracontium. ---------- Arum-draco.
+Arum dracunculus. ---------- Arum-dracu.
+Arum italicum. ---------- Arum-i.
+Arum maculatum. ---------- Arum-m.
+Arum triphyllum. ---------- Arum-t.
+Arundo mauritanica. ---------- Arund.
+Asafœtida. ---------- Asaf.
+Asarum. ---------- Asar.
+Asclepias cornuti (syriaca). ---------- Asc-c.
+Asclepias tuberosa. ---------- Asc-t.
+Asimina triloba. ---------- Asim.
+Asparagus. ---------- Aspar.
+Asterias rubens. ---------- Aster.
+Astragalus menziesii. ---------- Astra-m.
+Athamanta. ---------- Ath.
+Atropinum. ---------- Atro.
+Aurum. ---------- Aur.
+Aurum fulminans. ---------- Aur-f.
+Aurum muriaticum. ---------- Aur-m.
+Aurum muriaticum natronatum. ---------- Aur-m-n.
+Aurum sulfuratum. ---------- Aur-s.
+Badiaga. ---------- Bad.
+Balsamum peruvianum. ---------- Bals.
+Baptisia. ---------- Bapt.
+Bartfelder (acid spring). ---------- Bart.
+Baryta acetica. ---------- Bar-ac.
+Baryta carbonica. ---------- Bar-c.
+Baryta muriatica. ---------- Bar-m.
+Belladonna. ---------- Bell.
+Bellis perennis. ---------- Bell-p.
+Benzinum. ---------- Benz.
+Benzinum nitricum. ---------- Benz-n.
+Benzoic acid. ---------- Benz-ac.
+Benzoin. ---------- Benzo.
+Berberinum. ---------- Berberin.
+Berberis. ---------- Berb.
+Bismuthum oxidum. ---------- Bism.
+Bismuthum subnitricum. ---------- bism-s.
+Blatta americana. ---------- Blat.
+Boletus laricis see Polyporus officinalis. ---------- Bol-la.
+Boletus luridus. ---------- Bol-lu.
+Boletus satanas. ---------- Bol-s.
+Bombyx chrysorrhœa. ---------- Bomb-chr.
+Bombyx processionea. ---------- Bomb-pr.
+Bondonneau. ---------- Bond.
+Acidum boracicum. ---------- Bor-ac.
+Borax. ---------- Bor.
+Bothrops lanceolatus. ---------- Both.
+Bounafa see Ferula glauca. ---------- Bou.
+Branca ursina see Heracleum sphondylium. ---------- Bra.
+Bovista. ---------- Bov.
+Brachyglottis. ---------- Brach.
+Brassica napus. ---------- Brass.
+Bromium. ---------- Brom.
+Brucea antidysenterica see Strychnos nux vomica. ---------- Brucea.
+Brucinum. ---------- Brucin.
+Bryonia. ---------- Bry.
+Bufo. ---------- Bufo.
+Bufo sahytiensis. ---------- Bufo-s.
+Buxus. ---------- Bux.
+Cacao. ---------- Cac.
+Cactus. ---------- Cact.
+Cadmium bromatum. ---------- Cadm-br.
+Cadmium muriaticum. ---------- Cadm-m.
+Cadmium sulfuratum. ---------- Cadm.
+Cainca. ---------- Cain.
+Cajuputum. ---------- Caj.
+Caladium. ---------- Calad.
+Calcarea acetica. ---------- Calc-ac.
+Calcarea carbonica. ---------- Calc.
+Calcarea caustica. ---------- Calc-caust.
+Calcarea chlorata. ---------- Calc-chl.
+Calcarea fluorata. ---------- Calc-f.
+Calcarea iodata. ---------- Calc-i.
+Calcarea muriatica. ---------- Calc-m.
+Calcarea phosphorica. ---------- Calc-p.
+Calcarea sulfurica. ---------- Calc-s.
+Calendula. ---------- Calen.
+Calotropis. ---------- Calo.
+Caltha. ---------- Calth.
+Camphora. ---------- Camph.
+Cancer fluviatilis. ---------- Canc-fl.
+Canchalagua. ---------- Canch.
+Canna. ---------- Canna.
+Cannabis indica. ---------- Cann-i.
+Cannabis sativa. ---------- Cann-s.
+Cantharis. ---------- Canth.
+Capsicum. ---------- Caps.
+Carbo animalis. ---------- Carb-an.
+Carbo vegetabilis. ---------- Carb-v.
+Carbolic. acid. ---------- Carb-ac.
+Carboneum. ---------- Carb.
+Carboneum chloratum. ---------- Carb-chl.
+Carboneum hydrogenisatum. ---------- Carb-h.
+Carboneum oxygenisatum. ---------- Carb-o.
+Carboneum sulfuratum. ---------- Carb-s.
+Carduus benedictus. ---------- Card-b.
+Carduus marianus. ---------- Card-m.
+Carlsbad. ---------- Carl.
+Carum. ---------- Caru.
+Carya alba. ---------- Cary.
+Cascarilla. ---------- Casc.
+Cassada. ---------- Cass.
+Castanea vesca. ---------- Cast-v.
+Castor equi. ---------- Cast-eq.
+Castoreum. ---------- Cast.
+Catalpa. ---------- Catal.
+Caulophyllum. ---------- Caul.
+Causticum. ---------- Caust.
+Cedron. ---------- Cedr.
+Celtis. ---------- Celt.
+Centaurea tagana. ---------- Cent.
+Cephalanthus. ---------- Ceph.
+Cereus bonplandii. ---------- Cere-b.
+Cereus serpentinus. ---------- Cere-s.
+Cervus. ---------- Cerv.
+Chamomilla. ---------- Cham.
+Chelidonium majus. ---------- Chel.
+Chenopodium anthelminticum. ---------- Chen-a.
+Chenopodium vulvaria. ---------- Chen-v.
+Chimaphila. ---------- Chim.
+China. ---------- Chin.
+Chininum arsenicosum. ---------- Chin-a.
+Chininum muriaticum. ---------- Chin-m.
+Chininum sulfuricum. ---------- Chin-s.
+Chionanthus. ---------- Chion.
+Chloralum. ---------- Chlol.
+Chloroformum. ---------- Chlf.
+Chlorum. ---------- Chlor.
+Chromicum acidum. ---------- Chr-ac.
+Chromium oxidatum. ---------- Chr-ox.
+Chrysophanic acid. ---------- Chrys-ac.
+Cichorium. ---------- Cich.
+Cicuta maculata. ---------- Cic-m.
+Cicuta virosa. ---------- Cic.
+Cimex. ---------- Cimx.
+Cimicifuga. ---------- Cimic.
+Cina. ---------- Cina.
+Cinchoninum sulfuricum. ---------- Cinch.
+Cinnabaris. ---------- Cinnb.
+Cinnamomum. ---------- Cinnm.
+Cistus. ---------- Cist.
+Citric acid. ---------- Cit-ac.
+Citrus limomum. ---------- Cit-l.
+Citrus vulgaris. ---------- Cit-v.
+Clematis. ---------- Clem.
+Cobaltum. ---------- Cob.
+Coca. ---------- Coca.
+Coccinella. ---------- Cocc-s.
+Cocculus. ---------- Cocc.
+Coccus cacti. ---------- Coc-c.
+Cochlearia. ---------- Coch.
+Codeïnum. ---------- Cod.
+Coffea cruda. ---------- Coff.
+Coffea tosta. ---------- Coff-t.
+Coffeinum. ---------- Coffein.
+Colchicinum. ---------- Colchin.
+Colchicum. ---------- Colch.
+Collinsonia. ---------- Coll.
+Colocynthinum. ---------- Colocn.
+Colocynthis. ---------- Coloc.
+Comocladia. ---------- Com.
+Conchiolinum. ---------- Conch.
+Coniinum. ---------- Coniin.
+Coniinum bromatum. ---------- Coniin-br.
+Conium. ---------- Con.
+Convolvulus arvensis. ---------- Conv-a.
+Convolvulus duartinus. ---------- Conv-d.
+Copaiva. ---------- Cop.
+Corallium rubrum. ---------- Cor-r.
+Coriaria myrtifolia. ---------- Cori-m.
+Coriaria ruscifolia. ---------- Cori-r.
+Cornus circinata. ---------- Corn.
+Cornus florida. ---------- Corn-f.
+Cornus sericea. ---------- Corn-s.
+Cotyledon. ---------- Cot.
+Crocus. ---------- Croc.
+Crotalus horridus. ---------- Crot-h.
+Crotalus cascavella. ---------- Crot-c.
+Croton tiglium. ---------- Crot-t.
+Cryptopinum. ---------- Cryp.
+Cubeba. ---------- Cub.
+Cundurango. ---------- Cund.
+Cupressus australis. ---------- Cupres.
+Cuprum. ---------- Cupr.
+Cuprum aceticum. ---------- Cupr-a.
+Cuprum ammonio-sulphuricum. ---------- Cupr-a-s.
+Cuprum arsenicosum. ---------- Cupr-ar.
+Cuprum muriaticum. ---------- Cupr-m.
+Cuprum nitricum. ---------- Cupr-n.
+Cuprum sulfuricum. ---------- Cupr-s.
+Curare. ---------- Cur.
+Cyclamen. ---------- Cycl.
+Daphne indica. ---------- Daph.
+Datura arborea. ---------- Dat-a.
+Datura ferox. ---------- Dat-f.
+Datura metel. ---------- Dat-m.
+Datura sanguinea. ---------- Dat-s.
+Delphininum. ---------- Delphini.
+Delphinus. ---------- Delphinu.
+Dematium petræum. ---------- Dem.
+Derris pinnata. ---------- Der.
+Dictamnus. ---------- Dict.
+Digitalinum. ---------- Digin.
+Digitalis. ---------- Digit.
+Digitoxinum. ---------- Digox.
+Dioscorea. ---------- Dios.
+Dirca palustris. ---------- Dirc.
+Dolichos pruriens. ---------- Dol.
+Doryphora. ---------- Dor.
+Drosera. ---------- Dros.
+Duboisia. ---------- Dub-m.
+Duboisia hopwoodi. ---------- Dub-h.
+Dulcamara. ---------- Dulc.
+Eaux bonnes. ---------- Eaux.
+Echites. ---------- Echit.
+Elaps. ---------- Elaps.
+Elaterium. ---------- Elat.
+Elæis guineensis. ---------- Elæ.
+Emetinum. ---------- Emet.
+Epilobium palustre. ---------- Epil.
+Equisetum. ---------- Equis.
+Erechthites. ---------- Erech.
+Erigeron. ---------- Erig.
+Eriodyction californicum. ---------- Erio.
+Eryngium aquaticum. ---------- Ery-a.
+Eryngium maritimum. ---------- Ery-m.
+Erythrophlæum. ---------- Eryt.
+Eserinum. ---------- Eser.
+Ether. ---------- Ether.
+Ethyl-nitrate. ---------- Ethyl-n.
+Eucalyptus. ---------- Eucal.
+Eugenia jambos. ---------- Eug.
+Euonymus europæus. ---------- Euon.
+Eupatorium perfoliatum. ---------- Eup-per.
+Eupatorium purpureum. ---------- Eup-pur.
+Euphorbia amygdaloides. ---------- Euph-a.
+Euphorbia corollata. ---------- Euph-c.
+Euphorbia cyparissias. ---------- Euph-cy.
+Euphorbia hypericifolia. ---------- Euph-hy.
+Euphorbia ipecacuanhæ. ---------- Euph-ip.
+Euphorbia lathyris. ---------- Euph-l.
+Euphorbia peplus. ---------- Euph-pe.
+Euphorbium. ---------- Euph.
+Euphrasia. ---------- Euphr.
+Eupion. ---------- Eupi.
+Fagopyrum. ---------- Fago.
+Fagus. ---------- Fagu.
+Fel tauri. ---------- Fel.
+Ferrum. ---------- Ferr.
+Ferrum aceticum see Ferrum. ---------- Ferr-ac.
+Ferrum iodatum. ---------- Ferr-i.
+Ferrum metallicum pulveratum see Ferrum. ---------- Ferr-m-p.
+Ferrum muriaticum. ---------- Ferr-m.
+Ferrum magneticum. ---------- Ferr-ma.
+Ferrum phosphoricum. ---------- Ferr-p.
+Ferrum sulfuricum. ---------- Ferr-s.
+Ferrum tartaricum. ---------- Ferr-t.
+Ferula glauca. ---------- Ferul.
+Filix mas. ---------- Fil.
+Fluoricum acidum. ---------- Fl-ac.
+Fœniculum. ---------- Foen.
+Formica. ---------- Form.
+Fragaria. ---------- Frag.
+Franzensbad. ---------- Franz.
+Fraxinus. ---------- Frax.
+Fucus vesiculosus. ---------- Fucus.
+Fuchsin. ---------- Fuch.
+Gadus morrhua. ---------- Gad.
+Gallicum acidum. ---------- Gall-ac.
+Gambogia. ---------- Gamb.
+Gastein. ---------- Gast.
+Gaultheria. ---------- Gaul.
+Gelsemium. ---------- Gels.
+Genista. ---------- Genist.
+Gentiana cruciata. ---------- Gent-c.
+Gentiana lutea. ---------- Gent-l.
+Geoffroya. ---------- Geo.
+Geranium maculatum. ---------- Ger.
+Gettysburg. ---------- Get.
+Geum rivale. ---------- Geum.
+Ginseng. ---------- Gins.
+Glonoine. ---------- Glon.
+Gnaphalium. ---------- Gnaph.
+Gossypium. ---------- Goss.
+Granatum. ---------- Gran.
+Graphites. ---------- Graph.
+Gratiola. ---------- Grat.
+Grindelia. ---------- Grin.
+Guaiacum. ---------- Guai.
+Guano. ---------- Guano.
+Guarana. ---------- Guar.
+Guarea. ---------- Guare.
+Gymnocladus. ---------- Gymn.
+Gymnema. ---------- Gymne.
+Hæmatoxylon. ---------- Hæm.
+Hall. ---------- Hall.
+Hamamelis. ---------- Ham.
+Hedeoma. ---------- Hedeom.
+Hedysarum ildefonsianum. ---------- Hedy.
+Helianthus. ---------- Helia.
+Heliotropium. ---------- Helio.
+Helleborus fœtidus. ---------- Hell-f.
+Helleborus niger. ---------- Hell.
+Helleborus orientalis. ---------- Hell-o.
+Helleborus viridis. ---------- Hell-v.
+Helonias. ---------- Helon.
+Hepar sulfuris calcareum. ---------- Hep.
+Hepatica. ---------- Hepat.
+Heracleum. ---------- Hera.
+Hippomanes. ---------- Hipp.
+Homeria. ---------- Home.
+Hura brasiliensis. ---------- Hura.
+Hura. ---------- Hura-c.
+Hydrastis. ---------- Hydr.
+Hydrocotyle. ---------- Hydrc.
+Hydrocyanic acid. ---------- Hydr-ac.
+Hydrophobinum. ---------- hydropho.
+Hydrophyllum. ---------- Hydrophy.
+Hyoscyaminum. ---------- Hyosc.
+Hyoscyamus. ---------- Hyos.
+Hypericum. ---------- Hyper.
+Hypophylum. ---------- Hypo.
+Iberis. ---------- Iber.
+Ignatia. ---------- Ign.
+Illicium. ---------- Ill.
+Imperatoria. ---------- Imp.
+Indigo. ---------- Indg.
+Indium metallicum. ---------- Ind.
+Inula. ---------- Inul.
+Iodoformum. ---------- Iodof.
+Iodum. ---------- Iod.
+Ipecacuanha. ---------- Ip.
+Iris florentina. ---------- Ir-fl.
+Iris fœtidissima. ---------- Ir-foe.
+Iris versicolor. ---------- Iris.
+Itu. ---------- Itu.
+Jaborandi. ---------- Jab.
+Jacaranda. ---------- Jac-c.
+Jalapa. ---------- Jal.
+Jasminum. ---------- Jasm.
+Jatropha. ---------- Jatr.
+Jatropha urens. ---------- Jatr-u.
+Juglans cinerea. ---------- Jug-c.
+Juglans regia. ---------- Jug-r.
+Juncus. ---------- Junc.
+Juniperus virginiana. ---------- Juni.
+Kali aceticum. ---------- Kali-ac.
+Kali arsenicosum. ---------- Kali-ar.
+Kali bichromicum. ---------- Kali-bi.
+Kali bromatum. ---------- Kali-br.
+Kali carbonicum. ---------- Kali-c.
+Kali chloricum. ---------- Kali-chlc.
+Kali (hypo) chlorosum. ---------- Kali-chls.
+Kali chromicum. ---------- Kali-chr.
+Kali cyanatum. ---------- Kali-cy.
+Kali ferrocyanatum. ---------- Kali-fer.
+Kali iodatum. ---------- Kali-i.
+Kali (hyper-) manganicum. ---------- Kali-ma.
+Kali nitricum. ---------- Kali-n.
+Kali oxalicum. ---------- Kali-ox.
+Kali picricum. ---------- Kali-pic.
+Kali sulfuratum. ---------- Kali-sula.
+Kali sulfuricum. ---------- Kali-suli.
+Kali tartaricum. ---------- Kali-tar.
+Kali telluricum. ---------- Kali-tel.
+Kalmia. ---------- Kalm.
+Karaka. ---------- Kar.
+Katipo. ---------- Kat.
+Kerosenum. ---------- Kerose.
+Kerosolene. ---------- Keroso.
+Kino (australiense). ---------- Kino.
+Kissingen. ---------- Kiss.
+Kousso. ---------- Kou.
+Kreosotum. ---------- Kreos.
+Laburnum. ---------- Lab.
+Lacerta. ---------- Lacer.
+Lachesis. ---------- Lach.
+Lachnanthes. ---------- Lachn.
+Lactic acid. ---------- Lac-ac.
+Lactuca. ---------- Lact.
+Lamium. ---------- Lam.
+Lapathum. ---------- Lapa.
+Lappa. ---------- Lappa-a.
+Lathyrus. ---------- Lath.
+Laurocerasus. ---------- Laur.
+Ledum. ---------- Led.
+Lepidium. ---------- Lepi.
+Leptandra. ---------- Lept.
+Lilium superbum. ---------- Lil-s.
+Lilium tigrinum. ---------- Lil-t.
+Limulus. ---------- Lim.
+Linaria. ---------- Lina.
+Linum catharticum. ---------- Linu-c.
+Linum usitatissimum. ---------- Linu-u.
+Lippspringe. ---------- Lipp.
+Lithium. ---------- Lith.
+Lithium muriaticum. ---------- Lith-m.
+Lobelia cardinalis. ---------- Lob-c.
+Lobelia inflata. ---------- Lob.
+Lobelia syphilitica. ---------- Lob-s.
+Lobelinum. ---------- Lobelin.
+Lolium. ---------- Lol.
+Lonicera. ---------- Lon.
+Luffa. ---------- Luffa.
+Lupulus. ---------- Lup.
+Lycopersicum. ---------- Lycpr.
+Lycopodium. ---------- Lyc.
+Lycopus. ---------- Lycps.
+Lyssin see Hydrophobinum. ---------- Lyss.
+Macrotinum. ---------- Macr.
+Magnesia carbonica. ---------- Mag-c.
+Magnesia muriatica. ---------- Mag-m.
+Magnesia sulphurica. ---------- Mag-s.
+Magnolia glauca. ---------- Magn-gl.
+Mancinella. ---------- Manc.
+Mandragora. ---------- Mand.
+Manganum. ---------- Mang.
+Manganum muriaticum. ---------- Mang-m.
+Manganum oxydatum nativum. ---------- Mang-o.
+Manganum sulfuricum. ---------- Mang-s.
+Marum verum. ---------- Mar-v.
+Maté. ---------- Maté.
+Meconinum. ---------- Mec.
+Medusa. ---------- Medus.
+Melastoma. ---------- Mela.
+Melilotus. ---------- Meli.
+Menispermum. ---------- Menis.
+Mentha piperita. ---------- Ment.
+Mentha pulegium. ---------- Menth-pu.
+Menyanthes. ---------- Meny.
+Mephitis. ---------- Meph.
+Mercurialis. ---------- Merl.
+Mercurius. ---------- Merc.
+Mercurius aceticus. ---------- Merc-ac.
+Mercurius bromatus. ---------- Merc-br.
+Mercurius corrosivus. ---------- Merc-c.
+Mercurius cyanatus. ---------- Merc-cy.
+Mercurius dulcis. ---------- Merc-d.
+Mercurius iodatus flavus. ---------- Merc-i-f.
+Mercurius iodatus ruber. ---------- Merc-i-r.
+Mercurius methylenus. ---------- Merc-meth.
+Mercurius nitrosus. ---------- Merc-n.
+Mercurius precipitatus albus. ---------- Merc-p-a.
+Mercurius precipitatus ruber. ---------- Merc-p-r.
+Mercurius solubilis. ---------- Merc-sol.
+Mercurius sulfocyanatus. ---------- Merc-s-cy.
+Mercurius sulfuricus. ---------- Merc-sul.
+Methylenum bichloratum. ---------- Meth-b.
+Methyl-ethyl ether. ---------- Meth-e.
+Mezereum. ---------- Mez.
+Millefolium. ---------- Mill.
+Mimosa. ---------- Mim.
+Mitchella. ---------- Mit.
+Momordica. ---------- Mom.
+Monotropa. ---------- Mon.
+Morphinum. ---------- Morph.
+Moschus. ---------- Mosch.
+Murex. ---------- Murx.
+Muriaticum acidum. ---------- Mur-ac.
+Murure. ---------- Muru.
+Musa. ---------- Musa.
+Muscarin. ---------- Musc.
+Mygale. ---------- Mygal.
+Myrica. ---------- Myric.
+Myristica. ---------- Myris.
+Nabalus. ---------- Nab.
+Naja. ---------- Naja.
+Naphtha. ---------- Naph.
+Narceinum. ---------- Narce.
+Narcissus. ---------- Narci.
+Narcissus-pseudo-narcissus. ---------- Narc-ps.
+Narcotinum. ---------- Narcot.
+Narzan. ---------- Narz.
+Natrum arsenicatum. ---------- Nat-a.
+Natrum bromatum. ---------- Nat-br.
+Natrum carbonicum. ---------- Nat-c.
+Natrum hypochlorosum. ---------- Nat-h.
+Natrum lacticum. ---------- Nat-lac.
+Natrum muriaticum. ---------- Nat-m.
+Natrum nitricum. ---------- Nat-n.
+Natrum phosphoricum. ---------- Nat-p.
+Natrum salicylicum. ---------- Nat-sal.
+Natrum sulfovinicum. ---------- Nat-sulfo.
+Natrum sulfuratum. ---------- Nat-sulfu.
+Natrum sulfuricum. ---------- Nat-s.
+Niccolum. ---------- Nicc.
+Nicotinum. ---------- Nicot.
+Nitri dulcis spiritus. ---------- Nit-d-s.
+Nitricum acidum. ---------- Nit-ac.
+Nitro-muriatic acid. ---------- Nit-m-ac.
+Nitrogenium oxygenatum. ---------- Nit-ox.
+Nitrum see Kali nitricum. ---------- Nitrum.
+Nuphar luteum. ---------- Nuph.
+Nux moschata. ---------- Nux-m.
+Nux vomica. ---------- Nux-v.
+Nymphæa odorata. ---------- Nym.
+Ocimum. ---------- Oci.
+Ocimum basilicum. ---------- Oci-b.
+Œnanthe. ---------- Oena.
+Œnothera. ---------- Oeno.
+Oleander. ---------- Olnd.
+Oleum animale. ---------- Ol-an.
+Oleum jecoris aselli. ---------- Ol-j.
+Oniscus. ---------- Onis.
+Opium. ---------- Op.
+Oplia. ---------- Opl.
+Opuntia. ---------- Opun.
+Origanum. ---------- Orig.
+Osmium. ---------- Osm.
+Ostrya. ---------- Ost.
+Oxalicum acidum. ---------- Ox-ac.
+Oxeodaphne. ---------- Oxeo.
+Ozonum. ---------- Ozone.
+Pæonia. ---------- Pæon.
+Palladium. ---------- Pall.
+Panacea. ---------- Pan.
+Papaverinum. ---------- Pap.
+Paris quadrifolia. ---------- Par.
+Pastinaca. ---------- Past.
+Paullinia pinnata. ---------- Paull-p.
+Paullinia sorbilis see Guarana. ---------- Paull-s.
+Pediculus. ---------- Ped.
+Penthorum. ---------- Penth.
+Persica. ---------- Per.
+Petiveria. ---------- Peti.
+Petroleum. ---------- Petr.
+Petroselinum. ---------- Petros.
+Phallus. ---------- Phal.
+Phaseolus. ---------- Phase.
+Phellandrium. ---------- Phel.
+Phosphoricum acidum. ---------- Ph-ac.
+Phosphorus. ---------- Phos.
+Phosphorus hydrogenatus. ---------- Phos-h.
+Physalia. ---------- Physal.
+Physostigma. ---------- Phys.
+Phytolacca. ---------- Phyt.
+Picricum acidum. ---------- Pic-ac.
+Picrotoxin. ---------- Picro.
+Pilocarpinum. ---------- Pil.
+Pimenta. ---------- Pim.
+Pimpinella. ---------- Pimp.
+Pinus cupressus see Cupressus. ---------- Pin-c.
+Pinus lambertiana. ---------- Pin-l.
+Pinus silvestris. ---------- Pin-s.
+Piper methysticum. ---------- Pip-m.
+Piper nigrum. ---------- Pip-n.
+Piscidia. ---------- Pisc.
+Pix liquida. ---------- Pix.
+Plantago. ---------- Plan.
+Platinum. ---------- Plat.
+Platinum muriaticum. ---------- Plat-m.
+Plectranthus. ---------- Plect.
+Plumbago littoralis. ---------- Plumbg.
+Plumbum. ---------- Plb.
+Plumbum chromicum. ---------- Plb-chr.
+Podophyllum. ---------- Podo.
+Polygonum. ---------- Polyg-h.
+Polyporus officinalis. ---------- Polyp-of.
+Polyporus pinicola. ---------- Polyp-p.
+Populus. ---------- Pop.
+Pothos. ---------- Poth.
+Prinos. ---------- Prin.
+Propylaminum see Trimethylaminum. ---------- Prop.
+Prunus padus. ---------- Prun-p.
+Prunus spinosa. ---------- Prun-s.
+Psorinum. ---------- Psor.
+Ptelea trifoliata. ---------- Ptel.
+Pulsatilla. ---------- Puls.
+Pulsatilla nuttalliana. ---------- Puls-n.
+Pyrethrum. ---------- Pyreth.
+Pyrus. ---------- Pyrus.
+Quassia. ---------- Quas.
+Ranunculus acris. ---------- Ran-a.
+Ranunculus bulbosus. ---------- Ran-b.
+Ranunculus glacialis. ---------- Ran-g.
+Ranunculus repens. ---------- Ran-r.
+Ranunculus sceleratus. ---------- Ran-s.
+Raphanus. ---------- Raph.
+Ratanhia. ---------- Rat.
+Reinerz. ---------- Rein.
+Resina itu. ---------- Res.
+Rhamnus catharticus. ---------- Rham-c.
+Rhamnus frangula. ---------- Rham-f.
+Rheum. ---------- Rheum.
+Rhodium. ---------- Rhodi.
+Rhododendron. ---------- Rhodo.
+Rhus glabra. ---------- Rhus-g.
+Rhus toxicodendron. ---------- Rhus-t.
+Rhus venenata. ---------- Rhus-v.
+Ricinus. ---------- Ric.
+Robinia. ---------- Rob.
+Rosmarinus. ---------- Rosm.
+Rumex acetosa. ---------- Rumex-a.
+Rumex crispus. ---------- Rumex.
+Russula. ---------- Russ.
+Ruta. ---------- Ruta.
+Sabadilla. ---------- Sabad.
+Sabina. ---------- Sabin.
+Saccharum album. ---------- Sacc.
+Salicinum. ---------- Salic.
+Salicylicum acidum. ---------- Sal-ac.
+Salix niger. ---------- Sal-n.
+Salix purpurea. ---------- Sal-p.
+Sambucus. ---------- Samb.
+Sambucus canadensis. ---------- Samb-c.
+Sanguinaria. ---------- Sang.
+Santoninum. ---------- Sant.
+Saponinum. ---------- Sap.
+Sarracenia. ---------- Sarr.
+Sarsaparilla. ---------- Sars.
+Scammonium. ---------- Scam.
+Schinus. ---------- Schin.
+Scolopendra. ---------- Scol.
+Scorpio. ---------- Scor.
+Scrophularia. ---------- Scroph.
+Scutellaria. ---------- Scut.
+Secale cornutum. ---------- Sec.
+Sedinha. ---------- Sed.
+Selenium. ---------- Sel.
+Senecio. ---------- Senec.
+Senega. ---------- Seneg.
+Senna. ---------- Senn.
+Sepia. ---------- Sep.
+Serpentaria. ---------- Serp.
+Silicea. ---------- Sil.
+Sinapis alba. ---------- Sin-a.
+Sinapis nigra. ---------- Sin-n.
+Sium. ---------- Sium.
+Solaninum. ---------- Solan.
+Solanum arrebenta. ---------- Sol-a.
+Solanum mammosum. ---------- Sol-m.
+Solanum nigrum. ---------- Sol-n.
+Solanum oleraceum. ---------- Sol-o.
+Solanum pseudo-capsicum. ---------- Sol-ps.
+Solanum tuberosum. ---------- Sol-t.
+Solanum tuberosum ægrotans. ---------- Sol-t-æ.
+Spigelia. ---------- Spig.
+Spigelia marilandica. ---------- Spig-m.
+Spiggurus. ---------- Spigg.
+Spiranthes. ---------- Spira.
+Spirea ulmaria. ---------- Spirea.
+Spongia. ---------- Spong.
+Squilla. ---------- Squil.
+Stachys betonica. ---------- Stach.
+Stannum. ---------- Stann.
+Staphisagria. ---------- Staph.
+Sticta pulmonaria. ---------- Stict.
+Stillingia sylvatica. ---------- Still.
+Stramonium. ---------- Stram.
+Strontium. ---------- Stront.
+Strychninum. ---------- Stry.
+Sulphur. ---------- Sulph.
+Sulphuretted hydrogen. ---------- Sul-h.
+Sulfur iodatum. ---------- Sul-i.
+Sulfuricum acidum. ---------- Sul-ac.
+Sulphurous acid. ---------- Sulphurous-ac.
+Sumbul. ---------- Sumb.
+Syphilinum. ---------- Syph.
+Tabacum. ---------- Tab.
+Tanacetum. ---------- Tanac.
+Tanghinia. ---------- Tang.
+Tannin. ---------- Tann.
+Taraxacum. ---------- Tarax.
+Tarentula. ---------- Tarent.
+Tartaric acid. ---------- Tart-ac.
+Taxus baccata. ---------- Tax.
+Tellurium. ---------- Tell.
+Teplitz. ---------- Tep.
+Terebinthina. ---------- Ter.
+Tetradymite. ---------- Tet.
+Teucrium marum verum see Marum verum. ---------- Teucr.
+Thallium. ---------- Thal.
+Thea. ---------- Thea.
+Theridion. ---------- Ther.
+Thevetia. ---------- Thev.
+Thuja. ---------- Thuj.
+Tilia. ---------- Til.
+Titanium. ---------- Titan.
+Tongo. ---------- Tong.
+Toxicophlœa. ---------- Tox-th.
+Toxicophis. ---------- Toxi.
+Trachinus. ---------- Trach.
+Tradescantia. ---------- Trad.
+Trifolium pratense. ---------- Trif-p.
+Trifolium repens. ---------- Trif-r.
+Trillium cernuum. ---------- Tril-c.
+Trimethylaminum. ---------- Trim.
+Triosteum. ---------- Trio.
+Trombidium muscæ domesticæ. ---------- Trom.
+Tussilago fragrans. ---------- Tus-f.
+Tussilago petasites. ---------- Tus-p.
+Upas. ---------- Upa.
+Uranium nitricum. ---------- Uran.
+Urea. ---------- Urea.
+Urtica crenulata. ---------- Urt-c.
+Urtica gigas. ---------- Urt-g.
+Urtica urens. ---------- Urt-u.
+Ustilago. ---------- Ust.
+Uva-ursi. ---------- Uva.
+Vaccininum. ---------- Vac.
+Valeriana. ---------- Valer.
+Veratrinum. ---------- Veratrin.
+Veratrum album. ---------- Verat.
+Veratrum viride. ---------- Verat-v.
+Verbascum. ---------- Verb.
+Vespa. ---------- Vesp.
+Vichy. ---------- Vichy.
+Vinca. ---------- Vinc.
+Viola odorata. ---------- Viol-o.
+Viola tricolor. ---------- Viol-t.
+Vipera. ---------- Vip.
+Vipera lachesis, fel. ---------- Vip-l.
+Viscum album. ---------- Visc.
+Vöslau. ---------- Vos.
+Wiesbaden. ---------- Wies.
+Wildbad. ---------- Wild.
+Wyethia. ---------- Wye.
+Xanthoxylum. ---------- Xan.
+Yucca. ---------- Yuc.
+Zincum. ---------- Zinc.
+Zincum aceticum. ---------- Zinc-ac.
+Zincum cyanatum. ---------- Zinc-c.
+Zincum ferrocyanatum. ---------- Zinc-fcy.
+Zincum muriaticum. ---------- Zinc-m.
+Zincum phosphoratum. ---------- Zinc-p.
+Zincum sulfuricum. ---------- Zinc-s.
+Zingiber. ---------- Zing.
+Zizia. ---------- Ziz.

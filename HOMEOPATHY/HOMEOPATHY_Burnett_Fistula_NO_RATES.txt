@@ -1,0 +1,74 @@
+Acidum nitricum
+Aconite
+Aloes
+Aqua silicata
+Arcticum lappa
+Arnica montana
+Bacillium
+Bellis perennis
+Berberis vulgaris
+Bovista
+Bryonia
+Bursa pastoris
+Calcarea carbonica
+Calcarea phosphorica
+Calcarea sulphurica
+Calendula
+Carduus Marianus
+Causticum
+Ceanothus
+Chelidonium majus
+China
+Chionanthus virginicus
+Collinsonia
+Cupressus Lawsoniana
+Cynosbati
+Graphites
+Hamamelis
+Hecla lava
+Helianthus annuus
+Hepar
+Hydrastin
+Hydrastis canadensis
+Ignatia amara
+Juniperus sabina
+Kali carbonicum
+Kali iodicum
+Lachesis
+Lappa major
+Levico
+Liquor calcis
+Lycopodium
+Mercurius corrosivus
+Mercurius solubilis
+Myrica cerifera
+Natrium muriaticum
+Nitric acid
+Nux vomica
+Phosphorus
+Phytolacca decandra
+Phytolaccinum
+Pyrogenium
+Rhus tox
+Sabina
+Sanguinara canadensis
+Sepia
+Silicea terra
+Sodium silicatum
+Solanum nigrum
+Sulphur
+Syphilinum
+Thuja
+Urtica urens
+Vaccininum
+Zincum aceticum
+abscess remedy
+fistula remedy
+spleen remedy
+liver remedy
+lung remedy
+constitutional remedy
+hereditary case (check other DB)
+tuberculous remedy
+post-malarial remedy
+haemorrhoids remedy

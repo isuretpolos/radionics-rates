@@ -1,0 +1,682 @@
+Alkyl mercury-Recovery (heavy metal)-14101441
+Allergy by heavy metals-7131064
+Lead Recovery (heavy metal)-3114510
+Cadmium Recovery/cadmium Recovery (heavy metal)-11914510
+Constant stress caused by heavy metal pollution-4776965
+Constant stress caused by heavy metal pollution-9143135
+Electrosmog exposure to heavy metal deposition-16171615
+Electrosmog exposure to heavy metal deposition-7191220
+Electrosmog exposure to heavy metal deposition-81385712
+Mercury Recovery (heavy metal)-20183394
+Heavy metal separator (loads can drain out)-81410180
+Heavy metal non shedders (can not drain out loads)-13121610
+Abgeschlagenheitsgefu_hl -91713133
+exhaustion -1712652
+Dependency (code against) -12711117
+Obesity (overweight) -5991133
+Activity (code for) -81716126
+Alcoholics with shrinking liver -16212810
+Alcoholics with shrinking liver -71515215
+Alcoholics with shrinking liver -14122364
+Alcoholism, aggressive personality -1682562
+Alcoholism, gastritis -71111310
+Alcohol abuse, episodes of -13131115
+Alcohol abuse, episodes of -72128117
+Cure alcoholism -13467104
+Alliedness (code for) -6107317
+Alopecia areata (hair) -61213810
+Alopecia areata (hair) -11111817
+Alopecia (hair) -6045143
+Nightmares (nightmare) -3817917
+Alterations, psychic -1888612
+Alterations, psychic -11711155
+Fear at heart -11101415
+Anxiety and anxiety -1171599
+Anxiety and great motor restlessness -11151359
+Fear and palpitations -6316129
+Fear of strangers -11919612
+Fear of everything new -11919412
+Fear of darkness -1193109
+Fear of family conflicts -9111018
+Fear of dogs -11911118
+Fear of cats -1199762
+Fear of mice -11913620
+Fear of people -11961721
+Fear of serious illness -1188127
+scared of spiders -11917913
+Fear of overburdening consequences -11122102
+Fear of water -1197524
+Fear dentist -1191086
+Fear, as if something had to happen -97787712
+Fear, screaming, fear of suffocation -9155807
+Afraid of being overwhelmed -3961325
+Afraid not to be loved (also: sexuality) -9223169
+Anxiety, anxiety -3271584
+Anxiety neurosis (code against) -14351011
+Anxiety dreams of dangers -81012111
+State of anxiety (code against) -14811037
+apathy -3117666
+anorexia -10135140
+Increase work ethic (code for) -1188312
+workaholism -6563175
+workaholism -4956312
+disinclination to work -39911669
+arrogance -3147031
+Articulation difficulties (brain) -15461214
+excitement -53233213
+Balance (code for) -51262317
+Barbiturate addiction -14161067
+Barbiturate addiction -6139108
+confusion -21841965
+unhappiness -1351011
+Sadness and confusion, much sighing -9769286
+Load capacity (code for) -1151198
+Burden, mental -10132317
+dizziness -17231374
+Drowsiness with somnolence, dizziness, headache -16762212
+Drowsiness with weakness, fatigue, dizziness -1661211
+Drowsiness with heaviness in the head and dizziness -7831362
+Drowsiness with heaviness in the head, dizziness -87171274
+Drowsiness and pressure in the head -7216107
+Drowsiness and pressure in the head -8763369
+Dazed and confused -8245122
+Convenience (code against) -10314106
+mountain sickness -1595339
+Recognize appointment (code for) -93891425
+tenderness -50161454
+Touch sensitivity, strong, with photophobia -57109910
+Narrowness, spiritual -71191598
+obsession -1410918
+Obsession (code against) -7103317
+Obsession (mental level) -8783112
+Obsession (physical level) -78935159
+Obsession (physical level) -91922316
+Obsession (mental level) -11141791
+Regulate possessions (code for) -1314885
+Concern (code against) -41278714
+mobility increase -68081264
+mobility increase -91622178
+urge to move -99153104
+Awareness weakness -1290249
+Awareness weakness -14138126
+Awareness weakness -93146611
+Awareness split (code against) -1288112
+Relationship addiction (code against) (also: sexuality) -12561366
+Borderline syndrome (psychology) -9372216
+Borderline syndrome (psychology) -2181112
+Borderline syndrome (psychology) -8198137
+Malice (code against) -5171288
+bulimia -57773615
+Burn-out syndrome -54315173
+Constant stress due to allergens -15354130
+Constant stress due to allergens -4719415
+Constant stress due to bacterial attack -9131020
+Constant stress due to chronic interference fields -20391468
+Constant stress due to chronic interference fields -4712991
+Long-term stress due to hereditary load/miasms -47141665
+Long-term stress due to geopathogenic stress -47197111
+Constant stress due to vaccine damage -15362075
+Constant stress due to vaccine damage -4793126
+Permanent stress due to magnetic fields and electrosmog -12312104
+Constant stress due to fungal attack -22951514
+Constant stress due to mental health problems -15347699
+Constant stress due to mental health problems -47411713
+Constant stress due to heavy metal contamination -9143135
+Constant stress due to heavy metal contamination -4776965
+Long-term stress from environmental toxins -15316965
+Constant stress due to virus attack -73202151
+Constant stress due to vitamin or mineral deficit -47513973
+delirium -70191043
+Delirium tremens -64361414
+Delirium tremens -81811187
+Thinking ability, diminished -12151918
+depression -10231613
+Depression (code against) -24127165
+Depression, endogenous -37179497
+Depression, exogenous -3105877
+Depression, reactive -4841110
+disorientation -16061211
+disorientation -61411106
+disorientation -21043747
+Joy of discussion (code for) -58231513
+Drug problems (Council in code) -71061487
+Thin-skinned (code against) -21108910
+Perseverance (code for) -22971392
+Assertiveness (code for) -10161393
+Dystonia, vegetative -9615446
+Dystonia, vegetative -51210812
+Dystonia, vegetative -16181010
+Dystonia, vegetative -9510818
+Honesty (code for) -15314106
+Jealousy (also: sexuality) -11683214
+Jealousy (code against) (also: sexuality) -31629128
+Have your own opinion (code for) -9109143
+Own opinion represented (code for) -91043310
+lonliness -1410208
+Loneliness, addiction -62121135
+Vanity (code against) -31771117
+Emotional stability (code for) -93123499
+Sensitivity and annoyance -16835168
+Sensitivity and annoyance -21013202
+Endogenous psychosis -98241619
+Decision-making pleasure (code for) -15512320
+Determination (code for) -3839498
+Disappointment (code against) -3312404
+withdrawal symptoms -24621661
+withdrawal symptoms -81210888
+withdrawal symptoms -8314159
+Restful sleep -7210897
+Exhaustion, mental -3121397
+food addiction -15991226
+food addiction -59471010
+food addiction -9551159
+Eager to eat, lasting -1320687
+test anxiety -6201857
+Fanaticism (code against) -16176165
+Laziness (code against) -88917136
+Laziness, mental -96209848
+Cowardice (code against) -18117136
+Fixed ideas -10337611
+Joy (code for) -71610227
+Happiness (code for) -12101237
+Relieve frustration -53121112
+Functional aberration (code against) -41415111
+Patience (code for) -5127417
+Feeling of under-demand (code against) -1474388
+Insensitivity (code against) -81523118
+Stinginess (code against) -1220138
+Serenity (code for) -1012337
+Looseness (code for) -1021188
+Need for validity (code against) -4811107
+Vulgarity (code against) -1035188
+Mood, annoying -1815128
+Mood, worried -13144677
+Moody mood, aroused with irritability -2949135
+Mood, depressed, with anxiety, restlessness and irritability -10812119
+Mood, indifferent, apathetic -10153618
+Mood, sad, whiny -2913358
+Mood, unbearable -2933617
+Mood, dissatisfied, impatient -1013919
+Mood, morose -18155995
+Mood, closed, silent, cloudy, melancholic -23191310
+sound sensitivity -91523797
+Justice addiction (code against) -13299128
+Split personality (code against) -10616688
+Being driven (code against) -91877185
+Greed (code against) -31871297
+Indifference (code against) -10483298
+Bliss (code for) -89119136
+Harmonic self-expression (code for) -10541218
+Homesickness (code against) -2810108
+cravings -59141413
+Cravings for chocolate -11218723
+Cravings for sweets of all kinds -41082112
+Serene serenity (code for) -1272498
+Inhibition, mental -8619288
+Helplessness (code against) -21614117
+Helpfulness (code for) -12410724
+Ulterior motives (code against) -2585313
+Hinterlist (code against) -2561148
+Haughtiness (code against) -91191626
+Hopelessness (code against) -54481042
+fear of heights -66121053
+Bondage (code against) (also: sexuality) -4291117
+Humor (code for) -11141607
+Feeling hungry during headache -4716133
+Hunger-feeling oppression -1511531
+Hunger sensation reduction -15413115
+Hypertension, symptomatic-psychogenic (code against) -37914107
+Deepen hypnosis -58714109
+Increase hypnotizability -79111112
+hysteria -21912211
+Hysteria (code against) -81014137
+Hysterical convulsions -1441011
+Hysterical moodiness -7361216
+hystero -5221096
+hystero -4419124
+Immune system, mental (see also brainwashing) -81121764
+Immune system, mental (see also brainwashing) -83104591
+Inner stability (code for) -41510108
+Insomnia (insomnia) -61012682
+Insomnia (insomnia) -9810987
+Hot temper, inclination too -5114159
+Hot temper, inclination too -11410922
+coffee abuse -1669611
+Catatonia (psychic, with disorders of voluntary power) -48884123
+Shopping addiction (code against) (Kaufrausch, Kaufwut) -10127106
+Child love (code for) -21161847
+claustrophobia -51197156
+Claustrophobia (code against) -93161837
+Communicativity (code for) -10152314
+Focus on love, tenderness and sexuality -89101610
+Head dizziness -77151111
+Head dizziness -11710109
+Morbid instinct (code against) (also: sexuality) -50121511
+Creativity (code for) -7701132
+Criticism (code against) -1721616
+moodiness -80121018
+Moodiness (code against) -10171216
+Life affirmation (code for) -35121631
+Recognize meaning of life (code for) -33122102
+dyslexia -1010178
+Willingness to learn (code for) -5253114
+Logorrhoe -72206126
+Logorrhoe -91891155
+Let go (code for) -2213939
+Let go (code against) -21105712
+Enhance woman's lust life (at the genetic level) (sexuality F) -11311144
+Increase man's boisterous life (at the genetic level) (Sexuality M) -3171013
+Funnyness (code for) -79111114
+anorexia -7449146
+Anorexia, mental -18129216
+Masochistic ambitions (in daily life and in sexuality) -62024235
+Reduce material thinking (code for) -18181013
+Melancholy (code against) -31715137
+Inferiority complex (code against) -51621210
+Disgust (code against) -3941076
+Compassion (code for) -37314717
+Bullied -31021039
+Bullied -61755178
+Bullying Movers -3101061
+Moonstalking (code against) -1045542
+Motor restlessness -5155249
+Motor restlessness and anxiety -6475132
+Despondency (code against) -44311117
+Chewing finger nails -25174145
+Nahrungsmittelabscheu -71553413
+Envy (code against) -16612132
+Dejection (code against) -88321310
+Wickedness (code against) -88121137
+powerlessness -20141994
+Fainting and collapse states -8616157
+Surgical fear, reasoned or unfounded (code against -97225836
+Sense of order (code for) -9947138
+Panic (code against) -30232917
+Pavor nocturnus (night fear) -26851112
+Claustrophobia (code against) -3109568
+Positive thinking (code for) -5511943
+Posttraumatic stress syndrome -10614108
+Posttraumatic stress syndrome -1284105
+Test anxiety (code against) -72043568
+Reduce Test Anxiety (Council in Code) -13171810
+Psychopathic lying (code against) -1610503
+psychosis -24531155
+Psycho-psych-exeption (psyche) -8117101
+Adolescent obesity -65421212
+Adolescent obesity -71921610
+puberty crisis -61316910
+anorexia nervosa -81691013
+anorexia nervosa -65331314
+Punctuality (code for) -15643188
+Cleaning addiction (code against) -20131042
+Smoking Cessation, Help for (Rates in Code) -18122177
+Redeangst (code against) -11105410
+travel sickness -91179711
+Religious mania (code against) -16319385
+Calm Force (code for) -29121723
+Sadistic ambitions (in daily life and in sexuality) -10524235
+Gentleness (code for) -65915106
+Infants, hypersensitivity -1011219
+Glee (code against) -95101299
+Schizoid states -15167324
+schizophrenia -9587149
+schizophrenia -11581873
+schizophrenia -53141519
+insomnia -69211364
+lethargy -2104444
+lethargy -69215968
+lethargy -51661057
+Normalize sleep-wake rhythm -18101102
+Being insulted quickly (code against) -1455237
+Fright, consequences of -91231128
+Horror (code against) -99121012
+jumpiness -2077911
+Shyness (code against) -11210116
+Guilt feelings (code against) -91287179
+Weakness will (code against) -98246109
+seasickness -15615137
+Self-confidence (code for) -11147165
+Self-pity (code against) -14639184
+Suicidal thoughts (code against) -11281022
+Self-assurance (code for) -11122517
+Self-contempt (code against) -1465742
+Self-denial (code against) -14656971
+Self-confidence (code for) -14652022
+Increase self-esteem (code for) -11213645
+Normalize self-esteem (code for) -4113155
+Sensitivity (code for) -1094215
+Sensorium, Depression -11121572
+Sensorium, Depression -79910199
+Sensorium, depression of (by exogenous stress) -1684956
+Sensorium, depression of (by exogenous stress) -17110109
+Sensorium, depression (through grief) -16843110
+Sex drive increase of woman (at genetic level) (sexuality F) -10724723
+Sex drive increase of man (at genetic level) (sexuality M) -10724201
+Open (code for) -12409125
+Forgive yourself (code for) -12614913
+Unscrupulousness (code against) -30168216
+Sunday migraine -1391017
+Sunday migraine -9161510
+Gambling addiction (general) (code against) -14572105
+Gambling addiction (machines) (code against) -1456911
+Gambling addiction (card) (code against) -14122611
+Gambling addiction (roulette) (code against) -14431725
+speech disorders -6111875
+Stability, inner -10121213
+Stability, inner -24916178
+Strengthening code for office workers (occupation-related) -91421311
+Strengthening code for craftsmen (occupation-related) -98861311
+Strengthening code for teachers (occupation-related) -97122014
+Strengthening code for therapists (professional) -97719315
+Strengthening code for sellers (occupation-related) -9335195
+Strengthening code for sales assistants (occupation-related) -9395611
+catalepsy -21129128
+catalepsy -52151470
+Silent joy (code for) -15181421
+Voice Listening (Psychology) -15213152
+Voice Listening (Psychology) -5991314
+Voice Listening (Psychology) -7213255
+Accepting voice (psychology) -85181364
+Making voice hearings bearable (Psychology) -85876512
+Suppress voice hearing (psychology) -85913103
+Voice listener (psychology) -81981239
+Mood, aggressive -51614936
+Mood, depressive -5310146
+Mood, depressive -16262232
+Mood, depressive -51611965
+Mood, depressive -10815619
+stutter -11101593
+stutter -61211247
+Stress management (code for) -3223122
+Addiction (general) (code against) -98102113
+Looking for recognition (code against) (also: sexuality) -15611147
+Looking for work (code against) -9241237
+Looking for drugs (code against) -92474312
+Search for hashish (code against) -92416159
+Look for heroin (code against) -1583043
+Looking for coffee (code against) -92418916
+Look for cocaine (code against) -9241284
+Look for marijuana (code against) -92439104
+Looking for nicotine (code against) -15101712
+"Looking for sex (""excessive sex drive"" does not exist) (sexuality) -12951355"
+Look for sweets (code against) -1581194
+Looking for tablets (code against) -92413363
+Looking for tea (code against) -92421016
+Looking for sugar (code against) -92462014
+Addiction (code against) -9224651
+Addiction (code against) -4482217
+indifference -31443119
+Indifference, spiritual -4711813
+Deep depression due to the loss of a life partner -10712813
+Deep depression due to the loss of a life partner -74108418
+Deep inner peace (code for) -1182137
+Tinnitus aurium -99134287
+Tinnitus aurium -1061692
+Tinnitus aurium -20151514
+Tinnitus aurium, due to mental influences -71011819
+Tinnitus aurium, due to mental influences -15845187
+Tinnitus aurium, by overreaching syndrome -7109891
+madness -98810106
+madness -1214137
+madness -58561057
+thoughts of death -62057779
+Death thoughts in desperate, depressed mood -10733116
+inertia -5513949
+Inertia (code against) -16117136
+Inertia, mental -3381115
+sadness -61516157
+Sadness (code against) -2411836
+Overactivity (code against) -9172568
+Discomfort (code against) -10599312
+Lightheartedness (code for) -7101437
+Unrest (code against) -10104226
+unrest -7466119
+Restlessness (code against) -10108827
+Restlessness and anxiety -12917857
+Restlessness, nocturnal -18132278
+Restlessness, nocturnal with screaming -10791041
+Uncertainty (code against) -9412717
+Oppression, mental (code against) -44911042
+underweight -93971015
+Enterprising (code for) -41281020
+discontent -1010211
+Dissatisfaction (code against) -25353317
+Vaginal spasm (vaginismus) -15115109
+St. Vitus Dance (Chorea minor) -7091119
+Responsibility (code for) -18151236
+Delusion (code against) -57871051
+Persecution mania (code against) -5131085
+fear of failure -11206492
+Tension, inner -1140169
+Trust (code for) -54881012
+confusion -71215145
+confusion -3172195
+confusion -1217463
+Delusion (code against) -38620823
+Delusion (code against) -12421094
+Warm-heartedness (code for) -19171289
+Feel good (code for) -8418185
+Benevolence (code for) -81089185
+Desire to die (code against) -6951912
+Being centered (code for) -6181313
+Anger (code against) -3371593
+sugar addiction -60109129
+Satisfaction (code for) -51215317
+Fear future (code against ..) -1116705
+obsessive compulsive disorder -89102112
+compulsive presentation (code against) -7613176
+AbgeschiLogenhern.gefühl -91713133
+exhaustion -1712652
+Obesity -5991133
+Activity (code for)  -8961115
+Alcoholism. aggressive personhood  -1682562
+Alcohol abuse, episodes of  -13131115
+Alcohol abuse. Consequences of  -72128117
+heal rA Rohokucht  -13467104
+Alopecia areata (hair)  -61213810
+ALopecic areata (hair)  -11111817
+ALopezie (hair) -6045143
+Alumni (anxiety dream)  -3817917
+Alterations. mental -1888612
+Alterations. mental -11711155
+Fear a heart  -11101415
+Anxiety and anxiety  -1171599
+Anxiety and great motor restlessness -11151359
+Fear and palpitations  -6316129
+Afraid of everything foreign  -11919612
+Fear of everything new  -11919412
+Fear of darkness  -1193109
+Fear of family conflicts  -9111018
+Fear of dogs  -11911118
+Fear of cats  -1199762
+Fear of mice  -11913620
+Fear of people  -11961721
+Fear of serious illness  -1188127
+scared of spiders  -11917913
+Fear of overdue consequences  -11122102
+Fear of water  -1197524
+Fear dentist  -1191086
+Anxiety. as if something had to happen-97787712
+Fear, screaming. Fear of suffocation -9155807
+Afraid of being overwhelmed  -3961325
+Anxiety. not to be loved (also: sexuality)-9223169
+Fear tilt. anxiety  -3271584
+Anxiety dreams of dangers  -81012111
+apathy -3117666
+anorexia -10135140
+workaholism -6563175
+workaholism -4956312
+disinclination to work  -39911669
+arrogance -3147031
+AitikuLationsschwiere (brain) -15461214
+excitement -53233213
+Barbiturate addiction -14161067
+Barbiturate addiction -6139108
+confusion -21841965
+Bekiiinineitheit -1351011
+Sadness and confusion. much sighing -9769286
+Burden. mental -10132317
+dizziness -17231374
+mountain sickness -1595339
+tenderness -50161454
+Touch sensitivity. Strength. with photophobia -57109910
+Limitations. mental -71191598
+obsession -1410918
+Consciousness weakness -1290249
+Consciousness weakness -14138126
+Awareness weakness -93146611
+Bordertine syndrome (psychology)  -9372216
+Borderline syndrome (psychology)  -2181112
+BorderLine syndrome (psychology)  -8198137
+bulimia -57773615
+Burn-out syndrome -54315173
+delirium -70191043
+Delirium tremens -64361414
+Delirium tremens -81811187
+Thinking ability. vermindeite  -12151918
+depression -10231613
+Depression. endogenous -37179497
+Depression. exogenous -3105877
+Depression. reactive -4841110
+Dystonia. vegetative -9615446
+Dystonia. vegetative -51210812
+Dystonia. vegetative -16181010
+Dystonia. vegetative -9510818
+Jealousy (also: sexuality)  -11683214
+lonliness -1410208
+Lonliness. Looking for  -62121135
+Sensitivity and Argelichkeit  -16835168
+Sensitivity and Argelichkeit  -21013202
+Endogenous psychosis -98241619
+Em2ugserscheinungen -24621661
+Errtzugserscheinungen -81210888
+withdrawal symptoms -8314159
+Restful sleep -7210897
+Exhaustion, mental -3121397
+food addiction -15991226
+food addiction -59471010
+food addiction -9551159
+Desire to eat. permanent  -1320687
+test anxiety -6201857
+Laziness mental -96209848
+Fixed ideas -10337611
+Relieve frustration -53121112
+GemLitstiminung. annoying -1815128
+Mood, worried -13144677
+Moody mood, aroused with irritability -2949135
+Mood mood, depressed. with fear. Restlessness and irritability -10812119
+Mood of mind, indifferent. apathetic -10153618
+Mood, sad, whiny  -2913358
+Frame of mind. unbearable  -2933617
+Frame of mind. dissatisfied, impatient -1013919
+Mood, morose -18155995
+Mindfulness, 'closed. taciturn. cloudy. melancholy -23191310
+sound sensitivity -91523797
+cravings -59141413
+Cravings for chocolate  -11218723
+Cravings for sweets of all kinds -41082112
+Flemming, psychic -8619288
+fear of heights  -66121053
+Feeling hungry during headache  -4716133
+Hunger suppression -1511531
+I feel it. reduction  -15413115
+Deepen your diagnosis  -58714109
+Increase hypnotizability -79111112
+hysteria -21912211
+Hysterical cramps -1441011
+Hysterical moodiness -7361216
+hystero -5221096
+hystero -4419124
+Immune system. mental (see also brainwashing -81121764
+Immune system. mental (see also brainwashing -83104591
+Irascibility. Neigungzu -5114159
+Irascibility. Neigungzu -11410922
+coffee abuse -1669611
+Catatonia (psychic, with disorders of voluntary motor skills)-48884123
+Focus on love. Increase tenderness and sexuality-69101610
+Morbid instinct (code against) (also: sexuality)-50171511
+Creativity (code for)  -7701137
+Criticism (code against)  -1771616
+Moodiness (code against)  -10171716
+Life affirmation (code for} -35171631
+Recognize meaning of life (code 'for)-33177107
+dyslexia -1010178
+Logorrhoe -72206126
+Logorrhoe -91891155
+Enhance Luster Life of I-Rough (at Genetic level (Sexuality F)-11311144
+Enhance man's luster life (on the level of sexuality-3171013
+anorexia -7449146
+Anorexia. mentally conditioned  -18129216
+Masochistic ambitions (in daily life and in sexuality-62024235
+"Mobbing.Opfer -31021039
+"
+Mobbing.Opfer -61755178
+Mobbing.Urheber -3101061
+Motor restlessness -5155249
+Chewing finger nails  -25174145
+Nahrungsmittelabscheu -71553413
+powerlessness -20141994
+Fainting and collapse states  -8616157
+PDV41. norturnus (night fear)  -26851112
+psychosis -24531155
+Psychasmdg.Execution (Psyche) -8117101
+Pubertätsfeti3ucht -65421212
+Adolescent obesity -71921610
+puberty crisis -61316910
+anorexia nervosa -81691013
+anorexia nervosa -65331314
+travel sickness -91179711
+Sadistic ambitions (in daily life and in sexuality-10524235
+Baby. Nervous hypersensitivity -1011219
+Schizolde states -15167324
+schizophrenia -9587149
+schizophrenia -11581873
+schizophrenia -53141519
+insomnia -69211364
+Sleep-wake rhythm norm a [I Sieren -18101102
+Schreck. Consequences of  -91231128
+jumpiness -2077911
+seasickness -15615137
+Sensorium. Depression  -11121572
+Sensorium. Depression  -79910199
+Sensorium. Depression (due to exogenous stress)-1684956
+Sensorium. Depression (due to exogenous stress)-117110109
+Sensorium. Depression (through sorrow) -16843110
+Sex drive increase of woman (at genetic level) (sexuality F)-10724723
+SexuaIlliebitursteigerungdes man (on net. Level) (Sexuality M)-10724201
+Forgiveness (code for}  -112614913
+Sunday migraine -1391017
+Sunday migraine -9161510
+Language enhancements -6111875
+Stability, inner -10121213
+Stability. inner -24916178
+catalepsy -21129128
+catalepsy -52151470
+Voice Listener (Psychology)  -81981239
+stutter -11101593
+stutter -61211247
+"Seeking Sex (""Excessive Sex Drive"" Does Not apply) (Sexuality) -12951355"
+indifference -31443119
+Indifference. mental -4711813
+Deep depression due to the loss of a life partner -10712813
+Deep depression due to the loss of a life partner -74108418
+Annoy death -62057779
+Thoughts of death in desperate. depressed mood-10733116
+inertia -5513949
+Inertia, mental -3381115
+sadness -61516157
+Overactivity (code against)  -9112568
+unrest -7466119
+Restlessness and anxiety  -12917857
+Restlessness. night -18132278
+Restlessness. nocturnal with cries  -10791041
+underweight -93971015
+discontent -1010211
+Vaginal spasm waginismus)  -15115109
+Verbality choreiminod -7091119
+fear of failure  -11206492
+Tension, inner -1140169
+confusion -71215145
+confusion -3172195
+confusion -1217463
+obsessive compulsive disorder  -89102112

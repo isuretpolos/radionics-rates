@@ -1,0 +1,6686 @@
+A'bbass;663;25;07
+Adansonia baobab;655;34;10
+Aki;655;44;12
+Ambrosia artemisiifolia;666;44;15
+Aalkruid;665;55;01
+Adansonia digitata;655;34;10
+Akker winde;665;76;06
+Ambrosie a feuilles d'artemis;666;44;15
+Aambeinwortel;665;54;12
+Adder's tongue;433;71;16
+Akkerwortel;631;11;01
+America swamp sassafras;622;44;10
+Aardappel;665;72;02
+Adder's-tongue;633;64;14
+Alarconia helenioides;666;44;07
+American aloe;633;55;09
+Aardbei;644;61;16
+Adenandra uniflora;655;41;02
+Albizia julibrissin;644;53;08
+American ash;665;46;12
+Aardpeer;666;44;11
+Adenium obesum;665;26;06
+Albuca setosa;633;53;13
+American aspen;644;35;10
+Aardveil;665;55;05
+American century;665;23;13
+Aarons rod;665;54;04
+Adimbu;665;76;16
+Alchemilla arvensis;644;61;07
+Adlumia fungosa;642;15;13
+Alchemilla vulgaris;644;61;07
+American ginseng;666;55;11
+Abelia longifolia;666;62;07
+Adonis aestivalis;642;13;16
+Alchornea cordifolia;644;34;14
+American greek valerian;664;23;13
+Abelmoschus;655;33;01
+Adonis vernalis;642;13;16
+Alecterolophus major;665;57;06
+American hedge mustard;663;53;13
+Abelmoschus esculentus;655;33;01
+Adoxa moschatellina;666;61;06
+Alehoof;665;55;05
+American hop-hornbeam;644;41;05
+Abelmoschus moschatus;655;33;01
+Adoxaceae;666;61
+Aleppo scammony;665;76;04
+American ivy;643;16;05
+Abies balsamea;555;14;11
+Adulsa;665;62;04
+Aletris farinosa;633;26;14
+American laurel;664;63;05
+Abies bracteata;555;14;10
+Adusa;665;62;04
+Aleurites moluccana;644;34
+American muskwood;655;47;10
+Abies canadensis;555;14;14
+Aduwa;644;56;13
+Alexanders;666;76;20
+American nettle tree;644;67;10
+Abies nigra;555;14;05
+Aechmea chantinii;633;47;13
+Alexandrian cassia;644;54;03
+American nightshade;665;72;15
+Abricot pays;644;24;05
+Aechmea nidularioides;633;47;08
+Alexandrian laurel;644;24;07
+American spikenard;666;55;06
+Abrofo nkatie;654;16;16
+Aegle marmelos;655;41;06
+Alfalfa;644;55;01
+American tear-thumb;663;66;14
+Abroma augusta;655;37;14
+Aegopodium carum;666;74;20
+Alfaroa;644;45
+American wolf's paw;665;55;09
+Abrotanum;666;47;15
+Aegopodium latifolium;666;74;07
+Alfarroba;644;54;11
+American worm seed;663;53;13
+Abrus precatorius;644;55;09
+Aegopodium podagraria;666;74;07
+Alfarrobeira;644;54;11
+American wormseed;663;53;13
+Abrusbohne;644;55;09
+Aegopodium podagria;666;74;07
+Algarola bean;644;54;11
+Amerikaanse es;665;46;12
+Absinthe;666;47;17
+Aeschynanthus micranthus;665;52;14
+Algarroba;644;54;11
+Amerikaanse wolfspoot;665;55;09
+Absinthe wormwood;666;47;17
+Aeschynomene grandiflora;644;55;17
+Algarrobo;644;54;11
+Amin buah;644;34;16
+Absinthium;666;47;17
+Aesculus carnea;655;44;10
+Alhenna inermis;654;11;04
+Ammi majus;666;74;04
+Absinthium artemisia;666;47;17
+Aesculus glabra;655;44;10
+Alisma gramineum;633;14;04
+Ammi visnaga;666;74;04
+Abuta rufesceus;642;16;02
+Aesculus hippocastanum;655;44;10
+Alisma plantago;633;14;04
+Ammobium alatum;666;45;06
+Abutilon theophrasti;655;33;13
+Aethusa cicuta;666;74;13
+Alismataceae;633;14
+Ammoniacum dorema;666;74;02
+Acacia dealbata;644;53;10
+Aethusa cynapium;666;74;13
+Alismatales;633;10
+Ammoniacum gummi;666;74;02
+Acacia frondosa;644;53;17
+Aethusa tenifolia;666;74;13
+Alkali grass;633;65;15
+Amoles;633;55;05
+Acacia glauca;644;53;17
+Aethusa toxicaria;666;74;13
+Alkanet;665;33;16
+Amomum;633;45;14
+Acacia leucocephala;644;53;17
+Aextoxicon punctatum;661;11;01
+Alkanna tinctoria;665;33;16
+Amor do campo;644;55;05
+Acacia leucophala;644;53;17
+Affenblume;665;56;02
+Allamanda cathartica;665;25;12
+Amor seco;644;55;05
+Acacia rostellifera;644;53;03
+Aframomum;633;45;14
+Allegheny vine;642;15;13
+Amornascento;642;13;07
+Acai palm;633;44;13
+African cabbage;655;65;06
+Allegory of beauty;633;56;10
+Amorphophallus konjac;632;11;12
+Acajou;655;47;06
+African potato;633;52;02
+Alleluja;644;16;06
+African rue;655;45;13
+Alliaria petiolata;655;66;03
+Amorphophallus titanum;632;11;12
+Acanthaceae;665;62
+African sandalwood;644;34;13
+Allium cepa;633;56;06
+Ampelodesmos mauritanicus;633;42;04
+Acanthacees;665;62;03
+African star grass;633;52;02
+Allium sativum;633;56;13
+Ampelopsis quinquefolia;643;16;05
+Acanthacees;665;62
+African tulip tree;665;65;13
+Allium schoenoprasum;633;56;14
+Ampelopsis trifoliata;643;16;03
+Acanthe;665;62;02
+Afrikaanse calabarstruik;644;55;16
+Allium ursinum;633;56;03
+Ampelopsis wetchii;643;16;05
+Acanthus family;665;62
+Afrikaanse kaffirboom;644;55;09
+Allspice;654;14;07
+Amphipterygium adstringens;655;42;14
+Acanthus hungaricus;665;62;11
+Afrikaanse lelie;633;56;07
+Almendro de reo;644;55;13
+Amygdala amara;644;61;11
+Acanthus mollis;665;62;02
+Afrikaantjes;666;44;03
+Almendro macho;644;55;13
+Amygdalus communis;644;61;11
+Aceitunillo;661;11;01
+After amaryllis;633;56;10
+Alnus glutinosa;644;41;06
+Anacardiaceae;655;42
+Acer campestre;655;44;08
+After johann jakob scheuchzer;633;15
+Alnus incana;644;41;06
+Anacardium occidentale;655;42;02
+Acer circinatum;655;44;08
+Agapanthus praecox;633;56;07
+Alnus rubra;644;41;06
+Anacardium orientale;655;42;12
+Acer negundo;655;44;08
+Agathis australis;555;12;01
+Alnus rugosa;644;41;06
+Anacyclus pyrethrum;666;47
+Acer pseudoplatanus;655;44;08
+Agathosma crenulata;655;41;16
+Alnus serulata;644;41;06
+Anadenanthera peregrina;644;53;17
+Acer saccharum;655;44;08
+Agati;644;55;17
+Aloe;633;57;16
+Anagallis arvensis;664;34;16
+Achariaceae;644;36
+Agavaceae;633;55
+Aloe succotrina;633;57;16
+Anahalonium;663;14;17
+Achillea erba-rotta;666;47;11
+Agave;633;55;09
+Alonsoa meridionalis;665;54;07
+Anamirta cocculus;642;16;07
+Achillea millefolium;666;47;11
+Agave americana;633;55;09
+Aloysia citriodora;665;64;03
+Ananas sativa;633;47;01
+Achillea moschata;666;47;11
+Agave tequilana;633;55;09
+Alpinia conchigera;633;45;03
+Anaphalis margaritaceae;666;45;13
+Achillee millefeuille;666;47;11
+Agbayun;664;44;20
+Alpinia elatior;633;45;14
+Anchusa officinalis;665;33;06
+Achiote family;655;51
+Ageratina altissima;666;44;05
+Alpinia magnifica;633;45;14
+Ancolie commun;642;13;07
+Achras sapota;664;44;17
+Ageratina aromatica;666;44;05
+Alpinia nutans;633;45;03
+Andean mint;665;55;20
+Achyranthes aspera;663;55;03
+Ageratina dendroides;666;44;05
+Alpinia officinarum;633;45;03
+Andersonia rohitika;664;65;12
+Acker honigklee;644;55;13
+Ageratum conyzoides;666;44;04
+Alsem;666;47;17
+Andira araroba;644;55;12
+Ackergauchelheil;664;34;16
+Ageratum obtusifolium;666;44;04
+Alsine media;663;41;03
+Andira inermis;644;55;13
+Ackerwinde;665;76;06
+Aglaia odorata;655;47;01
+Alstonia constricta;665;25;06
+Andrographis paniculata;665;62;15
+Acmella oleracea;666;44;03
+Agraphis nutans;633;53;04
+Alstonia scholaris;665;25;06
+Andromeda arborea;664;66;06
+Acocanthera;665;25;11
+Agrimonia;644;61;06
+Alternanthera sessilis;663;55;05
+Andromeda glaucophylla;664;66
+Acokanthera;665;25;11
+Agrimonia eupatoria;644;61;06
+Agrimony;644;61;06
+Althaea officinalis;655;33;05
+Andropogon nardus;633;42;01
+Aconite virosum;642;13;01
+Agropyron repens;633;42;06
+Alugbati;663;12;01
+Andropogon squarrosum;633;42;09
+Aconitum anthora;642;13;01
+Agrostemma githago;663;41;15
+Alum-root;652;16;11
+Andropogon squarrosus;633;42;09
+Aconitum cammarum;642;13;01
+Agrostis alba;633;42;13
+Aluthi gida;665;76;16
+Androseme officinal;644;24;07
+Aconitum ferox;642;13;01
+Agrostis des chiens;633;42;13
+Alypon;665;51;04
+Androsemum hypericum;644;24;07
+Aconitum intermedium;642;13;01
+Aguaje;633;44;14
+Alypon;665;51;04
+Anemone;642;13;12
+Aconitum lycoctonum;642;13;01
+Ague tree;622;54;14
+Amandier pays;654;16;16
+Anemone d'artemis;642;13;12
+Aconitum napellus;642;13;01
+Ahovai-baum of the antilles;665;25;15
+Amaranth family;663;55
+Anemone des bois;642;13;12
+Aconitum neomontanum;642;13;01
+Ail;633;56;13
+Amaranthaceae;663;55
+Anemone hepatica;642;13;03
+Aconitum septentrionale;642;13;01
+Ail des montagnes;633;56;04
+Amaranthales;663;50
+Anemone hepatique;642;13;03
+Aconitum stoerckianum;642;13;01
+Ail des ours;633;56;03
+Amaranthus;663;55;08
+Anemone intermedia;642;13;02
+Acoraceae;631;11
+Ailanthus altissima;655;46;07
+Amaranthus caudatus;663;55;10
+Anemone nemorosa;642;13;12
+Acorales;631;10
+Air plant;652;15;06
+Amaranthus hybridus;663;55;08
+Anemone pratensis;642;13;02
+Acoridae;631;00
+Airplane plant;633;55;08
+Acorus calamus;631;11;01
+Aizoaceae;663;23
+Amaranthus spinosus;663;55;12
+Anemopsis californica;622;66
+Actaea racemosa;642;13;13
+Aizoales;663;20
+Amarga;666;45;17
+Anetho;666;74;03
+Actaea rubra;642;13;05
+Ajo lily;633;55;05
+Amaryllidaceae;633;56
+Anethum arvense;666;74;03
+Actaea spicata;642;13;03
+Ajuga chamaepitys;665;55
+Amaryllis belladonna;633;56;10
+Anethum foeniculum;666;74;07
+Actaeoides;642;13;13
+Ajuga reptans;665;55
+Ambanamkaya;644;16;03
+Anethum graveolens;666;74;03
+Actea monogynia;642;13;13
+Akar kududuk hitam;654;13;03
+Amborella trichopoda;611;11;01
+Anethum pastinaca;666;74;15
+Actee des grappes;642;13;13
+Akar mengkunyit;642;16;16
+Amborellaceae;611;11
+Anethum vulgare;666;74;07
+Actee en epi;642;13;03
+Akebia quinata;642;12;17
+Amborellales;611;10
+Angel hair;665;79
+Actinidia deliciosa;664;72;13
+Akee;655;44;12
+Amborellanae;610;00
+Angelica archangelica;666;74;11
+Actinidiaceae;664;72
+Akee apple;655;44;12
+Amborellidae;611;00
+Angelica graveolens;666;74;03
+Angelica levisticum;666;74;17
+Arachis hypogaea;644;55;03
+Aruha;665;62;04
+Aucuparia americana;644;61;14
+Angelica major;666;74;11
+Aragllus lambertii;644;55;04
+Arum dracontium;632;11;10
+Aufrechtes fingerkraut;644;61;03
+Angelica officinalis;666;74;11
+Arak;655;67;14
+Arum dracontium;632;11
+Aun'e officinale;666;45;11
+Angelica paludapifolia;666;74;17
+Arales;632;10
+Arum dracunculus;632;11;10
+Aurona guianensis;644;54;08
+Angelica sativa;666;74;11
+Aralia hispida;666;55;06
+Arum family;632;11
+Aurone male;666;47;15
+Angelica sinensis;666;74;11
+Aralia racemosa;666;55;06
+Arum italicum;632;11
+Australian christmas tree;655;72;15
+Angiosperm;600;00
+Aralia sacchalinensis;666;55;06
+Arum maculatum;632;11;13
+Australian fuchsia;655;41;02
+Angiospermae;600;00
+Araliaceae;666;55
+Arum triphyllum;632;11;04
+Australian native plum;664;44;20
+Angophora costata;654;14;11
+Araliales;666;50
+Arundo mauritanica;633;42;04
+Austrobaileyales;622;10
+Angostura trifoliata;655;41;08
+Araroba;644;55;12
+Arusha;665;62;04
+Autumn gentian;665;23;03
+Angulatus;644;55;14
+Araucaria family;555;12
+Arya veppu;655;47;12
+Autumn joy;652;15;10
+Angustura falsa;655;46;14
+Araucariaceae;555;12
+Arzantiga;655;61;16
+Ava;622;64;06
+Angustura spuria;655;46;14
+Araucarians;555;12
+Asa foetida;666;74;16
+Avena sativa;633;42;14
+Angustura vera;655;41;08
+Arbol del clavo;654;14;09
+Asaa;664;44;20
+Avens;644;61;02
+Anhalonium lewinii;663;14;17
+Arbre a la soie;665;27;09
+Asafetida;666;74;16
+Averrhoa bilimbi;644;16;17
+Aniba rosaeodora;622;54;05
+Arbre chaste;665;55;14
+Asafoetida;666;74;16
+Averrhoa carambola;644;16;03
+Anigozanthos humilis;633;46;13
+Arbre de neige;665;46;05
+Asagraea officinalis;633;65;13
+Avicennia marina;665;41;10
+Anigozanthos manglesii;633;46;13
+Arbre de vie;555;15;11
+Asaret;622;72;03
+Avicenniaceae;665;41
+Anise stellatum;622;14;01
+Arbutoideae;664;64
+Asaret;622;72;03
+Avocado;622;54;08
+Aniseed pepper;655;41;12
+Arbutus andrachne;664;64;06
+Asarum canadense;622;72;03
+Avocatier;622;54;08
+Anisophylleaceae;644;71
+Arbutus menziesii;664;64;06
+Asarum europaeum;622;72;03
+Avoine;633;42;14
+Anjerfamilie;663;40
+Arbutus unedo;664;64;06
+Asclepiadaceae;665;27
+Avoira;633;44;11
+Annatto;655;51
+Archaeoplastidae;100;00
+Asclepiadacees;665;27
+Avond uilen;654;12;10
+Annatto;655;51;16
+Arcion;666;42;06
+Asclepiade tubereuse;665;27;06
+Avondsleutelbloem;654;12;10
+Annona depressa;622;43;12
+Arctium lappa;666;42;06
+Asclepias cordifolia;665;27;02
+Axlewood;654;16;10
+Annona muricata;622;43;12
+Arctostaphylos manzanita;664;64;16
+Asclepias cornuti;665;27;06
+Azad dirakht;655;47;12
+Annonaceae;622;43
+Azadirachta indica;655;47;12
+Annotta;655;51;16
+Arctostaphylos viscida;664;64;16
+Asclepias incarnata;665;27;06
+Aziatische waternavel;666;71;13
+Annual nettle;644;66;08
+Arctotheca populifolia;666;43;04
+Asclepias physocarpa;665;27;07
+Azure bluet;665;42;04
+Anogeissus latifolia;654;16;10
+Areca catechu;633;44;13
+Asclepias syriaca;665;27;06
+Baberang;664;34;13
+Anredera cordifolia;663;12;02
+Areca-nut;633;44;13
+Asclepias tuberosa;665;27;06
+Babies;633;55;08
+Antanan;666;71;13
+Arecaceae;633;44
+Asclepias vincetoxicum;665;27;15
+Baby watermelon;644;75;16
+Antennaria dioica;666;45;02
+Arenaria rubra;663;41;08
+Antennaria neglecta;666;45;02
+Arequier;633;44;13
+Ascochilus vietnamensis;633;75;02
+Baccharis genistelloides;666;45;17
+Ash-weed;666;74;07
+Bacedar;655;37;12
+Anthemideae;666;47
+Argemone pleiacantha;642;17;13
+Ashanti plum;655;42;12
+Bachhali;663;12;01
+Anthemis nobilis;666;47;04
+Argentina anserina;644;61;03
+Ashoka;644;54;16
+Backhousia myrtifolia;654;14;06
+Anthemis vulgaris;666;47;06
+Argentina vulgaris;644;61;03
+Ashopalava;644;54;16
+Bacua;633;34;05
+Anthericum comosum;633;55;08
+Argyreia nervosa;665;76
+Asimina triloba;622;43;16
+Badam;654;16;16
+Asok;644;54;16
+Badian;622;14;01
+Anthocerotophyta;311;10
+Aridae;632;00
+Asoka;644;54;16
+Badian khatai;622;14;01
+Anthoxanthum odoratum;633;42;05
+Arisaema dracontium;632;11;10
+Asoka tree;644;54;16
+Badiane;622;14;01
+Anthriscus caucalis;666;76;07
+Arisaema ringens;632;11;04
+Aspalathus linearis;644;55;12
+Badoh negro;665;76;15
+Anthriscus cerefolium;666;76;07
+Arisaema triphyllum;632;11;04
+Asparagaceae;633;54
+Badura;663;76;12
+Anthyllis vulneraria;644;55;01
+Aristoloche;622;72;05
+Asparagales;633;50
+Bael;655;41;06
+Antiaris;644;65;12
+Aristolochia clematitis;622;72;05
+Asparagus officinalis;633;54;16
+Bago;533;14;02
+Antiaris and ancar;644;65;12
+Aristolochia cymbifera;622;72;12
+Aspect en gueulle de belette;665;55;15
+Bahia powder;644;55;12
+Antiaris toxicaria;644;65;12
+Aristolochia glandifera;622;72;12
+Aspen;644;35;10
+Bai bu;633;32;13
+Antirrhinaceae;665;51
+Aristolochia milhomens;622;72;12
+Aspen poplar;644;35;10
+Baill;655;63;16
+Antirrhinum linaria;665;51;06
+Aristolochia serpentaria;622;72;08
+Asperula odorata;665;42;02
+Bakain;655;47;12
+Antirrhinum majus;665;51;17
+Aristolochiaceae;622;72
+Asphodelus albus;633;57;04
+Bakkekruid;665;55;01
+Aouara;633;44;11
+Aristolochiales;622;70
+Aspidosperma quebracho;665;25;11
+Balanites aegyptiaca;644;56;13
+Ape;632;11;20
+Arjan;654;16;17
+Aspidosperma Balanophoraceae;655;77
+Apfel;644;61;05
+Arjuna;654;16;17
+quebracho-blanco;665;25;11
+Balga;633;57;10
+Aphanes arvensis;644;61;07
+Arjuna myrobalan;654;16;17
+Asplenium scolopendrium;444;63;09
+Balimbing;644;16;03
+Aphloia theiformis;655;12;14
+Arlanthe;622;64;10
+Assam;644;24;13
+Ballockwort;633;70
+Aphloiaceae;655;12
+Armeria pseudarmeria;663;63;04
+Assamese;644;16;03
+Balloon cotton-bush;665;27;07
+Apiales;666;70
+Armoise;666;47;14
+Assegai tree;665;14;06
+Balloon pea;644;55;12
+Apioidae;666;74
+Armoracia rusticana;655;66;10
+Asterales;666;40
+Balloon vine;655;44;02
+Apium biternatum;666;74;07
+Arnica montana;666;44;08
+Asteranae;660;00
+Balloonplant;665;27;07
+Apium carvi;666;74;20
+Arnotta;655;51;16
+Astereae;666;45
+Ballota nigra;665;55;14
+Apium celery;666;74;03
+Arogya pacha;633;23;01
+Asteridae;660;00
+Balltree;644;24;07
+Apium graveolens;666;74;03
+Array'n blanco;654;14;05
+Asterids;660;00
+Ballwood;655;47;10
+Apium hortense;666;74;04
+Arrebenta cevallos;665;72;20
+Asteropsida;660;00
+Balm;665;55;12
+Apium inundatum;666;74;03
+Arrow head;633;14;16
+Asterostigma luschnathianum;632;11
+Balm of gilead;666;74;12
+Apium petroselinum;666;74;04
+Arrow leaf knotweed;663;66;14
+Asthma plant;644;34;08
+Balm of heaven;622;54;13
+Apium podagraria;666;74;07
+Arrow poison;665;26;06
+Astilbe rubra;652;16;07
+Balmony;665;51;05
+Aploppas;655;51;16
+Arrowgrass family;633;12
+Apocyneae;665;26
+Arrowleaf tearthumb;663;66;14
+Astraea lobata;644;34;16
+Balsam apple;644;75;11
+Apocynum androsaemifolium;665;26;13
+Arrowroot;633;24;01
+Astragalus exscapus;644;55;14
+Balsam family;664;15
+Apocynum cannabinum;665;26;06
+Arse-smart;663;66;12
+Astragalus menziesii;644;55;14
+Balsam poplar;644;35;10
+Apodanthaceae;644;77
+Artanthe elongata;622;64;10
+Astragalus mollissimus;644;55;14
+Balsam spruce;555;14;11
+Aponogeton distachyos;633;15;07
+Artemiseae;666;47
+Astragalus nuttallii;644;55;14
+Balsamea myrrha;655;43;13
+Aponogeton family;633;15
+Artemisia abrotanum;666;47;15
+Astragalus syphilitica;644;55;14
+Balsaminaceae;664;15
+Aponogetonaceae;633;15
+Artemisia absinthium;666;47;17
+Atasi;644;23;01
+Balsaminales;664;10
+Apostasioideae;633;71
+Artemisia annua;666;47;05
+Athamanta oreoselinum;666;74;14
+Balsamum peruvianum;644;55;04
+Appel;644;61;05
+Artemisia cina;666;47;13
+Ati-ati;665;55;08
+Baltimore oil;663;53;13
+Apple;644;61;05
+Artemisia douglasiana;666;47
+Atinian elm;644;64;13
+Bambay karkannic;664;34;13
+Apple of sodom;665;72;05
+Artemisia dracunculus;666;47;12
+Ativisha;642;13;01
+Bamboo;633;42;10
+Apple wood;655;41;06
+Artemisia heterophylla;666;47;14
+Atractylis gummifera;666;42;14
+Bamboo palm;633;44;04
+Aptenia cordifolia;663;23;04
+Artemisia paniculata;666;47;15
+Atripex olida;663;53;12
+Bambusa bambos;633;42;10
+Aquifoliaceae;666;14
+Artemisia pontica;666;47
+Atriplex hortensis;663;53;12
+Baneberry;642;13;03
+Aquifoliales;666;10
+Artemisia procera;666;47;15
+Atriplex patula;663;53;12
+Banewort;642;13;05
+Aquilaria agallocha;655;25;04
+Artemisia tridentata;666;47;03
+Atriplex portulacoides;663;53;12
+Bangada balli;665;76;16
+Aquilaria malaccensis;655;25;04
+Artemisia vulgaris;666;47;14
+Atropa belladonna;665;71;06
+Bangali bhat;665;55;05
+Aquilariaceae;655;25
+Arthrophyta;433;00
+Attap palm;633;44;16
+Bangenkraut;666;74;12
+Aquilegia vulgaris;642;13;07
+Artichaut;666;42;08
+Aubergine;665;72;14
+Bangladesh;633;44;16
+Arabian pea;644;55;15
+Artichoke thistle;666;42;08
+Aucklandia lappa;666;42;16
+Banisteriopsis caapi;644;22;04
+Araceae;632;11
+Artisjok;666;42;08
+Aucuba japonica;665;12;05
+Banksea speciosa;633;45;04
+Banksia hookeriana;643;13;05
+Banksia menziesii;643;13;04
+Banksia robur;643;13;13
+Banksia serrata;643;13;14
+Baobab tree;655;34;10
+Baptisia australis;644;55;16
+Baptisia confusa;644;55;16
+Baptisia tinctoria;644;55;16
+Barba de boi;644;55;05
+Barba de ro;644;55;05
+Barbados nut;644;34;01
+Barbarea vulgaris;655;66;03
+Barbaree;655;66;03
+Barberry;642;14;12
+Barbeyaceae;644;63
+Bark cloth tree;644;65;12
+Barley;633;42;16
+Barosma;655;41;16
+Barrenwort;642;14;04
+Barringtonia racemosa;664;45;02
+Basaka;665;62;04
+Basale;663;12;01
+Basella alba;663;12;01
+Basellaceae;663;12
+Bashful mimosa;644;53;04
+Basilicum;665;55;04
+Bedena;644;56;13
+Bee sweet balm;665;55;12
+Beech;644;44;13
+Beech family;644;44;03
+Beech order;644;40
+Beefwood;644;42
+Beekboom;665;51;13
+Beekpunge;665;51;13
+Beenbreek;633;26;17
+Beeplant;655;65;06
+Beetleweed;664;52;05
+Beetroot;663;53;02
+Beggar lice;644;55;05
+Beginning of mankind;633;34;05
+Begonia;644;76;03
+Begonia cucullata;644;76;03
+Begoniaceae;644;76
+Bejuco;665;76;06
+Bejuco de costilla;655;44;16
+Beka;644;24;12
+Belgian endive;666;43;06
+Belimbing;644;16;03
+Bella di notte;663;25;07
+Belladonna;665;71;06
+Belle de nuit;663;25;07
+Bellflower class;666;00
+Basilicum polystachyon;665;55
+Basilienkraut;665;55;04
+Basilikum;665;55;04
+Basket plant;633;46;06
+Basswood;655;32;06
+Basswood family;655;32
+Bastaardwederik;654;12;14
+Bastard almond;654;16;16
+Bastard cabbage tree;644;55;13
+Bastard cedar;655;37;12
+Bastard poon tree;655;31;16
+Bastardmandel;654;16;16
+Bauernsenf;655;66;05
+Bauhinia acuminata;644;54;07
+Bauhinia rufa;644;54;07
+Baune de gurjun;655;55;10
+Bay cedar;644;51;01
+Bay cedar;644;51
+Bay cedar;655;37;12
+Bay de saint thomas;654;14;13
+Bay de saint-thomas;654;14;05
+Bay laurel;622;54;10
+Bay rum tree;654;14;13
+Bayberry;644;46;16
+Bayberry;644;46;16
+Bayberry family;644;46
+Bazielkruid;665;55;04
+Beach almond;654;16;16
+Beach apple;644;34;02
+Beach calophyllum;644;24;07
+Beach lily;665;76;06
+Beach moonflower;665;76;15
+Beach morning glory;665;76;17
+Beach naupaka;666;36;14
+Beach touriga;644;24;07
+Bead tree;655;47;12
+Bellflower family;666;34
+Bellflower order;666;30
+Bellfowers;633;66;03
+Bellis perennis;666;45;07
+Bellworts;633;66;03
+Beluntas;666;45;17
+Bemu;644;65;12
+Benedict's thistle;666;42;11
+Bengal;644;24;13
+Bengal almond;654;16;16
+Bengal gram;644;55;16
+Bennet's herb;666;74;12
+Benumbing;633;56;16
+Benzoin;664;54;14
+Benzoinum oderiferum;622;54;20
+Ber;644;62;08
+Beras-beras;665;42;05
+Berberidaceae;642;14
+Berberidopsidales;661;10
+Berberidopsididae;661;00
+Berberidopsis corallina;661;12;01
+Berberis aquifolium;642;14;10
+Berberis vulgaris;642;14;12
+Berenklauw;666;74;10
+Bergamot;655;41;11
+Bergenia ciliata;652;16;08
+Berkhouterklaver;644;61;03
+Berry-bearing aralia;666;55;06
+Bertalha;663;12;01
+Bertholletia excelsa;664;45;16
+Berula erecta;666;77
+Beschaamde meiskes;665;33;04
+Besemmaker;664;63;07
+Bessemhei;664;63;07
+B?t;533;14;02
+Beta maritima;663;53;02
+Blechnales;444;60
+Bleeding-heart family;642;15
+Bleekgele hennepnetel;665;55;15
+Blekkenbloem;642;13;13
+Blessed milk thistle;666;42;12
+Blessed seed;642;13;16
+Blessed thistle;666;42;11
+Bletia capitata;633;76;12
+Blighia sapida;655;44;12
+Bliksemkroet;654;12;14
+Bloedboom;644;62;15
+Bloedzuiger;642;17;02
+Bloedzuiper;642;17;02
+Bloemetjes van;7
+kwartier;664;34;16
+Bloodroot;642;17;08
+Bloodwort;642;17;08
+Blue buttons;666;64;06
+Blue cohosh;642;14;05
+Blue field gilia;664;23;15
+Blue flag;633;51;08
+Blue gum-tree;654;14;12
+Blue poppy;642;17;11
+Blue simson;666;45;09
+Blue whortleberry;664;66;08
+Blue wild indigo;644;55;16
+Blue-bottle;666;42;05
+Blue-eyed grass;633;51;16
+Bluehead gilia;664;23;15
+Bluewood;644;62;20
+Blumea balsamifera;666;45;04
+Blumenbinse;633;15;01
+Blutkopf;644;61;06
+Blutpeterlein;666;74;12
+Blutschierling;666;74;12
+Blutwurz;644;61;03
+Bo-tree;644;65;15
+Bearded creeper;666;42;01
+Bears foot;666;44;09
+Bearsfoot;666;44;09
+Beaucarnea recurvata;633;54;04
+Beautiful jacob's ladder;664;23;13
+Beauty of the night;663;25;07
+Beautyleaf;644;24;07
+Beaver poison;666;77;01
+Beaver wood;644;67;10
+Beaver-poison Beaver-tree Beberas;666;77;01
+Bibernell Bibernell Bichea nitida;666;74;01
+Black tang Black tany Black vomit nut;111;02;20
+Bois d'homme Bois d'orme Bois de hotre;655;37;12
+Brittleworts;221;21
+Briza maxima;633;42;07
+Briza media;633;42;07
+Broad bean;644;55;02
+Broad bologi;663;12;01
+Broad leaved cat tail;633;41;01
+Broad leaved everlasting pea;644;55;14
+Broad-leaf enchanter's nightshade;654;12;04
+Broad-leaved dogwood;665;16;08
+Broekmint;665;55;01
+Brombeere;644;61;13
+Bromeliaceae;633;47
+Bromeliads;633;47
+Bromelias;633;47
+Burma;633;44;16
+Burmanniaceae;633;27
+Burmese soon-mhway;633;34;05
+Burning bush;654;16;11
+Burning bush;666;61;15
+Burning-bush;655;41;03
+Burnt saxifraga;666;72;05
+Burnt saxifrage;666;74;01
+Burr marigold;666;44;03
+Burra gokharu;644;56;05
+Burrawang;544;15;03
+Burseraceae;655;43
+Bush honeysuckle;666;66;20
+Bush willow;654;16
+Bushilla;644;53;20
+California poppy;642;17;14
+California saltbush;663;53;02
+California wild rose;644;61;10
+Calla lily;632;11;06
+Calliandra houstoniana;644;53;05
+Calliandra surinamensis;644;53;05
+Callionia canadensis;644;61;03
+Callisia fragrans;633;46;06
+Callista;633;76;10
+Callistemon linearis;654;14;17
+Callistemon polandii;654;14;17
+Callitris rhomboidea;555;15;15
+Calluna vulgaris;664;63;07
+Calocephalus multiflorus;666;45;12
+Calochortus albus;633;63;02
+Bromus ramosus;633;42;03
+Broodnoot;644;65;16
+Brook-lime;665;51;13
+Broom;644;55;14
+Broom;644;55;06
+Broom tea tree;654;14;15
+Broomrape family;665;57
+Brosimum acutifolium;644;65;16
+Brosimum gaudichaudii;644;65;16
+Brot k?mmel;666;74;20
+Brown boronia;655;41;16
+Brownlowiaceae;655;35
+Brownlowioideae;655;35
+Brucea antidysenterica;655;46;14
+Brucea javanica;655;46;14
+Brugmansia candida;665;71;06
+Brugmansia suaveolens;665;71;06
+Bruguiera gymnorhiza;644;31;12
+Bruidsbloem;665;27;04
+Bruise wort;663;41;05
+Calochortus leichtlinii;633;63;17
+Calochortus monophyllus;666;45;17
+Calochortus tolmiei;633;63;14
+Calomeria amaranthoides;666;45;08
+Calonyction speciosum;665;76;08
+Calophyllum inophyllum;644;24;07
+Calophyllum nagassarium;644;24;17
+Calothamnus myrticae;654;14;13
+Calotropis gigantea;665;27;10
+Calotropis procera;665;27;09
+Caltha;642;13;13
+Caltha palustris;642;13;13
+Caltrop;644;56;05
+Calumba;642;16;15
+Calycanthaceae;622;57
+Calycanthus occidentalis;622;57;06
+Calyceraceae;666;37
+Calypso bulbosa;633;76;15
+Calystegia sepium;665;76;02
+Cambo-ace;655;37;12
+Bottle brush;433;44;01
+Bruisewort;666;45;07
+Cabaret des oiseaux;666;64;10
+Camellia sinensis;664;53;08
+Brunel;665;55;06
+Brunella vulgaris;665;55;17
+Brunfelsia hopeana;665;73;17
+Brunfelsia uniflora;665;73;17
+Brunia laevis;666;21;13
+Bruniales;666;20
+Bruwinde;665;76;02
+Bryonia alba;644;75;08
+Bryonia cretica;644;75;08
+Bryonia dioica;644;75;08
+Bryonia tayuya;644;75;09
+Bryophyta sc;333;10
+Buah atap;633;44;16
+Buah nipah;633;44;16
+Bucco;655;41;16
+Buchu;655;41;16
+Buck-bean;666;31;08
+Buck's horn;665;51;03
+Buckbean;666;31;08
+Buckthorn family;644;62
+Buckwheat;663;66;02
+Buckwheat family;663;66
+Buddleja davidii;665;54;07
+Buenas tardes;663;25;07
+Camelliaceae;664;53
+Camerisier des haines;666;65;13
+Cammock;644;55;08
+Camomille riomaine;666;47;04
+Campanula rapunculus;666;34;05
+Campanula rotundifolia;666;34;08
+Campanula subclass;666;00
+Campanula trachelium;666;34;06
+Campanulaceae;666;34
+Campanulales;666;30
+Campanulidae;666;00
+Campanulids;666;00
+Camphora officinalis;622;54;12
+Campsis radicans;665;65;06
+Canada balsam;555;14;11
+Canada cinquefoil;644;61;03
+Canada fir tree;555;14;11
+Canada sweet gale;644;46;16
+Canadese gruiswortel;665;51;07
+Canadian moonseed;642;16;08
+Canafistule;644;54;04
+Cananga odorata;622;43;13
+Canarium luzonicum;655;43;08
+Cancer bush;644;55;12
+Brassicales;655;60
+Bullace;644;61;08
+Calamintha ascendens;665;55;20
+Canellales;622;30
+Brave heart;665;23;04
+Bullhead;644;56;05
+Calamintha menthifolia;665;55;20
+Canistel;664;44;20
+Bullock's lungwort;665;54;04
+Buloke;644;42
+Bunga cakar ayam;665;42;07
+Bunga lawang;622;14;01
+Bunga pakma;644;37;16
+Bunga siantan;633;45;14
+Bunias orientalis;655;66;17
+Buphthalmum salicifolium;666;45
+Bupleuroidae;666;73
+Calamus;631;11;01
+Calandrinia polyandra;663;16;08
+Calceolaria tripartita;665;52;08
+Calcium tree;644;53;17
+Calea zacatechichi;666;44;17
+Calebassier;665;65;08
+Calectasia cyanea;633;43;05
+Calendula;666;45;12
+Calendula officinalis;666;45;12
+Calico bush;664;63;05
+California buckthorn;644;62;9
+Canna;663;23;05
+Canna glauca;633;45;01
+Canna indica;633;45;01
+Cannabaceae;644;67
+Cannabis indica;644;67;16
+Cannabis sativa;644;67;16
+Cannakilannu;633;45;04
+Cannakkuvva;633;45;04
+Canne a sucre;633;42;17
+Cannonball mangrove;655;47;17
+Canola;655;66;02
+Burbur;644;55;05
+Burchellia bubalina;665;44;11
+Burdock;666;42;06
+Buri palm or talipot palm;633;44;15
+Buriti;633;44;14
+California clover;644;55;01
+California laurel;622;54;13
+California orache;663;53;02
+California pepper tree;655;42;16
+California pitcher plant;664;76;16
+Chevrefeuille du cap;665;65;16
+Chewing gum;655;43;10
+Chewstick;644;24;11
+Chi-hsueh tsuao;666;71;13
+Chick weed;666;44;04
+Chick-pea;644;55;16
+Chickling vetch;644;55;14
+Chickwort;663;41;03
+Chicory;666;43;06
+Chijol;644;55;09
+Chile soap bark tree;644;51;01
+Chilean bellflower;633;61;10
+Chilean myrtle;654;14;05
+Chili pepper;655;42;16
+Chilopsis linearis;644;35;05
+Chimaphila maculata;664;67;12
+Chimaphila umbellata;664;67;12
+China;665;45;13
+Chinaberry;655;47;12
+Chinantec;665;76;15
+Chinese anise;622;14;01
+Chinese astilbe;652;16;07
+Chinese bellflower;666;34;10
+Chinese date;644;62;08
+Chinese datura;665;71;08
+Chinese foxglove;665;56;02
+Chinese goldthread;642;13;20
+Chinese pepper;655;41;12
+Chinese plumbago;663;63;05
+Chinese prickly-ash;655;41;12
+Chinese scholar tree;644;55;15
+Chinese spinach;663;12;01
+Chinese spinach;665;76;17
+Chinese sucker;655;44;13
+Chinese wisteria;644;55;12
+Chiococca alba;665;45;14
+Chionanthe;665;46;05
+Chionanthus;665;46;05
+Chionanthus virginicus;665;46;05
+Chiri;665;73;17
+Chiric sanango;665;73;17
+Chitra;663;63;16
+Chitraka;663;63;16
+Chives;633;56;14
+Chloranthales;622;20
+Chlorobionta;211;00
+Chlorobiota;211;00
+Chlorogalum pomeridianum;633;55;05
+Chlorophyta;210;00
+Chlorophytes;210;00
+Chlorophytum comosum;633;55;08
+Chloroplastida;211;00
+Chocolate;655;37;15
+Chim cham;655;44;13
+Chondrodendron tomentosum;642;16;17
+Chondrorhyncha discolour;633;74;12
+Chondrus crispus;111;10
+Christ's thorn;644;62;17
+Christmas berry tea;666;14;20
+Christmas rose;642;13;14
+Christmas vine;665;76;06
+Christusdoorn;644;34;13
+Chrysalidocarpus lutescens;633;44;13
+Chrysanthemum indicum;666;47;09
+Chrysanthemum leucanthemum;666;47;09
+Chrysanthemum maximum;666;47;09
+Chrysanthemum morifolium;666;47;09
+Chrysanthemum parthenium;666;47;13
+Chrysanthemum pyrethrum;666;47;08
+Chrysanthemum roseum;666;47;13
+Chrysarobin;644;55;12
+Chrysarobinum;644;55;12
+Chrysobalanaceae;644;27
+Chrysobalanus icaco;644;27;17
+Chrysopogon zizanioides;633;42;04
+Chrysosplenium davidianum;652;16;04
+Chrysothamnus nauseosus;666;45;05
+Church steeples;644;61;06
+Cibotium barometz;444;46;10
+Ciboulette;633;56;14
+Cicer arietinum;644;55;16
+Cicerula alata;644;55;14
+Cicerula sativa;644;55;14
+Cichoree sauvage;666;43;06
+Cichorium endivia;666;43;06
+Cichorium intybus;666;43;06
+Chaerophyllum temulum;666;76;04
+Chain fern;444;46;10
+Chain plant;633;46;06
+Chalice vines;665;71;20
+Chalita;662;11;01
+Chalta;662;11;01
+Chamaecyparis lawsoniana;555;15;04
+Chamaedaphne calyculata;664;66;14
+Cayaponia piauhiensis;644;75;09
+Cayaponia tayuya;644;75;09
+Cayenne pepper;665;75;13
+Ceanothe;644;62;05
+Ceanothus americanus;644;62;05
+Chasmanthera palmata;642;16;15
+Chassalia chartacea;665;42;05
+Chaulmoogra;644;36;16
+Chebulic myrobalan;654;16;17
+Cheiranthus cheiri;655;66;04
+Cheirantus fruticulosus;655;66;04
+Cape tulip;633;51;14
+Cape-pondweed family;633;15
+Capillaire de montpellier;444;50;13
+Capnoides cava;642;15;14
+Capnoides sempervirens;642;15;13
+Capparaceae;655;64
+Capparidaceae;655;64
+Capparis spinosa;655;64;06
+Caprifoliaceae;666;65
+Capsella bursa-pastoris;655;66;15
+Capsicoideae;665;75
+Capsicum;665;75;13
+Capsicum annuum;665;75;13
+Capucine;655;62;01
+Caractere des hommes;654;16;05
+Caralam;665;76;16
+Carambola;644;16;03
+Carapichea ipecacuanha;665;44;15
+Carapicho;644;55;05
+Carapixo de caloada;655;32;03
+Caraway;666;74;20
+Carb's eye vine;644;55;09
+Cardamine;655;66;07
+Cardamine amara;655;66;07
+Cardamine fragilis;655;66;07
+Cardamine integrifolia;655;66;07
+Carya alba;644;45;09
+Carya tomentosa;644;45;09
+Caryophyllaceae;663;40
+Caryophyllales;663;40
+Caryophyllidae;663;00
+Caryophyllus aromaticus;654;14;09
+Centrospermae;663;00
+Century plant;633;55;09
+Cephaelis ipecacuanha;665;44;15
+Cephalanthus occidentalis;665;45;08
+Carpobrotus deliciosus;663;23;12
+Carpobrotus edulis;663;23;06
+Carpopogon pruriens;644;55;08
+Carqueja dolce;666;45;17
+Carrapicho-beieo-de-boi;644;55;05
+Carroba;665;65;17
+Carron flower;665;27;08
+Carrot;666;75;02
+Carruba;644;54;11
+Carrubo;644;54;11
+Carthame des teintures;666;42;07
+Chenopodium ambrosioides;663;53;13
+Chenopodium anthelminticum;663;53;13
+Chenopodium bonus-henricus;663;53;07
+Chenopodium botrys;663;53;13
+Chenopodium hybridum;663;53;13
+Chenopodium vulvaria;663;53;16
+Centaurium erythraea;665;23;02
+Centaurium minus;665;23;02
+Centaurium umbellatum;665;23;02
+Centella asiatica;666;71;13
+Cichoroideae;666;43
+Climbing fumitory;642;15;13
+Commelina communis;633;46;02
+Convolvulus pulcherrimus;665;76;08
+Cicuta cellulosa;666;77;01
+Climbing guinea-flower;662;11;05
+Commelinales;633;40
+Convolvulus purga;665;76;06
+Cicuta cynapium;666;74;13
+Climbing hemp weed;666;44;16
+Commelinales;633;46
+Convolvulus scammonia;665;76;04
+Cicuta maculata;666;77;01
+Climbing lily;633;66;10
+Commelinoids;633;40
+Convolvulus sepium;665;76;02
+Cicuta maculatum;666;74;12
+Climbing spinach;663;12;01
+Commiphora molmol;655;43;13
+Convolvulus stans;665;76;04
+Cicuta major;666;74;12
+Clinopodium grandiflorum;665;55;17
+Commiphora mukul;655;43;15
+Conyza canadensis;666;45;09
+Cicuta officinalis;666;74;12
+Clinopodium menthifolium;665;55
+Commiphora myrrha;655;43;13
+Coolwort;644;66;15
+Cicuta virosa;666;77;01
+Clintonia borealis;633;64;07
+Common acacia;644;55;10
+Copaifera officinalis;644;54;11
+Cicutaria aquatica;666;77;01
+Clivia miniata;633;56;09
+Common adderwort;663;66;11
+Copaiva;644;54;11
+Cigar flower;654;11;08
+Clove scented broomrape;665;57;17
+Common alder;644;41;06
+Copal;644;54;11
+Cimicifuga;642;13;13
+Cloves;654;14;09
+Common amaranth;663;55;08
+Copihue;633;61;10
+Cimicifuga racemosa;642;13;13
+Clown's woundwort;665;55;06
+Common basil thyme;665;55;20
+Coppaiba;644;54;11
+Cina;666;47;13
+Club-moss;422;13;06
+Common bean;644;55;02
+Coptis chinensis;642;13
+Cina maritima;666;47;13
+Clubbed begonia;644;76;03
+Common blanketflower;666;44;12
+Coptis trifolia;642;13
+Cinchona officinalis;665;45;13
+Clubmosses;422;13
+Common buckthorn;644;62;08
+Coptosapelteae;665;43
+Cinchonoideae;665;45
+Clubmosses;422;10
+Common butterbur;666;46;08
+Coque du levant;642;16;07
+Cinnamomum;622;54;15
+Clubmosses;422;00
+Common celery;666;74;03
+Coquelicot;642;17;02
+Cinnamomum camphora;622;54;12
+Clusiaceae;644;24
+Common chamomile;666;47;04
+Coral bells;652;16;11
+Cinnamomum verum;622;54;15
+Clusiacees;644;24
+Common chamomile;666;47;06
+Coral hibiscus;655;33;17
+Cinnamon;622;54;15
+Cnicus benedictus;666;42;11
+Common columbine;642;13;07
+Coral necklace;663;41;13
+Cinnamon myrtle;654;14;06
+Cnidoscolus urens;644;34;01
+Common corn cockle;663;41;15
+Coral pea;644;55;05
+Cinnamonum zeylanicum;622;54;15
+Coachwhip;664;24;01
+Common cow-parsnip;666;74;10
+Coral plant;644;34;13
+Cinque foil;644;61;03
+Coastal coral tree;644;55;09
+Common crupina;666;42;01
+Coral plant;644;34;01
+Circaea lutetiana;654;12;04
+Coastal coral tree;644;55;08
+Common dock;663;66;08
+Coral plant of chile;661;12;01
+Cirsium arvense;666;42
+Cobra lily;664;76;16
+Common elm;644;64;13
+Coral tree;644;55;08
+Cirsium ochrocentrum;666;42
+Cobra's saffron;644;24;17
+Common fennel;666;74;07
+Coral tree;644;55;09
+Cirus vulgaris;655;41;09
+Coca;644;31;06
+Common filbert;644;41;03
+Cocaier;644;31;06
+Common gaillardia;666;44;12
+Corchorus capsularis;655;37;08
+Cissampelos torulosa;642;16;06
+Coccinia grandis;644;75;16
+Common garden lettuce;666;43;01
+Cordia verbenacea;665;35
+Cissus elongata;643;16;12
+Coccinia palmata;644;75;16
+Common gromwell;665;33;10
+Cordia verbenacea;665;35;20
+Cissus erosa;643;16;12
+Cocculus indicus;642;16;07
+Common hawthorn;644;61;12
+Cordiaceae;665;35
+Cissus microcarpa;643;16;12
+Cocculus palmata;642;16;15
+Common hydrangea;665;15;08
+Cordyline australis;633;54
+Cissus quadrangularis;643;16;05
+Cochleanthes discolor;633;74;12
+Common kidneyvetch;644;55;01
+Coreopsis verticillata;666;44;07
+Cissus salutaris;643;16;12
+Cochlearia armoracia;655;66;10
+Common laurel;644;61;17
+Coriander;666;74;09
+Cissus trifoliata;643;16;12
+Cochlearia officinalis;655;66;13
+Common lime;655;32;09
+Coriandrum cicuta;666;77;01
+Cistaceae;655;53
+Cochlearia pyrenaica;655;66;13
+Common lvy;666;55;02
+Coriandrum cicuta;666;74;12
+Cistales;655;50
+Cochlospermum tinctorium;655;51;04
+Common mallow;655;33;07
+Coriandrum cynapium;666;74;13
+Cistanthe tweedyi;663;15;20
+Cocillana;655;47;10
+Common myrtle;654;14;04
+Coriandrum maculatum;666;74;12
+Ciste a gomme;655;53;12
+Cocklebur;644;61;06
+Common oat;633;42;14
+Coriandrum sativum;666;74;09
+Cistus canadensis;655;53;12
+Cockleburr;666;44;13
+Common poison-bush;665;25;11
+Coriaria arborea;644;72
+Cistus creticus;655;53;12
+Coco;655;37;12
+Common pussypaws;663;15;20
+Coriaria myrtifolia;644;72;05
+Citroen balsem;665;55;12
+Coco de dente;633;44;11
+Common salomon's seal;633;54;15
+Coriaria ruscifolia;644;72;17
+Citroengras;633;42;01
+Coco plum family;644;27
+Common sand spurrey;663;41;08
+Coriariaceae;644;72
+Citroengras;633;42;01
+Coconut;633;44;06
+Common sea buckthorn;644;62;06
+Cork oak;644;44;10
+Citroenkruid;666;47;15
+Coconut de mer;633;44;13
+Common silverweed;644;61;03
+Corkwood tree;665;73;14
+Citroenmelisse;665;55;12
+Cocoplum;644;27;17
+Common smokebush;643;13;11
+Cormus domestica;644;61;14
+Citrullus colocynthis;644;75;13
+Cocos maldivica;633;44;13
+Common sow-thistle;666;43;02
+Corn;633;42;12
+Citrullus lanatus;644;75;04
+Cocos nucifera;633;44;06
+Common stonecrop;652;15;05
+Corn campion;663;41;15
+Citrus acris;655;41;11
+Codonanthe crassifolia;665;52;16
+Common teasel;666;64;10
+Corn cockle;663;41;15
+Citrus aurantium;655;41;10
+Coelogyne pandurata;633;76;01
+Common tumble weed;663;55;08
+Corn parsley;666;74;05
+Citrus bergamot;655;41;09
+Coffea arabica;665;44;08
+Common valerian;666;63;13
+Corn poppy;642;17;02
+Citrus bigaradia;655;41;10
+Coffee;665;44;08
+Common wallflower;655;66;04
+Corn rose;642;17;02
+Citrus decumana;655;41;08
+Coffee berry;663;67;05
+Common woadwaxen;644;55;06
+Corn silk;633;42;12
+Citrus family;655;41
+Coffee chicory;666;43;06
+Common wormwood;666;47;14
+Corn-pink;663;41;15
+Citrus limetta;655;41;11
+Coffee nut tree;644;54;09
+Common wormwood;666;47;17
+Corn-silk;633;42;12
+Citrus limon;655;41;09
+Coffeeberry;644;62;9
+Common zinnia;666;44;09
+Cornaceae;665;16
+Citrus maxima;655;41;08
+Cohoba;644;53;17
+Commoon bluebell;633;53;04
+Cornacees;665;16
+Citrus medica;655;41;11
+Coirama;652;15;06
+Comocladia dentata;655;42;11
+Cornales;665;10
+Citrus nobilis;655;41;10
+Cola acuminata;655;31;08
+Compass plant;666;44;14
+Cornouiller;665;16;13
+Citrus paradisi;655;41;10
+Cola acuminata;655;31;13
+Compositae;666;40
+Cornus alba;665;16;13
+Citrus reticulata;655;41;10
+Cola nitida;655;31;08
+Condor plant;665;27;12
+Cornus alternifolia;665;16;13
+Citrus sinensis;655;41;10
+Cola vera;655;31;08
+Condor vine;665;27;12
+Cornus circinata;665;16;08
+Civatai;665;76;16
+Colatier;655;31;08
+Condurango;665;27;12
+Cornus florida;665;16;05
+Cladophora rupestris;210;10;01
+Colchicaceae;633;66
+Coneflower;666;44;17
+Cornus nuttallii;665;16;09
+Clary;665;55;15
+Colchicum autumnale;633;66;15
+Coneru;665;26;16
+Cornus rugosa;665;16;08
+Clasping twisted-stalk;633;64;05
+Coleus amboinicus;665;55;08
+Confilie;665;33;12
+Cornus sanguinea;665;16;13
+Claspleaf twisted-stalk;633;64;05
+Coleus forskohlii;665;55
+Coniferae;555;14
+Cornus sericea;665;16;12
+Clavero giroflo;654;14;09
+Coleus or painted nettle;665;55;08
+Coniferae;555;10
+Corpse flower;644;37;16
+Clavija biborrana;664;37;16
+Colewort;644;61;02
+Coniferales;555;10
+Corpse flower;632;11;12
+Clavillia;663;25;07
+Colibri flower;664;23;05
+Coniferophyta;555;10
+Correa pulchella;655;41;02
+Clavo de olor;654;14;09
+Colic root;633;26;14
+Conifers;555;14
+Corsiaceae;633;67
+Clearweed;644;66;15
+Colic root;666;44;01
+Conifers;555;10
+Corydalis aurea;642;15;12
+Cleavers;665;42;02
+Colladon;644;54;03
+Conium cicuta;666;74;12
+Corydalis bulbosa;642;15;14
+Cleavers;665;42;02
+Collinsonia canadensis;665;51;07
+Conium maculatum;666;74;12
+Corydalis cava;642;15;14
+Clematis erecta;642;13;17
+Colocasia esculenta;632;11;15
+Conium nodosum;666;74;12
+Corydalis formosa;642;15;17
+Clematis recta;642;13;17
+Colocynth;644;75;13
+Conospermum incurvum;643;13;11
+Corydalis tuberosa;642;15;14
+Clematis virginiana;642;13;17
+Colocynthis;644;75;13
+Conospermum stoechadis;643;13;11
+Corylus avellana;644;41;03
+Clematis vitalba;642;13;17
+Colourados;655;51;16
+Conostylis aculeata;633;46;02
+Corynocarpus laevigatus;644;72;17
+Clematite;642;13;17
+Coltsfoot;666;46;06
+Conquer toxin;665;27;15
+Columba;642;13;07
+Consolida regalis;642;13;09
+Cosmos bipinnatus;666;44;17
+Cleome gynandra;655;65;06
+Colutea orientalis;644;55;09
+Consumption weed;664;67;15
+Cosso;644;61;13
+Cleome hassleriana;655;65;06
+Combrang;633;45;14
+Consumptive's weed;665;31;12
+Costmary;666;47;13
+Cleome spinosa;655;65;06
+Combretaceae;654;16
+Contamal;655;37;12
+Costus arabicus;633;45;11
+Clerodendrum infortunatum;665;55;05
+Combretum caffrum;654;16;12
+Convallaria majalis;633;54;04
+Costus pisonis;633;45;11
+Clerodendrum trichotomum;665;55;16
+Combretum chebula;654;16;17
+Convolvulaceae;665;76
+Costus spicatus;633;45;04
+Clethra alnifolia;664;61;10
+Combretum indicum;654;16;05
+Convolvulus arvensis;665;76;06
+Cotinus coggygria;655;42;15
+Clethra family;664;61
+Combretum laxum;654;16;07
+Convolvulus duartinus;665;76;08
+Coto;622;54;15
+Clethraceae;664;61
+Combretum micranthum;654;16;15
+Convolvulus jalapa;665;76;06
+Cotonnier;655;33;04
+Clidemia capitellata;654;13;05
+Combretum paniculatum;654;16;11
+Convolvulus nervosus;665;76;20
+Cotton;655;33;04
+Cyclamen hederifolium;664;34;17
+Cyclamen purpurascens;664;34;17
+Cyclanthaceae;633;33
+Cyclocarya;644;45
+Cydonia oblonga;644;61;09
+Cydonia oblongata;644;61;09
+Cydonia vulgaris;644;61;09
+Cymbopogon citratus;633;42;01
+Cymbopogon martini;633;42;01
+Cynara scolymus;666;42;08
+Cynodon dactylon;633;42;09
+Cynoglossum officinale;665;33;09
+Cynomoriaceae;652;17
+Cynomorium coccineum;652;17;14
+Cyperaceae;633;41
+Cypergrass;633;41
+Cyperochis;633;74;07
+Cyperus longus;633;41
+Cypress family;555;15
+Cypripedioideae;633;72
+Cypripedium acaule;633;72;02
+Cypripedium calceolus;633;72;02
+Cyrilla family;664;62
+Cyrillaceae;664;62
+Cyrtopodium punctatum;633;74;08
+Cystisus scoparius;644;55;14
+Cytinaceae;655;57
+Cytisus aubour;644;55;07
+Cytisus laburnum;644;55;07
+Cytisus scoparius;644;55;14
+Cytisus tinctoria;644;55;06
+Dacryodes excelsa;655;43;10
+Dactyle;633;42;09
+Dactylis glomerata;633;42;09
+Dactylophyllum anserine;644;61;03
+Dactylorhiza maculata;633;73;12
+Damastbloem;655;66;10
+Dame de onze heures;633;53;12
+Damiana;644;32;12
+Damiana aphrodisiaca;644;32;12
+Dampiera linearis;666;36;04
+Damsel;644;34;16
+Dangleberry;664;66;20
+Dani;633;44;16
+Daphne indica;655;26;06
+Daphne laureola;655;26;10
+Daphne mezereum;655;26;16
+Dark-flowered veratrum;633;65;11
+Darnel;633;42;05
+Dasypogonaceae;633;43
+Date palm;633;44;15
+Datiscaceae;644;73
+Datura arborea;665;71;06
+Datura ferox;665;71;08
+Datura metel;665;71;07
+Datura stramonium;665;71;10
+Daturoideae;665;71
+Daucoidae;666;75
+Daucus carota;666;75;02
+Daun kadok;622;64;15
+Daun kaki kuda;666;71;13
+Daun kari;655;41;03
+Daun urat;665;51;03
+Dauphinelle pied d'alouette;642;13;09
+Dauwnetel;665;55;03
+David's harp;633;54;15
+Davidia involucrata;665;14;04
+Daviesia divaricata;644;55;12
+Dayflower;633;46;02
+Dayflower family;633;46;01
+Dayflower family;633;46
+Dead nettle;665;55;03
+Deadly nightshade;665;71;06
+Death camas;633;65;17
+Dedalu;666;55;12
+Deer nut;663;67;05
+Deer vine;666;62;02
+Deerweed;642;13;13
+Deerwort;666;44;05
+Delosperma cooperi;663;23;11
+Delphinium nudicaule;642;13;10
+Delphinium nuttallianum;642;13;10
+Delphinium staphisagria;642;13;10
+Demerara pinkroot;665;24;13
+Dendrobioideae;633;76
+Dendrobium lasianthera;633;76;10
+Dendrocnide moroidea;644;66;12
+Dendrocnide sinuata;644;66;12
+Dennstaedtiales;444;70
+Dense boisduvalia;654;12;13
+Dense button-snakeroot;666;44;01
+Dense spike-primrose;654;12;13
+Denseflower willowherb;654;12;13
+Derris pinnata;644;55;15
+Descurainia sophia;655;66;13
+Desert coral;664;24;01
+Desert date;644;56;13
+Desert gourd;644;75;13
+Desert lily;633;55;05
+Desert rose;665;26;06
+Desert thumb;652;17;14
+Desert willow;644;35;05
+Desmodium gangeticum;644;55;05
+Deutsche kicher;644;55;03
+Deutscher ingwer;631;11;01
+Deutscher zitwer;631;11;01
+Deutzia scabra;665;15;04
+Devadanti;665;76;16
+Devil;666;55;08
+Devil's backbone;643;16;05
+Devil's bit;666;44;01
+Devil's bit;666;64;11
+Devil's bit;633;65;14
+Devil's claw;665;66;14
+Devil's club;666;55;08
+Devil's cotton;655;37;14
+Devil's darning needles;642;13;17
+Devil's dung;666;74;16
+Devil's eyelashes;644;56;05
+Devil's guts;665;79
+Devil's hair;642;13;17
+Devil's hair;665;79
+Devil's horn;665;63;20
+Devil's ringlet;665;79
+Devil's thorn;644;56;05
+Devil's tongue;632;11;12
+Devil's trumpet;665;71;10
+Devil's weed;666;43;01
+Devil's weed;644;56;05
+Dhamarjab;644;75;14
+Dharek;655;47;12
+Dhraik;655;47;12
+Dialium divaricatum;644;54;08
+Dialium ferrum;644;54;08
+Dialium guianense;644;54;08
+Dianthus caryophyllus;663;41;10
+Diapensiaceae;664;52
+Dicentra canadensis;642;15;17
+Dicentra cucullaria;642;15;17
+Dicentra formosa;642;15;17
+Dichapetalum cymosum;644;27;12
+Dictamnus albus;655;41;03
+Dieffenbachia seguine;632;11;03
+Diervilla lonicera;666;66;01
+Diervilleaceae;666;66
+Diesel tree;644;54;11
+Digitale pourpre;665;51;14
+Digitalis purpurea;665;51;14
+Dihuang;665;56;02
+Dill;666;74;03
+Dille;666;74;03
+Dillenia;662;11;01
+Dillenia indica;662;11;01
+Dilleniaceae;662;11
+Dilleniales;662;10
+Dilleniidae;662;00
+Dillfenchel;666;74;03
+Dimocarpus longan;655;44;13
+Dimorphochlamys difformis;644;75;13
+Dionaea muscipula;663;74;16
+Dioscorea communis;633;22;16
+Dioscorea villosa;633;22;02
+Dioscoreaceae;633;22
+Dioscoreales;633;20
+Diosma;655;41;16
+Diospyros kaki;664;47;15
+Dipentodontaceae;655;24
+Diplotaxis tenuifolia;655;66;14
+Dipodium punctatum;633;74;02
+Dipodium squamatum;633;74;02
+Dipsacaceae;666;64
+Dipsacales;666;60
+Dipsacus;666;64;10
+Dipsacus fullonum;666;64;10
+Dipsacus pilosus;666;64;10
+Dipterix odorat;644;55;08
+Dipterocarpaceae;655;55
+Dipterocarpus turbinatus;655;55;10
+Dipteryx odorata;644;55;08
+Dirca palustris;655;26;13
+Disocactus flagelliformis;663;14;16
+Dissotis;654;13;03
+Dissotis rotundifolia;654;13;03
+Distaff thistle;666;42;07
+Dittany of crete;665;55;10
+Dittany of crete;655;41;03
+Diuris magnifica;633;73;11
+Djeree blom;642;13;13
+Djirreblom;642;13;13
+Dock cress;666;43;11
+Doctorbush;663;63;16
+Dodder;665;79;01
+Dodder;665;79
+Dodder;642;13;13
+Dodebeze;665;72;07
+Dodecatheon hendersonii;664;33;04
+Dodemansvingers;666;77;17
+Dodonaea adenophora;655;44;01
+Dog fennel;666;44;05
+Dog rose;644;61;10
+Dog's grass;633;42;06
+Dog's mercury;644;34;05
+Dog's tooth violet;633;64;13
+Dog's-tooth violet;633;64;14
+Dogbane family;665;25
+Dogbane family;665;26
+Dogberry;652;16;16
+Dogelder;666;74;07
+Dogwood;665;16;09
+Dogwood family;665;16
+Dolichos altissimus;644;55;08
+Easter lily;633;64;10
+Epaulette tree;664;54;13
+Etlingera elatior;633;45;14
+Dolichos pruriens;644;55;08
+Easter magiant;663;66;11
+Eperviere piloselle;666;43;07
+Ettich;666;74;03
+Dolichos urens;644;55;08
+Easter man-giant;663;66;11
+Epf;666;74;03
+Euasterids;1
+Dolik;633;42;05
+Eastern clumpfoot cabbage;632;11;16
+Ephedra;533;15;11
+Euasterids;2
+Donderkruid;665;55;10
+Eastern pasqueflower;642;13;02
+Ephedra californica;533;15;11
+Eucalyptus caesia;654;14;05
+Dondertoeur;654;11;06
+Ebelebo;654;16;16
+Ephedra distachya;533;15;11
+Eucalyptus erythrocorys;654;14;12
+Donederpoze;654;11;06
+Ebenaceae;664;47
+Ephedraceae;533;15
+Eucalyptus forrestiana;654;14;12
+Dong-quay;666;74;11
+Eberesche;644;61;14
+Ephemeros;663;15;20
+Eucalyptus globulus;654;14;12
+Dongoyaro;655;47;12
+Eberraute;666;47;15
+Epidendrum friderici-guilielmi;633;75;05
+Eucomis comosa;633;53;11
+Dooier;642;13;13
+Ecballium elaterium;644;75;01
+Epidendrum ibaguense;633;75;05
+Eucommia ulmoides;665;12;12
+Doom bark;644;54;15
+Eccremocarpus scaber;665;65;09
+Doom bean;644;55;16
+Echalote;633;56;05
+Epigaea repens;664;63;02
+Eugenia aromatica;654;14;09
+Doornappel;665;71;10
+Echinacea angustifolia;666;44;17
+Epilobe velu;654;12;08
+Eugenia caryophyllata;654;14;09
+Doorway to the heart;663;14;14
+Echinacea purpurea;666;44;17
+Epilobium angustifolium;654;12;14
+Eugenia caryophyllus;654;14;09
+Dorema ammoniacum;666;74;02
+Echinacea rudbeckia;666;44;17
+Epilobium canum;654;12;08
+Eugenia cheken;654;14;05
+Dornige hauhechel;644;55;08
+Echinodorus macrophyllus;633;14;05
+Epilobium hirsutum;654;12;08
+Eugenia chequen;654;14;05
+Doronicum pardalianches;666;46;11
+Echinopanax horridus;666;55;08
+Epilobium latifolium;654;12;08
+Eugenia jambos;654;14;09
+Dost;665;55;10
+Echinopsis pachanoi;663;14;14
+Epilobium linears;654;12;08
+Eugenia pimenta;654;14;07
+Doubleclaw;665;63;20
+Echium vulgare;665;33;11
+Epilobium palustre;654;12;08
+Euonymus atropurpureus;644;14;08
+Douglas fir;555;14;09
+Echt venushaar;444;50;13
+Epilobium parviflorum;654;12;08
+Euonymus europaeus;644;14;08
+Douglas spruce;555;14;09
+Echte;666;74;05
+Epimedium acuminatum;642;14;04
+Eupatoire cannabis;666;44;05
+Doum palm;633;44;14
+Echte ammei;666;74;04
+Epimedium setosum;642;14;04
+Eupatorium aromaticum;666;44;05
+Dove tree;665;14;04
+Echter erdrauch;642;15;16
+Epipactis gigantea;633;77;04
+Eupatorium cannabinum;666;44;05
+Downy hempnettle;665;55;15
+Edelweiss;666;45;06
+Epiphegus;665;57;11
+Eupatorium capillifolium;666;44;05
+Downy rattlesnake plantain;633;73;02
+Edging lobelia;666;35;12
+Equisetaceae;433;44
+Edle angelika;666;74;11
+Equisetales;433;40
+Eupatorium fortunei;666;44;05
+Dracaena australis;633;54;20
+Eenbes;633;65;01
+Equisetidae;433;00
+Eupatorium odoratum;666;44;05
+Dracaena draco;633;54;12
+Eendagsblomme;654;12;10
+Equisetophyta;433;00
+Eupatorium perfoliatum;666;44;05
+Drachenblut;633;54;12
+Eendekroos;632;11;01
+Equisetopsida;433;00
+Eupatorium purpureum;666;44;03
+Dracontium;632;11;16
+Eenjarige hardbloem;663;41;04
+Equisetum arvense;433;44;01
+Eupatorium uriticifolium;666;44;05
+Dracontium foetidum;632;11;16
+Eernewoudsterklaver;644;61;03
+Equisetum hyemale;433;44;01
+Euphorbia amygdaloides;644;34;07
+Dracunculus vulgaris;632;11;10
+Eggfruit;664;44;20
+Erable negundo;655;44;08
+Euphorbia corollata;644;34;05
+Dragonfruit;663;14;02
+Eggs and bacon;644;55;16
+Erdrauch;642;15;16
+Euphorbia esula;644;34
+Dragonwort;663;66;11
+Eglantine;644;61;10
+Erdschierling;666;74;12
+Euphorbia foliiflua;644;34;12
+Drawf nettle;644;66;08
+Egusi;644;75;13
+Erechtites hieracifolia;666;46;02
+Euphorbia grandifolia;644;34;09
+Dream herb;666;44;17
+Egyptian balsam;644;56;13
+Erect clematis;642;13;17
+Euphorbia helioscopia;644;34;09
+Dreifufl;666;74;07
+Egyptian tinnevelly;644;54;03
+Eremophila scoparia;665;54;05
+Euphorbia heterodoxa;644;34;12
+Drimia maritima;633;53;07
+Ehrenpreis;665;51;13
+Ereprijs;665;51;13
+Euphorbia heterophylla;644;34;12
+Drimys winteri;622;32;03
+Ehretia microphylla;665;36
+Erica ciliaris;664;63;05
+Euphorbia hirta;644;34;08
+Drop-wort;666;77;17
+Ehretiaceae;665;36
+Ericales;664;60
+Eichhornia crassipes;633;46
+Ericidae;664;00
+Euphorbia ipecacuanhae;644;34;15
+Drosera rotundifolia;663;74;15
+Eichhornia speciosa;633;46;20
+Ericoideae;664;63
+Euphorbia lactea;644;34;08
+Droseraceae;663;74
+Einj?hriger kn?uel;663;41;04
+Erigeron;666;45;09
+Euphorbia lathyris;644;34;09
+Droserales;663;70
+Ekebergia capensis;655;47;07
+Erigeron acer;666;45;09
+Euphorbia marginata;644;34;13
+Drumstick tree;655;61;16
+Elaeagnus rhamnoides;644;62;06
+Erigeron philadelphicus;666;45;09
+Euphorbia parviflora;644;34;08
+Drunkard;642;13;13
+Elaeis guineensis;633;44;11
+Eriodictyon californicum;665;31;12
+Euphorbia peplus;644;34;03
+Druparia spinosa;644;61;08
+Elaterium;644;75;01
+Eriogonaceae;663;65
+Euphorbia pilulifera;644;34;08
+Dryandra polycephala;643;13;05
+Elder dwarf;666;61;12
+Eriogonum umbellatum;663;65;17
+Euphorbia resinifera;644;34;13
+Dryandra praemorsa;643;13;16
+Elderberry;666;61;12
+Eriopsis biloba;633;74;11
+Euphorbia sylvatica;644;34;07
+Drymaria cordata;663;41;16
+Elecampane;666;45;11
+Eriospermum abyssinicum;633;54;02
+Euphorbia virosa;644;34;13
+Dryopteris mas;444;54;10
+Elegant camas;633;65;15
+Eriospermum flagelliforme;633;54;02
+Euphorbiaceae;644;34
+Dubbelhoed;642;15;13
+Elemuy;622;43;12
+Erodium cicutarium;653;13;12
+Euphorbium milii;644;34;13
+Duboisia myoporoides;665;73;14
+Elephant creeper;665;76;20
+Erophila verna;655;66;04
+Euphrasia officinalis;665;57;07
+Duchtig kruid;655;66;04
+Elephant ear;632;11;20
+Erophile;655;66;04
+Eupolypodiales;1
+Duckweed;632;11;01
+Elephant ear orchid;633;75;10
+Eruca;655;66;04
+Eupolypodiales;2
+Dudleya cymosa;652;15;13
+Elephant nettle;644;66;12
+Eruca vesicaria;655;66;15
+Eupteleaceae;642;11
+Duindoorn;644;62;06
+Elephant's foot;633;54;04
+Erva;665;24;13
+Eurangium sumbul;666;74;05
+Duivekervel;642;15;16
+Elettaria cardamomum;633;45;14
+Erwt;644;55;02
+European ash;665;46;12
+Duivels hertshooi;644;24;08
+Eleutherine bulbosa;633;51;13
+Eryngium aquaticum;666;72;14
+European chestnut;644;44;08
+Duivelsdrek;666;74;16
+Eleutherococcus senticosus;666;55;07
+Eryngium maritimum;666;72;14
+European crowfoot;642;13;07
+Duizendblad;666;47;11
+Elfenbloem;642;14;04
+Eryngium virginianum;666;72;14
+European leadwort;663;63;16
+Duizendguldenkruid;665;23;02
+Elixir of the sun;654;11;07
+Erysimum cheiranthoides;655;66;04
+European pasque flower;642;13;02
+Dukong-dukong anak;644;34;16
+Elk-tree;664;66;06
+Erysimum cheiri;655;66;04
+European penny royal;665;55;01
+Dulacia ovata;665;46;20
+Elleanthus capitatus;633;76;12
+Erysimum murale;655;66;04
+European redbud;644;54;14
+Dulcamara;665;72;07
+Ellianthus capitatus;633;76;12
+Erythraea chilensis;665;23;05
+European snake-root;622;72;03
+Dutch gale;644;46;16
+Elm;644;64;12
+Erythraea chironioides;665;23;05
+Europese wolfspoot;665;55;09
+Dutch rush;433;44;01
+Elm family;644;64
+Erythrea chironioides;665;23;05
+Eurosids;2
+Dutchman's breeches;642;15;17
+Elm tree;644;64;16
+Erythrea venusta;665;23;05
+Eurybia macrophylla;666;45;10
+Duuzendduggkens;665;33;15
+Elymus repens;633;42;06
+Erythrina caffra;644;55;08
+Eurycoma longifolia;655;46;17
+Duvelsjacht;644;24;08
+Elythranthera brunonis;633;73;04
+Erythrina carthaginensis;644;55;09
+Eusporangiate ferns;433;00
+Duvelskeersj;644;62;15
+Embelia ribes;664;34;13
+Erythrina flabelliformis;644;55;09
+Eustoma grandiflorum;665;23;06
+Dwarf birch;644;41;07
+Empress candle plant;644;54;03
+Erythrina lysistemon;644;55;09
+Euterpe oleracea;633;44;13
+Dwarf elder;666;74;07
+Emu bush;643;13;12
+Erythrina piscipula;644;55;09
+Euterpe palm;633;44;13
+Dwarf fireweed;654;12;08
+Emu bush;665;54;05
+Erythrodes blumei;633;73;08
+Eutrochium purpureum;666;44;03
+Erythronium dens-canis;633;64;13
+Evelyna capitata;633;76;12
+Dyer's greenweed;644;55;06
+Enchanter's nightshade;654;12;04
+Erythronium purpurascens;633;64;14
+Evening glory;665;76;08
+Dyer's weed;644;55;06
+Endive;666;43;06
+Erythropalaceae;655;71
+Evening primrose;654;12;10
+Dyers fucus;111;02;20
+Endive;666;43;01
+Erythrophleum guineense;644;54;15
+Evening primrose family;654;12
+Dynamite tree;644;34;16
+Endive;666;43;06
+Erythrophleum judiciale;644;54;15
+Everlasting pea;644;55;14
+Dysphania ambrosioides;663;53;13
+Endymion non-scriptum;633;53;04
+Erythrophleum judiciale;644;54;08
+Eveweed;655;66;10
+Dysphania botrys;663;53;13
+Engeoli;633;44;14
+Erythrophleum suaveolens;644;54;15
+Excoecaria africana;644;34;13
+Eagle fern;444;74;12
+Engelbrustwurz;666;74;11
+Erythroxylum coca;644;31;06
+Exogonium purga;665;76;06
+Eagle vine;665;27;12
+Engelhardia;644;45
+Erzengelwurz;666;74;11
+Exploding cucumber;644;75;01
+Earth smoke;642;15;16
+Engelwurz;666;74;11
+Earth's pear;666;44;11
+English bluebell;633;53;04
+Eselohr;665;33;12
+Eyebright;665;57;07
+East indian senna;644;54;03
+English elm;644;64;13
+Esparcilla encarnada;663;41;08
+Eysenhardtia polystachya;644;55;08
+Easter giant;663;66;11
+English oak;644;44;10
+Espeletia grandiflora;666;44;15
+Ezelskruid;654;12;10
+Easter ledger;663;66;11
+English serpentary;663;66;11
+Espinosilla;664;23;05
+Faba pichurim;665;76;06
+Easter ledges;663;66;11
+Epacridaceae;664;65
+Estragon;666;47;12
+Fabales;644;50
+Fabanae;640;00
+Field horsetail;433;44;01
+Fragaria anserina;644;61;03
+Garden plague;666;74;07
+Fabiana imbricata;665;73;10
+Field lady's mantle;644;61;07
+Fragaria tormentilla;644;61;03
+Garden valerian;666;63;13
+Fabidae;644;00
+Field larkspur;642;13;09
+Fragaria vesca;644;61;16
+Gardenia jasminoides;665;44
+Fabids;644;00
+Field maple;655;44;08
+Fragrant sumac;655;42;05
+Garland flower;633;45;09
+Faboideae;644;55
+Field poppy;642;17;02
+Fragrant tussilage;666;46;15
+Garland thorn;644;62;17
+Fagaceae;644;44
+Field scabious;666;64;06
+Franciscea;665;73;17
+Garlic;633;56;05
+Fagales;644;40
+Field scorpion grass;665;33;15
+Franciscea uniflora;665;73;17
+Garlic;633;56;13
+Fagara;655;41;12
+Fig;644;65;06
+Francisquita chuchuhuasca;665;73;17
+Garlic mustard;655;66;03
+Francoaceae;653;12
+Garrofa;644;54;11
+Fagus sylvatica;644;44;13
+Fig-marigolds;663;23
+Frangipani;665;25;10
+Garrofer;644;54;11
+Fairy cheeses;655;33;07
+Figwort family;665;54
+Frangula californica;644;62;09
+Garryaceae;665;12
+Fairy duster;644;53;05
+Filago arvensis;666;45
+Frangula dodonei;644;62;15
+Garten-fenchel;666;74;07
+Fairy flower;664;23;07
+Filaree;653;13;12
+Frangula purshiana;644;62;12
+Gartenangelika;666;74;11
+Fairy lantern;633;63;02
+Filicopsida;444;00
+Frankeniaceae;663;62
+Gartenschierling;666;74;13
+Fairy slipper;633;76;15
+Filipendula ulmaria;644;61;15
+Frankincense;655;43;09
+Gas-plant;655;41;03
+Fairy's glove;642;13;07
+Filipendula vulgaris;644;61;15
+Frankincense family;655;43
+Gastker;644;55;03
+Fallopia multiflora;663;66;17
+Filipino upas;644;65;12
+Frauenmantel;644;61;07
+Gat;644;14;17
+Falsche akazie;644;55;10
+Filix filix-mas;444;54;10
+Fraughan;664;66;08
+Gauklerblume;665;56;02
+False acacia;644;55;10
+Fillaea suaveolens;644;54;15
+Fraxinus americana;665;46;12
+Gaultheria hispidula;664;66
+False asphodel;633;17
+Finkel;666;74;07
+Fraxinus excelsior;665;46;12
+Fire lily;633;66;10
+Freesia corumbosa;633;51;07
+Gaura lindheimeri;654;12;13
+False dayflower;633;46;07
+Fire on the mountain;644;34;12
+Frene blanc;665;46;12
+Gay feather;666;44;01
+False dittany;655;41;03
+Fire resistant woodstock;666;21;13
+Frene blanc;665;46;12
+Gebang palm;633;44;15
+False fennel;666;74;05
+Fire-weed;666;46;02
+Freycinetia malaccensis;633;34;20
+Gebroken hartjes;642;15;17
+False hellebore;642;13;16
+Firecracker plant;654;11;08
+Fringecups;652;16;05
+Geckenheil;664;34;16
+False holly;666;14;13
+Fireweed;654;12;14
+Fringed mantis orchid;633;73;08
+Geed yahuud;655;47;12
+False iroko;644;65;12
+Firewood banksia;643;13;04
+Fringed red maids;663;15;20
+Geissbart;644;61;15
+False jalap;663;25;07
+Firewort;666;65;03
+Fringed redmaids;663;16;20
+Gei?klee;644;55;09
+False saffron;666;42;07
+Fishberry;642;16;07
+Fringed rosemallow;655;33;17
+Fittonia albivenis;665;62;17
+Frog cheeses;655;33;07
+Geitenbaard;644;61;15
+False solomon's seal;633;54;07
+Five finger;644;61;03
+Frog's bit;633;11
+Gekkenwortel;644;61;03
+False spikenard;633;54;07
+Five-faced bishop;666;61;06
+Frog's-stomach;652;15;12
+Gelam;654;14;16
+False twayblade;633;76;16
+Five-flowered gentian;665;23;07
+Fuchsia bush;665;54;05
+Gelber steinklee;644;55;13
+False unicorn;633;65;14
+Flacourtiaceae;644;35
+Fuchsia fulgens;654;12;13
+Gelderse roos;666;61;15
+False winter bark;622;31;20
+Flamboyant blue;665;65;17
+Fuchsia grevillea;643;13;05
+Geldweiderich;664;34;06
+False wintergreen;664;67;15
+Flame flower;663;13;13
+Fuchsia procumbens;654;12;13
+Gele honingklaver;644;55;13
+Fame flower;663;13;13
+Flame lily;633;66;10
+Fucus vesiculosus;111;02
+Gele kattestaart;664;34;06
+Fan flower;666;36;14
+Flame tree;644;55;09
+Fue vao;665;76;16
+Gele schijnindigo;644;55;16
+Fannel flower;665;54;04
+Flamingo flower;632;11;15
+Fuller's herb;663;41;05
+Gele veenwortel;664;34;06
+F?rberh?lse;644;55;16
+Flanders poppy;642;17;02
+Fumaria bulbosa;642;15;14
+Gele wederik;664;34;06
+Farbkraut;644;55;06
+Flat-leaved vanilla;633;72;04
+Fumaria cava;642;15;14
+Gelenggang besar;644;54;03
+Farewell;665;51;13
+Flax;644;23;01
+Fumaria fungosa;642;15;13
+Gelsemiaceae;665;22
+Fascicularia bicolor;633;47;12
+Fleabane;666;45;09
+Fumaria media;642;15;16
+Gelsemium sempervirens;665;22;09
+Fatsia horrida;666;55;08
+Flesh and blood;644;61;03
+Fumaria officinalis;642;15;16
+Gember;633;45;11
+Faulbaum;644;62;15
+Fleur blue;644;23;01
+Fumaria sturmii;642;15;16
+Gemeiner k?mmel;666;74;20
+Faule grete;666;74;13
+Flor de mariposa;633;45;09
+Fumariaceae;642;15
+Gemeiner pastinak;666;74;15
+Faverel;655;66;08
+Flor de piedra;655;77;14
+Fumewort family;642;15
+Gemeiner wasserdost;666;44;05
+Fawn lily;633;64;14
+Flore pleno;665;15;04
+Fumitory;642;15;16
+Genadekruid;665;51;10
+Fayard;644;44;13
+Florida fish poison tree;644;55;09
+Fumitory family;642;15
+Genadekruid;665;54;01
+Feather head;644;62;07
+Floscopa scandens;633;46;16
+Fungi;700;00
+Genevrier;555;15;06
+Feld k?mmel;666;74;20
+Flouve odourante;633;42;05
+Fusain noir;644;14;08
+Genista angulata;644;55;14
+Felon herb;666;47;14
+Flower of abbas;663;25;07
+Fusain rouge;644;14;08
+Genista glabra;644;55;14
+Female fern;444;50;11
+Flowering plants;600;00
+Fuzzy deutzia;665;15;04
+Genista hirsuta;644;55;14
+Female fern;444;74;12
+Flowering spurge;644;34;05
+Gaillardia aristata;666;44;12
+Genista scoparia;644;55;14
+Female yagrumo;644;66;01
+Fl?gelsamengew?chse;654;16
+Galanga;633;45;03
+Genista tinctoria;644;55;06
+Fenchel;666;74;07
+Fluitekruid;666;76;07
+Galangal;633;45;03
+Genista vulgaris;644;55;14
+Fennel flower;642;13;15
+Flux-weed;654;11;08
+Galanthus nivalis;633;56;01
+Genistoides tinctoria;644;55;06
+Fennel flower;642;13;16
+Fluxweed;655;66;13
+Galax urceolata;664;52;05
+Gentiana amarilla;665;23;08
+Fenugreek;644;55;20
+Fly honeysuckle;666;65;13
+Galbulimima belgraveana;622;42;15
+Gentiana cruciata;665;23;14
+Fern allies;422;00
+Fly orchid;633;74;16
+Galega officinalis;644;55;09
+Gentiana lutea;665;23;08
+Ferns;400;00
+Fly poison;633;65;08
+Galeise;644;55;06
+Gentiana sedifolia;665;23;04
+Ferns;444;00
+Fly woodbine;666;65;13
+Galenia asiatica;655;67;14
+Gentianacaeae;665;23
+Fertility myth;633;34;05
+Foeniculum anethum;666;74;07
+Galingale;633;41;20
+Gentianaceae;665;23
+Ferula asa foetida;666;74;16
+Foeniculum capillaceum;666;74;07
+Galinsoga parviflora;666;44;02
+Gentianales;665;20
+Ferula communis;666;74;15
+Foeniculum carvi;666;74;20
+Galipea cusparia;655;41;08
+Gentianella amarella;665;23;03
+Ferula glauca;666;74;15
+Foeniculum officinale;666;74;07
+Galipea officinalis;655;41;08
+Gentianella quinquefolia;665;23;07
+Ferula graveolens;666;74;03
+Foeniculum vulgare;666;74;07
+Galium aparine;665;42;02
+Gentle dock;663;66;11
+Ferula moschata;666;74;05
+Foenum graecum sativum;644;55;20
+Galium concinnum;665;42;02
+Gentleman's toes;644;75;16
+Ferula narthex;666;74;16
+Foenumgraecum officinale;644;55;20
+Galium odoratum;665;42;02
+Geoffoea vermifuga;644;55;13
+Ferula sumbul;666;74;05
+Foetid buckeye;655;44;10
+Galium verum;665;42;02
+Geraniaceae;653;13
+Festuca elatior;633;42;14
+Foetid pothos;632;11;16
+Gall of the earth;665;23;07
+Geraniacees;653;13
+Fever nettle;644;66;12
+Foliculigera graveolens;644;55;20
+Gallant soldier;666;44;02
+Geraniales;653;10
+Fever nut;644;54;11
+Folle aoine;633;42;03
+Galphimia glauca;644;22;09
+Geraniidae;653;00
+Fever twig;644;14;10
+Fool's parsley;666;74;13
+Galtonia candicans;633;53;09
+Geranium bicknellii;653;13;15
+Feverbush;622;54;20
+For eagle;642;13;07
+Gam;533;14;02
+Geranium family;653;13
+Feverbush;666;14;13
+Forest flame-creeper;654;16;11
+Gambogia;644;24;06
+Geranium maculatum;653;13;15
+Feverfew;666;47;13
+Forget-me-not;665;33;15
+G?nsekraut;644;61;03
+Forget-me-not;665;33;15
+G?nserich;644;61;03
+Gerbera jamesonii;666;41;08
+Ficaire;642;13;16
+Forget-me-not family;665;33
+Gantalee;666;34;06
+German chamomile;666;47;06
+Ficaria ranunculoides;642;13;16
+Forking larkspur;642;13;09
+Garcinia cambogia;644;24;06
+Germander;665;55;13
+Ficaria verna;642;13;16
+Forsythia europea;665;46;01
+Garcinia cowa;644;24;13
+Gerrardinaceae;655;21
+Ficoidaceae;663;23
+Fosforitos;654;11;08
+Garcinia gummi-gutti;644;24;06
+Gesneria;665;52;06
+Ficus carica;644;65;06
+Fougere male;444;54;10
+Garcinia hanburyi;644;24;06
+Gesneria grandis;665;52;06
+Ficus drupacea;644;65;05
+Fougere-aigle;444;74;12
+Garcinia humilis;644;24;06
+Gesneria ventricosa;665;52;09
+Ficus indica;644;65;05
+Fountain darcaena;633;54;20
+Garden angelica;666;74;11
+Gesneriaceae;665;52
+Ficus macrophylla;644;65;15
+Fouquieria splendens;664;24;01
+Garden arrach;663;53;12
+Getah perca;664;44;20
+Ficus religiosa;644;65;15
+Fouquieriaceae;664;24
+Garden columbine;642;13;07
+Geuele de loup montagne;665;52;06
+Fieberklee;666;31;08
+Four o'clock family;663;25
+Garden lobelia;666;35;12
+Geum urbanum;644;61;02
+Field bindweed;665;76;06
+Four-o'clocks;663;25;07
+Garden nasturtium;655;62;01
+Gevlekte scheerling;666;74;12
+Gevluchte hugenoten;665;55;06
+Gold-tipped bottlebrush;654;14;17
+Great burnet;666;74;01
+Gulancha;642;16;13
+Gew?hnlicher ackermennig;644;61;06
+Goldcup;642;13;09
+Great clote burre;666;42;06
+Gum ammoniac;666;74;02
+Gewone boon;644;55;02
+Golden axifrage;652;16;04
+Great monk's rhubarb;663;66;08
+Gum camphor;622;54;12
+Gewone esdoorn;655;44;08
+Golden chain;644;55;07
+Great mullein;665;54;04
+Gum guaiacum;644;56;10
+Gewone steenraket;655;66;04
+Golden chicken fern;444;46;10
+Great water dock;663;66;08
+Gum myrtle;654;14;11
+Gewone zoutmelde;663;53;12
+Golden corydalis;642;17;12
+Great white bindweed;665;76;02
+Gum plant;666;45;06
+Gew?rznelkenbaum;654;14;09
+Golden fossil tree;555;17;17
+Greater celandine;642;17;05
+Gum-ammoniac;666;74;02
+Geytenbard;644;61;15
+Golden guinea vine;662;11;05
+Gree pomegranate;654;14;03
+Gundelrebe;665;55;05
+Ghoda neem;655;47;12
+Golden leaf tree;664;44;20
+Greek valerian;664;23;13
+Gundermann;665;55;05
+Ghost tree;665;14;04
+Golden polypody;444;52;10
+Greek willow tree;652;12
+Gunnera manicata;643;15;08
+Giant honey flower;653;15;09
+Golden ragwort;666;46;12
+Greek willow tree;652;17
+Gunneraceae;643;15
+Giant protea;643;13;10
+Golden seal;642;13;12
+Green alder;644;41;06
+Gurkenkraut;666;74;03
+Giant rhubarb;643;15;08
+Golden shower;644;54;04
+Green algae;220;00
+Gutta-percha;664;44;20
+Gibbaeum pubescens;663;23;14
+Golden smoke;642;17;12
+Green algae;210;00
+Gutta-percha family;664;44
+Gichtkraut;666;74;07
+Golden trumpet;665;25;12
+Green broom;644;55;14
+Guttiferae;644;24
+Giersch;666;74;07
+Golden-saxifrage;652;16;04
+Green dragon;632;11;20
+Gymnema sylvestre;665;27;09
+Gifblaar;644;27;12
+Goldencreeper;644;75;05
+Green dragon;632;11;10
+Gymnocladus dioica;644;54;09
+Gifboom;644;34;13
+Goldenrod;666;45;05
+Green hellebore;642;13;14
+Gymnospermae;500;00
+Giftiger wasserschierling;666;77;01
+Goldmoss sedum;652;15;05
+Green kyllinga;633;41;20
+Gymnosperms;500;00
+Giftwurze;666;74;11
+Goldthread;665;79
+Green osier;665;16;08
+Gympie gympie;644;66;12
+Gigg's firethorn;644;61;05
+Gomme ghati;654;16;10
+Green plants;211;00
+Gynocardia odorata;644;36;16
+Gilbkraut;644;55;06
+Gomme sterculia;655;31;13
+Green rose;644;61;10
+Gypsy wort;665;55;09
+Gilia capitata;664;23;15
+Gommier blanc;655;43;10
+Green spider orchid;633;73;08
+Gypsywort;665;55;09
+Gill go over the ground;665;55;05
+Gomphocarpus physocarpus;665;27;07
+Greenbriers;633;62;08
+Habenaria dentata;633;73;13
+Gilly flower;655;66;04
+Gompholobium tomentosum;644;55;03
+Greenhead sedge;633;41;20
+Hackberry tree;644;67;10
+Gin berry;655;41;05
+Gomphrena arborescens;663;55;16
+Gremii;665;33;10
+Haematoxylum campechianum;644;54;08
+Ging pol;633;44;16
+Gomphrena decumbens;663;55;16
+Grenadier;654;11;13
+Hagenia abyssinica;644;61;13
+Gingembre;633;45;11
+Gomphrena officinalis;663;55;16
+Grevillea bipinnatifida;643;13;05
+Haibung;644;24;13
+Ginger;633;45;11
+Gomphrena serrata;663;55;16
+Grevillea speciosa;643;13;05
+Hailstones;666;36;14
+Ginger flower;633;45;14
+Goniothalamus scortechinii;622;43;05
+Grevillea tenuiloba;643;13;05
+Hailweed;665;79
+Ginger lily;633;45;09
+Gonolobus cundurango;665;27;12
+Grewia caffra;655;37;11
+Hairweed;665;79
+Ginkgo biloba;555;17;17
+Good king henry;663;53;07
+Grewiaceae;655;37
+Hairy croton;644;34;03
+Ginkgoaceae;555;17
+Goodbye;665;51;13
+Grey box bush;663;67;05
+Hairy solomon's seal;633;54;09
+Ginseng;666;55;11
+Goodeniaceae;666;36
+Greyia sutherlandii;653;14;10
+Hairy willowherb;654;12;08
+Ginseng family;666;55
+Goodyera pubescens;633;73;02
+Greyiaceae;653;14
+Hakea laurina;643;13;12
+Giroflee;655;66;04
+Goodyera repens;633;73;02
+Griechisch-heu;644;55;20
+Hala;633;34;05
+Giroflier;654;14;09
+Goora nut;655;31;13
+Grief;663;76
+Halesia carolina;664;54;10
+Glabrous rupturewort;663;41;14
+Goose grass;665;42;02
+Griess wurzel;665;51;07
+Halimione portulacoides;663;53;12
+Glacier buttercup;642;13;20
+Goose grass;665;42;02
+Grijzekol;642;15;16
+Halimione portulacoides;663;53;02
+Glacier crowfoot;642;13;20
+Gooseberry;652;16;15
+Grijzekom;642;15;16
+Halogarales;651;10
+Grijzorie;642;15;16
+Halophytaceae;663;11
+Gladiole;633;16;13
+Goosefoot family;663;53
+Grindelia;666;45;06
+Haloragaceae;651;11
+Gladiolus caryophyllaceus;633;51;10
+Gorse;644;55;17
+Grindelia robusta;666;45;06
+Haloragales;651;10
+Gladiolus communis;633;51;10
+Gorse bush;644;55;09
+Grindelia squarrosa;666;45;06
+Haloragidae;651;00
+Glandora diffusa;665;33;14
+Gorse bush;644;55;17
+Groene trompetboom;665;65;10
+Hamamelidaceae;652;14
+Glanzpeterlein;666;74;13
+Gorse bush;644;55;08
+Grondster;663;41;12
+Hamamelis dioica;652;14;10
+Glasswort;663;53;01
+Gorse bush;644;55;01
+Groot speenkruid;665;54;12
+Hamamelis macrophylla;652;14;10
+Glatte chelone;665;51;05
+Gossypium herbaceum;655;33;04
+Gro?e bibernell;644;61;06
+Hamamelis virginiana;652;14;10
+Glaucium flavum;642;17;01
+Gottesauge;633;46;10
+Gro?er wiesenknopf;644;61;06
+Hammelm?hre;666;74;15
+Glaucophyta;120;00
+Gotu kola;666;71;13
+Grossularia cynosbati;652;16;16
+Handkerchief tree;665;14;04
+Glechoma hederacea;665;55;05
+Goudhaansvoer;665;55;03
+Grossularia oxyacanthoides;652;16;16
+Handroanthus impetiginosus;665;65;12
+Gleicheniales;444;30
+Goudsbloem;666;45;12
+Grote engelwortel;666;74;11
+Hanekam;665;57;06
+Gleifle;666;74;13
+Gourd;644;75;03
+Grote kaardebol;666;64;10
+Hanfartiges kunigundenkraut;666;44;05
+Globe gilia;664;23;15
+Gourd order;644;70
+Ground holly;664;67;12
+Haplopappus bailahuen;666;45;16
+Globularia alypum;665;51;04
+Goutweed;666;74;07
+Ground ivy;665;55;05
+Haplopappus baylahuen;666;45;16
+Globularia vulgaris;665;51;04
+Goyavier;654;14;03
+Ground ivy;666;55;02
+Happy tree;665;14;12
+Gloriosa lily;633;66;10
+Grace de dieu;665;51;10
+Ground virginsbower;642;13;17
+Hard ma;644;55;05
+Gloriosa superba;633;66;10
+Graine d'amour;665;33;10
+Groundpine;665;55;20
+Hard maple;655;44;08
+Glory bush;654;13;14
+Grammica sandwichiana;665;79;01
+Grundheil;666;74;14
+Hardenbergia comptoniana;644;55;05
+Glory lily;633;66;10
+Grampoo;654;14;09
+Gr?nholz;644;55;06
+Hardhack;644;61;15
+Glossy nightshade;665;72;15
+Granaatappel;654;11;13
+Gr?tzblum;655;66;05
+Hardijzer;654;12;14
+Glottiphyllum depressum;663;23;13
+Granatum;654;11;13
+Guacamayo;644;55;13
+Hare's foot fern;444;52;10
+Glycine max;644;55;15
+Grand degonfle;633;45;03
+Guacima;655;37;12
+Haricot;644;55;02
+Glycosmis pentaphylla;655;41;05
+Grand soleil;666;44;10
+Guacima cimaronna;655;37;12
+Haronga;644;24;10
+Glycyrrhiza glabra;644;55;05
+Grande bardane;666;42;06
+Guacima de caballo;655;37;12
+Harpagophytum zeyheri;665;66;14
+Gnaphalium dioicum;666;45;02
+Grande chamomille;666;47;06
+Guacimo;655;37;12
+Harpephyllum caffrum;655;43;16
+Gnaphalium obtusifolium;666;45;13
+Grande consoude;665;33;12
+Guaco;666;44;16
+Harping johnny;652;15;12
+Gnaphalium polycephalum;666;45;05
+Granny's bonnet;642;13;07
+Guaiacum officinale;644;56;10
+Harrisia bonplandii;663;14;06
+Gnetales;533;10
+Grantha doorba bhargavi;633;42;09
+Guao;655;42;11
+Harrow rest;644;55;08
+Gnetidae;533;00
+Grape;643;16;10
+Guarana;655;44;16
+Hart's eye;666;74;15
+Gnetum gnemon;533;14;02
+Grape hyacinths;633;53;16
+Guarana;655;44;16
+Hart's tongue;444;63;09
+Goa powder;644;55;12
+Grapeferns;433;71
+Guaranhem;664;44;15
+Harteklaver;644;55;01
+Goat nut;663;67;05
+Grapefruit;655;41;10
+Guaratimbo;655;44;16
+Hartgepan;665;55;06
+Goat-bush;655;46;02
+Grapple plant;665;66;14
+Guaratimbo;655;44;16
+Harungana madagascariensis;644;24;10
+Goat-bush;655;46;15
+Grass lane;633;42;15
+Guarea;655;47;10
+aruv;644;54;11
+Goat's beard;666;43;10
+Grass of parnassus;644;14;03
+Guarea guidonia;655;47;10
+Harvey coulter's matilija poppy;642;17;11
+Goat's rue;644;55;09
+Grass palm;633;54;20
+Guarea rusbyi;655;47;10
+Hashish;644;67;16
+Goat's thorn;644;55;14
+Grass rush;633;16
+Guarea trichiloides;655;47;10
+Having no core;631;11;01
+Goathead;644;56;05
+Grass widow;633;51;16
+Guasca;666;44;02
+Hawaiian baby woodrose;665;76;20
+Goatweed;666;44;04
+Grassen;633;42
+Guatteria gaumeri;622;43;12
+Hawkesbury daisy;666;45;12
+Gobernadora;644;56;07
+Grasses;633;42
+Guatteria leiophylla;622;43;06
+Hazel;644;41;03
+Gobo;666;42;06
+Grasstree family;633;57
+Guazuma;655;37;12
+Hazel alder;644;41;06
+God fruit;664;47;15
+Gratiola officinalis;665;51;10
+Guazuma ulmifolia;655;37;12
+Hazel sterculia;655;31;16
+Guduchi;642;16;13
+Hazelnut;644;41;03
+Goethe plant;652;15;06
+Gravel weed;664;63;02
+Guichelheil;664;34;16
+Headache tree;644;34;13
+Gokshura;644;56;05
+Gray nicker;644;54;11
+Guichelheilwijfke;664;34;16
+Heal all;665;55;06
+Gol pata;633;44;16
+Great bistort;663;66;11
+Guiera senegalensis;654;16;13
+Heal all;655;47;12
+Gold moss;652;15;05
+Great blue lobelia;666;35;17
+Guilandiana dioica;644;54;09
+Healthy hay;644;55;01
+Gold thread;642;13;20
+Great burnet;644;61;06
+Guimauve officinale;655;33;05
+Heart vine;654;14;08
+Helianthe;666;44;10
+Heliantheae;666;44
+Heliantheme;655;53;08
+Helianthemum nummularium;655;53;08
+Helianthemum vulgare;655;53;08
+Helianthus annuus;666;44;10
+Helianthus toberosus;666;44;11
+Helianthus tuberosus;666;44;11
+Helichrysum arenarium;666;45;06
+Helichrysum stoechas;666;45;06
+Helicteriaceae;655;36
+Heliotrope;665;34;08
+Heliotrope;665;34;08
+Heliotropiaceae;665;34
+Heliotropium arborescens;665;34;08
+Heliotropium europaeum;665;34;08
+Heliotropium peruvianum;665;34;08
+Helipterum roseum;666;45;14
+Hellbine;665;79
+Hellebore noir;642;13;14
+Helleborus foetidus;642;13;16
+Helleborus niger;642;13;14
+Helleborus orientalis;642;13;14
+Helleborus viridis;642;13;14
+Helminthotheca echioides;666;43;12
+Helmintochortos;111;10;13
+Helmkruid;665;54;12
+Helonias dioica;633;65;14
+Helonias officinalis;633;65;13
+Hemdknoopjes;655;33;07
+Hemdslippe;665;76;02
+Hemiandra pungens;665;55
+Hemidesmus indicus;665;27;16
+Hemigraphis colourata;665;62;20
+Hibiscus syriacus;655;33;15
+Hiedra;665;76;06
+Hieracium murorum;666;43;07
+Hieracium pilosella;666;43;07
+Hiet;664;63;07
+Hietknapperrs;664;63;07
+High bush huckleberry;664;66;08
+High bush huckleberry;664;66;20
+Himalayan honeysuckle;666;65;04
+Himmel herault;665;33;15
+Himmelsbrand;665;54;04
+Hinfufl;666;74;07
+Hinlauf;666;74;07
+Herbe au pauvre homme;665;51;10
+Holy hay;644;55;01
+Holy thistle;666;42;12
+Holy thistle;666;42;11
+Holzapfel;644;61;05
+Hommelhei;664;63;07
+Hommelkroet;665;55;10
+Hondebeishout;665;72;07
+Hondsdraf;665;55;05
+Hondskers;644;62;15
+Hondspeterselie;666;74;13
+Hondsroos;644;61;10
+Hondstong;665;33;09
+Honesty;655;66;17
+Honeysuckle;644;55;09
+Honeysuckle;666;65;13
+Honeysuckle;666;65;13
+Honeysuckle;666;65;13
+Honeysuckle;666;65;13
+Honeysuckle family;666;65
+Honzehout;644;62;15
+Hooded skullcap;665;55;14
+Hook heal;665;55;06
+Hooker's banksia;643;13;05
+Hooker's evening primrose;654;12;10
+Hoornblad;641;11;01
+Hops;644;67;02
+Hoptree;655;41;13
+Hordeum distichon;633;42;16
+Hordeum marinum;633;42;16
+Hordeum vulgare;633;42;16
+Horehound;665;55;14
+Hornbeam;644;41;12
+Hornwort;641;11;01
+Hornwort family;641;11
+Hornworts;311;10
+Hornworts;641;11
+Horse balm;665;51;07
+Horse breath;644;55;08
+Horse chestnut;655;44;10
+Horse pipes;433;44;01
+Horse sorrel;663;66;08
+Horse-eye;644;55;08
+Horse-gentian;666;65;03
+Horse-hoof;666;46;06
+Horse-nettle;665;72;08
+Horsefly weed;644;55;16
+Horsemint;665;55;07
+Horseradish;655;66;10
+Horseradish;655;66;16
+Horsetail;433;44;01
+Horsetail family;433;44
+Horsetails;433;40
+Horsetails;433;00
+Hortensia;665;15;08
+Host;665;55;20
+Hosta sieboldiana;633;55;14
+Hottonia palustris;664;33;13
+Hound's tongue;665;33;09
+Houstonia caerulea;665;42;04
+Houtjeshout;644;62;15
+Hoya carnosa;665;27;17
+Huerteaceae;655;23
+Huerteales;655;20
+Huile de palma-christi;644;34;14
+Huillipeta;654;14;05
+Humble plant;644;53;04
+Humiria balsamifera;644;23;13
+Hummingbird flower;664;23;05
+Hummingbird tree;644;55;17
+Humulus lupulus;644;67;02
+Hundeholzbaum;644;55;09
+Hura;644;34;16
+Hura crepitans;644;34;16
+Hurtleberry;664;66;08
+Hyacinthaceae;633;53
+Hyacinthoides non-scripta;633;53;04
+Hyacinthus orientalis;633;53;10
+Hybanthus calycinus;644;33
+Hydnocarpi;644;36;16
+Hydnocarpus anthelminticus;644;36;13
+Hydnocarpus kurzii;644;36;16
+Hydnoraceae;622;67
+Hydrangea arborescens;665;15;08
+Hydrangea family;665;15
+Hydrangea vulgaris;665;15;08
+Hydrangeaceae;665;15
+Hydrastis;642;13;12
+Hydrastis canadensis;642;13;12
+Hydrocharitaceae;633;11
+Hydrocotyle asiatica;666;71;13
+Hydrocotyle lunata;666;71;13
+Hydrocotyle sibthorpioides;666;55
+Hydrocotyle vulgaris;666;55;01
+Hydrocotyloidae;666;71
+Hydrophyllaceae;665;31
+Hydrophyllum virginianum;665;31;01
+Hydrostachyaceae;665;11
+Hylocereus undatus;663;14;02
+Hylotelephium spectabile;652;15;10
+Hymenocallis littoralis;633;56;17
+Hyobanche sanguineae;665;57;10
+Hyoscyamus niger;665;71;13
+Hyphaene compressa;633;44;14
+Hypo;633;52;06
+Hypocalymma robustum;654;14;14
+Hypochoeris radicata;666;43;09
+Hypoxidaceae;633;52
+Hypoxis hemerocallidea;633;52;02
+Hyptis suaveolens;665;55
+Hyssopus officinalis;665;55;09
+Hysterionica baylahuen;666;45;16
+arruba;644;54;11
+Iberis amara;655;66;05
+Icacina senegalensis;665;17;05
+Icacinaceae;665;17
+Ice plant;652;15;10
+Ice plants;663;23
+Ictodes foetidus;632;11;16
+Ida jamesiorum;633;74;04
+Igname;633;22;02
+Ignatia;665;24;09
+Ijzerhard;654;11;06
+Ikshugandha;644;56;05
+Ilex aquifolium;666;14;10
+Ilex cassine;666;14
+Ilex mucronata;666;14
+Ilex paraguayensis;666;14;14
+Ilex verticillata;666;14;13
+Ilex vomitoria;666;14;15
+Illawara flame tree;655;31;17
+Illecebrum verticillatum;663;41;13
+Illiciaceae;622;14
+Illicium anisatum;622;14;01
+Illicium philippinense;622;14;01
+Illicium tashiroi;622;14;01
+Illicium verum;622;14;01
+Impatiens balsamina;664;15;01
+Impatiens glandulifera;664;15;01
+Imperatoria ostruthium;666;74;14
+Incense tree family;655;43
+Inch plant;633;46;06
+Indian acalypha;644;34;15
+Indian aconite;642;13;01
+Indian almond;654;16;16
+Indian arnica;665;55;14
+Indian chickweed;663;41;16
+Indian copperleaf;644;34;15
+Indian corn;633;42;12
+Indian cress;655;62;01
+Indian cucumber root;633;64;20
+Indian date;644;62;08
+Indian doomba oiltree;644;24;07
+Indian feather;654;12;13
+Indian frankincense;655;43;10
+Indian geranium;633;42;01
+Indian jalap;665;76;16
+Indian kino tree;644;55;16
+Indian laburnum;644;54;04
+Indian liquorice;644;55;09
+Indian moerbei;665;42;13
+Indian mulberry;665;42;13
+Indian nettle;644;34;15
+Indian paint brush;665;57;10
+Indian pennywort;666;71;13
+Indian pink;665;24;13
+Indian pink;663;41;02
+Indian pipe;664;67;17
+Indian rhubarb;652;16;12
+Indian rose chestnut;644;24;17
+Indian sandalwood;655;74;10
+Indian sarsaparilla;665;27;16
+Indian snakeroot;665;25;12
+Indian spikenard;666;63;08
+Indian spinach;663;12;01
+Indian tobacco;666;35;15
+Indian-laurel;644;24;07
+Indigo;644;55;07
+Jamaica pepper;654;14;07
+Kamani;644;24;07
+Kloppers;665;57;06
+Indigo broom;644;55;16
+Jamaica plum;655;42;12
+Kamba aka guasa;655;37;12
+Knallerbse;666;65;05
+Indigo weed;644;55;16
+Jambos;654;14;09
+Kamrakh;644;16;03
+Knapweed;666;42;05
+Indigofera tinctoria;644;55;07
+Jambosa vulgaris;654;14;09
+Kamranga;644;16;03
+Knapwort;666;42;05
+Indisch netelkruid;644;34;15
+Jambu klutuk;654;14;03
+Kan or man;644;65;12
+Knauel;663;41;04
+Indische mandel;654;16;16
+Jambul;654;14;09
+Kaneel;622;54;15
+Knautia arvensis;666;64;06
+Indische schijnbrandnetel;644;34;15
+James wort;666;46;13
+Kangkong;665;76;17
+Knawel;663;41;04
+Indonesia;633;44;16
+Japanes pagoda tree;644;55;15
+Kankan;665;24;13
+Knikkend nagelkruid;644;61;02
+Indonesia;666;71;13
+Japanese lantern;655;33;17
+Kankeli;644;54;16
+Knob-bush;666;21;13
+Indonesian lemon pepper;655;41;12
+Japanese pepper;655;41;12
+Kankerbloem;642;17;02
+Knoflook;633;56;13
+Indonesian tall ginger;633;45;14
+Japanese stemona root;633;32;13
+Kankerbloeme;665;54;12
+Knollenwurzel;665;54;12
+Inga edulis;644;53
+Jarum emas;665;57;15
+Kansa snakeroot;666;44;17
+Knot-grass;663;66;08
+Inula conyzae;666;45;11
+Jasione montana;666;34;16
+Kantan;633;45;14
+Knotted figwort;665;54;12
+Inula helenium;666;45;11
+Jasmin;665;46;07
+Kapok;655;34;11
+Knotweed family;663;66
+Ipecacuan spurge;644;34;15
+Jasminum officinale;665;46;07
+Karabu nati;654;14;09
+Koaliawa;665;76;17
+Ipecacuanha;665;44;15
+Jatamansi;666;63;08
+Karambal;644;16;03
+Kodip pasa;663;12;01
+Ipomea bona nox;665;76;08
+Jateorhiza palmata;642;16;15
+Karambel;662;11;01
+Kodu nimb;655;47;12
+Ipomoea alba;665;76;08
+Jatropha curcas;644;34;01
+Karavella;644;75;11
+Koeiebloem;644;55;03
+Ipomoea batatas;665;76;02
+Jatropha manihot;644;34;02
+Karela;644;75;05
+Koekoeksbloem;654;12;14
+Ipomoea dumosa;665;76;06
+Jatropha urens;644;34;01
+Karite;664;44;20
+Koekoeksbrood;644;16;06
+Ipomoea imperati;665;76;06
+Java cotton;655;34;11
+Karoo shepherd's tree;655;64;17
+Koekoekskruid;644;16;06
+Ipomoea indica;665;76;17
+Java devil pepper;665;25;12
+Karwij;666;74;20
+Koepoot;666;74;10
+Ipomoea jalapa;665;76;06
+Java kapok;655;34;11
+Karwinskia humboldtiana;644;62;14
+Koffie;665;44;08
+Ipomoea nervosa;665;76;20
+Javanese;644;65;12
+Kasaundi;644;54;03
+Koha;654;16;17
+Ipomoea pes-caprica;665;76;17
+Jeevani;633;23;01
+Kasturi;655;33;01
+Kohomba;655;47;12
+Ipomoea purga;665;76;06
+Jensoa;633;74;07
+Kathilla;644;75;11
+Kola nut;655;31;08
+Ipomoea purpurea;665;76;17
+Jequirity bean;644;55;09
+Kattappenbaum;654;16;16
+Kola nut tree;655;31;13
+Ipomoea stans;665;76;04
+Jerusalem cherry;665;72;13
+Kattekaasjes;655;33;07
+Kola tree;655;31;08
+Ipomoea turpethum;665;76;16
+Jerusalem oak;663;53;13
+Katuka;665;51;12
+Kollebloem;642;17;02
+Ipomoea violacea;665;76;15
+Jerusalem oak;663;53;13
+Katzenpeterlein;666;74;12
+Komijn;666;76;03
+Ipomopsis depressa;664;23;02
+Jerusalem parsley;663;53;13
+Kauna?oa kahakai;665;79;01
+Komjac;632;11;12
+Iresine calea;663;55;17
+Jerusalem sage;665;55;07
+Kaunas?oa;665;79;01
+Komkommerbloem;665;33;04
+Iridaceae;633;51
+Jerusalem thorn;644;62;17
+Kauw goed;663;23;05
+Kone;633;44;14
+Iridacees;633;51
+Jesse;644;55;14
+Kava kava;622;64;06
+Koningin van de nacht;654;12;10
+Iridorchis;633;74;07
+Jesuit is balsam;644;54;11
+Kayu putih;654;14;16
+Koninginnebloem;644;61;15
+Iris douglasiana;633;51;04
+Jewels-of-opar;663;13;13
+Kazuri;665;42;07
+Koningskaars;665;54;04
+Iris florentina;633;51;08
+Jintan putih;666;76;03
+Kebu;633;45;04
+Koningskandelaar;665;54;04
+Iris foetidissima;633;51;08
+Johannisbrotbaum;644;54;11
+Ke?iboynuzu;644;54;11
+Kool;655;66;02
+Iris germanica;633;51;08
+John go to bed at noon;664;34;16
+Keela nelli;644;34;16
+Koortskruid;665;23;02
+Iris hexona;633;51;08
+John's bread;644;54;11
+Keeskruid;655;33;07
+Korallenbaum;644;55;08
+Iris tenax;633;51;08
+Johnsonia pubescens;633;57;15
+Kegge;666;74;15
+Korbhatta;662;11;01
+Iris versicolor;633;51;08
+Jojoba;663;67;05
+Kemiri oil;644;34;20
+Kordoi;644;16;03
+Irises;633;51
+Jojoba family;663;67
+Kemirinussbaum;644;34;20
+Korean date;644;62;08
+Irish broom;644;55;14
+Jonc epars;633;41;06
+Kemuka;633;45;04
+Korenpater;642;17;02
+Irish moss;111;10;20
+Jonesia asoca;644;54;16
+Kemunting;654;14;13
+Koriander;666;74;09
+Iron heartwood;654;14;08
+Jonosia;644;54;16
+Kemunting cina;665;25;09
+Kornrade;663;41;15
+Iron wood;654;14;08
+Jopo;644;53;17
+Kentucky coffee tree;644;54;09
+Kostam;633;45;04
+Iron wood;654;14;08
+Judas-tree;644;54;14
+Keremunting;654;14;13
+Kot;654;16;16
+Ironwood;644;54;08
+Jufferlizeblom;665;76;02
+Keu;633;45;04
+Kottam;633;45;04
+Ironwood;644;42
+Juglandaceae;644;45
+Kew tree;555;17;17
+Kougoed;663;23;05
+Isatis tinctoria;655;66;07
+Juglans;644;45
+Keyu;633;45;04
+Koungassou;654;16;13
+Isoetaceae;422;11
+Juglans cinerea;644;45;13
+Khafrenga;644;16;03
+Koungbe;654;16;13
+Iso?tales;422;11
+Juglans nigra;644;45;06
+Kham pepper;655;41;12
+Kousso;644;61;13
+Isoetopsida;422;11
+Juglans regia;644;45;06
+Khaminkhruea;642;16;16
+Kraaibek;642;15;16
+Isopogon anethifolius;643;13;07
+Jujuba;644;62;08
+Khara manjari;663;55;03
+Krameria lappacea;644;57;01
+Isopogon formosus;643;13;07
+Jujube;644;62;08
+Kharr b;644;54;11
+Krameriaceae;644;57
+Ita;633;44;14
+Jujubier;644;62;08
+Khat;644;14;17
+Krampfkraut;644;61;15
+Italian fitch;644;55;09
+Juliania adstringens;655;42;14
+Khata in china;622;14;01
+Krascheninnikovia lanata;663;53;02
+Italian tussilage;666;46;15
+Julienne des dames;655;66;10
+Kh?;644;16;03
+Kratom;665;45;15
+It? palm;633;44;14
+Jumping bean tree;644;34;13
+Khetpapra;665;42;07
+Kreutz-enzian;665;23;14
+Iteaceae;652;12
+Juncaginaceae;633;12
+Kidney bean;644;55;02
+Kreuzblumengewächse;644;52
+Ithang;665;45;15
+Juncus effusus;633;41;06
+Kidney vetch;644;55;01
+Krimighna;664;34;13
+Iumanasi;655;37;12
+Juniperus communis;555;15;06
+Kidney-leaved crane's-bill;653;13;04
+Krinkhout;644;52;20
+Ivy gourd;644;75;16
+Juniperus sabina;555;15;08
+Kidneywood;644;55;08
+Krokodilletong;633;54;06
+Ixora maui;665;44;15
+Justicia adhatoda;665;62;04
+Kidneywort;652;15;08
+Kromanti;665;24;13
+Ixoroideae;665;44
+Justicia brandegeeana;665;62;04
+Kidneywort;652;15;16
+Kromantikankan;665;24;13
+Jaborandi;655;41;14
+Justicia rubra;665;62;03
+Kigelia africana;665;65;05
+Krotsbloemen;665;23;02
+Jacaranda brasiliensis;665;65;17
+Kaasbrood;655;33;07
+Kiggelaria africana;644;36;14
+Kruidjie-roer-my-nie;653;15;09
+Jacaranda caroba;665;65;17
+Kaasjes;655;33;07
+Killjoy;644;33;20
+Kruidnagelboom;654;14;09
+Jacaranda caucana;665;65;17
+Kaasjeskruidfamilie;655;33
+King protea;643;13;10
+Kruidnagelig balsem- Jacaranda family;665;65
+Kacang kedelai;644;55;15
+King's fern;444;43;10
+kruid der monniken;665;55;04
+Jacaranda gualandai;665;65;17
+Kadu-limba;655;47;12
+Kingcup;642;13;13
+Kruiperbloemen;665;76;02
+Jacaranda gualanday;665;65;17
+Kaempferia galanga;633;45;16
+Kingia argenta;633;43;10
+Kruisbes;652;16;15
+Jacea;644;33;04
+Kaffee;665;44;08
+Kinkeliba;654;16;15
+Kruisblad wolfsmelk;644;34;09
+Jack-in-trousers;642;13;07
+Kafferboom;644;55;09
+Kinnikinik;665;16;12
+Kruiskensbloem;642;17;02
+Jack-jump-about;666;74;07
+Kafferboom;644;55;08
+Kirambu;654;14;09
+Krulzuring;663;66;08
+Jacob's ladder;664;23;13
+Kahili ginger;633;45;09
+Kirengeshoma palmata;665;15;14
+Kshetr parpata;665;42;07
+Jacob's staff;664;24;01
+Kahles bruchkraut;663;41;14
+Kiwi;664;72;13
+Ksilokeratia;644;54;11
+Jacob's-ladder family;664;23
+Kaht;644;14;17
+Kiyi;644;24;13
+Kudu;665;26;06
+Jacobaea maritima;666;46;13
+Kakuam;665;45;15
+Klaaroge;665;57;07
+Kuhblume;642;13;13
+Jafo;644;65;12
+Kalan chau;652;15;06
+Klapperhooi;665;57;06
+Kuhhornklee;644;55;20
+Jakob's ladder;664;23;13
+Kalanchoe pinnatum;652;15;06
+Klatschrose;642;17;02
+Kuhkr?tze;644;55;08
+Jalap;663;25;07
+Kalebas;644;75;03
+Kleefkruid;665;42;02
+Kuiravam;633;45;04
+Jalap tubereux;665;76;06
+Kalmegh;665;62;15
+Kleiner schierling;666;74;13
+Kuj;644;24;13
+Jalapa;665;76;06
+Kalmia latifolia;664;63;05
+Kleiner steinklee;644;55;13
+Kukui;644;34;20
+Jalapenknolle;665;76;06
+Kalmia procumbens;664;63;05
+Kleng keng;655;44;09
+Kukuinussbaum;644;34;20
+Jalappa;665;76;06
+Kalmoes;631;11;01
+Klierkruid;665;54;12
+Kulai;644;24;12
+Jamaica cabbage tree;644;55;13
+Kalmus;631;11;01
+Klokjesbloem;665;76;02
+Kumpncan;665;76;16
+Jamaica dog-wood;644;55;09
+Kamala;644;34;13
+Klokjesfamilie;666;34
+Kurkuma;633;45;12
+Kuru;665;51;12
+Lathyrus sativus;644;55;14
+Kusi;633;45;04
+Lathyrus venosus;644;55;14
+Lettuc;666;43;01
+Liquiritia officinalis;644;55;05
+Kuso;644;61;13
+Latjira;663;55;03
+Leucadendron eucalyptifolium;643;13;13
+Liquorice;644;55;05
+Kutaja;665;26;16
+Lauraceae;622;54
+Kutki;665;51;12
+Laurales;622;50
+Leucaena glabra;644;53;17
+Liriosma inopiflora;665;46;20
+Kwalster;665;72;07
+Laurel;655;26;10
+Leucaena glauca;644;53;17
+Liriosma micrantha;665;46;20
+Kwanselhout;665;72;07
+Laurel camphor;622;54;12
+Leucaena leucocephala;644;53;17
+Liriosma ovata;665;46;20
+Kwara?ae;533;14;02
+Laurel de chile;622;56;04
+Kwastjeshout;665;72;07
+Laurel rose;665;26;14
+Leucas aspera;665;55
+Lis beguin;633;66;10
+Kweepeer;644;61;09
+Laurel sumac;655;42;08
+Levant nut;642;16;07
+Lisianthus;665;23;06
+Kyllinga brevifolia;633;41
+Laurelia aromatica;622;56;04
+Levant wormseed;666;47;13
+Litchi sinensis;655;44;09
+L?herit;665;64;03
+Laurelwood;644;24;07
+Levisticum levisticum;666;74;17
+Lithospermum officinale;665;33;10
+L?lvraie;663;41;15
+Laurier;622;54;10
+Levisticum officinale;666;74;17
+Little black rod;644;62;14
+La dua;633;34;05
+Laurier d? apollon;622;54;10
+Lewisia tweedyi;663;15;20
+Little gourd;644;75;16
+Laburnum;644;55;07
+Laurier des iroquis;622;54;14
+Leycesteria formosa;666;65;04
+Live-forever;652;15;12
+Laburnum anagyroides;644;55;07
+Laurocerasus;644;61;17
+Liane serpent;666;44;16
+Livelong;652;15;12
+Laburnum vulgare;644;55;07
+Laurus benzoin;622;54;20
+Lianne trompette;665;65;06
+Liver-wort;642;13;03
+Lachenalia comptonii;633;54;14
+Laurus nobilis;622;54;10
+Liatris spicata;666;44;01
+Liverberry;633;64;05
+Lachnantes;633;46;08
+Laurus sassafras;622;54;14
+Licania columbarum;644;27;15
+Liverwort;642;13;03
+Lachnanthes caroliniana;633;46;08
+Laurustinus;666;61;15
+Licania octandra;644;27;15
+Liverwort;644;61;06
+Lactuca canadensis;666;43;01
+Lavan;654;14;09
+Lice-bane;642;13;10
+Liverworts;322;10
+Lactuca sativa;666;43;01
+Lavande blanche;633;45;03
+Lichtnussbaum;644;34;20
+Lizard's-tail family;622;66
+Lactuca scariola;666;43;01
+Lavandula angustifolia;665;55;13
+Liebesblume;633;56;07
+Loasa triphylla;665;13;06
+Lactuca serriola;666;43;01
+Lavandula officinalis;665;55;13
+Lieblauglein;665;33;04
+Loasaceae;665;13
+Lactuca virosa;666;43;01
+Lavandula spica;665;55;13
+Lies;665;76;02
+Lobed croton;644;34;16
+Lad's love;666;47;15
+Lavang;654;14;09
+Lady's bedstraw;665;42;02
+Lavangam;654;14;09
+Lievevrouwbedstro;665;42;02
+Lobelia cerulia;666;35;17
+Lady's mantle;644;61;07
+Lavas;666;74;17
+Life of man;666;55;06
+Lobelia dortmanna;666;35
+Lady's smock;655;66;07
+Lavendel;665;55;13
+Life plant;652;15;06
+Lobelia erinus;666;35;12
+Lady's thistle;666;42;12
+Lavender;665;55;13
+Life-everlasting;652;15;12
+Lobelia inflata;666;35;15
+Lady's tresses;633;73;09
+Lavender star flower;655;37;11
+Lignum sanctum resin;644;56;10
+Lobelia naupaka;666;36;14
+Lagenaria siceraria;644;75;03
+Laver;111;10;20
+Lignum vitae resin;644;56;10
+Lobelia purpurascens;666;35;17
+Lagundi;665;55;14
+Lawang;654;14;09
+Lignum-vitae;644;56;10
+Lobelia siphilitica;666;35;17
+Laiche de sable;633;41;11
+Lawsonia inermis;654;11;04
+Ligularia dentata;666;46;09
+Lobelia splendens;666;35;10
+Laiteron commun;666;43;02
+Le tam tam;665;65;08
+Ligusticum phellandrium;666;77;08
+Lobeliaceae;666;35
+Laitue;666;43;01
+Lead wood family;654;16
+Ligusticum podagraria;666;74;07
+Loco-weed;644;55;04
+Laitue virose;666;43;01
+Leadwort family;663;63
+Ligustrum vulgare;665;46;06
+Locust tree;644;55;10
+Lakritzen;644;55;05
+Leaf of god;666;44;17
+Lijsterbes;644;61;14
+Lodoicea maldivica;633;44;13
+Lalob hidjihi;644;56;13
+Leafy spurge;644;34;20
+Lilac;644;55;09
+Loeselia coccinea;664;23;05
+Lamb's quarters;663;53;13
+Leatherleaf;664;66;14
+Lilac;665;46;13
+Loeseliastrum depressum;664;23;02
+Lamiaceae;665;55
+Leatherwood;655;26;13
+Liliaceae;633;64
+L?ffelkresse;655;66;13
+Lamiales;665;50
+Lecythidaceae;664;45
+Liliales;633;60
+Loganiaceae;665;24
+Lamiastrum galeobdolon;665;55;03
+Lecythis lanceolata;664;45;10
+Lilianae;630;00
+Logwood;644;54;08
+Lamiidae;665;00
+Lederboom;655;41;13
+Liliidae;633;00
+Logwood;644;62;20
+Lamiids;665;00
+Ledidi;664;44;20
+Liliopsida;630;00
+Loiseleuria procumbens;664;63;05
+Lamium album;665;55;03
+Ledocarpaceae;653;17
+Lilium album;633;64;10
+Lolium temulentum;633;42;05
+Lamium galeobdolon;665;55;03
+Ledum floribus bullatis;664;63;05
+Lilium candidum;633;64;10
+Lombrigueira;665;24;13
+Lamium levigatum;665;55;03
+Ledum palustre;664;63;13
+Lilium class;630;00
+London plane tree;643;14;10
+Lamium maculatum;665;55;03
+Leeuwebekjes;665;57;06
+Lilium humboldtii;633;64;08
+Long spined hawthorn;644;61;12
+Lampourde epineuse;666;44;13
+Leeuwenmuilkens;665;51;06
+Lilium lancifolium;633;64;08
+Long spined hawthorn;644;61;12
+Lampranthus aureus;663;23;11
+Leigongteng;644;14;06
+Lilium longiflorum;633;64;10
+Longan;655;44;13
+Lampsane;666;43;11
+Lekima;664;44;20
+Lilium subclass;633;00
+Longkruid;665;33;13
+Lampwick plant;665;55;07
+Lemmekensblaren;665;54;04
+Lilium superbum;633;64;10
+Lonicera canadensis;666;65;13
+Lamsoor;663;63;07
+Lemna minor;632;11;01
+Lilium tigrinum;633;64;08
+Lonicera caprifolia;666;65;13
+Landia lappacea;644;57;01
+Lemon;655;41;11
+Lily of peru;633;66;11
+Lonicera japonica;666;65;13
+Lane porcelaine;665;27;17
+Lemon balm;665;55;12
+Lily of the valley;633;54;04
+Lonicera periclymenum;666;65;13
+Lang de boeuf;666;43;12
+Lemon family;655;41
+Limdo;655;47;12
+Lonicera xylosteum;666;65;13
+Langtraubiges christophskraut;642;13;13
+Lemon scented verbena;665;64;03
+Lime;655;41;11
+Lonisera;666;65;13
+Langue de boeuf;665;33;04
+Lemongrass;633;42;01
+Lime;655;32;06
+Look-zonder-look;655;66;03
+Lantaarntjes;665;57;07
+Lemuni;665;55;14
+Limnanthes macounii;655;62;14
+Loosestrife;664;34;06
+Lantana camara;665;64;06
+Lenggundi;665;55;14
+Limonium brasiliense;663;63;06
+Lopezia racemosa;654;12;12
+Lao;644;31;09
+Lennoaceae;665;37
+Limonium imbricatum;663;63;17
+Lophophora williamsii;663;14;17
+Laong;654;14;09
+Lens culinaris;644;55;02
+Limonium sinuatum;663;63;07
+Lophophytum leandrii;655;77;14
+Lapacho;665;65;12
+Lenten rose;642;13;14
+Lin;644;23;01
+Lopseed family;665;56
+Lapageria rosea;633;61;10
+Lentibulariaceae;665;67
+Linaceae;644;23
+Loranthaceae;655;72
+Lapathum sylvestre;663;66;08
+Lentil;644;55;02
+Linacees;644;23
+Lotus;643;11;01
+Lappa;666;42;06
+Lentisk;655;42;14
+Linaria vulgaris;665;51;06
+Lotus corniculatus;644;55;16
+Lappa arctium;666;42;06
+Leonotis leonurus;665;55
+Linden;655;32;06
+Lousewort;665;57;08
+Lappa major;666;42;06
+Leontopodium alpinum;666;45;06
+Linden family;655;32
+Lovage;666;74;17
+Lappa officinalis;666;42;06
+Leonurus cardiaca;665;55;06
+Lindera benzoin;622;54;20
+Love apple;665;72;15
+Lappula myosotis;665;33;15
+Leopard palm;632;11;12
+Lindheimer's beeblossom;654;12;13
+Love plant;642;13;07
+Lapsana communis;666;43;11
+Leopard plant;666;46;09
+Lindheimer's clockweed;654;12;13
+Love vine;642;13;17
+Larch;555;14;13
+Lepelblad;655;66;13
+Lineseed family;644;23
+Love vine;665;79
+Lardizabalaceae;642;12
+Lepidium bonariense;655;66;06
+Linnaea borealis;666;62;02
+Low juneberry;644;61;05
+Large cranberry;664;66;08
+Lepidium heterophyllum;655;66;06
+Linnaeaceae;666;62
+Lowering rush;633;16
+Large evening primrose;654;12;10
+Lepidium iberis;655;66;05
+Linnaeosicyos amara;644;75;05
+Lucerne grass;644;55;01
+Large house-leek;652;15;12
+Lepidium mastruco;655;66;06
+Linseed;644;23;01
+Lucifers;655;66;04
+Large leafed aster;666;45;10
+Lepigonum rubrum;663;41;08
+Linum catharticum;644;23;12
+Lucuma glycyphloea;664;44;15
+Large spotted spurge;644;34;06
+Leptandra virginica;665;51;16
+Linum usitatissimum;644;23;01
+Luffa actangula;644;75;14
+Large-flowered torch thistle;663;14;01
+Leptilon canadense;666;45;09
+Lion's ear;665;55;20
+Luffa bendaul;644;75;14
+Larger bindweed;665;76;02
+Leptoceras menziesii;633;73;03
+Lion's ear;665;55;06
+Luffa bindal;644;75;14
+Larix decidua;555;14;13
+Leptospermum scoparium;654;14;15
+Lion's heart;665;55;06
+Luffa bondel;644;75;14
+Larkspur;642;13;10
+Leptospermum squarrosum;654;14;14
+Lion's tail;665;55;06
+Luffa operculata;644;75;14
+Larrea mexicana;644;56;07
+Leptosporangiate ferns;444;00
+Lionsfoot;644;61;07
+Luma apiculata;654;14;05
+Larrea tridentata;644;56;07
+Leschenaultia biloba;666;36;08
+Lipbloemigen;665;55
+Luma chequen;654;14;05
+Lathraea clandestina;665;57;16
+Luma gayana;654;14;05
+Lathyrus cicera;644;55;14
+Lesser chick-pea;644;55;14
+Lippia graveolens;665;64;07
+Lunaria annua;655;66;17
+Lathyrus latifolius;644;55;14
+Lesser field;666;64;05
+Lippia mexicana;665;64;07
+Lungwort;665;33;13
+Lathyrus ochroleucus;644;55;14
+Lesser pilewort;642;13;16
+Lippia triphylla;665;64;03
+Lunumidella;655;47;12
+Malaysian;644;65;12
+Marsh sapphire;663;53;01
+Melilotus pallida;644;55;13
+Male yagrumo;666;55;12
+Marsh sow thistle tree;666;43;02
+Melilotus petit-pierreanus;644;55;13
+Mall-leaved plane;644;25;08
+Marsh-rosemary;663;63;07
+Melilotus rugosus;644;55;13
+Malleola vietnamensis;633;75;02
+Marshmallow;655;33;05
+Melinjo or belinjo;533;14;02
+Mallotbloemen;644;55;13
+Martyniaceae;665;63
+Melissa officinalis;665;55;12
+Mallotus pallidus;644;34;13
+Marum verum;665;55;13
+Melisse;665;55;12
+Mallotus philipensis;644;34;13
+Marvel of peru;663;25;07
+Melittis melissophyllum;665;55;12
+Mallotus phillippinensis;644;34;13
+Mary's bells;642;13;07
+Melkbladerene;665;55;03
+Mallow;655;33;07
+Mary's cap;644;61;07
+Melloet;644;55;13
+Mallow;655;33;07
+Mary's cape;644;61;07
+Melon;644;75;02
+Mallow family;655;33
+Masdevallia veitchiana;633;75;04
+Melur;665;46;07
+Malmea depressa;622;43;12
+Malmea depressa;622;43;11
+Mashinga sanga;655;61;16
+Mempelas;662;11;04
+Malosma laurina;655;42;08
+Maskerbloem;665;56;02
+Mengkudu;665;42;13
+Malpighiaceae;644;22
+Mastellekensjkruid;655;33;07
+Mengkudu akar;665;42;13
+Malpighiales;644;20
+Masterwort;666;74;10
+Mengkudu hutan;665;42;13
+Maltese fungus;652;17;14
+Mastich;655;42;14
+Mengkunyit;642;16;16
+Maltese mushroom;652;17;14
+Masura;644;55;02
+Meniran;644;34;16
+Malungg?y;655;61;16
+Mat phlox;664;23;07
+Menispermaceae;642;16
+Malus communis;644;61;05
+Matico;622;64;10
+Menispermum canadense;642;16;08
+Malus pumila;644;61;05
+Matricaria chamomilla;666;47;06
+Menispermum palmatum;642;16;15
+Malus sylvestris;644;61;05
+Matricaria recutita;666;47;06
+Mentha aquatica;665;55;01
+Malva;655;33;07
+Mattar pea;644;55;14
+Mentha arvensis;665;55;01
+Malva alcea;655;33;07
+Matthiola;655;66;12
+Mentha longifolia;665;55;01
+Malva class;650;00
+Matthiola graeca;655;66;12
+Mentha piperita;665;55;01
+Malva neglecta;655;33;07
+Mauritia flexuosa;633;44;14
+Mentha viridis;665;55;01
+Malva order;655;30
+M?useschierling;666;74;12
+Menyanthaceae;666;31
+Malva parviflora;655;33;07
+Mauve;655;33;07
+Menyanthacees;666;31
+Malva sylvestris;655;33;07
+Mauve;655;33;07
+Menyanthes trifoliata;666;31;08
+Malvaceae;655;33
+Maxillaria longipetala;633;74;10
+Mercurialis perennis;644;34;05
+Malvales;655;30
+Maxillaria uncata;633;74;07
+Merlai;644;24;12
+Malvanae;650;00
+Maxillarioideae;633;74
+Merrshout;644;61;15
+Malvidae;655;00
+May apple;642;14;16
+Merrybells;633;66;03
+Malvids;655;00
+Mayalu;663;12;01
+Mescal buttons;663;14;17
+Mama kadela;644;65;16
+Maytenus ehrifolia;644;14;12
+Mesembryanthemum Mamey;644;24;05
+Maytenus ilicifolia;644;14;12
+crystallinum;663;23;07
+Mamey apple;644;24;05
+Mayweed;666;47;06
+Messenger and courier;644;65;12
+Mammea americana;644;24;05
+Mduguyu;644;56;13
+Mesua ferrea;644;24;17
+Mammee;644;24;05
+Meadow buttercup;642;13;09
+Meswak;655;67;14
+Mammee apple;644;24;05
+Meadow cabbage;632;11;16
+Metrosideros costatus;654;14;11
+Manaca;665;73;17
+Meadow foam;655;62;14
+Metrosideros excelsa;654;14;08
+Manchu tuber-gourd;644;75;05
+Meadow parsnip;666;74;07
+Metrosideros robusta;654;14;08
+Mancinella;644;34;02
+Meadow saxifrage;652;16;02
+Metrosideros tremuloides;654;14;08
+Mancona bark;644;54;15
+Meadow widow flower;666;64;06
+Meum athamanticum;666;74
+Mandarin;655;41;10
+Meadow-cress;655;66;07
+Mexicaanse papaver;642;17;13
+Mandinka;644;65;12
+Meadow-cuckoo;655;66;07
+Mexican breadfruit;632;11;12
+Mandragora officinarum;665;71;16
+Meadow-sweet;644;61;15
+Mexican false-calico;664;23;05
+Mandrake;665;71;16
+Mealy starwort;633;26;14
+Mexican fireplant;644;34;12
+Mandukaparni;666;71;13
+Meaning ?flower?;663;15;20
+Mexican poppy;642;17;13
+Mangifera indica;655;42;10
+Mango tree;655;42;10
+Meaning below;633;52;06
+Mezereum;655;26;16
+Mangold wurzel;663;53;02
+Meaning goat's horn;644;54;11
+Mickey-mouse plant;644;25;08
+Mangrove;644;31
+Meaning little calendar;666;45;12
+Miconia papillosa;654;13;09
+Mangrove apple;654;11;01
+Meaning watchman;644;65;12
+Micromeria douglasii;665;55;02
+Mangrove palm;633;44;16
+Meconella denticulata;642;17;04
+Midsummer-men;652;15;12
+Mangroveappel;654;11;01
+Meconopsis grandis;642;17;11
+Mielcilla;666;44;02
+Manicheel tree;644;34;02
+Medaddy-bus;666;65;13
+Mierikswortel;655;66;10
+Manihot esculenta;644;34;02
+Mede;633;44;14
+Mignonette vine;663;12;02
+Manihot utilissima;644;34;02
+Medicago sativa;644;55;01
+Mikania guaco;666;44;16
+Manilkara zapota;664;44;17
+Meersboterbloem;642;13;13
+Milchdieb;665;57;07
+Manioc;644;34;02
+Meerwortel;644;61;03
+Milk tree;644;65;16
+Maniok;644;34;02
+Meeting houses;642;13;07
+Milkmaid;655;66;07
+Manipur;644;24;13
+Megastigma skinneri;655;41;05
+Milkweed;665;27;06
+M?nnertreu;666;35;12
+Meidoorn;644;61;12
+Milkweed;665;27;06
+Mansoor;622;72;03
+Melaleuca alternifolia;654;14;16
+Milkweed;665;27;06
+Manuka;654;14;15
+Melaleuca cajeputi;654;14;16
+Milkweed;665;27;06
+Milkweed;665;27;02
+Manzanilla;644;34;02
+Melaleuca minor;654;14;16
+Milkweed;666;43;02
+Manzenilleboom;644;34;02
+Melaleuca thymifolia;654;14;16
+Milkweeds;665;27
+Maple leaved goosefoot;663;53;13
+Melanthera biflora;666;44;02
+Milkwort family;644;52
+Marara;633;44;14
+Melanthiaceae;633;65
+Millefolium;666;47;11
+Marathy kari;665;55;05
+Melarhiza inuloides;666;44;07
+Millet;633;42;07
+Maravilla;663;25;07
+Melastoma ackermanni;654;13;09
+Mimosa dormiens;644;53;02
+Marcgraviaceae;664;17
+Melastoma malabathricum;654;13;03
+Mimosa glauca;644;53;17
+Marchantiophyta;322;10
+Melastomataceae;654;13
+Mimosa humilis;644;53;02
+Margosa;655;47;12
+Melati;665;46;07
+Mimosa leucocephala;644;53;17
+Marienkerze;665;54;04
+Melde;663;53;12
+Mimosa pudica;644;53;04
+Mariposa lily;633;63;17
+Melia azadirichta;655;47;12
+Mimosoideae;644;53
+Marjoram;665;55;10
+Melia azedarach;655;47;12
+Mimule tachetee;665;56;02
+Marking nut;655;42;12
+Meliaceae;655;47
+Mimulus cardinalis;665;56;02
+Marlberry;664;34;20
+Melianthaceae;653;15
+Mimulus guttatus;665;56;02
+Maronnier;655;44;10
+Melianthus major;653;15;09
+Mimulus lewisii;665;56;02
+Marrubium vulgare;665;55;06
+Melicoccus bijugatus;655;44;05
+Mimulus luteus;665;56;02
+Marsdenia condurango;665;27;12
+Melilotus;644;55;13
+Minaret flower;665;55;20
+Marsdenia sylvestris;665;27;09
+Melilotus albus;644;55;13
+Miner's lettuce;663;15;20
+Marsh beetle;633;41;01
+Melilotus arvensis;644;55;13
+Miner's lettuce family;663;15
+Marsh grass of parnassus;644;14;03
+Melilotus bungeana;644;55;13
+Mint;665;55;01
+Marsh marigold;642;13;13
+Melilotus expansa;644;55;13
+Mint;665;55;01
+Marsh pitcher plants;664;76;16
+Melilotus officinalis;644;55;13
+Mint garden;665;55;01
+Lysichiton americanus;632;11;08
+Lysimachia nummularia;664;34;06
+Lysimachia vulgaris;664;34;06
+Mira;644;14;17
+Mountain everlasting;666;45;02
+Mysore sandalwood;655;74;10
+Ninebark;644;61;09
+Miraa;644;14;17
+Mountain fringe;642;15;13
+Mzunze;655;61;16
+Nipa palm;633;44;16
+Mirabilis jalapa;663;25;07
+Mountain holly;666;14;13
+Nabalus;666;43;14
+Nipple-wort;666;43;11
+Miracle berry;664;44;20
+Mountain horopito;622;32;13
+Nachtbloeier;654;12;10
+Nishotra;665;76;16
+Miracle leaf;652;15;06
+Mountain laurel;664;63;05
+Nachtbl?hender cereus;663;14;06
+Nisoth;665;76;16
+Miraculous berry;664;44;20
+Mountain laurel;622;54;13
+Nachtkeers;654;12;10
+Nisottar;665;76;16
+Mirakelboom;655;61;16
+Mountain mint;665;55;20
+Nachtkeers;665;54;04
+Nitrariaceae;655;45
+Mirte;654;14;04
+Mountain pride;665;51;08
+Nachtlampke;654;12;10
+Niyog-niyogan;654;16;05
+Misodendrum oblongifolium;655;72;16
+Mountain sweet;644;62;05
+Nachtpitje;665;33;04
+No nucleus;631;11;01
+Mistletoe;655;73;01
+Mountain-ash;644;61;14
+Nachtraaf;665;72;07
+Noche buena;663;25;07
+Mistletoe;655;72;16
+Mountain-hemlock;666;74;17
+Nachtschaduw;665;72;07
+Nodding trillium;633;65;03
+Miswak;655;67;14
+Mourning bride;666;64;05
+Nachtschone;663;25;07
+Nolina microcarpa;633;54;10
+Mitchella repens;665;42;15
+Mouse ear of the fields;665;33;15
+Nagadanti;665;76;16
+Noni;665;42;13
+Mitragyna speciosa;665;45;15
+Mouse-ear hawkweed;666;43;07
+Nahuatl achiote;655;51;16
+Noon flower;663;23;11
+Mitrastemonaceae;664;57
+Msufi;655;34;11
+Nahuatl tzapotl;664;44
+Noon flower;663;23;11
+Mkoma;633;44;14
+Muarubaini;655;47;12
+Narcissus;633;56;16
+Nootmuskaat;622;46;04
+Mlonge;655;61;16
+Mucuna pruriens;644;55;08
+Moca;644;55;13
+Mucuna urens;644;55;08
+Narco;633;56;16
+Nordamerikanische Moccasin flower;633;72;02
+Muflier;665;51;17
+Mockernut hickory;644;45;09
+Muguet;633;54;04
+Narrow leaf coneflower;666;44;17
+North american acacia;644;55;10
+Moederkruid;665;55;12
+Mugwort;666;47;20
+Moederkruid;666;47;13
+Mugwort;666;47;14
+Nartheciaceae;633;26
+Northern gooseberry;652;16;16
+M?hre;666;75;02
+Muir puama;655;76;17
+Molybdaina;663;63;16
+Muira puma;655;76;17
+Narthex asafoetida;666;74;16
+Northern wolfsbane;642;13;01
+Momordica balsamica;644;75;11
+Muizedoorn;633;54;08
+Narumeanna;633;45;04
+Not;663;76
+Momordica balsamina;644;75;11
+Mulberry family;644;65
+Nasturtium;655;62;01
+Nothofagaceae;644;43
+Momordica charantia;644;75;11
+Mule's ear;666;44;07
+Nasturtium aquaticum;655;66;01
+Nuphar luteum;621;11;06
+Monarda punctata;665;55;07
+Muling;533;14;02
+Nasturtium cochlearia;655;66;13
+Nuttall's milk vetch;644;55;14
+Moneywort;664;34;06
+Mullein;665;54;04
+Nasturtium officinale;655;66;01
+Nux absurda;633;44;13
+Monilophyta;444;00
+Mullein black;665;54;04
+Natal grass cycad;544;15;11
+Nux moschata;622;46;04
+Monimiaceae;622;56
+Munagakaya;655;61;16
+Native dodder;665;79;01
+Nux vomica;665;24;08
+Monk's basil;665;55;04
+Muntingiaceae;655;56
+Native field mint;665;55;01
+Nuytsia floribunda;655;72;15
+Monk's basil;665;55;04
+Muringa;655;61;16
+Nattuvadumai;654;16;16
+Nyctaginaceae;663;25
+Monkey apple;644;54;08
+Murraya koenigii;655;41;03
+Nature's drugstore;655;47;12
+Murungakai;655;61;16
+Naupaka kahakai;666;36;14
+Nymphaea alba;621;11;12
+Monkey cups;663;76
+Musa paradisiaca;633;45;02
+Navelwort;652;15;16
+Nymphaea odorata;621;11;12
+Monkey flower;665;56;02
+Musa sapientum;633;45;02
+Neapolitana;666;74;15
+Nymphaea violeacea;621;11;12
+Monkey orchid;633;73;17
+Muscari neglectum;633;53;16
+Nebelpflanze;664;34;16
+Nymphaeaceae;621;11
+Monkey pistol;644;34;16
+Muscus terrestris repens;422;13;06
+Nectandra amara;622;54;15
+Nymphaeales;621;10
+Monkey's dinner-bell;644;34;16
+Musk-root;666;74;05
+Nectandra puberula;622;54;15
+Nymphaeidae;621;00
+Monnikspeper;665;55;14
+Musk-seed;655;33;01
+Neeb;655;47;12
+Nyssaceae;665;14
+Monocots;630;00
+Muskroot;666;63;08
+Neem;655;47;12
+Oak;644;44;10
+Monocotyledoneae;630;00
+Muskroot;666;61;06
+Neem tree indian lilac;655;47;12
+Oak;644;44;10
+Monocotyledones;630;00
+Muskuskruid;644;61;03
+Nela nelli;644;34;16
+Oatstraw;633;42;14
+Monocotyls;630;00
+Muskuswortel;666;74;05
+Nela usiri;644;34;16
+Obione;663;53;12
+Monolepis pusilla;663;53;02
+Musquash-root;666;77;01
+Nelkenwurz;644;61;02
+Ocean-bluff milk vetch;644;55;14
+Monotropa uniflora;664;67;17
+Mustard;655;66;11
+Nelumbo nucifera;643;11;01
+Ochna serrulata;644;25;08
+Monotropaceae;664;67
+Mustard;655;66;17
+Nelumbonaceae;643;11
+Ochnaceae;644;25
+Monotropoideae;664;67
+Mustard tree;655;67;14
+Nemopanthus mucronatus;666;14;13
+Ochroma pyramidale;655;34;14
+Monsonia emarginata;653;13;16
+Mutsioideae;666;41
+Neottioideae;633;77
+Ochrosia borbonica;665;25;13
+Monstera deliciosa;632;11;12
+Muurbloem;655;66;04
+Nepal pepper;655;41;12
+Ochrosia maculata;665;25;13
+Montbresia;633;51;06
+Muurkruid;664;34;16
+Nepali;655;47;12
+Ocimum americanum;665;55;04
+Montiaceae;663;15
+Muurpeper;652;15;05
+Nepenthaceae;663;76
+Ocimum basilicum;665;55;04
+Moonbeam coreopsis;666;44;07
+Myosotis arvensis;665;33;15
+Nepenthe;663;76
+Ocimum canum;665;55;04
+Moonflower;665;76;08
+Myosotis lappula;665;33;15
+Nepenthes distillatoria;663;76;12
+Ocimum gratissimum;665;55;04
+Moonlighter;644;66;12
+Myosotis sylvatica;665;33;15
+Nepeta cataria;665;55;06
+Ocimum inodourum;665;55;04
+Moor golds;633;26;17
+Myosotis symphytifolia;665;33;15
+Nephelium lappaceum;655;44;13
+Ocimum inodourum;665;55;04
+Moose elm;644;64;05
+Myrcia acris;654;14;05
+Nerium oleander;665;26;14
+Ocimum sanctum;665;55;04
+Moosewood;655;26;13
+Myrcia acris;654;14;13
+Neroli;655;41;10
+Ocimum tenuiflorum;665;55;04
+Mopo;644;53;17
+Myrica asplenifolia;644;46;16
+Nerprun purgatif;644;62;08
+Ocotea odorifera;622;54;16
+Moraceae;644;65
+Myrica cerifera;644;46;16
+Nettle;644;66;08
+Ocotillo;664;24;01
+Moraea collina;633;51;14
+Myrica gale;644;46;16
+Nettle family;644;66
+Octonema okoubaka;655;74;05
+Moreron male;664;34;16
+Myrica pensylvanica;644;46;16
+Nettle tree;644;67;10
+Odermennig;644;61;06
+Moreton bay fig;644;65;15
+Myricaceae;644;46
+Neuradaceae;655;27
+Odontoglossum crispum;633;74;06
+Moriche palm;633;44;14
+Myricaria germanica;663;61;13
+Neusbloem;665;57;06
+Odontonema rubrum;665;62;03
+Morinda citrifolia;665;42;13
+Myristica fragrans;622;46;04
+New beginnings;633;34;05
+Oenanthe aquatica;666;77;08
+Morinda elliptica;665;42;13
+Myristica sebifera;622;46;16
+New jersey tea;644;62;05
+Oenanthe crocata;666;77;17
+Morinda umbelleta;665;42;13
+Myristicaceae;622;46
+New zealand christmas tree;654;14;08
+Oenanthe gigantean;666;77;08
+Moringa oleifera;655;61;16
+Myristicacees;622;46
+New zealand flax;633;57;06
+Oenanthe phellandrium;666;77;08
+Morning glory family;665;76
+Myroxylon balsamum;644;55;04
+New zealand hemp;633;57;06
+Oenanthoidae;666;77
+Morning rose;663;25;07
+Myroxylon pereirae;644;55;04
+New zealand laurel;644;72;17
+Oenothera biennis;654;12;10
+Morus nigra;644;65;14
+Myrrh;655;43;13
+New zealand tea tree;654;14;15
+Oenothera elata;654;12;10
+Moschatel;666;61;06
+Myrrh family;655;43
+Niaouli;654;14;16
+Oenotheraceae;654;12
+Moschosma polystachyum;665;55;20
+Myrrhis odorata;666;76;13
+Nickende k?chenschelle;642;13;02
+Ogentroost;665;57;07
+Mosquito bills;664;33;04
+Myrsinaceae;664;34
+Nicolaia elatior;633;45;14
+Ohio buckeye;655;44;10
+Mosquito flower;654;12;12
+Myrtaceae;654;14
+Nicolaia speciosa;633;45;14
+Oignon;633;56;06
+Moss-rose;663;16;06
+Myrtales;654;10
+Nicotiana tabacum;665;73;12
+Oilseed rape;655;66;02
+Moss-rose purslane;663;16;06
+Myrtidae;654;00
+Nicotianoideae;665;73
+Okoubaka aubrevillei;655;74;05
+Mosses;333;10
+Myrtle;654;14;04
+Nigella damascena;642;13;15
+Olacaceae;655;76
+Most common turf weed;633;41;20
+Myrtle family;654;14
+Nigella sativa;642;13;16
+Old balsam;666;45;05
+Mosterd;655;66;11
+Myrtle order;654;10
+Nigelle des dames;642;13;15
+Old man;666;47;15
+Mota karmal;662;11;01
+Myrtle-leaved croriaria;644;72;05
+Night-blooming cereus;663;14;01
+Old man banksia;643;13;14
+Night-flowering sad tree;665;46;16
+Old man's beard;642;13;17
+Mother's milk;644;62;05
+Myrtus cheken;654;14;05
+Night-jasmine of india;665;46;16
+Oldenlandia affinis;665;42;07
+Motherwort;665;55;06
+Myrtus chequen;654;14;05
+Nightshade order;665;70
+Oldenlandia diffusa;665;42;07
+Mountain alder;644;41;06
+Myrtus communis;654;14;04
+Nim;655;47;12
+Oldenlandia herbacea;665;42;07
+Mountain balm;665;31;12
+Myrtus dioica;654;14;07
+Nimba;655;47;12
+Olea europea;665;46;10
+Mountain damson;655;46;13
+Myrtus jambos;654;14;09
+Nimm;655;47;12
+Olea syrica;665;46;10
+Mountain deathcamas;633;65;15
+Myrtus pimenta;654;14;07
+Nimtree;655;47;12
+Oleaceae;665;46
+Oleacees;665;46
+Oysterloit;663;66;11
+Passiflora edulis;644;32;08
+Periparoba;622;64;20
+Oleander;665;26;14
+Paan;622;64;17
+Passiflora mollissima;644;32;02
+Periploca;665;27;16
+Oleum chaulmoograe;644;36;16
+Paapmuts;665;76;02
+Passifloraceae;644;32
+Periploca graeca;665;27;14
+Oleum santali;655;74;10
+Paardenkastanje;655;44;10
+Passion dock;663;66;11
+Periploca nigrescens;665;27;16
+Olibanum;655;43;10
+Paardestaart;654;11;06
+Passion flower;644;32;08
+Periwinkle;665;25;03
+Olibanum sacrum;655;43;09
+Paardestaart familie;433;44
+Passion flower family;644;32
+Persea americana;622;54;08
+Olive tree family;665;46
+Paarse kattesnor;655;65;06
+Passions;663;66;11
+Persea gratissima;622;54;08
+Olive tree family;665;46;05
+Pachyrhizanthe;633;74;07
+Pastinaak;666;74;15
+Persian;622;14;01
+Olivier;665;46;10
+Pachystachys spicata;665;62;07
+Pastinaca anethum;666;74;03
+Persian lilac;655;47;12
+Olivillo;661;11;01
+Packera aurea;666;46;12
+Pastinaca graveolens;666;74;03
+Persian silk tree;644;53;08
+Onagraceae;654;12
+Paddevlas;665;51;06
+Pastinaca sativa;666;74;15
+Persicaria;663;66;11
+Onagre;654;12;10
+Paddy oats;533;14;02
+Pata de vaca;644;54;07
+Persicaria bistorta;663;66;11
+One-sided bottlebrush;654;14;13
+Padi oats;533;14;02
+Patate douce;665;76;02
+Persicaria capitata;663;66;13
+Oneberry;633;65;01
+Paeonia europea;652;11;01
+Patchouli;665;55;11
+Persicaria hydropiper;663;66;06
+Onion;633;56;06
+Paeonia officinalis;652;11;01
+Paternosterkruid;655;33;07
+Persicaria maculosa;663;66;13
+Ononis arvensis;644;55;08
+Paeoniaceae;652;11
+Patersonia occidentalis;633;51;17
+Persicaria sagittata;663;66;14
+Ononis spinosa;644;55;08
+Paganrai;665;76;16
+Patersonia umbrosa;633;51;17
+Persicaria virginiana;663;66;06
+Onoporde;666;42;09
+Paghala tree;665;46;16
+Patersonia xanthina;633;51;17
+Pagoda tree;644;55;15
+Patient dock;663;66;11
+Peru;652;15;06
+Onosma echioides;665;33;05
+Pagode tree;665;25;10
+Patikan cina;666;55;20
+Peruvian balsam;644;55;04
+Onosmodium virginianum;665;33;05
+Pai pu;633;32;13
+Patrijskruid;654;12;10
+Peruvian rhatany;644;57;01
+Ooegano;665;55;10
+Painted spurge;644;34;12
+Patrinia gibbosa;666;63;03
+Pes ursinus;422;13;06
+Oostindische kers;655;62;01
+Palakkebloem;642;13;13
+Pau de remo;664;44;15
+Petai belalang;644;53;17
+Operculina turpethum;665;76;16
+Pale corydalis;642;15;13
+Pau ferro;644;54;08
+Petalidium coccineum;665;62;04
+Ophioglossaceae;433;71
+Paliure epine du christ;644;62;17
+Paullinia cupana;655;44;16
+Petasite;666;46;15
+Ophioglossum vulgatum;433;71;16
+Paliurus spina-christi;644;62;17
+Paullinia pinnata;655;44;16
+Petasites;666;46;08
+Ophiopogon japonicus;633;54;02
+Pallisade palm;633;44;13
+Paullinia sorbilis;655;44;16
+Petasites hybridus;666;46;08
+Ophioxylon serpentinum;665;25;12
+Palm;633;44;11
+Pausinystalia johimbe;665;45;16
+Petasites officinalis;666;46;08
+Opiliaceae;655;75
+Palm family;633;44
+Pauson;642;17;08
+Petasites pyrenaicus;666;46;15
+Opium;642;17;17
+Palm lelie;633;55;16
+Pawpaw;622;43;16
+Petasites vulgaris;666;46;08
+Opium lettuce;666;43;01
+Palm oil;633;44;11
+Pawpaw;655;61;10
+Petenaeaceae;655;24
+Oplopanax horridus;666;55;08
+Palmarosa;633;42;01
+Pea;644;55;02
+Peterlein;666;74;04
+Opulaster opulifolius;644;61;09
+Palmier d?arec;633;44;13
+Pea-tree;644;55;07
+Peterling;666;74;04
+Opuntia alba spina;663;14;03
+Palms;633;44
+Peach blossom teatree;654;14;14
+Peterselie;666;74;04
+Opuntia ficus-indica;663;14;03
+Paloondo;644;56;07
+Peachwort;663;66;13
+Petit chiendent;633;42;06
+Opuntia vulgaris;663;14;03
+Pambotano powder-puff;644;53;05
+Peanut;644;55;03
+Petrophile linearis;643;13;13
+Orach;663;53;12
+Panacea arvensis;664;34;16
+Pear tree;644;61;05
+Petrosaviaceae;633;21
+Orange berry;655;41;05
+Panacea for all diseases;655;47;12
+Pearl perlatum;633;42;16
+Petroselinum crispum;666;74;04
+Orchidales;633;70
+Panax ginseng;666;55;11
+Pearly everlasting;666;45;13
+Petroselinum sativum;666;74;04
+Orchidoideae;633;73
+Panax horridum;666;55;08
+Pedaliaceae;665;66
+Petty morrel;666;55;06
+Orchids;633;70
+Panax quinquefolius;666;55;11
+Pedalium family;665;66
+Petty spurge;644;34;03
+Orchis;633;70
+Pandan wangi;633;34;05
+Pedicularis canadensis;665;57;08
+Petunia integrifolia;665;73;06
+Orchis maculata;633;73;12
+Pandanaceae;633;34
+Peelu;655;67;14
+Peucedanum anethum;666;74;03
+Orchis simia;633;73;17
+Pandanales;633;30
+Peentjes;666;75;02
+Peucedanum graveolens;666;74;03
+Ordeal bean;644;55;16
+Pandanus amaryllifolius;633;34;05
+Peesae;533;14;02
+Peucedanum officinale;666;74
+Ordel tree;644;54;15
+Pandanus tectorius;633;34;05
+Peganum harmala;655;45;13
+Peucedanum oreoselinum;666;74;14
+Oregon grape;642;14;10
+Panicum paludosum;633;42;09
+Peggehout;644;62;15
+Peucedanum ostruthium;666;74;14
+Oregon iris;633;51;08
+Panicum virgatum;633;42;07
+Pelargonium asperum;653;13;05
+Peucedanum pastinaca;666;74;15
+Oregon pine;555;14;09
+Pansy;644;33;04
+Pelargonium graveolens;653;13;06
+Peucedanum sativa;666;74;15
+Oreille de chatte;644;34;15
+Papain;655;61;10
+Pelargonium odoratissimum;653;13;07
+Peumus boldus;622;56;04
+Orellana;655;51;16
+Papaver rhoeas;642;17;02
+Pelargonium reniforme;653;13;04
+Peumus fragrans;622;56;04
+Pelargonium soloides;653;13;04
+Peuplier noir;644;35;10
+Oreomunnea;644;45
+Papaveraceae;642;17
+Pellacalyx axillaris;644;31;09
+Peyote;663;14;17
+Origanum dictamnus;665;55;10
+Papaya;622;43;16
+Pelliciera rhizophorae;664;11;01
+Peyotl;663;14;17
+Origanum majorana;665;55;10
+Papaya vulgaris;655;61;10
+Pellicieraceae;664;11
+Pfaffia paniculata;663;55;20
+Origanum vulgare;665;55;10
+Papayillo;655;37;12
+Pellitory of spain;666;47;20
+Pfefferminze;665;55;01
+Oris root;633;51;08
+Papenneuzekens;665;57;06
+Pellitory-of-the-wall;644;66;16
+Pferdesaat;666;77;08
+Oriya;655;47;12
+Papilionoideae;644;55
+Pema;644;37;16
+Phacelia minor;665;33;07
+Orleana;655;51;16
+Paquerette;666;45;07
+Penaeaceae;654;17
+Phaeolus max;644;55;15
+Ornithogalum candicans;633;53;09
+Paracoto;622;54;15
+Penka;665;23;04
+Phaeomeria magnific;633;45;14
+Ornithogalum umbellatum;633;53;12
+Paradijsboom;655;61;16
+Penny pies;652;15;16
+Phaeomeria speciosa;633;45;14
+Orobanchaceae;665;57
+Paradise nut;664;45;10
+Pennyroyal;665;55;01
+Phakmiang;533;14;02
+Pennyroyal;665;55;01
+Phalaenopsis gigantea;633;75;10
+Orobanche virginianus;665;57;11
+Paraiba;655;46;13
+Pennywort;666;55;01
+Phaseolus nanus;644;55;02
+Orphan john;652;15;12
+Paraiso;655;47;12
+Pennywort;652;15;16
+Phaseolus vulgaris;644;55;02
+Orpine;652;15;12
+Paranomus reflexus;643;13;03
+Penqa;665;23;04
+Phellandrium;666;77;08
+Orthosiphon aristatus;665;55;17
+Paranoot;664;45;16
+Pensee sauvage;644;33;04
+Phellandrium aquaticum;666;77;08
+Oryza sativa;633;42;02
+Parapluutjes;665;33;04
+Penstemon davidsonii;665;51;08
+Parasite plant;655;77;17
+Penstemon menziesii;665;51;08
+Philadelphia fleabane;666;45;09
+Osmorhiza aristata;666;76;05
+Paratudo;663;55;16
+Pentadiplandra brazzeana;655;63;16
+Philesiaceae;633;61
+Osmunda regalis;444;43;10
+Pareira brava;642;16;17
+Pentalinon luteum;665;26
+Philippine wax flower;633;45;14
+Ossetong;665;33;04
+Parica;644;53;17
+Pentaphylacaceae;664;55
+Phlebodium aureum;444;52;10
+Osterick;663;66;11
+Parietaria officinalis;644;66;16
+Pentaphylax euryoides;664;55
+Phleole;633;42;04
+Ostrya virginiana;644;41;05
+Parinari curatellifolia;644;27;12
+Penthoraceae;652;13
+Phleum pratense;633;42;04
+Otaheite gooseberry;644;34;16
+Paris quadrifolia;633;65;01
+Penthorum sedoides;652;13;13
+Phlomis fruticosa;665;55;07
+Ouabain;665;25;11
+Parkinsonia aculeata;644;54;14
+Penthos;663;76
+Phlox diffusa;664;23;07
+Oubli;655;63;16
+Parnassia palustris;644;14;03
+Penva;633;45;04
+Phlox drummondii;664;23;07
+Outeniqua conebush;643;13;15
+Paronychia illecebroides;663;41;12
+Peony;652;11;01
+Phlox family;664;23
+Overblijvend bingelkruid;644;34;05
+Parsley;666;74;04
+Pepermunt;665;55;01
+Phlox family;664;20
+Ox-eye bean;644;55;08
+Parsley piert;644;61;07
+Pepper family;622;64
+Phoenix dactylifera;633;44;15
+Ox-eye daisy;666;47;09
+Parsnip;666;74;15
+Pepper root;655;66;15
+Phooi leaf;663;12;01
+Oxalidaceae;644;16
+Parthenium argentatum;666;44;04
+Pepper tree;655;42;16
+Phormium tenax;633;57;06
+Oxalis acetosella;644;16;06
+Parthenium hysterophorus;666;44;04
+Pepperidge tree;665;14;01
+Phrymaceae;665;56
+Oxberry;633;22;16
+Parthenocissus quinquefolia;643;16;05
+Peppermint;665;55;01
+Phuopsis stylosa;665;42;06
+Oxlip;664;33;05
+Partijcke;654;11;06
+Pepperwood;622;32;13
+Phylica pubescens;644;62;07
+Oxycoccus macrocarpon;664;66;08
+Partridge wood;644;55;13
+Perennial pea;644;55;14
+Phyllagathis rotundifolium;654;13;05
+Oxydendrum arboreum;664;66;06
+Parzenkraut;666;77;01
+Perfetto amore;642;13;07
+Phyllanthus acidus;644;34;16
+Oxytropis campestris;644;55;04
+Passiflora;644;32;08
+Perianthopodus bicuiba;644;75;17
+Phyllanthus amarus;644;34;16
+Oxytropis lambertii;644;55;04
+Passiflora coccinea;644;32;02
+Periparoba;622;64;16
+Phyllanthus niruri;644;34;16
+Pot marigold;666;45;12
+Pot-of-gold;666;44;07
+Potamogeton natans;633;13;01
+Potato;665;72;02
+Potato weed;666;44;02
+Potency wood;655;76;17
+Potentiehout;655;76;17
+Potentilla anserina;644;61;03
+Potentilla argentina;644;61;03
+Potentilla aurea;644;61;03
+Potentilla erecta;644;61;03
+Potentilla silvestris;644;61;03
+Potentilla tormentilla;644;61;03
+Potenzbaum;655;76;17
+Potenzholz;655;76;17
+Poterium officinalis;644;61;06
+Pothos foetidus;632;11;16
+Potiron;644;75;07
+Pourpier;663;16;06
+Poverty bush;665;54;05
+Powder puff plant;644;53;05
+Prachtkaars;654;12;13
+Pradosia lactescens;664;44;15
+Pradosia latescens;664;44;15
+Praecoxanthus aphylla;633;73;07
+Prairie baby's breath;644;34;05
+Prairie crocus;642;13;02
+Prairie fameflower;663;15;20
+Pralle schneebeere;666;65;05
+Prangwortel;644;55;08
+Preisselberen;664;66;16
+Prenanthes alba;666;43;14
+Prenanthes serpentaria;666;43;14
+Pretty face;633;54;03
+Prickly ash;655;41;12
+Prickly chaff flower;663;55;03
+Prickly gooseberry;652;16;16
+Prickly pear;663;14;03
+Prickly poppy;642;17;13
+Prickly-ivys;633;62;08
+Prikneusje;665;33;04
+Primrose;664;33;05
+Primrose;664;33;05
+Primrose family;664;33
+Primula elatior;664;33;05
+Primula farinosa;664;33;05
+Primula obconca;664;33;05
+Primula veris;664;33;05
+Primulaceae;664;33
+Primulales;664;30
+Prince's pine;664;67;12
+Prinos verticillatus;666;14;13
+Professor weed;644;55;09
+Prosopis velutina;644;53;16
+Protea cynaroides;643;13;10
+Proteaceae;643;13
+Proteales;643;10
+Proteidae;643;00
+Prunella vulgaris;665;55;06
+Prunus amygdalus;644;61;11
+Prunus cerasifera;644;61;08
+Prunus cerasus;644;61;08
+Prunus laurocerasus;644;61;17
+Prunus spinosa;644;61;08
+Pseudofumaria lutea;642;15;07
+Pseudofumaria major;642;15;14
+Pseudognaphalium obtusifolium;666;45;13
+Pseudotsuga menziesii;555;14;09
+Pseudowintera colorata;622;32;13
+Psidium guajava;654;14;03
+Psychotria nervosa;665;42;17
+Ptelea;655;41;13
+Ptelea trifoliata;655;41;13
+Pteleopsis suberosa;654;16;08
+Pteridales;444;70
+Pteridium aquilinum;444;74;12
+Pteridophyta;400;00
+Pteridophyta sensu scictu;444;00
+Pteridopsida;444;00
+Pterocarpus marsupium;644;55;16
+Pterocarpus santalinus;644;55;16
+Pterocarya;644;45
+Pterostyrax hispidus;664;54;13
+Ptychopetalum olacoides;655;76;17
+Ptychopetalum uncinatum;655;76;17
+Pudding dock;663;66;11
+Pudding grass;663;66;11
+Puding;666;55;15
+Polygonatum biflorum;633;54;09
+Polygonatum majalis;633;54;04
+Polygonatum pubescens;633;54;09
+Polygonatum vulgare;633;54;09
+Polygonum aviculare;663;66;08
+Polygonum bistorta;663;66;11
+Polygonum hydropiper;663;66;06
+Polygonum punctatum;663;66;12
+Platycodon grandiflorum;666;34;10
+Plectranthus amboinicus;665;55;08
+Plectranthus barbatus;665;55;08
+Plectranthus fruticosus;665;55;08
+Plectranthus scutellarioides;665;55;08
+Plei;665;55;01
+Pleione bulbocodioides;633;76;14
+Pleisterklaver;644;55;13
+Pleurothallis lanceana;633;76;06
+Pleurs de vielle femme;665;27;16
+Ploughman's spikenard;666;45;11
+Pocket-handkerchief tree;665;14;04
+Pod grass;633;15
+Podagrakraut;666;74;07
+Podagraria aegopodium;666;74;07
+Podagraria erratica;666;74;07
+Podalyna tinctoria;644;55;16
+Poddebalsem;665;55;01
+Podocarpaceae;555;13
+Podocarps;555;13
+Podocarpus falcatus;555;13;13
+Podophyllum peltatum;642;14;16
+Podostemaceae;644;21
+Podranea ricasoliana;665;65;04
+Portulacaceous alliance;663;10
+Portulacaceous cohort;663;10
+Portulacales;663;10
+Portulacaria afra;663;16;10
+Portulacinae;663;10
+Postelein;663;16;06
+Puhala;633;34;05
+Rabassum;653;13;04
+Red pitaya;663;14;02
+Robin run in the hedge;665;55;05
+Pui shak;663;12;01
+Rabbit meat;665;55;03
+Red poppy;642;17;02
+Robinia;644;55;10
+Puidenblommekeduivelsbeet;642;13;12
+Rabbit orchid;633;73;03
+Red puccoon root;642;17;08
+Robinia pseudoacacia;644;55;10
+Puke weed;666;35;15
+Rabbitbrush;666;45;05
+Red root;644;62;05
+Rock fern;444;50;13
+Pulicaria dysenterica;666;45;13
+Rabe;633;42;04
+Red rooted pigweed;663;55;08
+Rock jasmine;664;33;20
+Pulicaria vulgaris;666;45;13
+Radha manoharam;654;16;05
+Red spider-flower;643;13;05
+Rock river weed;210;00;20
+Pull-down;665;79
+Radijs;655;66;16
+Red spiderling;663;25;13
+Rock rose;655;53;12
+Pulmonaire;665;33;13
+Radish;655;66;16
+Red star;633;52;06
+Rock rose;655;53;08
+Pulmonaria officinalis;665;33;13
+Radium plant;644;34;03
+Red thumb;652;17;14
+Rock rose;655;53;08
+Pulsatilla;642;13;02
+Rafflesia arnoldii;644;37;16
+Red vine spinach;663;12;01
+Rock wrack;111;02;20
+Pulsatilla nigricans;642;13;02
+Rafflesia hasseltii;644;37;16
+Red water tree;644;54;15
+Rock-jasmine;664;33;20
+Pulsatilla patens;642;13;02
+Rafflesiaceae;644;37
+Red weed;642;17;02
+Rock-rose family;655;53
+Pulsatilla pratensis;642;13;02
+Rag weed;666;44;15
+Red willow;665;16;12
+Rockbrake;444;50;11
+Pulut lembu;655;33;16
+Ragged lady;642;13;15
+Red-root amaranth;663;55;08
+Rocket;655;66;15
+Pulut pulut;655;33;16
+Ragwort;666;46;13
+Red-sandwort;663;41;08
+Rocket larkspur;642;13;09
+Pulutan;655;33;16
+Rainbow plants;665;53
+Redbush;644;55;12
+Rockjasmine;664;33;20
+Pumpkin;644;75;06
+Raiponce;666;34;09
+Reddish brown;644;64;12
+Rockweed;111;02;20
+Pumpwood;644;66;01
+Rajania subsamarata;655;42;14
+Redoul;644;72;05
+Rocky daisy;666;45;12
+Punarnava;663;25;13
+Rajania subsamarata;633;22;12
+Redroot pigweed;663;55;08
+Rocky polypody;444;50;11
+Punica granatum;654;11;13
+Raktavikara;644;55;16
+Redwood;655;47;10
+Rode heul;642;17;02
+Punna;662;11;01
+Ram's horn;665;63;20
+Regenblume;665;76;02
+Rode mier;664;34;16
+Pupalia lappacea;663;55;06
+Rambutan;655;44;13
+Regina prati;644;61;15
+Rode schijnspurrie;663;41;08
+Purgeerstruik;644;34;01
+Ramenas;655;66;16
+Rehmannia glutinosa;665;56;02
+Roekkruid;665;55;01
+Purgierwinde;665;76;02
+Rami buah;644;34;16
+Reindeer flower;642;13;20
+Roflfenchel;666;77;08
+Purging buckthorn;644;62;08
+Ramonda myconi;665;52;17
+Remek daging;665;62;20
+Roflkerbel;666;77;08
+Purging cassia;644;54;04
+Rampion;666;34;16
+Resedaceae;655;63
+Roflkummel;666;77;08
+Purging croton;644;34;03
+Rampion bellflower;666;34;05
+Rest-harrow;644;55;08
+Roga;644;54;11
+Purging flax;644;23;12
+Ramps;633;56;03
+Reynette;644;61;15
+Roggemeijer;642;17;02
+Purging nut;644;34;13
+Rangcang besi;633;34;20
+Rhamnaceae;644;62
+Roggewolf;642;17;02
+Purging nut;644;34;01
+Rangoon creeper;654;16;05
+Rhamnacees;644;62
+Rohrheide;644;55;06
+Purging nut tree;644;34;01
+Rankblom;665;76;02
+Rhamnales;644;60
+Rolklaver;644;55;16
+Puri baburun;664;34;13
+Rannoch rush;633;15;01
+Rhamnus californica;644;62;09
+Romneya coulteri;642;17;11
+Purple bat flower;633;24;01
+Rannoch-rush;633;15
+Rhamnus cathartica;644;62;08
+Rooibos;644;55;12
+Purple cockle;663;41;15
+Ranunculaceae;642;13
+Rhamnus catharticus;644;62;08
+Rookkruid;642;15;16
+Purple dragon;665;55;03
+Ranunculales;642;10
+Rhamnus humboldtiana;644;62;14
+Roomse kervel;666;76;13
+Purple foxglove;665;51;14
+Ranunculidae;642;00
+Rhamnus purshiana;644;62;12
+Roquette;655;66;15
+Purple haw;644;62;20
+Ranunculus acris;642;13;09
+Rhatany;644;57;01
+Roquette;655;66;04
+Purple jasmine;663;25;07
+Ranunculus bulbosus;642;13;08
+Rheum palmatum;663;66;10
+Roridulaceae;664;74
+Purple loosestrife;654;11;06
+Ranunculus flammula;642;13;05
+Rheum rhabarbarum;663;66;10
+Rosa californica;644;61;10
+Purple meadow rue;642;13;
+Ranunculus glacialis;642;13;20
+Rheum rhaponticum;663;66;10
+Rosa canina;644;61;10
+Purple medic;644;55;01
+Ranunculus occidentalis;642;13;16
+Rhinante;665;57;06
+Rosa chinensis;644;61;10
+Purple-flowered toothwort;655;66;15
+Ranunculus repens;642;13;04
+Rhinanthus major;665;57;06
+Rosa damascena;644;61;10
+Purpurroter fingerhut;665;51;14
+Ranunculus scleratus;642;13;14
+Rhinanthus serotinus;665;57;06
+Rosa rubiginosa;644;61;10
+Purslane;663;16;06
+Rapeseed;655;66;02
+Rhizophora mangle;644;31;02
+Rosa veridiflora;644;61;10
+Purslane;663;15;20
+Raphanus raphanistrum;655;66;16
+Rhizophora mucronata;644;31;07
+Rosaceae;644;61
+Purslane family;663;16
+Raphanus sativus;655;66;16
+Rhizophoraceae;644;31
+Rosales;644;60
+Pushkarmula;633;45;04
+Raphanus sativus niger;655;66;16
+Rhodanthe chlorocephala;666;45;14
+Rosanae;644;60
+Pussy willow;644;35;12
+Rapier feather flower;654;14;15
+Rhododendron;664;63;10
+Rosary pea;644;55;09
+Putat kedu;664;45;02
+Rappelbloem;642;13;12
+Putranjivaceae;644;26
+Rapunzel;666;34;05
+Rhododendron chrysanthum;664;63;10
+Rose apple;654;14;09
+Pyracantha atalantioides;644;61;05
+Raspberry;644;61;13
+Rhodohypoxis baurii;633;52;06
+Rose bay;665;26;14
+Pyrethre de dalmatie;666;47;08
+Rat tail orchid;633;76;09
+Rhodomyrtus tomentosa;654;14;13
+Rose cone flower;643;13;07
+Pyrethrum;666;47;08
+Rata;654;14;08
+Rhodophyceae;111;10
+Rose de noel;642;13;14
+Pyrethrum officinalis;666;47;08
+Ratanhia;644;57;01
+Rhodophyta;110;00
+Rose de poets;655;33;09
+Pyrethrum parthenium;666;47;08
+Rat?;644;55;09
+Rhoiptelea;644;45
+Rose de porcelaine;633;45;14
+Pyrola minor;664;67;12
+Ratelaar;665;57;06
+Rhopalocarpaceae;655;52
+Rose family;644;61
+Pyrola rotundifolia;664;67;15
+Rattle bush;644;55;16
+Rhopalostylis sapida;633;44;08
+Rose geranium;653;13;06
+Pyrolaceae;664;67
+Rattle weed;644;55;04
+Rhubarb;663;66;10
+Rose myrtle;654;14;13
+Pyrorchis nigricans;633;74;13
+Rattle-weed;644;55;04
+Rhus aromatica;655;42;05
+Rose of sharon;655;33;15
+Pyrus canadensis;644;61;05
+Rattleroot;642;13;13
+Rhus cotinus;655;42;15
+Rose schapebloem;644;55;03
+Pyrus communis;644;61;05
+Rattlesnake bean;655;46;09
+Rhus diversiloba;655;42;03
+Rose tremiere;655;33;09
+Pyrus sativa;644;61;05
+Rattlesnake root;666;43;14
+Rhus glabra;655;42;14
+Roselings;633;46;06
+Qaad;644;14;17
+Rattlesnake root;666;43;14
+Rhus laurina;655;42;08
+Roselle;655;33;15
+Qat;644;14;17
+Rattlesnake root;642;13;13
+Rhus lentii;655;42;05
+Rosemary;665;55;11
+Quaking grass;633;42;07
+Rattleweed;642;13;13
+Rhus ovata;655;42;05
+Rosha;633;42;01
+Quassia amara;655;46;12
+Rattleweed;644;55;04
+Rhus radicans;655;42;05
+Rosha grass;633;42;01
+Quebracho;665;25;11
+Rau b?p;533;14;02
+Rhus toxicodendron;655;42;02
+Rosin-weed;666;44;14
+Quebracho aspidosperma;665;25;11
+Rau danh;533;14;02
+Rhus venenata;655;42;15
+Rosin-wood;666;44;14
+Queen anne's lace;666;75;02
+Rauvolfia serpentina;665;25;12
+Ribes cynosbati;652;16;16
+Rosmarin;665;55;11
+Queen of health;663;55;10
+Rauvolfieae;665;25
+Ribes nigrum;652;16;15
+Rosmarinus officinalis;665;55;11
+Queen of the meadows;644;61;15
+Rauwolfia serpentina;665;25;12
+Ribes oxyacanthoides;652;16;16
+Rote rabe;666;75;02
+Queen of the night;654;12;10
+Red alder;644;41;06
+Ribes uva-crispa;652;16;15
+Roter sp?rkling;663;41;08
+Queen root;644;34;17
+Red baneberry;642;13;05
+Ribwort;665;51;03
+Rothmannia globosa;665;44;14
+Queen-weed;666;74;15
+Red bryony;644;75;08
+Rice;633;42;02
+Rottestaart;654;11;06
+Queen's delight;644;34;17
+Red cedar;555;15;14
+Richeria grandis;644;34
+Rottlera tinctoria;644;34;13
+Quenette;655;44;05
+Red chestnut;655;44;10
+Richweed;644;66;15
+Rough bedstraw;665;42;02
+Quercus ilex;644;44;10
+Red chickweed;664;34;16
+Ricinelle des indes;644;34;15
+Roughbark;644;56;10
+Quercus pendunculata;644;44;10
+Red cohosh;642;13;05
+Ricinus communis;644;34;14
+Round leaved wintergreen;664;67;15
+Quercus robur;644;44;10
+Red date;644;62;08
+Rick weed;665;51;07
+Round-leaved dogwood;665;16;08
+Quercus suber;644;44;10
+Red Devil's-claw;665;63;20
+Ridolfia segetum;666;74;05
+Roundleaf;664;67;15
+Quillai;644;51;01
+Red elm;644;64;05
+Rijheide;664;63;07
+Rousseaceae;666;33
+Quillaja saponaria;644;51;01
+Red fucus;111;02;20
+Rijst;633;42;02
+Rowan tree;644;61;14
+Quillworts;422;11
+Red ginger lily;633;45;14
+Ringworm powder;644;55;12
+Roxburghia gloriosoides;633;32;13
+Quince;644;61;09
+Red kamala;644;34;13
+Ringworm tree;644;54;03
+Roxburghia stemona;633;32;13
+Quince;655;41;06
+Red legs;663;66;11
+Rivea corymbosa;665;76;06
+Roxburghia viridiflora;633;32;13
+Quinine nut;663;67;05
+Red lobelia;666;35;10
+River almond;644;55;13
+Rozemarijn;665;55;11
+Qutenga;662;11;01
+Red mangrove;644;31;07
+River beauty willowherb;654;12;08
+Rpe bark;655;26;13
+Raaigras;633;42;05
+Red passion flower;644;32;02
+Riverweed family;644;21
+Rubber tree;644;34;08
+Rabarber;663;66;10
+Red pennyroyal;654;11;08
+Riz;633;42;02
+Rubia tinctorum;665;42;10
+Rubiales;665;40
+Sand verbena;663;25;20
+Scaevola sericea;666;36;14
+Seifenrindenbaum;644;51;01
+Rubioideae;665;42
+Sandalwood;655;74;10
+Scaevola striata;666;36;14
+Selaginellaceae;422;15
+Rubus fruticosus;644;61;13
+Sandbog;633;65;17
+Scale trees;422;11
+Selderie;666;74;03
+Rubus idaeus;644;61;13
+Sandbox tree;644;34;16
+Scammonee du mexique;665;76;06
+Selederij;666;74;03
+Rucola;655;66;15
+Sandcress;663;15;20
+Scammony;665;76;04
+Selenicereus grandiflorus;663;14;01
+Rudbeckia feuilles etroites;666;44;17
+Sanddorn;644;62;06
+Scandioidae;666;76
+Self-heal;665;55;06
+Rudbeckia hirta;666;44;06
+Sandleepy dick;633;53;12
+Scarlet monkeyflower;665;56;02
+Selinum anethum;666;74;03
+Rue;655;41;12
+Sandwort;663;41;08
+Scarlet pimpernel;664;34;16
+Selinum archangelica;666;74;11
+Ruizia fragrans;622;56;04
+Sangket;665;55;20
+Scarlet wisteria;644;55;17
+Selinum carvi;666;74;20
+Rumex acetosa;663;66;08
+Sangkubah;665;51;03
+Scarole;666;43;01
+Selinum carvifolium;666;74
+Rumex acetosella;663;66;12
+Sanguinaria canadensis;642;17;08
+Sceau de salomon;633;54;09
+Selinum cynapium;666;74;13
+Rumex alpinus;663;66;08
+Sanguinaria of cuba;663;41;12
+Sceletium tortuosum;663;23;05
+Selinum pastinaca;666;74;15
+Rumex britannica;663;66;08
+Sanguis draconis;633;54;12
+Scented chamomile;666;47;06
+Selinum phellandrium;666;77;08
+Rumex crispus;663;66;08
+Sanguisorba major;644;61;06
+Schaafstro;433;44;01
+Selinum virosum;666;77;01
+Rumput angga;665;42;07
+Sanguisorba officinalis;644;61;06
+Schaapmuilkens;665;51;06
+Semanggi gunung;666;55;20
+Rumput siku-siku;665;57;15
+Sanicle;666;72;05
+Schaapssurkel;644;16;06
+Semangkuk;666;55;15
+Ruscus aculeatus;633;54;08
+Sanicula canadensis;666;72;05
+Scharbockskraut;655;66;13
+Sembong hutan;666;43;12
+Ruta graveolens;655;41;12
+Sanicula europea;666;72;05
+Schefflera heterophylla;666;55;12
+Sembung;666;45;04
+Rutaceae;655;41
+Saniculoidae;666;72
+Scheuchzeria;633;15
+Semecarpus anacardium;655;42;12
+Rutjeblik;644;61;03
+Sansevieria trifasciata;633;54;06
+Scheuchz?rie;633;15;01
+Semen contra;666;47;13
+Rutland beauty;665;76;02
+Sansho;655;41;12
+Scheuchz?rie des marais;633;15;01
+Semilla de la virgen;665;76;06
+S walking stick;666;55;08
+Santalaceae;655;74
+Schildersverdriet;652;16;02
+Sempervivum tectorum;652;15;12
+Sabadilla officinalis;633;65;13
+Santalacees;655;74
+Schinus molle;655;42;16
+Senduduk;654;13;03
+Sabal serrulata;633;44;05
+Santalacees;655;70
+Schizaeales;444;20
+Sene de la palthe;644;54;03
+Sabatia angularis;665;23;13
+Santalales;655;70
+Schlafm?tzchen;642;17;14
+S?n? de provence;665;51;04
+Sabi star;665;26;06
+Santalum album;655;74;10
+Schlegeliaceae;665;61
+S?n? de provence;665;51;04
+Sabina;555;15;08
+Santalum freycinetianum;655;74;10
+Schlehdorn;644;61;08
+Senecio;666;46;12
+Sabline rouge;663;41;08
+Santalum paniculatum;655;74;10
+Schlehe;644;61;08
+Senecio hieracifolia;666;46;02
+Schmaltzia ovata;655;42;05
+Senecio jacobaea;666;46;13
+Saccolabium hendersonianum;633;75;12
+Santolina chamaecyparissus;666;47;13
+Schminkbohne;644;55;02
+Senecio maritima;666;46;13
+Sacramento bur;655;32;03
+Santoline;666;47;13
+Schneckenklee;644;55;01
+Senecio speciosus;666;46;04
+Sacred fig;644;65;15
+Santonica wormseed;666;47;13
+Schoenocaulon officinale;633;65;13
+Senecioneae;666;46
+Sacred river;642;17;20
+Sapin blanc;555;14;04
+Schorseneer;666;43;17
+Senega;644;52;08
+Sacred tree;655;47;12
+Sapin noir;555;14;05
+Schwulstkraut;665;51;14
+Senega root;644;52;08
+Sad tree;665;46;16
+Sapindaceae;655;44
+Scilla maritima;633;53;07
+Senna;644;55;09
+Sadaturi;655;33;02
+Sapindales;655;40
+Scilla non-scripta;633;53;04
+Senna;644;54;03
+Safflower;666;42;07
+Sapindus esculentes;655;44;12
+Scilla nutans;633;53;04
+Senna alata;644;54;03
+Saffran bastard;666;42;07
+Sapium africanum;644;34;13
+Scilla squilla;633;53;07
+Senna alexandrina;644;54;03
+Saffron wild;666;42;07
+Sapodilla family;664;44
+Scleranthus annuus;663;41;04
+Senna occidentalis;644;54;03
+Sage;665;55;15
+Saponaria officinalis;663;41;05
+Sclerocarya birrea;655;42;14
+Senna sophera;644;54;03
+Sagebrush;666;47;03
+Saponaria vulgaris;663;41;05
+Scolopendre;444;63;09
+Sensitive plant;644;53;02
+Sagittaria latifolia;633;14;16
+Sapota achras;664;44;17
+Scopolia atropoides;665;71;20
+Sensitive plant;644;53;04
+Saguaro;663;14;10
+Sapotaceae;664;44
+Scorbute-grass;655;66;13
+Sentaurie;665;23;02
+Sai?o;652;15;06
+Sapotales;664;40
+Scorzonera hispanica;666;43;17
+Sequoia sempervirens;555;15;10
+Sailor caps;664;33;04
+Sapphireberry family;664;51
+Scotch broom;644;55;14
+Seranting;665;55;06
+Sain foi;644;55;01
+Saraca asoca;644;54;16
+Scotch thistle;666;42;09
+Serenoa repens;633;44;05
+Saint anthony's turnip;642;13;08
+Saranate;644;16;03
+Scouring rush;433;44;01
+Sering;665;46;13
+Saint benedict's herb;644;61;02
+Sarap;665;62;20
+Scrambled eggs;642;17;12
+Seriphidium cinum;666;47;13
+Saint john's fern;444;43;10
+Sarcolaenaceae;655;54
+Scratchgrass;663;66;14
+Serpentaria;642;13;13
+Saint john's wort;644;24;08
+Sarette des teintures;666;42;02
+Screw family;633;34
+Serpentary;622;72;08
+Saint thomas lidpod;665;76;16
+Sarivan;644;55;05
+Scrophularia marylandica;665;54;12
+Serpolet;665;55;09
+Salad burnet;666;72;05
+Serratula;666;44;01
+Salad rocket;655;66;15
+Sarothamnus vulgaris;644;55;14
+Scrophularia nodosa;665;54;12
+Serratula tinctoria;666;42;02
+Salak;633;44;09
+Sarracenia purpurea;664;76;16
+Scrophulariaceae;665;54
+Serunai laut;666;44;02
+Salicaceae;644;35
+Sarraceniaceae;664;76
+Scrubbing rush;433;44;01
+Service berry;644;61;05
+Salicacees;644;35
+Sarraceniales;664;70
+Scurvy-grass;655;66;13
+Sesam;665;66;04
+Salicornia europaea;663;53;01
+Sarrata;644;56;05
+Scutellaria lateriflora;665;55;14
+Sesame family;665;66
+Salix alba;644;35;12
+Sarsaparilla;633;62;08
+Scybalium fungiforme;655;77;17
+Sesamum indicum;665;66;04
+Salix amygdaloides;644;35;12
+Sarsparilla;633;62;08
+Scyphostegiaceae;644;35
+Sesamum orientale;665;66;04
+Salix fragilis;644;35;12
+Sassafras;622;54;14
+Scytanthus;665;61
+Sesbania grandiflora;644;55;17
+Salix nigra;644;35;12
+Sassafras albidum;622;54;14
+Scythian lamb;444;46;10
+Seseli graveolens;666;74;03
+Salix triandra;644;35;12
+Sassafras officinalis;622;54;14
+Sea almond;654;16;16
+Seseli podagraria;666;74;07
+Salix vitellina;644;35;12
+Sassy bark;644;54;15
+Sea coconut;633;44;13
+Sessile stemona root;633;32;13
+Salomon's seal;633;54;09
+Satijnboom;655;41;12
+Sea grasses;633;13
+Setawar;633;45;04
+Salomon's zegel;633;54;09
+Satin touriga;644;24;07
+Sea holly;666;72;14
+Seven barks;665;15;08
+Salparni;644;55;05
+Satureja hortensis;665;55;16
+Sea lavender;663;63;07
+Seven sons plant;666;65;07
+Salsifis des pres;666;43;10
+Satyrion;633;70
+Sea moonflower;665;76;15
+Shalaparni;644;55;05
+Salsola aptera;663;53;17
+Satyrion feminina;633;70
+Sea oak;111;02;20
+Shalpahi;644;55;05
+Salsola australis;663;53;17
+Sauge;665;55;15
+Sea onion;633;53;07
+Shame plant;644;53;04
+Salsola brachypteris;663;53;17
+Saururaceae;622;66
+Sea purslane;663;53;02
+Shamrock;644;55;03
+Salsola kali;663;53;17
+Saururus cernuus;622;66
+Sealwor;633;54;09
+Shasta daisy;666;47;09
+Salsola tragus;663;53;17
+Saussurea costus;666;42;16
+Seamrog;644;55;03
+Shave grass;433;44;01
+Saltwort;663;53;17
+Saussurea lappa;666;42;16
+Seapinks;663;63;04
+She-oak;644;42
+Salvadora indica;655;67;14
+Saussurea obvallata;666;42;16
+Seaweed;111;10;20
+Shea;664;44;20
+Salvadora persica;655;67;14
+Saussurea vladimirus;666;42;16
+Secale cereale;633;42;14
+Shea tree;664;44;20
+Salvadoraceae;655;67
+Saw palemetto;633;44;05
+Securidaca longepeducualta;644;52
+Sheep sorrel;663;66;12
+Salvia divinorum;665;55;17
+Saxafras;622;54;14
+Sedges;633;41
+Shenano;655;61;16
+Salvia officinalis;665;55;15
+Saxifraga granulata;652;16;02
+Sedum acre;652;15;05
+Sheoak;644;42
+Salvia sclarea;665;55;15
+Saxifraga stolonifera;652;16;02
+Sedum album;652;15;05
+Shepherd's club;665;54;04
+Salviniales;444;10
+Saxifragaceae;652;16
+Sedum majus;652;15;12
+Shepherd's rod;666;64;10
+Sambang geteh;665;62;20
+Saxifragales;652;10
+Sedum roseum;652;15;08
+Shevaga;655;61;16
+Sambiloto;665;62;15
+Saxifrage;666;74;01
+Sedum spectabile;652;15;10
+Shi;664;44;20
+Samboja;665;25;10
+Saxifragidae;652;00
+Sedum telephium;652;15;12
+Shi tree;664;44;20
+Sambucus ebulus;666;61;12
+Saxon culfre;642;13;07
+Seed-under-leaf;644;34;16
+Shining bedstraw;665;42;02
+Sambucus nigra;666;61;12
+Scabiosa columbaria;666;64;05
+Seed-under-leaf;644;34;16
+Shojne;655;61;16
+Samydaceae;644;35
+Scabious;666;64;05
+Seeds of the virgin mary;665;76;06
+Shooting star;664;33;04
+Seemandel;654;16;16
+Shorea;655;55;10
+Sana;644;55;16
+Scabwort;666;45;11
+Seemannstreu;666;72;14
+Shortleaf spikesedge;633;41;20
+Sana kembang;644;55;16
+Scadoxus puniceus;633;56;13
+Seestrand-mannstreu;666;72;14
+Showy goldenrod;666;45;05
+Showy lady's slipper;633;72;02
+Slingerroos;665;76;02
+Solenostemon scutellarioides;665;55;08
+Spirostachys africana;644;34;13
+Showy stonecrop;652;15;10
+Slippery elm;644;64;05
+Solidage virgo aurea;666;45;05
+Spoekebloem;642;17;02
+Shrub yellow root;642;13;14
+Slippery elm;644;64;10
+Solidago californica;666;45;05
+Spokebloem;642;17;02
+Shrubby yellowcrest;654;11;07
+Slippery elm;644;64;13
+Solidago speciosa;666;45;05
+Spokeblom;642;17;02
+Siclewort;665;55;06
+Sloe;644;61;08
+Solidago virgaurea;666;45;05
+Spondias mombin;655;42;12
+Sida acuta;655;33;02
+Small bead-bean;655;64;14
+Solomon's plume;633;54;07
+Sponge cucumber;644;75;14
+Sida alnifolia;655;33;02
+Small fleabane;666;45;13
+Solomon's seal;633;54;09
+Sponge nettle;644;34;01
+Sida rhombifolia;655;33;02
+Small fleabane;666;45;13
+Son before the father;666;46;06
+Spoonwort;655;66;13
+Sidalcea glaucescens;655;33;06
+Small houseleek;652;15;05
+Sonchus oleraceus;666;43;02
+Sporkehout;644;62;15
+Sidawayah;654;11;13
+Small nettle;644;66;08
+Sonchus palustris;666;43;02
+Spotted alder;652;14;10
+Sideritis hyssopifolia;665;55;14
+Small povertyweed;663;53;02
+Sonneratia caseolaris;654;11;01
+Spotted cow-bane;666;77;01
+Sigesbeckia orientalis;666;44;16
+Small-leaved lime;655;32;08
+Sophora australis;644;55;16
+Spotted thistle;666;42;11
+Sikaduduk;654;13;03
+Smallage parsley;666;74;03
+Sophora japonic;644;55;15
+Spotted white deadnettle;665;55;03
+Silberkraut;644;61;03
+Smallanthus uvedalia;666;44;09
+Sophora tinctoria;644;55;16
+Spotted wintergreen;664;67;12
+Silberregen;644;55;10
+Smalle weegbree;665;51;03
+Sorbus domestica;644;61;14
+Spreading dogbane;665;26;13
+Silene californica;663;41;02
+Smallflower fairypoppy;642;17;04
+Sorghum bicolor;633;42;08
+Spreading hogweed;663;25;13
+Silene laciniata;663;41;02
+Smallflower hairy willowherb;654;12;08
+Sorrel;663;66;08
+Spreading phlox;664;23;07
+Silene saponaria;663;41;05
+Smartass;663;66;12
+Sorrel;663;66;08
+Sprice pepper;655;41;12
+Silk cotton;655;34;11
+Smartweed;663;66;12
+Sorrel tree;664;66;06
+Spring beauty;663;15;20
+Silk plant;644;53;08
+Smartweed family;663;66
+Sosor bebek;652;15;06
+Spring pheasant's eye;642;13;16
+Silktassel family;665;12
+Smeerwortel;665;33;12
+Soucisonnier;665;65;05
+Sprokkel;644;62;15
+Silky cornel;665;16;12
+Smellage;666;74;17
+Sour cherry;644;61;08
+Spurge family;644;34
+Silphion cyrenaicum;666;44;14
+Smertwortel;665;33;12
+Sour-wood;664;66;06
+Spurge laurel;655;26;06
+Silphium cyrenaicum;666;44;14
+Smilacaceae;633;62
+Soursop;622;43;12
+Spurge olive;655;26;16
+Silphium laciniatum;666;44;14
+Smilacina racemosa;633;54;07
+Soursop family;622;43
+Spurrey sandwort;663;41;08
+Silver birch;644;41;07
+Smilax officinalis;633;62;08
+South american apricot;644;24;05
+Squaw-weed;666;46;12
+Silver lime;655;32;12
+Smilax ornata;633;62;08
+Southern beech family;644;43
+Squawroot;642;13;13
+Silver maple tree;655;44;08
+Smilaxes;633;62;08
+Southernwood;666;47;15
+Squill;633;53;07
+Silver princess;654;14;05
+Smith's cress;655;66;06
+Southwestern prickly poppy;642;17;13
+Squilla maritima;633;53;07
+Silver-vase;633;47;20
+Smith's pepperwort;655;66;06
+Sow fennel;666;74;20
+Squirting cucumber;644;75;01
+Silverbell family;664;54
+Smoke bush;655;42;15
+Sowbread;664;34;17
+Sri lanka;633;44;16
+Silversword;666;44;20
+Smoke tree;655;42;15
+Soya bean;644;55;15
+Srinkers;665;55;03
+Silverweed;644;61;03
+Smooth alder;644;41;06
+Soyauxia gabonensis;652;11;13
+Stachys aquatica;665;55;06
+Silverweed cinquefoil;644;61;03
+Smooth asphodel;633;17
+Spaanse klaver;644;55;03
+Stachys betonica;665;55;06
+Silybum marianum;666;42;12
+Smooth glabra;655;42;14
+Spanish clover;644;55;01
+Stachys officinalis;665;55;06
+Simaba cedron;655;46;09
+Smyrnium olusatrum;666;76
+Spanish flag;665;64;06
+Stachys palustris;665;55;06
+Simarouba amara;655;46;13
+Snake fruit;633;44;09
+Spanish lime;655;44;05
+Staff tree;644;14;10
+Simarouba glauca;655;46;13
+Snake palm;632;11;12
+Spanish mam?n chino;655;44;13
+Staff vine;644;14;10
+Simarouba officinalis;655;46;13
+Snake plant;633;54;06
+Spanish shawl;654;13;03
+Staff vine family;644;14
+Simarouba versicolor;655;46;13
+Snake vine;662;11;05
+Spartium angulosum;644;55;14
+Stagger weed;642;15;17
+Simaroubaceae;655;46
+Snake-tongue-plants;433;71
+Spartium glabrum;644;55;14
+Stagger wort;666;46;13
+Simaruba ferroginea;655;46;09
+Snakebush;665;55;20
+Spartium scoparium;644;55;14
+Stalkruid;644;55;08
+Simmondsia chinensis;663;67;05
+Snakehead;665;51;05
+Spartium scoparius;644;55;14
+Stangeria;544;15;11
+Simmondsiaceae;663;67
+Snakeroot;666;77;01
+Spartium tinctoria;644;55;06
+Stangeria eriopus;544;15;11
+Sinapis alba;655;66;08
+Snakeroot;644;52;08
+Spathodea campanulata;665;65;13
+Stangeria paradoxa;544;15;11
+Sinapis arvensis;655;66;11
+Snakeweed;663;66;11
+Spearmint;665;55;01
+Staphysagria;642;13;10
+Sinapis nigra;655;66;11
+Snakewood;644;66;01
+Spearwort;642;13;05
+Star anise;622;14;01
+Sinau;644;61;07
+Snakewood;665;25;12
+Speckled alder;644;41;06
+Star chickweed;663;41;03
+Singapore almond;654;16;16
+Snakewood;644;62;20
+Speedwell;665;51;13
+Star flower;664;34;03
+Singhee;665;62;04
+Snap dragon;665;51;06
+Speise k?mmel;666;74;20
+Star fruit;644;16;03
+Sinhala rampe;633;34;05
+Snapping hazelnut;652;14;10
+Spekwortel;665;33;12
+Star gooseberry;644;34;16
+Sini;654;11;07
+Sneeuwklokje;633;56;01
+Sperbenkraut;644;61;06
+Star grass;633;26;14
+Sinicuichi;654;11;07
+Sneezeweed;644;34;08
+Spergulaire rouge;663;41;08
+Star grass;633;65;14
+Sinningia allagophylla;665;52;06
+Snow on the mountain;644;34;13
+Spergularia campestris;663;41;08
+Star lilies;633;65;17
+Sint pieterskruid;644;24;08
+Snow-drop;633;56;01
+Spergularia comune;663;41;08
+Star liliy;633;65;17
+Sirih;622;64;17
+Snow-rose;642;13;14
+Spergularia rubra;663;41;08
+Star of bethlehem;644;24;06
+Sirih carang;622;64;17
+Snowbell;664;54;14
+Sphaerosepalaceae;655;52
+Star of bethlehem;633;53;12
+Sirih dudok;622;64;15
+Snowbell family;664;33
+Sphagnum recurvum;333;21
+Star tulip;633;63;14
+Sirises;644;53;08
+Snowberry;666;65;05
+Sphenophyta;433;00
+Star-apple;664;44;20
+Sison podagraria;666;74;07
+Soap berry family;655;44
+Sphenopsida;433;00
+Stargrass;633;26;14
+Sisymbrium officinale;655;66;17
+Soap plants;633;55;05
+Sphondylium branca ursina;666;74;10
+Starting families;444;70
+Sisyrinchium bellum;633;51;16
+Soap root;663;41;05
+Spice-bush;622;54;13
+Starwort;663;41;03
+Sium cicuta;666;77;01
+Soapberry tree;644;56;13
+Spicebush;622;54;20
+Stately pepper plant;622;64;16
+Sium cicutifolium;666;77;11
+Soaproots;633;55;05
+Spider flower;655;65;06
+Statice;663;63;07
+Sium conium;666;74;12
+Soapwort;663;41;05
+Spider lily;633;56;17
+Statice brasiliense;663;63;06
+Sium graveolens;666;74;03
+Sobralia dichotoma;633;77;07
+Spider plant;655;65;06
+Stavesacre;642;13;10
+Sium latifolium;666;77;11
+Sobralia macrophylla;633;77;17
+Spider plant;633;55;08
+Stayplough;644;55;08
+Sium podagraria;666;74;07
+Society garlic;633;56;15
+Spiderflower;655;65;06
+Stechgenster;644;55;17
+Sium sisarum;666;77;11
+Socratea exorrhiza;633;44;13
+Spiderplant;655;65;06
+Steenbreekfamilie;652;16
+Sium suave;666;77;11
+Soja boontjes;644;55;15
+Spiderweed;655;65;06
+Steinwurzel;644;55;08
+Sium vulgare;666;74;07
+Soja hispida;644;55;15
+Spiderwort;633;46;04
+Stellaria dichotoma;663;41;03
+Siyeh;622;64;17
+Soja max;644;55;15
+Spiderwort family;633;46
+Stellaria media;663;41;03
+Skapeklaver;644;16;06
+Solanales;665;70
+Spierstaude;644;61;15
+Stelt palm;633;44;13
+Skeels;664;44;20
+Solandra maxima;665;71
+Spigelia anthelmia;665;24;13
+Stemless loco-weed;644;55;04
+Skirret;666;77;11
+Solanoideae;665;72
+Spigelia marilandica;665;24;13
+Stemona japonica;633;32;13
+Skrobberheide;664;63;07
+Solanum americanum;665;72;15
+Spignel;666;74;20
+Stemona sessilifolia;633;32;13
+Skullcap;665;55;14
+Solanum arrebenta;665;72
+Spikemosses;422;15
+Stemona tuberosa;633;32;13
+Skunk cabbage;632;11;16
+Solanum carolinense;665;72;08
+Spikemosses;422;11
+Stemonaceae;633;32
+Skunk weed;632;11;16
+Solanum dulcamara;665;72;07
+Spilanthes acmella;666;44;03
+Stephanotis floribunda;665;27;04
+Skunkweed;221;21
+Solanum lycopersicum;665;72;08
+Spinach;663;53;06
+Sterculia foetida;655;31;16
+Slaapbol;642;17;17
+Solanum mammosum;665;72;05
+Spinacia oleracea;663;53;06
+Sterculia nitida;655;31;08
+Slaapmutsje;642;17;14
+Solanum melongena;665;72;14
+Spindle tree family;644;14
+Sterculiaceae;655;31
+Slaapmutske;665;76;02
+Solanum nigrum;665;72;12
+Spindle-tree;644;14;08
+Sterculius;655;31;16
+Sladeniaceae;664;42
+Solanum nodiflorum;665;72;15
+Spindle-tree;644;14;08
+Sterculoideae;655;31
+Slakkeklaver;644;55;01
+Solanum rebenta;665;72;20
+Spingel;666;74;07
+Stevia rebaudiana;666;44;07
+Slange kop;665;33;11
+Solanum tuberosum;665;72;02
+Spiny restharrow;644;55;08
+Stickleaf family;665;13
+Slangebloem;642;13;13
+Solanum xanthocarpum;665;72;16
+Spiraea ulmaria;644;61;15
+Stigmata maydis;633;42;12
+Slangekruid;665;33;11
+Soldanella alpina;664;33;14
+Spiranthes spiralis;633;73;09
+Stilbaceae;665;53
+Sleeping grass;644;53;04
+Soldanelle des alpes;664;33;14
+Spirea ulmaria;644;61;15
+Stillingia sylvatica;644;34;17
+Stinger;644;66;12
+Surinam powderpuff;644;53;05
+Tanacetum balsamita;666;47;13
+Thelychiton;633;76;10
+Stinging nettle;644;66;08
+Surinam spinach;663;12;01
+Tanacetum coccineum;666;47;13
+Thelychiton speciosum;633;76;10
+Stinging tree of australia;644;66;12
+Surinamese stickpea;644;53;05
+Tanacetum parthenium;666;47;13
+Theobroma cacao;655;37;15
+Stinkasand;666;74;16
+Sushavi;644;75;11
+Tanacetum vulgare;666;47;13
+Theophrastaceae;664;37
+Stinkboom;644;62;15
+S??holz;644;55;05
+Tanauise;666;47;13
+Theriakwurzel;666;74;11
+Stinkende ballot;665;55;14
+S??strauch;644;55;09
+Tang kuei root;666;74;11
+Thevetia;665;25;15
+Stinkender schierling;666;74;12
+Sutherlandia frutescens;644;55;12
+Tangerine;655;41;10
+Thistle of the donkeys;666;42;09
+Stinking ash;655;41;13
+Swallow-wort;665;27;15
+Tanghin of madagascar;665;25;14
+Thistles;666;42
+Stinking buckeye;655;44;10
+Swamp banksia;643;13;13
+Tanghinia;665;25;14
+Thladiantha dubia;644;75;05
+Stinknetel;665;55;14
+Swamp cabbage;665;76;17
+Tanghinia venenifera;665;25;14
+Thladianthe douteuse;644;75;05
+Stizolobium pruriens;644;55;08
+Swamp cabbage;632;11;16
+Tank;666;74;15
+Thlaspi amara;655;66;05
+Stock gillyflower;655;66;12
+Swamp walnut;665;16;13
+Stokroos;655;33;09
+Swan plant;665;27;07
+Tansy;666;47;13
+Thorn-apple;665;71;10
+Stoloniferous pussytoes;666;45;02
+Swan river myrtle;654;14;14
+Tapaculo;655;37;12
+Thoroughwort;666;44;05
+Stone flower;655;77;14
+Sweet agle;644;46;16
+Tapak sulaiman;654;13;05
+Thoroughwort;666;44;05
+Stone plants;663;23
+Sweet berry;664;44;20
+Tape-grasses;633;11
+Thoroughwort;666;47;12
+Stone root;665;51;07
+Sweet clover;644;55;13
+Taperiba;655;42;12
+Thread leaf coreopsis;666;44;07
+Stone-breakers;652;16
+Sweet fern;644;46;16
+Tapioca;644;34;02
+Thread-leaf coreopsis;666;44;07
+Stonebreaker;644;34;16
+Sweet flag;631;11;01
+Tapisciaceae;655;23
+Thread-leaved tickseed;666;44;07
+Stonebreaker;644;34;16
+Sweet flag-root;631;11;01
+Tar vine;663;25;13
+Three seeded mercury;644;34;15
+Stonewort;221;21;04
+Sweet marjoram;665;55;10
+Taraktogenos;644;36;16
+Three-leaf woodbine;643;16;03
+Storax;664;54;14
+Sweet or bitter casada;644;34;02
+Taraxacum officinale;666;43;16
+Thrifts;663;63;04
+Storax tree;664;54;14
+Sweet or common basil;665;55;04
+Tarragon;666;47;12
+Throw-wort;665;55;06
+Stramonium;665;71;10
+Sweet pea;644;55;14
+Taschentuchbaum;665;14;04
+Thuja lobbi;555;15;14
+Strandkruidfamilie;663;63
+Sweet pea;644;55;14
+Tasmanian blue gum;654;14;12
+Thuja menziesii;555;15;14
+Strawberry tree of the levant;664;64;06
+Sweet potato;665;76;02
+Tassel bush family;665;12
+Thuja occidentalis;555;15;11
+Stream orchid;633;70;20
+Sweet vernal grass;633;42;05
+Taubecher;644;61;07
+Thuja plicata;555;15;14
+Strelitzia reginae;633;45;10
+Sweet water lily;621;11;12
+Taubenbaum;665;14;04
+Thunder god vine;644;14;06
+Streptopus amplexifolius;633;64;05
+Sweet white balsam;666;45;13
+Tausendkorn;663;41;14
+Thurber's gilia;664;23;15
+Streptopus lanceolatus;633;64;05
+Sweet wood tree;644;34;12
+Tavola;654;16;16
+Thyme;665;55;09
+Striga asiatica;665;57;15
+Sweet wormwood;666;47;05
+Tawar;633;45;04
+Thyme honey-myrtle;654;14;16
+String bean;644;55;02
+Sweet-mandlin;666;44;05
+Taxaceae;555;16
+Thymelaeaceae;655;26
+Strobilanthes atropurpureus;665;62;13
+Sweet-scented everlasting flower Taxus baccata;555;16;12
+Thymus serpyllum;665;55;09
+Strong back;644;55;05
+Taxus brevifolia;555;16;12
+Thymus vulgaris;665;55;09
+Strophanthus hispidus;665;26;02
+Sweet-scented pelargonium;653;13;07
+Taxus canadensis;555;16;14
+Ti kouka;633;54;20
+Strophanthus sarmentosus;665;26;02
+Sweet-wort;644;55;05
+Te de burro;653;16
+Tiangius pepetla;663;41;12
+Strophulus volaticus;644;34;13
+Swertia chirata;665;23;16
+Tea;664;53;08
+Tibouchina elegans;654;13;14
+Struikheide;664;63;07
+Swietenia mahogani;655;47;06
+Tea bush;654;14;15
+Tick treckfoil;644;55;05
+Strychnos cocculoides;665;24;17
+Swineweed;666;74;10
+Tea mangrove;664;11;01
+Tigad;665;76;16
+Strychnos ignatii;665;24;09
+Sycamore buttonwood;643;14;10
+Tea tree;654;14;16
+Tiger lily;633;64;08
+Strychnos nux-vomica;665;24;08
+Sycamore tree;655;44;08
+Teasel;666;64;10
+Tiglium officinale;644;34;03
+Strychnos tieute;665;24;16
+Sympetalae;660;00
+Tebung aga;665;55;06
+Tikel balung;643;16;20
+Strychnos toxifera;665;24;16
+Symphonia globulifera;644;24;11
+Tecoma capensis;665;65;16
+Tikel tulang;643;16;20
+Strychnos wallichiana;665;24;16
+Symphoria racemosa;666;65;05
+Tegada;665;76;16
+Tikui;644;24;13
+Stumpfgelappter;644;61;12
+Symphoricarpus;666;65;05
+Tellicherry bark;665;26;16
+Tikur;644;24;13
+Stylidiaceae;666;32
+Symphorine;666;65;05
+Tellima grandiflora;652;16;05
+Tilia americana;655;32;06
+Stylidium bulbiferum;666;32
+Symphytum officinale;665;33;12
+Telopea speciosissima;643;13;13
+Tilia cordata;655;32;08
+Stylidium junceum;666;32;14
+Symplocaceae;664;51
+Temple balm;555;17;17
+Tilia europea;655;32;09
+Stylidium maitlandianum;666;32;15
+Symplocarpus foetidus;632;11;16
+Temple tree;665;25;10
+Tilia tomentosa;655;32;12
+Stylidium schoenoides;666;32
+Syrian olive;665;46;10
+Ten week stock;655;66;04
+Tiliaceae;655;32
+Styphelioideae;664;65
+Syrian rue;655;45;13
+Tepuianthaceae;655;27
+Tillandsia usneoides;633;47;16
+Styphnolobium japonicum;644;55;15
+Syringa vulgaris;665;46;13
+Terminalia arjuna;654;16;17
+Timbo;655;44;16
+Styracaceae;664;54
+Syzygium aromaticum;654;14;09
+Terminalia catappa;654;16;16
+Timbo-sipo;655;44;16
+Styracales;664;50
+Syzygium jambos;654;14;09
+Terminalia chebula;654;16;17
+Timbo-sipo;655;44;16
+Styrax;664;54;14
+Szechuan pepper;655;41;12
+Terminalia laxiflora;654;16;04
+Timothy grass;633;42;04
+Styrax benzoin;664;54;14
+Taami;664;44;20
+Terminalia laxifolia;654;16;16
+Tinantia violacea;633;46;07
+Styrax officinalis;664;54;14
+Tabacum;665;73;12
+Tessen;665;57;06
+Tingel;665;55;03
+Succisa pratensis;666;64;11
+Tabak;665;73;12
+Tetracera indica;662;11;04
+Tinker's weed;666;65;03
+Suchtkraut;644;55;09
+Tabebuia heterophylla;665;65;08
+Tetramelaceae;644;74
+Tinospora cordifolia;642;16;13
+Sudu;663;12;01
+Tabebuia impetiginosa;665;65;12
+Tetrameristaceae;664;14
+Tinospora crispa;642;16;13
+Sugar beet;663;53;02
+Tabernanthe iboga;665;25;17
+Tetrapetala;644;61;03
+Titan arum;632;11;12
+Sugar bush;655;42;05
+Tablote;655;37;12
+Tetterwort;642;17;05
+Tithymalus ipecacuanhae;644;34;15
+Sugar cane;633;42;17
+Tacamahac-tree;644;24;07
+Tetterwort;642;17;08
+Tithymalus peplus;644;34;03
+Sugar maple;655;44;08
+Taccaceae;633;24
+Teucrium botrys;665;55;13
+Titpolla;644;75;14
+Sugar pine;555;14;10
+Tackweed;644;56;05
+Teucrium chamaedrys;665;55;13
+Tlililzin;665;76;15
+Sugar sumac;655;42;05
+Taco plant;655;42;08
+Teucrium marum;665;55;13
+Toad-flax;665;51;06
+Sugarberry;644;67;10
+Tag alder;644;41;06
+Teucrium marum verum;665;55;13
+Tobacco;665;73;12
+Suikeresdoorn;655;44;08
+Tagetes erecta;666;44;03
+Teucrium scorodonia;665;55;13
+Tofieldiaceae;633;17
+Sumac de provence;644;72;05
+Tahitian gooseberry;644;34;16
+Teufelsdill;666;74;03
+Tollkerbel;666;74;12
+Sumac family;655;42
+Tailed pepper;622;64;16
+Teufelsdreck;666;74;16
+Tollkraut;666;77;01
+Sumbul;666;74;05
+Tails and ears;665;55;06
+Teufelskralle;665;66;14
+Tollkraut;666;74;12
+Sumbulus moschatus;666;74;05
+Talinaceae;663;13
+Teunisbloem;654;12;10
+Tomaat;665;72;08
+Summer pheasant's eye;642;13;16
+Talinum paniculatum;663;13;13
+Texas umbrella;655;47;12
+Tomato;665;72;08
+Summer ragwort;666;46;09
+Talisay tree;654;16;16
+Thai;644;65;12
+Tonca;644;55;08
+Summer savory;665;55;16
+Talisia esculenta;655;44;12
+Thai;533;14;02
+Tonder-venkel;666;74;15
+Summer snowdrop;633;53;12
+Tall speedwell;665;51;16
+Thai bai tooey;633;34;05
+Tongerbloem;642;17;02
+Sun opener;654;11;07
+Tall veronica;665;51;16
+Thaikal;644;24;13
+Tongkat ali;655;46;17
+Sun pitchers;664;76;16
+Tamanu;644;24;07
+Thakra tenga;644;24;13
+Tongo;644;55;08
+Sun spurge;644;34;09
+Tamar;655;47;12
+Thalictrum dasycarpum;642;13;05
+Tongo odorata;644;55;08
+Sundew;663;74;15
+Tamaricaceae;663;61
+Thalictrum purpurascens;642;13;
+Tonquin bean;644;55;08
+Sundew;663;74;15
+Tamarindus indica;644;54;10
+Thambaratham;644;16;03
+Toorts;665;54;04
+Sundew family;663;74
+Tamarisk family;663;61
+Thapsia garganica;666;74;07
+Toot berry;644;72;20
+Sunflower;666;44;10
+Tamarix canariensis;663;61;10
+Thaspium aureu;666;74;07
+Toothache tree;655;41;12
+Sunflower family;666;40
+Tamarix germanica;663;61;13
+Thatch screwpine;633;34;05
+Toothbrush tree;655;67;14
+Sunflower tribe;666;44
+Tamboti;644;34;13
+The jewish tree;655;47;12
+Topinambour;666;44;11
+Superb lily;633;66;10
+Tamier;633;22;16
+The miracle fruit;664;44;20
+Torch ginger;633;45;14
+Supple jack;655;44;16
+Tamil mukkarete;663;25;13
+The nuts of jupiter;644;45;06
+Torch lily;633;45;14
+Suriana maritima;644;51;01
+Tamus communis;633;22;16
+Thea;664;53;08
+Torchwood family;655;43
+Surianaceae;644;51
+Tamus edulis;633;22;16
+Theaceae;664;53
+Torilis nodosa;666;75;03
+Torkruid;644;61;15
+Tropical chickweed;663;41;16
+Urticaceae;644;66
+Viburnum tinus;666;61;15
+Tormentil;644;61;03
+Trout-lily;633;64;14
+Urticales;644;60
+Vicia bithynica;644;55;02
+Tormentill;644;61;03
+Trumpet creeper family;665;65
+Utricularia foliosa;665;67;01
+Vicia caroliniana;644;55;02
+Tormentilla;644;61;03
+Trumpet tree;644;66;01
+Uva;662;11;01
+Victoria amazonica;621;11;10
+Tormentilla erecta;644;61;03
+Tsjoensterblom;654;12;14
+Uva ursi;664;64;02
+Vidanga;664;34;13
+Tortuose fig marigold;663;23;05
+Tuba root;644;55;07
+Uvaria triloba;622;43;16
+Vietnamese spinach;663;12;01
+Touch me not;644;53;04
+Tuba root;644;55;15
+Uvu;662;11;01
+Vigne;643;16;10
+Tournesol;666;44;10
+Tuber stemona root;633;32;13
+Uvularia perfoliata;633;66;03
+Vigne vierge;643;16;05
+Toverhazelaar;652;14;10
+Tuberose;633;55;06
+Uzara;665;27;16
+Vijg;644;65;06
+Townhall clock;666;61;06
+Tuberous crowfoot;666;61;06
+Vaccinioideae;664;66
+Vilayati;655;47;12
+Toxicodendron diversilobum;655;42;03
+Tuchtig kruid;655;66;04
+Vaccinium corymbosum;664;66;08
+Village pharmacy;655;47;12
+Toxicodendron pubescens;655;42;02
+Tuinboon;644;55;02
+Vaccinium macrocarpon;664;66;08
+Vinca major;665;25;03
+Toxicodendron radicans;655;42;05
+Tuinwolfsmelk;644;34;03
+Vaccinium myrtillus;664;66;08
+Vinca minor;665;25;03
+Toxicophlea oblongifolia;665;25;11
+Tulbaghia violacea;633;56;15
+Vaccinium oxycoccos;664;66;16
+Vinca rosea;665;25;09
+Vaccinium vitis-idaea;664;66;16
+Tulipa gesneriana;633;64;04
+Vacquois;633;34;05
+Vine;643;16;10
+Trader's compass;665;26;06
+Tulipier du gabon;665;65;13
+Vagnera racemosa;633;54;07
+Vine cactus;664;24;01
+Tradescantia virginiana;633;46;10
+Tullidora;644;62;14
+Valbloem;665;76;02
+Vine family;643;16
+Tragacanth;644;55;14
+Tulsi;665;55;04
+Valchi bhaji;663;12;01
+Vine maple;655;44;08
+Tragacantha exscapa;644;55;14
+Tumbavaqueros;665;76;04
+Valeriaan;666;63;13
+Vine of sodom;644;75;13
+Tragopogon pratensis;666;43;10
+Tumboa;533;16;16
+Valerian;666;63;13
+Vine of the death;644;22;04
+Tragoselinum angelica;666;74;07
+Tupelo;665;14;01
+Valeriana officinalis;666;63;13
+Vingerhoeden;665;76;02
+Trailing arbutus;664;63;02
+Tupi name urucu;655;51;16
+Valerianaceae;666;63
+Vingerhoedskruid;665;51;14
+Trailing four o'clock;663;25;20
+Turbina corymbosa;665;76;06
+Van staden's sceptre;643;13;03
+Viola odorata;644;33;04
+Trailing lobelia;666;35;12
+Turi;644;55;17
+Vandoideae;633;75
+Viola pedata;644;33;17
+Trainasse;633;42;13
+Turi hutan;644;34;16
+Vanilla planifolia;633;72;04
+Viola tricolor;644;33;04
+Translates as percha sapo;664;44;20
+Turk's cap lily;633;64;10
+Variegated thistle;666;42;12
+Violaceae;644;33
+Transparent wood rose;665;76;16
+Turkey's beard;633;65;06
+Varkensgras;663;66;08
+Violacees;644;33
+Trauben-silberkerze;642;13;13
+Turkish rocket;655;66;17
+Varkenskool;666;74;10
+Violales;644;30
+Traveller's joy;642;13;17
+Turnera aphrodisiaca;644;32;12
+Vataireopsis araroba;644;55;12
+Violet;644;33;04
+Traveller's joy;642;13;17
+Turnera diffusa;644;32;12
+Vatsaka;665;26;16
+Violet tree;644;52;20
+Treacleberry;633;54;07
+Turnip;655;66;02
+Vayuvilamgan;664;34;13
+Violets and pansies;644;33
+Tree ferns;444;40
+Turpentine-weed;666;44;14
+Veenbloembies;633;15;01
+Violette;644;33;04
+Tree of heaven;655;46;07
+Turpeth;665;76;16
+Veenmos;333;21;20
+Viorne;666;61;15
+Tree of life;654;14;08
+Turpeth root;665;76;16
+Veiny pea;644;55;14
+Viorne obier;666;61;15
+Tree of life;654;14;08
+Turtle vine;633;46;06
+Vel niviti;663;12;01
+Viper's bugloss;665;33;11
+Tree of life trees;665;14;12
+Turtlehead;665;51;05
+Veld esdoorn;655;44;08
+Virgil and ovid;633;56;10
+Tree primrose;654;12;10
+Tussilago farfara;666;46;06
+Veldt grape;643;16;05
+Virgin's bower;642;13;17
+Tree tumbo;533;16;16
+Tussilago petasites;666;46;08
+Veldzuring;663;66;08
+Virginia creeper;643;16;05
+Trefle d'eau;666;31;08
+Tweeblaarkanniedood;533;16;16
+Velloziaceae;633;36
+Virginia snake-root;622;72;08
+Treurberk;644;41;07
+Tweedy's bitterroot;663;15;20
+Velvet bean;644;55;08
+Virginia speedwell;665;51;16
+Trianosperma ficcifolia;644;75;09
+Tweedy's lewisia;663;15;20
+Velvet plant;665;54;04
+Virginia stonecrop;652;13;13
+Trianosperma ficifolia;644;75;17
+Tweedy's pussypaws;663;15;20
+Velvetseed;665;45;20
+Virginia wild hops;642;13;17
+Trianosperma piauhiensis;644;75;09
+Twelve o'clock plant;644;53;04
+Vembu;655;47;12
+Virginian skullcap;665;55;14
+Trianosperma tayuya;644;75;09
+Twice-writhen;663;66;11
+Vempu;655;47;12
+Virginian warterleaf;665;31;01
+Tribulus terrestris;644;56;05
+Twin flower;666;62;02
+Venkel;666;74;07
+Viridiplantae;200;00
+Trichilia emetica;655;47;15
+Twisted stalk;633;64;05
+Venus carriage;642;13;07
+Virola theiodora;622;46;17
+Trichocereus pachanoi;663;14;14
+Two eggs;633;34;05
+Venus flytrap;663;74;16
+Viscaceae;655;73
+Trichoceros antennifer;633;74;16
+Two flowered indian madder;665;42;07
+Venus hair;444;50;13
+Viscum album;655;73;01
+Trichopodaceae;633;23
+Tylophora indica;665;27;11
+Venus plant;642;13;07
+Vismia guianensis;644;24;13
+Trichopus zeylanicus;633;23;01
+Typha latifolia;633;41;01
+Venuse basin;666;64;10
+Vitaceae;643;16
+Trichosanthes amara;644;75;05
+Ulex europaeus;644;55;17
+Venus's slipper;633;76;15
+Vitacees;643;16
+Trichosanthes dioica;644;75;05
+Ulmaceae;644;64
+Venusta centaury;665;23;05
+Vitellaria;664;44;20
+Trichterwinde;665;76;06
+Ulmaria palustris;644;61;15
+Vepa;655;47;12
+Vitex agnus-castus;665;55;14
+Tricyrtaceae;633;63
+Ulmaria pentapetala;644;61;15
+Vepu;655;47;12
+Vitex pubescens;665;55;16
+Tricyrtis hirta;633;63;03
+Ulmus americana;644;64;10
+Veratre vert;633;65;11
+Viti-vayr;633;42;09
+Tridax parviflora;666;44;02
+Ulmus glabra;644;64;05
+Veratrum album;633;65;11
+Vitidaceae;643;16
+Trientalis borealis;664;34;03
+Ulmus minor;644;64;16
+Veratrum nigrum;633;65;11
+Vitis erosa;643;16;12
+Trifolium arvense;644;55;03
+Ulmus nigra;644;64;10
+Veratrum officinale;633;65;13
+Vitis miqueliana;643;16;12
+Trifolium pratense;644;55;03
+Ulmus procera;644;64;12
+Veratrum viride;633;65;11
+Vitis vinifera;643;16;10
+Trifolium repens;644;55;03
+Ulmus rubra;644;64;13
+Verbascum densiflorum;665;54;04
+Vivianiaceae;653;16
+Trigonella foenum-graecum;644;55
+Umbellularia californica;622;54;13
+Verbascum flowers;665;54;04
+Vlambloemfamilie;664;23
+Trillium;633;65;03
+Umbilicus pendulinus;652;15;16
+Trillium cernuum;633;65;03
+Umbilicus rupestris;652;15;16
+Verbascum thapsus;665;54;04
+Vlasleeuwerik;665;51;06
+Trillium erectum;633;65;03
+Umbrella arum;632;11;12
+Verbena bonariensis;665;64;08
+Umbrella plant;652;16;12
+Verbena family;665;64
+Vleujekruid;644;61;03
+Trillium pendulum;633;65;03
+Umbrella tree;654;16;16
+Verbena officinalis;665;64;08
+Vlier;666;61;12
+Trinity flower;633;65;03
+Umckaloabo;653;13;04
+Verbena triphylla;665;64;03
+Vlinderstruik;665;54;07
+Triosteum perfoliatum;666;65;03
+Umlahleni lancewood;665;14;06
+Verbena urticifolia;665;64;08
+Vochysiaceae;654;15
+Triplaris peruviana;663;65;06
+Una de gato;665;45;12
+Verbenaceae;665;64
+Vogel-sternmiere;663;41;03
+Tripogandra diuretica;633;46;04
+Uncaria tomentosa;665;45;12
+Verbenales;665;60
+Vogelbeere;644;61;14
+Tripterygium wilfordii;644;14;06
+Unechte b?renklau;666;74;10
+Vergeet-mij-niet;665;33;15
+Vogelmuur;663;41;03
+Triputa;665;76;16
+Unicorn plant;665;63;20
+Vergerette du canada;666;45;09
+Vogeltod;666;74;12
+Triteleia ixioides;633;54;03
+Unicorn root;633;26;14
+Vergiftigde mier;664;34;16
+Voinkies;665;57;06
+Triticum aestivum;633;42;06
+Unicorn-root;633;65;14
+Vernonia amygdalina;666;43;12
+Voqui fuco;661;12;01
+Triticum repens;633;42;06
+Upas antiaris;644;65;12
+Triticum vulgare;633;42;06
+Upas or ancar;644;65;12
+Vernonia natalensis;666;43;12
+Vrouwenmantel;644;61;07
+Triumfetta sappula;655;32;03
+Upas tree;644;65;12
+Vernonia noveboracensis;666;43;12
+Vuilboom;644;62;15
+Triumfetta semitriloba;655;32;03
+Upland larkspur;642;13;10
+Vero nela vemu;665;42;07
+Vulgaris;644;55;08
+Triuridaceae;633;37
+Upright water parsnip;666;77;20
+Veronica beccabunga;665;51;13
+Vuurwerkplant;655;41;03
+Trivrut tellatega;665;76;16
+Urdu;655;47;12
+Veronica officinalis;665;51;13
+Vygies;663;23
+Trivrutha;665;76;16
+Urena lobata;655;33;16
+Veronica virginica;665;51;16
+Waelwortel;665;33;12
+Troene;665;46;06
+Urginea maritima;633;53;07
+Veronicaceae;665;51
+Wafer ash;655;41;13
+Trolle;642;13;12
+Uriya;644;54;16
+Verticordia mitchelliana;654;14;15
+Wahlenbergia capensis;666;34;13
+Trollius europaeus;642;13;12
+Urn plant;633;47;20
+Vervain family;665;64
+Walking palm;633;44;13
+Tropaeolaceae;655;62
+Ursinia anthemoides;666;47;16
+Vetiver;633;42;09
+Wall wall pennyroyal;652;15;16
+Tropaeolum majus;655;62;01
+Urtica crenulata;644;66;12
+Vetivert;633;42;04
+Wall-pepper;652;15;05
+Tropical almond;654;16;16
+Urtica dioica;644;66;08
+Viburnum opulus;666;61;15
+Wallen;665;33;12
+Tropical bindweed;665;24;16
+Urtica urens;644;66;08
+Viburnum prunifolium;666;61;15
+Walnoot;644;45;06
+Warrea discolour;633;74;12
+White leadtree;644;53;17
+Wild teasel;666;64;10
+Woundwort;644;55;01
+Warszewiczella discolour Wasser-rebendolde;633;74;12
+White leadwort White lettuce;663;63;16
+Wild tiger lily Wild tobacco;633;64;10
+Wrightia antidysenterica Wudu;665;26;16
+Wulkraut Wullena Wurgling Wuterich;665;54;04
+Wyethia helenioides;666;44;07
+Wylde wrange;665;72;07
+Xanthium spinosum;666;44;13
+Xanthorhiza apifolia;642;13;14
+Xanthorhiza simplicissima;642;13;14
+Xanthorrhiza apifolia;642;13;14
+Xanthorrhoea arborea;633;57;10
+Xanthorrhoea preissii;633;57;10
+Xanthorrhoeaceae;633;57
+Xanthosia rotundifolia;666;51;14
+Xerophyllum tenax;633;65;06
+Xiang bao jiaing;633;45;14
+Ximenia aegyptiaca;644;56;13
+Xylobium elatum;633;74;17
+Xylocarpus granatum;655;47;17
+Xylopia aethiopica;622;43;03
+Xysmalobium undulatum;665;27;16
+Yacon;666;44;09
+Yagrumo;644;66;01
+Yagrumo hembra;644;66;01
+Yagrumo macho;666;55;12
+Yam family;633;22
+Yanali tree;642;17;20
+Yangyong;644;65;12
+Yarrow;666;47;11
+Yarumo;644;66;01
+Yellow archangel;665;55;03
+Yellow bell;665;25;12
+Yellow sapote;664;44;20
+Yellow spined thistle;666;42;20
+Yellow star tulip;666;45;17
+Yellow wild indigo;644;55;16
+Yellow-wood family;555;13
+Yerba buena;665;55;02
+Yerba mansa;622;66;20
+Yerba mate;666;14;14
+Yerba santa;665;31;12
+Ylang-ylang;622;43;13
+Youth-and-old-age;666;44;09
+Yucca filamentosa;633;55;16
+Yumel;622;43;12
+Wood-strawberry;644;61;16
+Woodbine;642;13;17
+Woodbine;666;65;13
+Woodfordia floribunda;654;11;13
+Woodland phlox;664;23;07
+Woodruff;665;42;02
+Woolen blanket herb;665;54;04
+Woolly fern;444;46;10
+Woolly locoweed;644;55;14
+Woolly thistle;666;42;09
+Wooly morning glory;665;76;20
+Wooly sweet cicel;666;76;05
+Zapote family;664;44
+Zarter mandelduft;666;65;04
+Zarzaparrilla;633;62;08
+Zauke;633;54;04
+Zaungiersch;666;74;07
+Zea italica;633;42;12
+Zea mays;633;42;12
+Zeenkruid;666;74;10
+Zeepkruid;663;41;05
+Zenuwkruid;666;74;10
+Zevenblad;666;74;07
+Zevenjarige klavermelote;644;55;01
+Ziegenfu?prunkwinde;665;76;17
+Ziegenraute;644;55;09
+Zigadenus elegans;633;65;15
+Zigadenus glaberrimus;633;65;17
+Zigendill;666;74;12
+Zingiber officinale;633;45;11
+Zingiberales;633;45
+Zinnia elegans;666;44;09
+Zipperleinskraut;666;74;07
+Zizia aurea;666;74;07
+Ziziphus jujuba;644;62;08
+Ziziphus zizyphus;644;62;08
+Zizyphus jujuba;644;62;08
+Zoete balsem;665;55;12
+Zoetnetel;665;55;03
+Zonneblommen;665;33;12
+Zosteraceae;633;13
+Zrech-wegdorn;644;62;15
+Zuigbuisjes;665;55;03
+Zuigelingetje;665;55;03
+Zuiglammetjes;665;55;03
+Zuugbloem;665;55;03
+Zwaluwkruid;642;17;05
+Zwanebloem;633;16;13
+Zwarte bes;652;16;15
+Zwarte peper;622;64;08
+Zwillingsbl?mchen;666;62;02
+Zygopetalum discolour;633;74;12
+Zygophyllaceae;644;56
+Zygophyllum tridentatum;644;56;07

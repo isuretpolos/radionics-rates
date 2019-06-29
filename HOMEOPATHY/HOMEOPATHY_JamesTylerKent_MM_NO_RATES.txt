@@ -1,0 +1,180 @@
+01- Abrotanum
+02- Aceticum acidum
+03- Aconitum napellus
+04- Actea racemosa
+05- Aesculus hippocastanum
+06- Aethusa cynapium
+07- Agaricus muscarius
+08- Agnus castus
+09- Ailanthus glandulosa
+10- Allium cepa
+11- Aloe
+12- Alumen
+13- Alumina
+14- Ambra grisea
+15- Ammonium carbonicum
+16- Ammonium muriaticum
+17- Anacardium orientale
+18- Antimonium crudum
+19- Antimonium tartaricum
+20- Apis mellifica
+21- Apocynum cannabinum
+22- Argentum metallicum
+23- Argentum nitricum
+24- Arnica montana
+25- Arsenicum album
+26- Arsenicum iodatum
+27- Arum triphyllum
+28- Asa foetida
+29- Aurum metallicum
+30- Aurum muriaticum
+31- Baptisia
+32- Baryta carbonica
+33- Baryta muriatica
+34- Belladonna
+35- Benzoicum acidum
+36- Berberis
+37- Borax
+38- Bromium
+39- Bryonia
+40- Bufo
+41- Cactus grandiflorus
+42- Cadmium sulfuricum
+43- Caladium
+44- Calcarea arsenicosa
+45- Calcarea carbonica
+46- Calcarea fluorica
+47- Calcarea phosphorica
+48- Calcarea sulfurica
+49- Camphora
+50- Cannabis indica
+51- Cannabis sativa
+52- Cantharis
+53- Capsicum
+54- Carbo animalis
+55- Carbo vegetabilis
+56- Carboneum sulfuratum
+57- Carduus marianus
+58- Causticum
+59- Chamomilla
+60- Chelidonium
+61- Chininum arsenicosum
+61- Cicuta virosa
+63- Cina
+64- Cinchona (China)
+65- Cinnabaris
+66- Cistus canadensis
+67- Clematis erecta
+68- Cocculus indicus
+69- Coccus cacti
+70- Coffea
+71- Colchicum
+72- Colocynthis
+73- Conium maculatum
+74- Crotalus horridus
+75- Croton tiglium
+76- Cuprum metallicum
+77- Cyclamen
+78- Digitalis
+79- Drosera rotundifolia
+80- Dulcamara
+81- Eupatorium perfoliatum
+82- Euphrasia
+83- Ferrum metallicum
+84- Ferrum phosphoricum
+85- Fluoricum acidum
+86- Gelsemium
+87- Glonoinum
+88- Graphites
+89- Gratiola
+90- Guaiacum
+91- Helleborus niger
+92- Hepar sulfuris calcareum
+93- Hydrastis canadensis
+94- Hyoscyamus
+95- Hypericum
+96- Ignatia
+97- Iodum (Iodine)
+98- Ipecacuanha
+99- Kalium bichromicum
+100- Kalium carbonicum
+101- Kalium iodatum
+102- Kalium phosphoricum
+103- Kalium sulfuricum
+104- Kalmia
+105- Kreosotum
+106- Lac caninum
+107- Lac vaccinum defloratum
+108- Lachesis
+109- Laurocerasus
+110- Ledum palustre
+111- Lillium tigrinum
+112- Lycopodium
+113- Magnesia carbonica
+114- Magnesia muriatica
+115- Magnesia phosphorica
+116- Manganum
+117- Medorrhinum
+118- Mercurius
+119- Mercurius corrosivus
+120- Mercurius cyanatus
+121- Mercurius iodatus flavus
+122- Mercurius iodatus ruber
+123- Mercurius sulphuricus
+124- Mezereum
+125- Millefolium
+126- Moschus
+127- Muriaticum acidum
+128- Naja
+129- Natrum arsenicosum
+130- Natrum carbonicum
+131- Natrum muriaticum
+132- Natrum phosphoricum
+133- Natrum sulfuricum
+134- Nitricum acidum
+135- Nux moschata
+136- Nux vomica
+137- Opium
+138- Oxalicum acidum
+139- Petroleum
+140- Phosphoricum acidum
+141- Phosphorus
+142- Phytolacca
+143- Picricum acidum
+144- Platina
+145- Plumbum metallicum
+146- Podophyllum
+147- Psorinum
+148- Pulsatilla
+149- Pyrogenium
+150- Ranunculus bulbosus
+151- Rhododendron
+152- Rhus toxicodendron
+153- Rumex crispus
+154- Ruta graveolens
+155- Sabadilla
+156- Sabina
+157- Sanguinaria
+158- Sarsaparilla
+159- Secale cornutum
+160- Selenium
+161- Senecio aureus
+162- Senega
+163- Sepia
+164- Silicea
+165- Spigelia anthelmia
+166- Spongia tosta
+167- Squilla
+168- Stannum metallicum
+169- Staphysagria
+170- Stramonium
+171- Sulfur
+172- Sulfuricum acidum
+173- Syphillinum
+174- Tarentula hispana
+175- Theridion
+176- Thuya occidentalis
+177- Tuberculinum bovinum
+178- Valeriana
+179- Veratrum album
+180- Zincum metallicum

@@ -1,0 +1,795 @@
+2-4-5-T (Pestizid) (Nonfood)-1683013
+Aal (Food)-15010113
+Exhaust gases from gasoline engines (nonfood)-51112911
+Exhaust gases from diesel engines (non-food)-51267136
+Exhaust gases from two-stroke engines (nonfood)-51192521
+Acetylsalicylic acid (ASA) (Food)-11151511
+Acrilan (Polyacryl) (Nonfood)-55121813
+Aflatoxin (Nonfood)-2398155
+Ahorn-Sirup (Food)-71010148
+Aldrin (pesticide) (non-food)-10620194
+Alkohol (Food)-26781613
+Alternaria tenius (nonfood) (mold)-15812147
+Aluminium (Nonfood)-28515118
+Ananas (Food)-26150121
+Aniline (krebsbegünstigend) (non-food)-2144915
+Anis (Food)-21437111
+Apfel (Food)-27060513
+Apple cider vinegar (Food)-6685107
+Apfelsine (Food)-6661010
+Aprikosenaroma (Food)-10105951
+Flavors, nature identical (Food)-14222117
+Flavorings, natural (food)-14951164
+Flavorings, synthetic (Food)-14206613
+Aster, neubelgische (Nonfood)-6312217
+Atrazin (Pestizid) (Nonfood)-61110723
+Aubergine (Food)-14161010
+Auster (Food)-36220519
+Avocado (Food)-3113516
+Backhefe (Food)-2431365
+Backzusatzstoffe (Food)-11781325
+Back additives (not declarable) (Food)-12105772
+Balsamico-Essig (Food)-10161197
+Bnne (FOOD)-27011505
+Basilikum (Food)-24101258
+Baumnüsse (Food)-2661256
+Cotton (nonfood)-15816107
+Beifuß (Food)-2148342
+Benzinkraftstoff (Nonfood)-42101386
+Betamethason (Nonfood)-13949412
+Bees hairs (non-food)-7882105
+Bee stings (nonfood)-78511313
+Beer (Food)-7101169
+Birke (Nonfood)-29191205
+Pear (Food)-29191505
+Blaubeere (Food)-34576905
+Cauliflower (Food)-16114144
+Beans, green (food)-86118166
+Beans, red (Food)-86111110
+Bordetella pertussis (Bakterie) (Nonfood)-29105133
+Brokkoli (Food)-3164949
+Brühwürfel (Food)-1023114
+Brühwürfel, fleischextraktfrei (Food)-71116119
+Buckwheat (Food)-11111136
+Butter (Food)-47220519
+Buttermilk (Food)-15111338
+Camembert (Food)-36666922
+Cayenne Pfeffer (gemahlene Chilli-Schoten) (Food)-13955186
+Cenovis (Food)-31191321
+Chaetomium globosum (nonfood) (mold)-1161713
+Champignon (Food)-18168126
+Chilli-Schoten (ganz) (Food)-11852224
+Chromoxid (Food)-12811813
+Chrysantheme (Nonfood)-12481069
+CKW-Mix (Pestizid) (Nonfood)-18161322
+CLADOSPORIUM yellow (Nonfood) (Schimmelpilz)-5982316
+Clementine (Food)-17114155
+Cola drinks (Food)-5451577
+Crevetten (Food)-41469411
+Curry (Würzmischung) (Food)-14315616
+Cyfluthrin (pyrethrum derivative, pyrethroids) (insecticide) (non-food)-9679186
+Dahlie (Nonfood)-49130905
+Dattel (Food)-45220513
+DDT (Pestizid) (Nonfood)-11211285
+DDT (Pestizid) (Nonfood)-48040422
+Dichlorvos (Pestizid) (Nonfood)-71046824
+Dieldrin (pesticide) (non-food)-99215374
+Diesel fuel (non-food)-91691126
+Dinkel (Food)-4153513
+Distelöl (Food)-4124943
+Dosenmilch (Food)-20101068
+E 100 Curcumin (Food)-77117515
+E 101 Lactoflavin (Riboflavin) (Food)-17152876
+E 102 Tartrazin (Food)-1066176
+E 103 Cholingelb (Food)-91091242
+E 110 Gelborange S (Food)-77910778
+E 120 cochineal (cochineal carminic acid) (Food)-18856177
+E 122 Azorubin (Food)-1010715
+E 123 Amaranth (Food)-1190810
+And Cochenillerot 124 A (Food)-7108153
+E 127 Erythrosin (Food)-1572116
+E 131 Patentblau V (Food)-11131139
+E 132 Indigotin I (Indigo-Karmin) (Food)-37144255
+E 140 Chlorophylle a + b (Food)-8157123
+E 141 Kupferchlorophylle (Food)-41515712
+E 142 Brillantsäuregrün (Food)-7913244
+E 150 Zuckerkulör (Food)-13897611
+E 151 Brillantschwarz BN (Food)-7913928
+E 153 Carbon medicinal plant (food)-10651146
+E 160 a - f Carotine und Carotinoide (Food)-4312107
+E 161 a - g Xantophylle (Food)-6310210
+E 162 Beetenrot, Betanin (Food)-71141585
+E 163 Anthocyane (Food)-15121865
+E 170 Calciumcarbonat (Food)-13915418
+E 171 Titanoxid (Food)-16679154
+E 172 iron oxides and hydroxides (Food)-14387105
+E 173 Aluminium (als LM-Farbstoff) (Food)-83686132
+E 174 silver (as LM-dye) (Food)-15168163
+E 175 Gold (als LM-Farbstoff) (Food)-1883109
+E 180 Rubinpigment BK (Litholrubin) (Food)-13694365
+E 200 - 203 Sorbinsäure (Food)-71521611
+E 210-213, benzoic acid (Food)-81314205
+E 214 - 219 PHB-Ester (Food)-12488415
+E 220-227 Sulfur Compounds (Food)-17811222
+E 230 Biphenyl (Diphenyl) (Food)-2361633
+E 231-232 Othophenylphenol and sodium salt (food)-46110111
+E 233 Thiabendazol (Food)-15101894
+E 236-238 formic acid (connections) (Food)-81949168
+E 239 Hexamethylentetramin (Food)-1176611
+E 250 Natriumnitrit (Food)-5215243
+E 251 - 252 Salpeter (Nitrate) (Food)-51201065
+E 251 Natriumnitrat (Food)-6215262
+E 260-263 acetic acid and acetates (Food)-51081157
+E 280-283 propionic acid (connections) (Food)-88728168
+E 310 - 312 Gallate (Food)-94285445
+E 320 BHA (Butylhydroxianisol) (Food)-37361713
+E 321 BHT (Butylhydroxitoluol) (Food)-77361174
+E 339 - 341 Phosphate (Food)-20102318
+E 400-405 alginic acid (connections) (Food)-1491283
+E 406 agar-agar (FOOD)-15110711
+E 407 Carrageen (Food)-1668106
+E 412 Guarkernmehl (Food)-1259118
+E 413 Traganth (Food)-1548810
+E 414 Arabic gum (food)-1496394
+E 415 Xanthan (Food)-17781025
+E 420 Sorbit (Food)-13810114
+E 421 Mannit (Food)-56257144
+E 461 Methylcellulose (Food)-12122119
+E 466 Carboximethylcellulose (Food)-8952148
+E 514 Natriumsulfat (Food)-8221182
+E 620 - 625 Glutamat (Food)-13141155
+Stainless steel (non-food)-59651813
+Oak (nonfood)-59030805
+Eisenkraut (Food)-8681064
+Protein from soy (Food)-12111381
+Protein, generally (Food)-12111666
+Protein, dairy (Food)-1211938
+Protein, vegetable (food)-4198716
+Protein, animal (food)-12119266
+Endosulfan (pesticide) (non-food)-7710723
+Entenfedern (Nonfood)-1030101
+Entenfleisch (Food)-21614311
+Enterobakter (Bacterial) (non-food)-2194415
+Enterococcus/Enterokokkus (Bakterie) (Nonfood)-21164956
+Peas (Food)-6113515
+Erdbeeraroma (Food)-1032185
+Strawberries (Food)-1031011
+Peanut / peanuts (legume) (Food)-6138342
+Peanut oil (Food)-6138943
+Erle (Nonfood)-61351545
+Esche (Nonfood)-71030805
+Essig (Food)-71210907
+Dyes (100 U - 180) in food (Food)-15912178
+Coloring, artificial (Food)-15922713
+Dyes, natural (food)-15131015
+Fäuselfeder (Nonfood)-8396969
+Feige (Food)-65090705
+Fenchelsamen (Food)-8762511
+Fenvalerate (Pyrethrum-Derivat, Pyrethroide) (Insektizid) (Nonfood)-86561045
+Fett (Food)-6941162
+Fichte (Nonfood)-61210205
+Fischpyrogen (mixture: live in fresh and salt water) (Food)-8125864
+Meat extract from fish (food)-18915914
+Meat extract from poultry (Food)-18111016
+Meat extract of beef (Food)-1898315
+Meat extract of pig (Food)-1891894
+Fleischextrakte (Food)-1894136
+Oat (nonfood)-78796519
+Flunder (Food)-78640519
+Forelle (Food)-7166705
+Forsythien (Nonfood)-1478146
+Fritieröl (Food)-16414125
+Fruit acids (Food)-10616784
+Fruit acids (Food)-12651011
+Fructose (Food)-1269315
+Fusarium sp. (Non-food) (mold)-86218678
+Gamma-2-amalgam (older material) (non-food)-10891624
+Goose down (non)-10559115
+Goosefoot (non)-71231192
+Garnele (Food)-7116905
+Gelatine (Food)-7931165
+Barley (nonfood)-7155205
+Gerstenmehl (Food)-13577993
+Glass Kraut (Nonfood)-8441237
+Glatthafer (Nonfood)-1821110
+Gliadin (Food) (sh. Also gluten, celiac sprue)-51321565
+Glutamate (flavor enhancer) (Food)-3106790
+Gluten (barley) (Food) (sh. Also gliadin, celiac sprue)-2091557
+Gluten (wheat) (Food) (sh. Also gliadin, celiac sprue)-2096011
+Gold (Nonfood)-81041444
+Goldhamsterhaare (Nonfood)-11128914
+Goldhamsterkot (Nonfood)-1149109
+Goldlack (Nonfood)-8105442
+Goldregen (Nonfood)-9514711
+Goldrute (Nonfood)-81051445
+Grapefruit (Food)-91012124
+Grasses pollen, in general (non-food)-1471666
+Green salad (food)-15123532
+Grünkern (Food)-81677115
+Kale (Food)-8167993
+Gum-Arabic (Food)-22203985
+Cucumber / cucumber (Food)-93191205
+Hafer (Nonfood)-81060519
+Hafermehl (Food)-87614512
+Hagebutte (Food)-88576205
+Hahnenfuß (Nonfood)-8961189
+Hainbuche (Nonfood)-81067313
+Hammelfleisch (Food)-19241148
+Hazelnut / Hazelnut (Food)-84692342
+Hazel pollen (nonfood)-18191565
+Hasenhaare (Feldhase) (Nonfood)-18589114
+House mites (nonfood)-86413476
+Hausstaub (non)-86553302
+Heidekraut (Nonfood)-13481064
+Heidelbeere (Food)-1315205
+Heilbutt (Food)-8144762
+Herbamare (Food)-81526214
+Hering (also matjes) (Food)-14211199
+Heustaub (Nonfood)-8105352
+Hexachlorophene (pesticide) (non-food)-6451394
+Himbeeraroma (Food)-1332185
+UHT milk 3.5% (boiled) (Food)-10117102
+H-Milch 3,5% (Food)-91341135
+Elderberry, black (non-food)-3168169
+Elderberry juice (Food)-1021410
+Wood preservatives (nonfood)-10783164
+Honig (Food)-96150907
+Honiggras (Nonfood)-12914104
+Hopfen (Nonfood)-9146515
+Hornisse (Nonfood)-91661235
+Chicken egg yolk (Food)-21011665
+Chicken egg white (Food)-2101171
+Chicken feathers (nonfood)-33210114
+Chicken meat (food)-2102068
+Hummer (Food)-1085519
+Hundehaare (non-food)-1081115
+Hundszahnkraut (Nonfood)-1086572
+Hyazinthe (Nonfood)-91015413
+Insects / invertebrates (non-food)-1836955
+Isopropyl-Alkohol (Nonfood)-2171221
+Jakobskreuzkraut (non-food)-5012210
+Jasmin, incorrect (non-food)-11129169
+Jodsalz (Food)-3103528
+Joghurt (Food)-31310134
+Currant (Food)-8455155
+St. John's wort (Food)-8461064
+Cod (Food)-33650123
+Coffee (Food)-37060505
+Coffee substitutes (rye coffee, C .... o) (Food)-14151656
+Cocoa (Food)-31120116
+Kalbfleisch (Food)-1061238
+Kamelhaare (Kamelhaarprodukte) (Nonfood)-91611217
+Chamomile (Food)-3610705
+Kammgras (Nonfood)-3651731
+Kanarienvogelfedern (Nonfood)-42110114
+Rabbit meat (food)-3691012
+Rabbit hair (nonfood)-11161035
+Kapok (Nonfood)-31171612
+Carp (Food)-31181115
+Potato (Food)-31151269
+Cheese (mixed) (Food)-17812312
+Käse Heart (Food)-39591922
+Cheese soft (Food)-39710911
+Cat hair (nonfood)-92112109
+Kefir (Food)-35060919
+Ketchup (Food)-39382317
+Pine (tree, nonfood)-3146519
+Cherry, sour (Food)-13572515
+Cherry, fresh (food)-13311786
+Kiwi (Food)-10101179
+Klee (Nonfood)-48660505
+Orchard grass (nonfood)-6598103
+Knoblauch (Food)-41234511
+Kobaltnitrat (Food)-14143105
+Carbohydrates (food)-96211055
+Kohlrabi (Food)-41451029
+Kokosnuss / Kokosnüsse (Food)-49972342
+Could Milch (Food)-76413411
+Korbblütler (Nonfood)-11269669
+Corinth (Food)-41610985
+Krabbe (Food)-4102205
+Herbal Salt (Food)-10152268
+Cow Milk (Food)-51151338
+Kunstseide (Rayon) (Nonfood)-19111013
+Plastic (non-food)-59555126
+Plastic dental fillings (nonfood)-11114195
+Kupfer (Nonfood)-5116519
+Pumpkin (Food)-5152921
+Pumpkin seeds (Food)-11531565
+Lachs (Food)-41030821
+Lachsforelle (Food)-90781458
+Lamahare (Nonfa_d)-3212107
+Latex (Nonfood)-41220526
+Lauch (Food)-41230308
+Legumes, general (Food)-82212156
+Cap (nonfood)-4146515
+Lieselgras (Nonfood)-9398103
+Liguster (Nonfood)-4167569
+Lindane (pesticide) (non-food)-10191322
+Linde (Nonfood)-49150405
+Lindenblüte (Food)-10631045
+Linse (Food)-49152105
+Bay leaves (Food)-12378669
+Dandelion (nonfood)-68615114
+Lupine (Nonfood)-61110505
+Luzerne (Nonfood)-61361505
+Macadamia-Nüsse (Food)-10111635
+Mais (Nonfood)-51045111
+Maiskeimöl (Food)-6471074
+Maismehl (Food)-5104993
+Majoran (Food)-53890115
+Malathion (Pestizid) (Nonfood)-6320194
+Mandarine (Food)-16111010
+Mandarine (Food)-16111010
+Almonds (Food)-57451315
+Mango (Food)-51150716
+Margarine (Food)-77111010
+Margerite (Nonfood)-7715117
+Marzipan (Food)-7101725
+Mate, brown (roasted) (Food)-15617159
+Mate, grün (Food)-5551785
+Mäusehaare (Nonfood)-73131115
+Mäusekot (Nonfood)-72017100
+Sea Salt (Food)-51012268
+Guinea pig hairs (non-food)-15117116
+Meerschweinchenkot (nonfood)-15968107
+Mehlmilben (Nonfood)-9513476
+Melde (Nonfood)-55130405
+Melone (Food)-59161505
+Human hair (nonfood)-75101115
+Messing (Nonfood)-58391507
+Metals, in general (non-food)-16177106
+Methoxychlor (Pestizid) (Nonfood)-61251322
+Mussels (Food)-10161163
+Milbe (Nonfood)-59130205
+Dairy products, general (Food)-10614811
+Lactose (Food)-93185669
+Mohn (Food)-61471195
+Carrot / carrot (Food)-11111625
+Morchel (Food)-61631313
+Mosquito (nonfood)-75031205
+Mucor mucedo (Nonfood) (Schimmelpilz)-21145856
+Muskat (Food)-76120122
+Daffodil (nonfood)-8101235
+Natriumfluorid (Food)-12561394
+Nectarines (Food)-18111010
+Nelken (Food)-69120515
+Nelken (Nonfood)-69120515
+Nessel (Nonfood)-68210513
+Neurospora sitophila (Nonfood) (Schimmelpilz)-91110121
+Nickel (Nonfood)-6123513
+Nickelsulfat (Food)-9395765
+Nicotine (Food) (sh. And tobacco smoke)-61291115
+Non-Gamma-amalgam (newer material) (non-food)-4171010
+Nuts mixed (Food)-1997114
+Nylon (Nonfood)-87131615
+Olive oil (Food)-81261143
+Orange (Food)-8106705
+Orangenaroma (Food)-9961185
+Ozon (Nonfood)-91571685
+Palmfett (Food)-8551162
+Papageienfedern (Nonfood)-1011108
+Papaya (Food)-89011101
+Paprika (Food)-89101201
+Paranuss / Paranüsse (Food)-81121042
+Paraquat (Pestizid) (Nonfood)-10641394
+Parathion (Pestizid) (Nonfood)-52181413
+Perfume and fragrances (nonfood)-1050105
+PCB - Mix (Wohngift) (Nonfood)-10611152
+Pentachlorphenol (PCP) (Wohngift) (Nonfood)-21619210
+Peppers (Food)-81361669
+Permethrin (Pyrethrum-Derivat, Pyrethroide) (Insektizid) (Nonfood)-14599186
+Perubalsam (nonfood)-81553625
+Pesticides (nonfood)-8841999
+Parsley (Food)-2340125
+Pfeffer (Food)-81161119
+Peppermint (Food)-10833813
+Horsehair (= horsehair) (non-food)-10101105
+Peach (Food)-14121038
+Phenol (Food)-8137613
+Phenols (nonfood)-81371005
+Phenylquecksilberacetat (Wohngift) (Nonfood)-41274134
+Pheromone (Nonfood)-1231810
+Phosphatallergie (Food/Nonfood)-6011912
+Plastik (Nonfood)-94520912
+Platane (Nonfood)-94411505
+Pökelstoff (Food)-5665126
+Pollen, in general (non-food)-10616615
+Primel (Nonfood)-9185513
+Procain (Food)-91631015
+Proteus (Bakterie) (Nonfood)-91641021
+Proteus rettgeri (Bakterie) (Nonfood)-16592118
+Pullularia pullulans (nonfood) (mold)-14118193
+Turkey / Turkey (Food)-88414311
+Pyrethroids (nonfood) (insecticide)-21521545
+Pyrethrum extracts (non-food) (insecticide)-8316113
+Quark (40% Fett) (Food)-6801162
+Quark (Magerstufe) (Food)-6948511
+Quark, general (Food)-65669105
+Quecke (Nonfood)-1184205
+Radishes (Food)-6983136
+Ragweed (Nonfood)-10871004
+Raps (Nonfood)-10410101
+Rapeseed oil (Food)-1095113
+Rattenhaare (Nonfood)-66112109
+Rattenkot (Nonfood)-66510114
+Raygras (Lolch) (Nonfood)-10108103
+Reis (Food)-24414111
+Rettich (Food)-10941208
+Rhizopus arrhizus (nonfood) (mold)-29124953
+Rhizopus nigricans (nonfood) (mold)-12217209
+Rhizopus oryzae (non-food) (mold)-29121195
+Rhizopus rhizopodiformis (nonfood) (mold)-12318112
+Beef (Food)-2106238
+Rispengras (Nonfood)-21118103
+Robinie (Nonfood)-11810145
+Rays (Food)-11137515
+Rye Pollen (Nonfood)-3111151
+Rose (Nonfood)-11961635
+Brussels sprouts (Food)-11968712
+Rosine (Food)-11910505
+Rosmarin (Food)-11511105
+Rosskastanie (Nonfood)-32344795
+Rotbuche (Nonfood)-11104685
+Rote Bete (Food)-11105745
+Rotkohl (Food)-11104144
+Ruchgras (Nonfood)-12681731
+Safran (Food)-37190115
+Stage (Food)-31081505
+Sage (Food)-35020509
+Saltwater fish (food)-91379115
+Sardine (Food)-31141505
+Satsuma (Food)-35531401
+Sorrel (nonfood)-1571369
+Sauerkraut (Food)-15121064
+Sauermilch (Food)-15141068
+Sourdough (Food)-36613516
+Feta cheese (Food)-31119395
+Sheep's Milk (Food)-51951338
+Wool processed (non-food)-12010712
+Sheep wool, unprocessed (non-food)-12217894
+Reed (nonfood)-31110306
+Molds (nonfood)-5108235
+Chocolate (Food)-31189455
+Flounder (Food)-3118705
+Lard / sausages (Food)-81291210
+Pork (Food)-51289311
+Schwingelgras (Nonfood)-51324103
+Seezunge (Food)-31012975
+Ass (Nonfood)-35070705
+Seide (Nonfood)-35090405
+Section (root) (Food)-38591622
+Sparkling wine (White) (Food)-38610132
+Sellerie (Food)-3941595
+Senf (Food)-3118666
+Shrimp (Food)-31810417
+Silber (Nonfood)-3132519
+Silver amalgam, in general (non-food)-16107106
+Sojagranulat (Food)-13101045
+Sojamehl (Food)-48290813
+Soy Milk (Food)-48213411
+Soy sauce (Food)-48325305
+Sun allergy (nonfood)-46151505
+Sunflower oil (Food)-78161143
+Asparagus (food)-48101213
+Mushrooms (mixed) (Food)-78122975
+Spinat (Food)-4166122
+Stachelbeere (Food)-1187614
+Steinpilz (Food)-1341013
+Bentgrass (nonfood)-8398103
+Mare's Milk (Food)-1671338
+Styropor (Nonfood)-7111489
+Sulfadiazin (Food)-18151105
+Sulfaguanidin (Food)-18209136
+Süßholz (Food)-51191028
+Süßhülsenbaum (Nonfood)-7105265
+Süßstoff (Cyclamat) (Food)-72025254
+Freshwater fish (food)-71412613
+Tabakrauch (Food)-43212368
+Tabasco (Food)-43310316
+Pigeon feathers (nonfood)-1183107
+Tea, Grüner (Food)-5816615
+Tee, Schwarzer (Food)-5591015
+Teflon (Nonfood)-4115615
+Terylene (Nonfood)-41510865
+Tetramethrin (Pyrethrum-Derivat, Pyrethroide) (Insektizid) (Nonfood)-14132015
+Tuna (Food)-8615311
+Thymian (Food)-41751015
+Animal hair, in general (non-food)-91071666
+Pet hair / fur / feathers (nonfood)-10162156
+Tofu (Food)-5127983
+Tomatoes (Food)-5113715
+Traubenkraut (Nonfood)-65771237
+Dextrose (Food)-6208710
+Trespe (Nonfood)-5144705
+Tributylzinnoxyd (Wohngift) (Nonfood)-6835120
+Trocomare (Food)-12411214
+Tulpe (Nonfood)-63131705
+Science (nonfood)-68771405
+Ursüße (Food)-61211205
+Whole milk (Food)-8513411
+Fat milk (food)-14453411
+Wacholder (Food)-74910415
+Walnut / walnut (Food)-75152342
+Detergent / personal care (non-food)-10562212
+Hydrogen peroxide / hydrogen peroxide (nonfood)-14109149
+Wegerich (Nonfood)-71261838
+Weide (Nonfood)-75090405
+Weidenröschen (Nonfood)-12673136
+Wein, rot (Food)-71471622
+Wine, white (food)-12810132
+Wine vinegar (Food)-71468316
+Weintraube (Food)-12812355
+Weißdorn (Nonfood)-12611115
+Cabbage (Food)-7147993
+White flour (finely ground) (Food)-7147993
+Wheat (Food)-71410515
+Wheat (nonfood)-71410515
+Wheat bran (food)-12214895
+Wheat flour (Food)-12215134
+Budgerigar springs (nonfood)-71010114
+Wellensittichkot (nonfood)-71115914
+Materials in the artificial teeth (nonfood)-51681376
+Wormwood (nonfood)-7157322
+Wespe (Nonfood)-75211705
+Whisky/Whiskey (Food)-15615479
+Wiesenfuchsschwanz (Nonfood)-12515786
+Wiesengras (Nonfood)-1258103
+Wirsing (Food)-71931507
+Wolle (Nonfood)-86131305
+Seasoning, liquid (M .... i) (Food)-8151014
+Goat hair (nonfood)-21211105
+Goat Cheese (Food)-24711395
+Goat Milk (Food)-2127338
+Cinnamon (Food)-2461772
+Zink (Nonfood)-2551772
+Zinn (Nonfood)-2581775
+Lemon flavor (food)-2598111
+Lemon balm (Food)-25971256
+Citrus fruits, treats (food)-95141913
+Citrus fruits, untreated (Food)-95186177
+Zucchini (Food)-12631769
+Sugar (white / brown) (Food)-9912939
+Zuckerrübensirup (Food)-99101558
+Two-stroke mixture (non-food)-4217105
+Plum (Food)-4064812
+Onion (Food)-12145713
+"For keyword ""Food"" 556 codes found.-"
+Allergy to bacterial influences -11591212
+Allergy due to DNA / DNA altering influences -8355414
+Allergy due to enzyme deficiency -1433920
+Allergy due to enzyme deficiency -7136823
+Allergy to genetically modified foods -11121195
+Allergy to genetically modified foods -7231313
+Allergy to geopathic stress (Stress V) -1512391
+Allergy due to climate and weather (stress I) -71314545
+Allergy due to climate and weather (stress I) -1514812
+Allergy through food chemistry -11141617
+Allergy to magnetic fields and electrosmog (Stress III) -81331115
+Allergy to magnetic fields and electrosmog (Stress III) -1181831
+Allergy due to lack of regeneration (Stress II) -11166152
+Allergy to organ dysfunction (s) -81041410
+Allergy to organ dysfunction (s) -71351115
+Allergy to fungal infections -7134886
+Allergy through products of the chemical industry -11624254
+Allergy to psychosocial stress (Stress IV) -71349144
+Allergy due to radioactivity or gamma rays -81754200
+Allergy due to radioactivity or gamma rays -11171218
+Allergy by cleanliness mania -71381515
+Allergy to heavy metals -7131064
+Allergy to stress (general) -71313125
+Allergy to viral influences -71392109
+Allergy to viroids -76163579
+Allergy due to vitamin / mineral deficit -11189101
+Allergy to residential poisons -7136126
+Allergy to this genetically modified food (filter) -81051914
+Allergy genetically conditioned -14415143
+allergies -9461417
+allergies -31515785
+Allergies to chemicals -14578619
+Allergies to chemicals -22142010
+Allergies to food (food allergy) -72445133
+"Allergy type ""X"" (previously unknown, but existing, 5th type) -15161015"
+Allergy Type I (immediate reaction type) -77372155
+Allergy Type II (Cytotoxic Immune Response) -16311296
+Allergy type III (immune complex reaction) -22121353
+Allergy type IV (cellular late reaction) -77156453
+Allergy (filter) -12317122
+Anaphylactoid conditions (allergy) -83101721
+Autoaggressive diseases (autoimmune diseases) -5159215
+Autoaggressive diseases (autoimmune diseases) -21378172
+Autoaggressive diseases (autoimmune diseases) -92119678
+Chromosome 18 -21456518
+Chromosome 18, repair of -37114183
+Chromosome 19 -21456519
+Chromosome 19, repair of -37501720
+Memory Cells -51291677
+Major allergen (filter) -91672107
+hay fever -1083312
+Histamine Intolerance -6122715
+"Immunoglobulin ""X"" (previously unknown, 6th IG group) -12198395"
+Immunoglobulin A -12198373
+Immunoglobulin A -8210167
+Immunoglobulin D -12198392
+Immunoglobulin E -14675023
+Immunoglobulin E -12198387
+Immunoglobulin G -12198372
+Immunoglobulin G -8210118
+Immunoglobulin M -12198371
+Immunvasculitis (allergic inflammation of small veins and arteries) -14476611
+Immunvasculitis (allergic inflammation of small veins and arteries) -30910514
+Immunvasculitis, atyp. (allergic inflammation, small veins and arteries) -10108152
+Cross allergy (also filters) -91353146
+Cross allergy (also filters) -92191669
+Pseudo-allergy (also filters) -77151695
+Pseudo-allergy (also filters) -11711456
+Rheumatism, allergic -11611884
+Rheumatism, allergic -7145216
+T-helper cells -15101277
+Normalize T helper cell construction -71131514
+T-suppressor cells -23971122
+T cells, cytotoxic -14227718
+Food codes (according to the D method) -
+01. Beef (LM section 1) -85141310
+02. Milk (general) (LM-Section 2) -9931057
+03. Butter (LM Section 3) -1611100
+04. Citrus fruits untreated (LM-Section 4) -49141215
+05. strawberry (LM-Section 5) -1349998
+06. Walnut / walnuts (LM section 6) -941598
+07. Sugar (white and brown) (LM Section 7) -10467177
+08. Chocolate (LM Section 8) -5293510
+09. Wheat (LM Section 9) -1210487
+10. Rye (LM Section 10) -12441707
+11. Paprika (LM section 11) -17386403
+12. Saltpetre (E 251 - 252) (LM Section 12) -13147177
+13. Pollen (LM section 13) -1951787
+14. Pork (LM Section 1) -7102109
+15. Chicken egg white (chicken protein) (LM section 2) -10109177
+16. Quark (LM Section 3) -1145514
+17th pear (LM section 4) -1147717
+18. Currant (LM Section 5) -4810129
+19. Peanut / Peanuts (LM Section 6) -1174998
+20. Dextrose (LM section 7) -10176469
+21. Beans (LM Section 8) -2851687
+22. Wheat Bran (LM Section 9) -81240128
+23. Baker's yeast / sourdough (LM section 10) -38118225
+24. Pepper (LM Section 11) -2103939
+25. red wine / white wine (LM section 12) -14954457
+26. Insects / lower animals (LM section 13) -72024188
+27. Lard (sausage) (LM Section 1) -11342094
+28. Chicken Yolk (LM Section 2) -1112967
+29. Trout (LM Section 3) -4681016
+30. Kiwi (LM Section 4) -35231223
+31. Banana (LM Section 5) -3831087
+32. Thistle oil (LM section 6) -16109119
+33. Milk sugar (LM section 7) -13970122
+34. Cauliflower (LM Section 8) -52312518
+35. Barley (LM Section 9) -3710677
+36. Juniper (LM Section 10) -1515400
+37. Aromas (nature identical / synthetic) (LM Section 11) -1794149
+38. Beer (LM Section 12) -3156720
+39. Detergents / Personal Care (LM Section 13) -2210917
+40. mutton / lamb meat (LM section 1) -10116144
+41. Cheese (mixed) (LM Section 2) -1461655
+42nd eel (LM section 3) -42030318
+43. Grape (LM section 4) -11183614
+44. Sweet cherry (LM section 5) -51214017
+45. Margarine (LM Section 6) -46525587
+46. Sweetener (cyclamate / saccharin) (LM section 7) -11149435
+47. Mushrooms (LM Section 8) -81011698
+48. Oats (LM Section 9) -4184920
+49. onion (LM section 10) -5511816
+50. Dyes (artificial) (LM Section 11) -51317109
+51. Tobacco smoke (LM section 12) -16973519
+52. Animal hair / furs / feathers (LM section 13) -1115316
+53. Veal (LM Section 1) -1791450
+54. Yoghurt (LM-Section 2) -5841276
+55. Herring (LM Section 3) -51510572
+56. Apple (LM Section 4) -59711718
+57. Nuts (mixed) (LM Section 5) -1079136
+58. Olive oil (LM section 6) -81168109
+59. Fructose (LM Section 7) -77810100
+60th tomato (LM section 8) -66441517
+61. Spelled (LM Section 9) -6551298
+62. Wort (LM Section 10) -65601017
+63. PHB esters (E 214-219) (LM Section 11) -13111316
+64. Coffee (LM Section 12) -69431717
+65. Wood preservatives / pesticides (LM Section 13) -57106191
+66. Chicken meat (LM section 1) -13123299
+67. Gelatin (LM Section 2) -24118108
+68. Fish Pyrogen (LM Section 3) -71121287
+69. Blackberry (LM Section 4) -13151537
+70. Hazelnut / hazelnuts (LM section 5) -8891212
+71. Palm / coconut fat (LM section 6) -18232111
+72. Honey (LM Section 7) -71241202
+73. Potato (LM Section 8) -78565398
+74. Buckwheat (LM Section 9) -9157214
+75. Garlic (LM section 10) -8998109
+76. Sulfur Compounds (E 220 - 227) (LM Section 11) -33839139
+77. Metals / Plastics / Plastics (LM Section 12) -1549316
+78. Molds (LM Section 13) -12214119
+33.Milk sugar (LM • Section 7}   -13970127
+45. Hofer (LM-Section 9p     -?184920
+ALLERGENIC FOOD ADDITIVES-
+Acetylsalicylic acid (ASA) (Food)-11151511
+Apricot flavor (food)-10105951
+Flavorings, nature identical (Food)-14222117
+Flavorings, natural (Food)-14951164
+Flavorings, synthetic (Food)-14206613
+Chromium oxide (Food)-12811813
+E 100 Curcumin (Food)-77117515
+E 101 Lactoflavin (riboflavin) (Food)-17152876
+E 102 Tartrazine (Food)-1066176
+E 103 Choline yellow (Food)-91091242
+E 110 Sunset yellow S (Food)-77910778
+E 120 Genuine Carmine (Cochineal, Karmic Acid) (Food)-18856177
+E 122 Azorubin (Food)-1010715
+E 123 Amaranth (Food)-1190810
+E 124 Cochenillerot A (Food)-7108153
+E 127 Erythrosin (Food)-1572116
+E 131 Patent Blue V (Food)-11131139
+E 132 Indigotin I (Indigo-carmine) (Food)-37144255
+E 140 Chlorophylls a + b (Food)-8157123
+E 141 copper chlorophyll (food)-41515712
+E 142 Brilliant Acid Green (Food)-7913244
+E 150 caramel (food)-13897611
+E 151 Brillant Black BN (Food)-7913928
+E 153 Carbo medicinalis vegetabilis (Food)-10651146
+E 160 a - f carotenes and carotenoids (food)-4312107
+E 161 a - g xanthophylls (food)-6310210
+E 162 Beetroot, Betanine (Food)-71141585
+E 163 Anthocyanins (Food)-15121865
+E 170 Calcium carbonate (Food)-13915418
+E 171 titanium oxide (food)-16679154
+E 172 Iron oxides and hydroxides (food)-14387105
+E 173 aluminum (as LM-dye) (Food)-83686132
+E 174 silver (as LM dye) (Food)-15168163
+E 175 gold (as LM dye) (Food)-1883109
+E 180 ruby __pigment BK (litholubin) (Food)-13694365
+E 200 - 203 sorbic acid (food)-71521611
+E 210 - 213 Benzoic acid (Food)-81314205
+E 214 - 219 PHB esters (Food)-12488415
+E 220 - 227 sulfur compounds (food)-17811222
+E 230 biphenyl (diphenyl) (food)-2361633
+E 231-232 Orthophenylphenol u. Sodium salt (food)-5727814
+E 233 thiabendazole (food)-15101894
+E 236 - 238 Formic acid (compounds) (Food)-81949168
+E 239 hexamethylenetetramine (food)-1176611
+E 250 sodium nitrite (food)-5215243
+E 251 - 252 Salpeter (nitrates) (Food)-51201065
+E 251 Sodium Nitrate (Food)-6215262
+E 260 - 263 Acetic acid and acetates (food)-51081157
+E 280 - 283 Propionic Acid (compounds) (Food)-88728168
+E 310 - 312 Gallate (Food)-94285445
+E 320 BHA (butylhydroxanisole) (food)-37361713
+E 321 BHT (butylhydroxitoluene) (Food)-77361174
+E 339 - 341 Phosphates (Food)-20102318
+E 400 - 405 Alginic acid (compounds) (Food)-1491283
+E 406 agar-agar (food)-15110711
+E 407 carrageenan (food)-1668106
+E 412 guar gum (food)-1259118
+E 413 tragacanth (food)-1548810
+E 414 gum arabic (food)-1496394
+E 415 Xanthan (Food)-17781025
+E 420 sorbitol (food)-13810114
+E 421 Mannitol (Food)-56257144
+E 461 Methylcellulose (Food)-12122119
+E 466 carboxymethylcellulose (Food)-8952148
+E 514 Sodium sulfate (Food)-8221182
+E 620 - 625 Glutamate (Food)-13141155
+Strawberry flavor (Food)-1032185
+Dyes in food (E 100 - 180) (Food)-15912178
+Dyes, artificial (food)-15922713
+Dyes, natural (food)-15131015
+Gum arabic (food)-22203985
+Raspberry flavor (food)-1332185
+Cobalt nitrate (food)-14143105
+Sodium fluoride (food)-12561394
+Nickel sulphate (food)-9395765
+Orange flavor (Food)-9961185
+Phenol (food)-8137613
+Curing substance (food)-5665126
+Procaine (Food)-91631015
+Sulfadiazine (Food)-18151105
+Sulfaguanidine (Food)-18209136
+Lemon flavor (food)-2598111

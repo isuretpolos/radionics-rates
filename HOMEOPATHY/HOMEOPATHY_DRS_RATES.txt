@@ -1,0 +1,529 @@
+91113223 Abies nigra size (180¡)
+51312848 Abies nigra size 
+8118159 Abrotanum size (180¡)
+31497226 Abrotanum size 
+82128412 Acalypha indica size (180¡)
+86691017 Acalypha indica size 
+91299216 Acidum benzoicum size (180¡)
+91231537 ¯ Benzoicum acid A136
+91061188 Acidum fluoricum size (180¡)
+91014146 Acidum fluoricum size 
+22281096 Acidum hydrochloricum size (180¡)
+96724138 ¯ hydrochloricum acid 
+22121788 Acidum Hydrocyanic size (180¡)
+96772316 Acidum Hydrocyanic size 
+91179411 Nitric acid size (180¡)
+9371068 Acidum nit ¿ 
+11461410 Phosphoric acid size (180¡)
+91112284 Phosphoric acid size 
+12322127 Acidum picrinicum size (180¡)
+9123690 Acid picrinicum ¿ 
+98922215 Acidum sulfuricum size (180¡)
+9835149 Acidum sulfuricum size 
+76988127 Aconitum napellus size (180¡)
+76225153 Aconitum napellus size 
+20103769 Aesculus hippocastanum size (180¡)
+5877128 Aesculus hippocastanum size 
+62471033 Agaricus muscarius size (180¡)
+51024321 Agaricus muscarius size 
+39688942 Agnus castus size (180¡)
+34411145 Cast O Lamb 
+31158511 Ailanthus glandulosa size (180¡)
+11173157 Ailanthus glandulosa ¿ 
+7611157 Aletris farinosa size (180¡)
+11531288 Aletris farinosa ¿ 
+15210511 Allium sativum size (180¡)
+38410145 Allium sativum size 
+13112108 Aloe size (180¡)
+1111779 Aloe size 
+1353538 Alumina size (180¡)
+11277497 Alumina ¿ 
+4614413 Ambra size (180¡)
+1199607 Ambra size 
+11139216 Ammonium bromatum size (180¡)
+61457137 Ammonium bromatum size 
+16521612 Ammonium carb size (180¡)
+61913968 Ammonium carbonicum ¿ 
+14116833 Anacardium orientale size (180¡)
+3651166 Anacardium orientale size 
+12197216 Antimony arsenicosum size (180¡)
+38165817 ANTIMONIUM arsenicosum ¿ 
+12218127 Antimony crudum size (180¡)
+38813830 Antimonium raw ¿ 
+4219116 Antimony sulfuratum Aurant.Ê¿ (180¡)
+12128479 Antimonium sulfuratum aurantiacum ¿ 
+10201299 Apis mellifera size (180¡)
+81138940 Apis mellifica ¿ 
+11841717 Apocynum cannabinum size (180¡)
+1918129 Apocynum cannabinum size 
+6112314 Apomorphinum hydrochloricum size (180¡)
+67131010 Apomorphinum hydrochloricum size 
+41111263 Aralia racemosa size (180¡)
+12111212 Aralia racemosa size 
+5199133 Aranea diadema size (180¡)
+5478179 Aranea diadema size 
+88114815 Argentum metallicum size (180¡)
+1618147 Argentum metallicum size 
+89122114 ¯ silver nitrate (180¡)
+16874129 Bryonia ¿ 
+59108823 Arnica montana size (180¡)
+51081814 Arnica montana size 
+69122618 Arsenicum size (180¡)
+66128319 Arsenicum size 
+23811311 Arsenic jodatum size (180¡)
+6981168 Arsenic jodatum size 
+13114952 Artemisia Cina size (180¡)
+13911219 Artemisia Cina size 
+16618127 Arum triphyllum size (180¡)
+16114200 Arum triphyllum ¿ 
+89811111 Asafoetida size (180¡)
+8261212 Asa foetida ¿ 
+1211738 Asarum size (180¡)
+3314661 Asarum size 
+1215510 Asclepias tuberosa size (180¡)
+15663967 Asclepias tuberosa ¿ 
+1983538 Atropinum size (180¡)
+47143361 Atropinum size 
+14731214 Aurum cloratum Natronatum size (180¡)
+1471110 Gold clorato Natronatum ¿ 
+13114311 Aurum colloidal size (180¡)
+71517310 Gold colloidale ¿ 
+71112422 Aurum jodatum size (180¡)
+7227192 Aurum jodatum size 
+11159105 Baptisia size (180¡)
+19712148 Baptisia ¿ 
+31117910 Barium carb size (180¡)
+10224546 Barium carb size 
+10102646 Barium chloratum size (180¡)
+10910100 Barium chloratum size 
+31210212 Barium jodatum size (180¡)
+1026157 Barium jodatum size 
+11914593 Belladonna size (180¡)
+2187115 Belladonna size 
+4219114 Bellis perennis size (180¡)
+1127777 War perennial ¿ 
+7833164 Berberis size (180¡)
+15161289 Berberis size 
+1586129 Bismutum subnitricum size (180¡)
+71771091 Bismutum subnitricum size 
+63111641 Borax size (180¡)
+51413199 Borax ¿ 
+71012107 Bovista size (180¡)
+1060211 Bovista size 
+11113164 Bromium size (180¡)
+51512662 Bromium size 
+3881059 Bryonia size (180¡)
+11124107 Bryonia size 
+10510412 Bufo rana size (180¡)
+1811139 Bufo rana diameter 
+13108212 Cactus grandiflorus size (180¡)
+7151095 Cactus grandiflorus ¿ 
+77246129 Caladium seguinum size (180¡)
+7721121 Caladium seguinum size 
+10293222 Calcium arsenicosum size (180¡)
+7212910 Calcium arsenicosum ¿ 
+11711617 Calcarea size (180¡)
+7227215 Calcium carbonicum ¿ 
+11212815 Calcium fluorite size (180¡)
+71310127 Calcium fluorite ¿ 
+72216815 Calcium jodatum size (180¡)
+7210167 Calcium jodatum ¿ 
+21571155 Calcium phosphate ¿ (180¡)
+76813138 Calcium phosphate ¿ 
+97191047 Calcium sulphate size (180¡)
+7117779 Calcium sulphate ¿ 
+91010593 Calendula officinalis size (180¡)
+51391010 Calendula officinalis ¿ 
+10199104 Camphor size (180¡)
+3341267 Camphor size 
+71033549 Cantharis size (180¡)
+3133788 Cantharis ¿ 
+71431164 Capsicum size (180¡)
+31331062 Capsicum size 
+5121517 Carbo animalis size (180¡)
+12101657 Coal living thing 
+41910157 Coal plant ¿ (180 gedreht)
+12119114 Coal plant ¿ 
+82975119 Carduus marianus size (180¡)
+8231524 Carduus marianus size 
+16682059 CAULOPHYLLUM size (180¡)
+35814116 CAULOPHYLLUM size 
+15611384 Causticum Hahnemanni size (180¡)
+91510527 Causticum Hahnemanni size 
+14105911 Ceanothus americanus size (180¡)
+1495148 Ceanothus americanus size 
+16152108 Cedron size (180¡)
+57101110 Cedron size 
+54915218 Cepa size (180¡)
+11366910 Cepa size 
+81217905 Chamomilla size (180¡)
+16151614 Chamomilla ¿ 
+17115127 Chelidonium majus size (180¡)
+91714148 Cordata ¿ 
+30412535 Chimaphilia umbellata size (180¡)
+10204116 Chimaphilia umbellata size 
+1226197 China ¿ (180¡)
+19613171 China ¿ 
+1563316 Chininum arsenicosum ¿ (180 gedreht)
+86122214 Chininum arsenicosum ¿ 
+15153225 Chininum sulfuricum size (180¡)
+8611513 Chininum sulfuricum size 
+7942389 Chionanthus virginica size (180¡)
+7171414 Chionanthus virginica ¿ 
+4321910 Cholesterinum size (180¡)
+16516677 Cholesterinum size 
+13811111 Cicuta virosa size (180¡)
+9391311 Cicuta virosa ¿ 
+91323398 Cimicifuga racemosa size (180¡)
+71113170 Cimicifuga racemosa ¿ 
+1911827 Cinnbaris size (180¡)
+5957103 Cinnbaris size 
+71096212 Clematis recta size (180¡)
+71541263 Clematis recta size 
+68710694 Cobaltum metallicum size (180¡)
+6871362 Cobaltum METALLICUM 
+5910305 Cocculus size (180¡)
+11331510 Cocculus ¿ 
+5718398 Coccus cacti size (180¡)
+5313732 Coccus cacti ¿ 
+3577949 Coffea cruda size (180¡)
+3521412 Coffea cruda ¿ 
+5911127 Colchicum autumnale size (180¡)
+11315358 Colchicum autumnale ¿ 
+1271342 Collin canadensis size (180¡)
+12214146 Collin canadensis size 
+3886197 Colocynth size (180¡)
+11142205 Colocynthis ¿ 
+35210364 Condurango size (180¡)
+3113107 Condurango ¿ 
+81392646 Conium maculatum size (180¡)
+8139100 Recognition stained ¿ 
+1293129 Convallaria majalis size (180¡)
+65747818 Convallaria majalis size 
+1121412 Corallium rubrum size (180¡)
+31711882 Coral red ¿ 
+13158212 Crocus sativus size (180¡)
+34879155 Crocus sativus size 
+3618754 Crotalus durissus size (180¡)
+11101517 Crotalus durissus size 
+3318954 Croton tiglium size (180¡)
+11175892 Croton Tiglium ¿ 
+1471210 Cuprum ACETICUM size (180¡)
+91491047 Cuprum aceticum ¿ 
+13136129 Cuprum arsenicosum size (180¡)
+91386171 Cuprum arsenicosum ¿ 
+96117769 Cuprum metallicum size (180¡)
+96191066 Cuprum metallicum size 
+14108413 Cyclamen size (180¡)
+92111486 Cyclamen size 
+14493129 Cypripedium pubescens size (180¡)
+18531016 Cattleya pubescent ¿ 
+41611118 Digitalis size (180¡)
+1211712 Digitalis size 
+8149418 Wild yam size (180¡)
+71014311 Dioscorea villosa ¿ 
+13173311 Dolichos pruriens size (180¡)
+79879539 Dolichos pruriens size 
+36171255 Drosera rotundifolia size (180¡)
+11131222 Drosera rotundifolia size 
+86211164 Dulcamara size (180¡)
+14331108 Dulcamara size 
+1214912 Echinacea angustifolia size (180¡)
+8134563 Echinacea angustifolia size 
+8179251 Equisetum arvense size (180¡)
+11617711 Equisetum arvense size 
+16121748 Erigeron canadensis size (180¡)
+81769153 Erigeron canadensis size 
+16872127 Eucalyptus size (180¡)
+16961183 Eucalyptus size 
+77514910 Eupatorium perfoliatum size (180¡)
+6107516 Eupatorium perfoliatum size 
+7816694 Eupatorium purpureum size (180¡)
+61085742 Eupatorium purpureum size 
+4792305 Euphorbium size (180¡)
+4016173 Euphorbium size 
+41813219 Euphrasia size (180¡)
+12189810 Euphrasia ¿ 
+11102127 Fagopyrum esculentum size (180¡)
+22717690 Fagopyrum esculentum size 
+61121457 Ferrum arsenicosum size (180¡)
+14128129 Tetrachloroauratum punch ¿ 
+66111617 Ferrum metallicum size (180¡)
+14781648 Ferrum metallicum size 
+67820910 Ferrum phos size (180¡)
+1417876 Iron phosphate ¿ 
+6811163 Ferrum picrinicum size (180¡)
+14134122 Picrinicum punch ¿ 
+78141047 Formica rufa size (180¡)
+7161441 Formica rufa size 
+1015157 Gelsemium size (180¡)
+18133122 Gelsemium size 
+58102108 Ginseng size (180¡)
+1221695 Ginseng size 
+1054202 Glonoinum size (180¡)
+87493362 Glonoinum size 
+11119157 Gnaphalium polycephalum size (180¡)
+1376145 Gnaphalium polycephalum size 
+96124105 Graphite size (180¡)
+81037811 Graphite size 
+10101047 Grindelia robusta size (180¡)
+11811111 Grindelia robusta size 
+2832105 Guajacum ¿ (180 ¡ gedreht)
+10131412 Guajacum ¿ 
+41071557 Hamamelis virginiana size (180¡)
+12145171 Hamamelis virginiana ¿ 
+81915218 Hekla lava size (180¡)
+12593151 Hekla Lava ¿ 
+91245629 Helleborus niger size (180¡)
+9124014 Helleborus niger size 
+1451214 Helonias dioica size (180¡)
+14961637 ¯ Helonias dioica 
+16571457 Hepar calcareum size (180¡)
+1651159 Hepar calcareum size 
+13683511 Hydrastis canadensis size (180¡)
+8146811 Hydrastis canadensis size 
+54842222 Hydrocotyle asiatica size (180¡)
+1314849 Hydrocotyle asiatica ¿ 
+86192105 Hyoscyamus size (180¡)
+16151091 Hyoscyamus size 
+21412646 Hypericum perforatum size (180¡)
+10158111 Hypericum perforatum size 
+71610223 Iberis amara size (180¡)
+14258318 Iberis amara size 
+81244105 Ignatia size (180¡)
+12014108 Ignatia size 
+53111438 Ipecac size (180¡)
+5210730 Ipecac size 
+6622396 Iris versicolor size (180¡)
+66101714 Iris versicolor size 
+14612106 Jaborandi size (180¡)
+16721095 Jaborandi size 
+99101059 Jodum size (180¡)
+81888866 Jodum size 
+65121836 Potassium dichromate size (180¡)
+12351390 Potassium dichromate ¿ 
+4618511 Potassium bromatum size (180¡)
+47108898 Potassium bromatum ¿ 
+1091411 Potassium carbonicum size (180¡)
+12725316 Potassium carbonicum ¿ 
+1041251 Potassium chloride ¿ (180¡)
+12791238 Potassium chloride ¿ 
+12174738 Potassium jodatum size (180¡)
+1211416 Potassium jodatum ¿ 
+9195127 Potassium nitrate size (180¡)
+1269215 Potassium nitrate ¿ 
+4871836 Potassium phos size (180¡)
+12116180 Kalium phosphoricum ¿ 
+85115127 Potassium sulphate size (180¡)
+12551215 Potassium sulphate ¿ 
+58131295 Kalmia latifolia size (180¡)
+51161579 Kalmia latifolia ¿ 
+3186904 Kreosotum size (180¡)
+1115762 Kreosotum ¿ 
+13111517 Lachesis size (180¡)
+15728916 Lachesis size 
+10811715 Latrodectus mactans size (180¡)
+81116827 Latrodectus mactans ¿ 
+3412215 Laurocerasus size (180¡)
+11896912 Laurocerasus size 
+15141138 Ledum palustre size (180¡)
+15351586 Ledum palustre ¿ 
+17922827 Lilium tigrinum size (180¡)
+17961294 Lilium tigrinum ¿ 
+7665384 Lobelia inflata size (180¡)
+7605148 Lobelia inflata size 
+18812197 Lupulus size (180¡)
+8225264 Lupulus ¿ 
+11111457 Lycopodium size (180¡)
+1551469 Lycopodium size 
+9161388 Lycopus virginicus size (180¡)
+11727748 Lycopus virginicus ¿ 
+71112119 Magnesium carb size (180¡)
+24106524 Magnesium carb size 
+7821326 Magnesium chloratum size (180¡)
+24189573 Magnesium chloratum size 
+15418114 Magnesium phos size (180¡)
+24911216 Magnesium phos size 
+1060398 Magnesium sulphate size (180¡)
+24414103 Magnesium sulphate size 
+59119223 Manganum metallicum size (180¡)
+13191648 Manganum METALLICUM 
+1171016 Mephistis mephistis size (180¡)
+15556149 Mephistis mephistis size 
+46310398 Mercurius cyanatus size (180¡)
+12163715 Mercury cyanatus ¿ 
+12188298 Mercurius dulcis size (180¡)
+12181252 Mercurius dulcis size 
+48652711 Mercurius jodatus ruber size (180¡)
+4413653 Mercury jodatus ruber ¿ 
+4104636 Mercury high corrosivus ¿ 
+46988212 Mercurius sulfuricus size (180¡)
+1216985 Mercury sulfuricus ¿ 
+12172246 Mercurius vivus size (180¡)
+22891742 Mercury is living ¿ 
+31710941 Mezereum size (180¡)
+11197962 Mezereum size 
+16314905 Millefolium size (180¡)
+1692102 Millefolium size 
+2269418 Myrica cerifera size (180¡)
+1012659 Myrica cerifera ¿ 
+88121194 Myristica sebifera size (180¡)
+43181297 Myristica sebifera ¿ 
+29153311 Well tripudians size (180¡)
+22610969 Well tripudians size 
+13101411 Naphthalinum size (180¡)
+24720322 Naphthalinum size 
+15922433 Sodium carbonicum size (180¡)
+1597872 Sodium carbonicum size 
+75111457 Sodium muriaticum size (180¡)
+15152279 Sodium muriaticum size 
+7932289 Sodium phosphate ¿ (180¡)
+15193616 Sodium phosphate ¿ 
+1424913 Sodium sulphate size (180¡)
+15821791 Sodium sulphate size 
+23151358 Nux moschata size (180¡)
+78895100 Nux moschata size 
+1694738 Nux size (180¡)
+7813587 Nux vomica ¿ 
+6551217 Oenanthe crocata size (180¡)
+5105134 Oenanthe crocata size 
+1111384 Oleander size (180¡)
+7299596 Oleander size 
+49812689 Paeonia officinalis size (180¡)
+49825533 Paeonia officinalis size 
+6612416 Pareira brava size (180¡)
+48218751 Pareira brava ¿ 
+7151047 Petroleum ¿ (180¡)
+51142229 Petroleum ¿ 
+75101693 Petroselinum size (180¡)
+51113139 Petroselinum size 
+51711310 Phelandrium aquaticum size (180¡)
+13165148 Phelandrium aquaticum size 
+11165127 Phosphorus size (180¡)
+37107214 Phosphorus ¿ 
+51128711 Pokeweed decandra ¿ (180 ¡ gedreht)
+5010129 Pokeweed decandra ¿ 
+31011588 Plantago major size (180¡)
+31021813 Plantago major size 
+1260157 Platinum metallicum size (180¡)
+31813952 Platinum metallicum size 
+3612618 Plumbum metallicum size (180¡)
+11160109 Plumbum metallicum size 
+34161047 Podophyllum peltatum size (180¡)
+11131020 Podophyllum peltatum ¿ 
+1161911 Populus tremuloides size (180¡)
+13714284 Populus tremuloides size 
+31511118 Psorinum size (180¡)
+1110613 Psorinum size 
+27124641 Pulsatilla size (180¡)
+10161028 Pulsatilla size 
+1313769 Pyrogenium size (180¡)
+57144226 Pyrogenium size 
+10141110 Ranunculus bulbosus ¿ (180 ¡ gedreht)
+7127983 Ranunculus bulbosus ¿ 
+9801059 Rheum size (180¡)
+10768866 Rheum size 
+1571996 Rhododendron size (180¡)
+15016611 Rhododendron size 
+14103412 Rhus size (180¡)
+8154512 Rhus size 
+63571858 Robinia pseudoacacia size (180¡)
+14135750 Robinia pseudoacacia ¿ 
+91821611 Rumex crispus size (180¡)
+93781011 Rumex crispus size 
+6177128 Ruta graveolens size (180¡)
+31209810 Ruta graveolens ¿ 
+1616629 Sabadilla size (180¡)
+78819710 Sabadilla size 
+7681715 Sabal serrulatum size (180¡)
+24466167 Sabal serrulatum size 
+10162106 Sabina size (180¡)
+1426338 Sabina size 
+5610223 Sambucus nigra size (180¡)
+13961117 Sambucus nigra size 
+5933518 Sanguinaria canadensis size (180¡)
+55131110 Sanguinaria canadensis size 
+91211827 Sarsaparilla size (180¡)
+71183111 Sarsaparilla ¿ 
+2061094 Scilla maritima size (180¡)
+10101416 Scilla maritima size 
+12131111 Ergot size (180¡)
+18351012 Secale Next ¿ 
+14915124 Selenium size (180¡)
+1499122 Selenium size 
+89131294 Senecio aureus size (180¡)
+81171578 Senecio aureus size 
+61015218 Senega size (180¡)
+10212181 Senega size 
+10141110 Sepia officinalis size (180¡)
+6134473 Sepia officinalis size 
+93013549 Silica size (180¡)
+14211377 Silica size 
+51061511 Solidago virga aurea size (180¡)
+12209160 Solidago Virga aurea ¿ 
+8660119 Spigelia size (180¡)
+1073210 Spigelia size 
+31155223 Spongia tosta size (180¡)
+32812124 Spongia Tosta ¿ 
+49114815 Stannum metallicum size (180¡)
+1219147 Stannum metallicum size 
+15551438 Staphysagria size (180¡)
+15212130 Staphysagria size 
+12115225 Sticta pulmonaria size (180¡)
+51611312 Sticta pulmonaria size 
+72252197 Stramonium size (180¡)
+6108939 Stramonium size 
+6712398 Strontium carb size (180¡)
+14141269 Strontium carbonicum ¿ 
+15645216 Strophanthus gratus size (180¡)
+1686415 Strophantus gratis 
+58141836 Strychninum phos size (180¡)
+50716180 Strychninum phos size 
+9591195 Sulfur jodatum size (180¡)
+9571162 Sulfur jodatum size 
+91045124 Sulfur size (180¡)
+12213162 Sulfur size 
+91214210 Symphytum officinale size (180¡)
+17151879 Symphytum officinale size 
+1225406 Tabacum size (180¡)
+41881620 Tabacum size 
+34165210 Tarantula fasciiventris size (180¡)
+3310160 Tarantula fasciiventris size 
+13371089 Taraxacum officinale size (180¡)
+1393719 Taraxacum officinale size 
+41817495 Terebinthina size (180¡)
+31089415 Terebinthina ¿ 
+12627212 Teucrium scorodonia size (180¡)
+71414124 Scrophularia nodosa ¿ 
+8981715 Thallium sulphate size (180¡)
+5129437 Thallium sulphate size 
+3225711 Thuja occidentalis size (180¡)
+11111026 Thuja occidentalis size 
+7183511 Trillium pendulum size (180¡)
+21409911 Trillium pendulum size 
+3613384 Tuberculinum size (180¡)
+11123138 Tuberculinum size 
+17147128 Urtica urens size (180¡)
+85415864 Urtica urens size 
+61252518 Ustilago maydis size (180¡)
+66512128 Ustilago maydis ¿ 
+66348942 Valeriana size (180¡)
+13231015 Valeriana size 
+34620406 Veratrum album size (180¡)
+3431240 Veratrum album ¿ 
+3488384 Veratrum viride size (180¡)
+3431469 FALSE green ¿ 
+12045896 Verbascum thapsiforme size (180¡)
+38104506 Verbascum thapsiforme size 
+97135127 Viburnum opulus size (180¡)
+9610812 Viburnum opulus ¿ 
+15810811 Viola tricolor size (180¡)
+15161543 Viola tricolor ¿ 
+9265549 Vipera berus size (180¡)
+43201121 Vipera berus ¿ 
+90111210 Viscum album size (180¡)
+88151461 Viscum album ¿ 
+42710694 Zincum metallicum size (180¡)
+4271362 Zincum metallicum size 
+1921311 Zincum valerianicum size (180¡)
+4691548 Determination of valerianicum ¿ 

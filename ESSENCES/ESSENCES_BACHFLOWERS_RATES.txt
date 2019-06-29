@@ -1,0 +1,39 @@
+Agrimony 2247 
+Aspen 4178 
+Beech 1436 
+Centaury 2135 
+Cerato 5413 
+Cherry Plum 1573 
+Chestnut Bud 6372 
+Chicory 1622 
+Clematis 3639 
+Crab Apple 1214 
+Elm 7884 
+Gentian 4156 
+Gorse 2627 
+Heather 6338 
+Holly 2809 
+Honeysuckle 3972 
+Hornbeam 6113 
+Impatiens 2653 
+Larch 3363 
+Mimulus 5733 
+Mustard 2122 
+Oak 5847 
+Olive 4122 
+Pine 1257 
+Red Chestnut 5719 
+Rescue Remedy 476362 
+Rock Rose 2841 
+Rock Water 4634 
+Scleranthus 2622 
+Star Of Bethlehem 3672 
+Sweet Chestnut 2805 
+Vervain 5637 
+Vine 3317
+Walnut 2803 
+Water Violet 1579 
+White Chestnut 2614 
+Wild Oat 5449 
+Wild Rose 1594 
+Willow 1629 

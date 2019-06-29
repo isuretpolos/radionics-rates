@@ -1,0 +1,67 @@
+B S E 214017 
+Bacillus Anthracis 30333 
+Bacteria: Aerobacter     3064 
+Bartonella Bacilliformis   8058 
+Blastomyces Dermatitidis 50566 
+Bordetella Pertussis 9043 
+Brucella Arbortus 1086 
+Brucella Militensis 1082 
+Campylobacter 76858799 
+Clostridium Botulinum    7076 
+Clostridium Difficile 4648581 
+Clostridium Oedematiens 203413 
+Clostridium Septicum    6031 
+Clostridium Tetani 7087 
+Corynbacterium Diphtheriae 40762 
+Cryptococcus 50944 
+Entamoebic Coli 40353 
+Erysipelethrix Rhusiopathiae 20521 
+Escherichia 20262 
+Faecal Streptococci 60272 
+Haemophillus Aegyptius 7028 
+Haemophillus Ducreyi 50483 
+Haemophillus Influenzae 7028 
+Helicobacter pylori 895998805 
+Klebsiella 50526 
+Lysteria Monocytogenes 602112 
+MRSA 1599528 
+Mycobacteria Kansasii    6088 
+Mycobacteria Leprae     7071 
+Mycobacteria Marinum   505624 
+Mycobacteria Tuberculosis 403979 
+Mycobacteria Ulcerans   505173 
+Mycobacterium vaccae   227989 
+Mycoplasma Pneumoniae 90321 
+Neisseria Catarrhalis 5075 
+Neisseria Gonorrhoea    30135 
+Neisseria Meningitis 50511 
+Neisseria Sicca 40517 
+Paracolon Bacilli 404316 
+Pasteurella Multocida    70473 
+Pasteurella Pestis 4093 
+Pasteurella Pseudotuberculosis 70476 
+Pasteurella Tularensis    703723 
+Peptostreptococcus 6848969 
+Propionibacterium acnes 67059995 
+Proteus 3034 
+Pseudomonas 60722 
+Rickettsia Rickettsiae - Rocky Mountain Spotted fever 720997 
+Salmonella Choleraesuis 801521 
+Salmonella Enteritidis    2055 
+Salmonella Paratyphi A   6022 
+Salmonella Paratyphi B   2035 
+Salmonella Typhi 2014 
+Salmonella Typhimurium 2059 
+Shigella Boydii 6095 
+Shigella Dysenteriae 8095 
+Shigella Sonnei 6026 
+Spirochaetes Borrelia    606210 
+Spirochaetes Leptospirae 809408 
+Spirochaetes Treponema Pallidum     809302 
+Staphylococcus Albus    3054 
+Staphylococcus Aureus   3044 
+Streptococcus B 89599985 
+Streptococcus Pneumoniae 40457 
+Streptococcus Pyogenes 6057 
+Streptococcus Viridans   6052 
+Vibrio Cholerae 1053 

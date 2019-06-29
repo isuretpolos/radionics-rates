@@ -1,0 +1,215 @@
+AMOEBIC DYSENTERY 	6x	1244
+BLOOD 	50m (book says Blood 200)	2255
+BONE IRREGULARITIES	30ch (book says 200)	3334
+BRAIN 	200ch	677
+BRAIN TISSUE SALTS 	200ch	6667
+CALMING 	30ch	13567 (10)
+CB 7 (broken down constitution)	200ch	1788
+CHEST	30ch	1567
+CHEST TISSUE SALTS 	200ch 	1266
+CLIMACTERIC 	200ch 	167 (10)
+COLD 	6X 	99(10)(10)
+CB 12 (all 12 tissue salts) 	6X	1456
+CONSTIPATION 	200ch 	3455
+CRAMPS 	200ch 	899 (10)
+DIARRHOEA 	30ch 	1233
+DRAWING	6X 	5566
+EYE 	200ch 	6678
+GENERAL FLU (FEVER) MIX 	200ch 	6677
+HAYFEVER	6X 	11669 (10)
+INJURY	200ch 	6777
+KBS (kidney, bladder, stones) 	30ch 	3334
+LIVER	30ch	1233
+THROAT 	200ch 	345(10)
+PENMYCIN 	200ch 	3578
+RHEUM & ARTHRITIS 	200ch 	3456
+SHOCK	200ch	2558
+SKIN 	30ch	25 8 (10)
+SLEEP 	200ch	1138
+SUFI (ulcers/indiaestion etc) 	30ch	1378
+THROAT 	200ch	345 (10)
+TONSILS	6X	1555
+VEIN-PILLS	30ch	128(10)
+VITILIGO 	30ch	6667
+WATER BALANCE 	30ch	1356
+WAR (infectlinflame/sepsis)	1M	1344
+MENSES IRREGULARITIES	200ch	189(10)
+WORMS	30ch	6678
+ACIDITY	30ch	1125
+BACK PAIN	30ch	2566
+TEETH DECAY	30ch	9 (10)(10)(10)
+KNEES	30ch	2255
+PSORIASIS	200ch	1125
+SS PILLS (libido/sex energy)	200ch	3555
+TREMORS	30ch	4555
+TRIGEMINAL NEURALGIA	CM	4566
+ATOMiC RADIATION	50M	13678
+ALLERGY 2	200ch	3567
+CATARACT COMPOUND	1M	1345
+VITAMIN EYE MIX	10M	1346
+CHEST TONIC	200ch	1123
+EPILEPSY	1M	6678
+EARACHE	30c	3367
+LEFT SIDED PAIN	200c	7788
+RIGHT SIDED PAIN	200c	5481
+SPASM	1M	137(10)
+MENSES PAIN	200C	19 (10) (10)
+MENSES BLEEDING	1M	3389
+HEART PALPITATIONS	30C	3667
+HAND RHEUMATISM	30C	1336
+PAIN	10M	3388
+HERPES	30C	4555
+ACNE	200C	4456
+ALLERGY BALANCE	200C	378 (10)
+BACK-UP (BOOSTER)	30C	788 (10)
+BAD TEMPER MIX	200C	2468
+BEDWETTING	30C	1468
+BILHARZIA	1M	3445
+CALCIUM MIX	30C	449 (10)
+CATARACT COMPOUND	50m	6688
+CB 8	200C	5678
+CB 9	200C	1223
+CCA	30C	1134
+CLEANSING MIX	6X/8X	336 (10)
+CROUP MIX	30C	6788
+DB MIX	6X/8X	2235
+DEBILITY	200C	1689
+DYSPNOEA	30C	5578
+EAR NERVE	200C	2347
+EPILEPSY	30C	1679
+FLU PACK	10M	6788
+GASTRO MIX	200C	93 (10) 9
+GLANDULAR FEVER	50M	3447
+GOUT MIX	30C	5568
+GRIEF MIX	CM	89 (10) (10)
+HAIR TONIC	6X	1245
+HEADACHE BLOOD PRESSURE	1M	7788
+IMMUNITY	CM	2789
+MEASLES	50M	567 (10)
+MENIERE'S DISEASE	50M	45 (10) (10)
+MOUTH AND GUM	30C	3445
+NUTRITION	50M	1223
+PARAMEDIC RESCUE	50M	6778
+POST NASAL DRIP	30C	1355
+PROSTATE MIX	30C	4568
+PTERIGEUM MIX	50M	4455
+RESCUE PLUS	CM	6678
+SCAR TISSUE 	6X / 8X	3459
+SCIATICA	10M	2389
+SHINGLES	200C	5556
+SINUS	1X / 6X	8889
+SKIN F	30C	78 (10) (10)
+SKIN H	30C	5566
+SKIN ITCH	30C	456 (10)
+STINGS AND BITES	10m	2258
+TOPS	50m	8888
+VISCUM ALBUM F - FEMALE	12X / 8X	5555
+VISCUM ALBUM COMPOUND 106 - FEMALE GENITALS	12X / 8X	1234
+VISCUM ALBUM compound 107 - Male	8x / 12x	8899
+VISCUM ALBUM F compound 108 - Male or Female	8x / 12x	2358
+Vision	50m	129 (10)
+Essiac	3x - 10m	3444
+Portal Clearance	3x	3566
+SOS	3x	4499
+Inflamation	30c	1288
+Elimination	6x	678 (10)
+Venereal Mix	200c	4444
+Malaria extra-strength	200c	336 (10)
+anti-smoking	30c	7888
+Blood	30c	1245
+Respiratory	30c	257 (10)
+Bone irregularities	30c	1268
+cervical	30c	7889
+circulation	30c	2366
+colon	30c	3456
+heart	30c	2566
+hypo & hyperglycemia	30c	2667
+digestive psychosomatic	30c	7779
+ear	30c	5678
+eye	30c	1112
+hair	30c	2569
+trigeminal	30c	7777
+small intestines	30c	1225
+Kidneys	30c	2334
+Knees	30c	4455
+Liver - Gall Bladder	30c	1111
+Sacral Lumbar	30c	3334
+Cardian and Lung	30c	1233
+Paralysis-Flaccid	30c	5666
+Paralysis-Spastic	30c	6677
+Male Genital	30c	5568
+Sinus	30c	89 (10) (10)
+Female Genital	30c	2344
+Eye - retina	30c	1455
+Eyemuscles	30c	3456
+Supportive Tissue	30c	4688
+Immune Balance (Immune System)	30c	1138
+Macula Lutea	30c	3445
+Connective Tissue	30c	1112
+Sacral Lumbar (OM)	30c	3333
+Spine-Dorsal	30c	3444
+Spine-Brain Stem	30c	1677
+Parkinson's	30c	1266
+Anemia Balance	50m	24468
+Blood Sugar Balance	50m	122388
+Depression Balance	50m	122356
+Fear Balance	50m	123366
+Heart Balance	50m	566678
+Hysteria Balance	50m	256677 (10)
+Stress Balance	50m	135568
+Constipation Bal	50m	122377
+Digestion Bal	50m	444799
+Fever & Infection Bal	50m	23788 (10)
+Kidney Bal	50m	223578
+Liver Bal	50m	235568
+Allergy Bal	50m	112389
+Lung Bal	50m	11288 (10)
+Sinus Bal	50m	235566
+Female Bal	50m	226678
+Male Bal	50m	12689 (10)
+Circulation Bal	50m	135689
+Ear Bal	50m	88999 (10)
+Eye Bal	50m	55678 (10)
+Injury Bal	50m	333346
+Paralysis Bal	30c	567778
+Skeletal Bal	50m	122335
+Remove Superimpositions	200c	2568
+Divine Protection	10m	278 (10)
+Soul Cleansing	10m	5566
+Stabilising	50m	3388
+Peace and love	50m	2479
+Stress Balance	200c	6889
+Meditation	50m	1358
+Insomnia	200c	3588
+Lack of confidence	50c	899 (10)
+spiritual uplift	1m	891 (10) 8
+blood pressure	200c	4499
+brain and paralysis	50c	5578
+cancer	3x	1346
+chemical poison	200c	1123
+circulation	3x	2399
+cleansing mix	30c	5578
+diabetes	30c	55 (10) (10)
+Digestion Bal	30c	1256
+ears	30c	1233
+eyes	30c	1568
+female	30c	246 (10)
+flu	30c	1335
+gastro	30c	2367
+glandular	30c	5567
+hair tonic	200c	7888
+immunity	200c	1456
+infection	200c	3467
+injury  	30c	7789
+kidney	30c	889 (10)
+life (aids)	30c	7889
+lung and chest	30c	556 (10)
+male	200c	5567
+pain	30c	577 (10)
+rheum& arthritis	30c	889 (10)
+sinus	30c	4455
+skeletal   	200c	5678
+sleep	cm	1356
+teeth	200c	5689
+tension	10m	778 (10)
+throat	30c	55 (10) (10)

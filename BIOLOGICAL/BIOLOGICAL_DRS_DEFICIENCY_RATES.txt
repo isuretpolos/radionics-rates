@@ -1,0 +1,79 @@
+13663179-Reg. Adrenalin function, lack of (blood / lab)
+1433920-Degeneration State-Allergy by enzyme
+7136823-Reg. Allergy by enzyme
+11166152-Reg. Allergy (II stress) due to lack of regeneration
+1125987-Reg.Anazidität (Säuremangel)
+56471314-Reg.Biotin (Vitamin B Komplex) (Lack)
+1042117-Reg.Carotin (Provitamin A) (Mangel)
+98171187-Reg.Chromium defic. (minerals)
+89141183-Extreme (combi)-Diuresis, defective (kidney jam)
+95138123-Reg.Diuresis, defective (kidn.ey jam)
+13111016-Reg.Iron defic. (minerals)
+72176124-Reg. Energy
+86131623-Degeneration State-Energy
+8931116-Reg.Energy
+48115160-Reg.Folic acid (vitamin B complex) defic.
+51714168-Reg.Germanium defic. (minerals)
+1011316-Cause (Combined)immunoglobulin
+11109158-Extreme (combi)-immunoglobulin
+42461233-Reg.Inosit (Vitamin B Komplex) (Lack)
+9814138-Reg.Iodine defic. (minerals)
+12410176-Reg.Jodmangelerscheinungen
+7223106-Reg.Potassium defic. (minerals)
+14789449-Reg.Calcium defic. (minerals)
+4171187-Reg.Cobalt defic. (minerals)
+51395814-Organ / Spec.-Collagen 7 (lack z. B. at epidermolysis bullosa)
+54861255-Cause (Combined)Collagen 7 (lack z. B. at epidermolysis bullosa)
+79181014-Extreme (combi)-Collagen 7 (lack z. B. at epidermolysis bullosa)
+91113892-Cause (Combined)Coord deficiency betw. Etheric body and astral body (for Chakradiagnostik)
+9111388-Cause (Combined)Coord deficiency Zvi. phys. and essential body (eg. Chakradiagnostik)
+51314873-Extreme (combi)-Liver detoxification, lack and liver damage
+57010247-Degeneration State-Liver detoxification, lack and liver damage
+12166275-Reg.Lithium defic. (minerals)
+15791013-Reg.Magnesium defic. (minerals)
+85141105-Reg.Molybdenum defic. (minerals)
+15166275-Reg.Sodium defic. (minerals)
+1157563-Reg. Estrogen
+11575667-Cause (Combined)Estrogen
+1361069-Degeneration State-Estrogen
+1786512-Reg.Estrogen
+81012514-Reg.PABA (Paraaminobenzoesäure) (Vitamin B Komplex) (Mangel)
+12121710-Cause (Combined)Pellagra the skin (due to deficiency of nicotinic acid / nicotinamide)
+12131215-Cause (Combined)Pellagra, intestinal (by lack of nicotinic acid / nicotinamide)
+21988587-Cause (Combined)Pellagra, cerebral (by lack of nicotinic acid / nicotinamide)
+31791013-Reg.Phosphorus defic. (minerals)
+21518128-Reg.Lack of oxygen, general
+1251098-Degeneration State-Lack of oxygen, cellular
+28168476-Reg.Lack of oxygen, cellular
+81171311-Reg.Sulfur defic. (minerals)
+14983159-Reg.Selenium defic. (minerals)
+15618153-Reg.Silicon defic. (minerals)
+18151615-Degeneration State-Synoviamangel (joints)
+4349864-Degeneration State-Testosterone Mangel
+7107207-Reg.The ringing of the ears, dureh vitamin B 12-Mangel
+2521122-Extreme (combi)-Vaginal dryness (lack of Lubrifikation) (sexuality F)
+31912109-Reg.Vanadium defic. (minerals)
+12121917-Reg.Vitamin A (manganese)
+12771735-Reg.Vitamin B1 (thiamine) defic.
+95012161-Reg.Vitamin B12 (Cyanocobalamin) (Mangel)
+10406160-Reg.Vitamin B13 (orotic acid) defic.
+12101535-Reg.Vitamin B15 (Pangamic acid) defic.
+61431215-Reg.Vitamin B2 (Riboflavin) (Mangel)
+6121398-Reg.Vitamin B3 (Nicotinamid) (Mangel)
+86141217-Reg.Vitamin B5 (pantothenic acid) defic.
+8132098-Reg.Vitamin B6 (Pyridoxin) (Mangel)
+12961233-Reg.Vitamin B-Komplex (Lack)
+4291853-Reg.Vitamin C (ascorbic acid) defic.
+7342715-Reg.Vitamin D (Calciferole) (Mangel)
+7128733-Reg.Vitamin E (Tocopherole) (Mangel)
+78392697-Reg.Vitamin F (essential fatty acids)  defic.
+10193125-Reg.Vitamin K (Phyllochinone) (Mangel)
+40185874-Reg.Vitamin P (Bioflavonoide) (Mangel)
+1041099-Reg.Vitamin Q (coenzyme Q10)  defic.
+1269369-Reg.Vitamin T (Carnitin) (Mangel)
+20981109-Reg.Leg cramps as a result of calcium
+20993140-Reg.Leg cramps due to magnesium
+1259229-Reg.Zinc defic. (minerals)
+1059229-Reg.Tin defic. (minerals)
+17051484-Reg.Cyanosis (blue-red skin color, lack of oxygen, hemoglobin  defic.)
+73212104-Extreme (combi)-Cyanosis (blue-red skin color, lack of oxygen, hemoglobin  defic.

@@ -1,0 +1,117 @@
+Almond 111063 
+Aloe Vera 48688 
+Amaranthus 21593 
+Angelica 15877 
+Apricot 115104 
+Avocado 69674 
+Banana 32175 
+Bells Of Ireland 21441 
+Blackberry 18465 
+Bleeding Heart 4667 
+Bloodroot 756101 
+Blue Flag 33995 
+Bo Tree 535825 
+Borage 41405 
+Bottle Brush 71554 
+California Poppy 451063 
+Camphor 21341 
+Carob 74666 
+Cedar 108425 
+Celandine 15533 
+Centaury Agave 46281 
+Chamomile (German)    49743 
+Chaparral 28066 
+Coffee 35777 
+Comfrey 295105 
+Corn 110152 
+Cosmos 77055 
+Cotton 46224 
+Daffodil 71717 
+Dandelion 108256 
+Date Palm 49461 
+Dill 24352 
+Eucalyptus 109881 
+Fig 79577 
+Forget-Me-Not 46463 
+Four Leaf Clover 21156 
+French Marigold 15222 
+Garlic 37511 
+Ginseng 1471 
+Grapefruit 24125 
+Green Rose 11634 
+Harvest Brodiaea 514106 
+Hawthorne 27801 
+Helleborus (Black) 47955 
+Henna 106163 
+Hops 66824 
+Hyssop 12215 
+Jasmine 15021 
+Khat 72775 
+Koenigin Van Daenemark 2104102 
+Lavender 25742 
+Lemon 60346 
+Lilac 77221 
+Live Forever 37555 
+Loosestrife 86867 
+Loquat 651097 
+Lotus 97521 
+Luffa 29112 
+Madia 26758 
+Mallow 951063 
+Mango 33632 
+Manzanita 51575 
+Maple 110121 
+Morning Glory 77923 
+Mugwort 52391 
+Mullein 55136 
+Nasturtium 622102 
+Nectarine 813101 
+Onion 19436 
+Orange 101667 
+Pansy 66231 
+Papaya 13956 
+Passion Flower 45921 
+Pawpaw 55456 
+Peach 106583 
+Pear 44451 
+Pennyroyal 99995 
+Petunia 25533 
+Pomegranate 24777 
+Prickly Pear Cactus 854103 
+Queen Anne's Lace 35865 
+Redwood 22727 
+Rosa Webbiana 33374 
+Rosemary 121036 
+Sage 510377 
+Saguaro 108503 
+Scarlet Pimpernel 610755 
+Self Heal 765104 
+Shooting Star 35766 
+Skullcap 67881 
+Snapdragon 22546 
+Spicebrush 58473 
+Spiderwort 89552 
+Spruce 5210710 
+Squash Acorn 134103 
+Squash Crookneck 89569 
+Squash Zucchini 55513 
+St. John's Wort 18535 
+Star Jasmine 831097 
+Star Thistle 710334 
+Star Tulip 311052 
+Stinging Nettle 85335 
+Sugar Beet 16761 
+Sunflower 26875 
+Sweet Flag 15454 
+Sweet Pea 55878 
+Thyme 33779 
+Tuberrose 689102 
+Watermelon 12127 
+Wisteria Chinese 410862 
+Wood Betony Red/Purple 86665 
+Yarrow Pink 661064 
+Yarrow Red 42667 
+Yarrow White 64566 
+Yerba Mate 12469 
+Yerba Santa 32633 
+Zinnia 26462 

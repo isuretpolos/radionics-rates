@@ -1,0 +1,38 @@
+20734689-Regulation-Arsenicum iodatum D6
+7914113-Regulation-Calcium carbonicum D6
+17945416-Regulation-Calcium fluoratum D12
+10511182-Regulation-Calcium fluoratum D3
+6917128-Regulation-Calcium phosphoricum D3
+7331311-Regulation-Calcium phosphoricum D6
+12437846-Regulation-Calcium sulfuratum D6
+12437238-Regulation-Calcium sulfuricum D6
+5381010-Regulation-Cuprum arsenicosum D6
+8813137-Regulation-Ferrum phosphoricum D12
+14107612-Regulation-Ferrum phosphoricum D3
+7071019-Regulation-Ferrum phosphoricum D6
+4951113-Regulation-Potassium aluminum sulfuricum D6
+21171579-Regulation-Potassium arsenicum D6
+21101139-Regulation-Potassium bromate D6
+1915149-Regulation-Potassium chloratum D3
+2121468-Regulation-Potassium chloratum D6
+21135913-Regulation-Potassium iodatum D6
+19139309-Regulation-Potassium phosphoricum D3
+21811547-Regulation-Potassium phosphoricum D6
+19913113-Regulation-Potassium sulphuricum D3
+21880138-Regulation-Potassium sulphuricum D6
+11725746-Regulation-Lithium chloratum D6
+71511179-Regulation-Magnesium phosphoricum D3
+31413158-Regulation-Magnesium phosphoricum D6
+11921187-Regulation-Manganum sulfuricum D6
+10195397-Regulation-Sodium bicarbonicum D6
+18925746-Regulation-Sodium chloratum D3
+10192014-Regulation-Sodium chloratum D6
+18910478-Regulation-Sodium phosphoricum D3
+2931170-Regulation-Sodium phosphoricum D6
+18141016-Regulation-Natrium sulfuricum D3
+1019788-Regulation-Sodium sulfuricum D6
+82124198-Mix-Code-Schu_ssler salts, all, as a mix (Rates in code) 
+9311117-Regulation-Silicea D12
+9161087-Regulation-Silicea D3
+9154160-Regulation-Silicea D6
+23127108-Regulation-Zincum chloratum D6

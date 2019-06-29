@@ -1,0 +1,3501 @@
+16415167 CODE 1-Abbauendes Feld
+56795710 CODE 2-Abelmoschus
+51361497 CODE 3-Abies alba
+9115255 CODE 4-Abies alba spag.
+91411316 CODE 5-Abies canadensis
+51312848 CODE 6-Abies nigra
+9681591 CODE 7-Abies webbiana
+52672039 CODE 8-Abortus Bang
+31497226 CODE 9-Abrotanum
+81122102 CODE 10-Abrotanum spag.
+10517100 CODE 11-Abrus precatorius
+32211020 CODE 12-Absinthium
+71220108 CODE 13-Absinthium spag.
+86691017 CODE 14-Acalypha indica
+16712145 CODE 15-Acanthus mollis
+16101091 CODE 16-Acanthus mollis spag.
+45231718 CODE 17-Acer negundo
+11111018 CODE 18-Acer negundo spag.
+10221910 CODE 19-Acer platanoides
+2011112 CODE 20-Acer pseudoplatanus
+13221086 CODE 21-Acetanilidinum
+4588322 CODE 22-Acetonum
+16411109 CODE 23-Acetum lobelia
+10815811 CODE 24-Acetylcholinum chloratum
+77910909 CODE 25-Achillea eupatorium spag.
+77641524 CODE 26-Achillea millefolium
+77123717 CODE 27-Achillea moschata
+91331013 CODE 28-Achyranthes aspera
+91012107 CODE 29-Acidum aceticum
+10413223 CODE 30-Acidum acetylosalicylicum
+9808766 CODE 31-Acidum adipinicum
+91587215 CODE 32-Acidum agaricinicum
+91194238 CODE 33-Acidum alpha-ketoglutaricum
+91412958 CODE 34-Acidum ascorbicum
+91417564 CODE 35-Acidum asparagicinum
+91299915 CODE 36-Acidum benzoicum e resina
+91298710 CODE 37-Acidum benzoicum syntheticum
+9386666 CODE 38-Acidum boricum
+93814684 CODE 39-Acidum butyricum
+9108091 CODE 40-Acidum camphoricum
+9119362 CODE 41-Acidum carbolicum
+9931464 CODE 42-Acidum chromicum
+99641748 CODE 43-Acidum chrysophanicum
+93453926 CODE 44-Acidum cinamylicum
+91211538 CODE 45-Acidum cis-aconiticum
+93451562 CODE 46-Acidum citricum
+9366779 CODE 47-Acidum DL-malicum
+91014146 CODE 48-Acidum fluoricum
+91029679 CODE 49-Acidum formicicum
+10925570 CODE 50-Acidum formicicum e formica rufa
+91511122 CODE 51-Acidum fumaricum
+9361548 CODE 52-Acidum gallicum
+91539316 CODE 53-Acidum glutaminicum
+9681437 CODE 54-Acidum hippuricum
+96728416 CODE 55-Acidum hydrobromicum
+96724138 CODE 56-Acidum hydrochloricum
+96772316 CODE 57-Acidum hydrocyanicum
+96111048 CODE 58-Acidum hydrofluoricum
+91615190 CODE 59-Acidum L (+)-asparagicum
+93493348 CODE 60-Acidum L (+)-lacticum
+9855215 CODE 61-Acidum lacticum
+93912954 CODE 62-Acidum maleinicum
+92020166 CODE 63-Acidum molybdaenicum
+15148102 CODE 64-Acidum monochlor-aceticum
+91477510 CODE 65-Acidum nicotinicum
+9371068 CODE 66-Acidum nitricum
+1161247 CODE 67-Acidum nitro-hydrochloricum
+9392748 CODE 68-Acidum oleinicum
+91410124 CODE 69-Acidum oroticum
+9396510 CODE 70-Acidum osmicum
+92191072 CODE 71-Acidum oxalaceticum
+93992107 CODE 72-Acidum oxalicum
+91615208 CODE 73-Acidum p-aminosalicylicum
+19411121 CODE 74-Acidum phenylaethylbarbituricum
+91112284 CODE 75-Acidum phosphoricum
+93411479 CODE 76-Acidum phthalicum
+9123690 CODE 77-Acidum picrinicum
+98101790 CODE 78-Acidum propionicum
+91561548 CODE 79-Acidum pyrogallicum
+93489124 CODE 80-Acidum pyruvicum
+93475647 CODE 81-Acidum salicylicum
+98476118 CODE 82-Acidum sarcolacticum
+93410948 CODE 83-Acidum sorbicum
+93473854 CODE 84-Acidum succinicum
+9835149 CODE 85-Acidum sulfuricum
+9835998 CODE 86-Acidum sulfurosum
+9343109 CODE 87-Acidum tannicum
+91437215 CODE 88-Acidum tartaricum
+93449149 CODE 89-Acidum telluricum
+9481562 CODE 90-Acidum titanicum
+98131262 CODE 91-Acidum trichloraceticum
+93511215 CODE 92-Acidum uricum
+96553215 CODE 93-Acidum valerianicum
+42133362 CODE 94-Aconitinum
+7514685 CODE 95-Aconitum anthora
+75101012 CODE 96-Aconitum cammarum
+75131586 CODE 97-Aconitum e radice
+7511211 CODE 98-Aconitum ferox
+75615957 CODE 99-Aconitum lycoctonum
+76225153 CODE 100-Aconitum napellus
+76980119 CODE 101-Aconitum napellus spag.
+41221087 CODE 102-Acrochordon
+4122662 CODE 103-Acroleinum
+13742917 CODE 104-Actaea spicata
+5310134 CODE 105-Actaea spicata spag.
+1210849 CODE 106-ACTH
+3412319 CODE 107-Adamas
+1681056 CODE 108-Adenosinmonophosphorsäure
+12614158 CODE 109-Adenosintriphosphorsäure
+10712186 CODE 110-Adenoviren
+10426416 CODE 111-Adeps lanae
+5214921 CODE 112-Adeps suillus
+18131469 CODE 113-Adhatoda vasica
+1054552 CODE 114-Adiantum aureum
+6202133 CODE 115-Adiantum capillus veneris
+62021367 CODE 116-Adiantum capillus veneris spag.
+10171611 CODE 117-Adiponectinum
+96949712 CODE 118-Adlumina fungosa
+10141862 CODE 119-Adonidinum
+2778168 CODE 120-Adonis aestivalis
+2709119 CODE 121-Adonis vernalis
+2710929 CODE 122-Adonis vernalis spag.
+17641311 CODE 123-Adrenalinum hydrochloricum
+11122250 CODE 124-Adromeda polifolia
+81716111 CODE 125-Aegopodium podagraria
+16801110 CODE 126-Aegopodium podagraria spag.
+44714584 CODE 127-Aerobacter cum coli
+12214322 CODE 128-Aescinum
+12293361 CODE 129-Aesculinum
+12216127 CODE 130-Aesculus
+58116101 CODE 131-Aesculus spag.
+5814470 CODE 132-Aesculus glabra
+20106117 CODE 133-Aesculus hippocastanum e cortice
+2010739 CODE 134-Aesculus hippocastanum e floribus
+20103195 CODE 135-Aesculus hippocastanum e foliis
+5816127 CODE 136-Aesculus pavia
+42310518 CODE 137-Aethanol
+41103122 CODE 138-Aether
+71417926 CODE 139-Aethinyl-oeatradiolum
+13511646 CODE 140-Aethiops antimonialis
+1359916 CODE 141-Aethiops mineralis
+4215148 CODE 142-Aethusa
+42786107 CODE 143-Aethusa spag.
+8111130 CODE 144-Aethylenglykol
+8107746 CODE 145-Aethylenum trichloratum
+73215911 CODE 146-Aethyl-sulfur dichloratum
+4109278 CODE 147-Agaricus
+5103411 CODE 148-Agaricus blazei
+5106128 CODE 149-Agaricus campestris
+51018108 CODE 150-Agaricus emeticus
+51018811 CODE 151-Agaricus emeticus spag.
+5104137 CODE 152-Agaricus phalloides
+59107127 CODE 153-Agaricus spag.
+1971990 CODE 154-Agave americana
+7462290 CODE 155-Ageratum mexicanum
+31118115 CODE 156-Agkistrodon rhodostoma
+34411145 CODE 157-Agnus castus
+3962175 CODE 158-Agnus castus spag.
+96152218 CODE 159-Agraphis nutans
+10161377 CODE 160-Agrimonia
+2103255 CODE 161-Agrimonia spag.
+21111554 CODE 162-Agrostemma githago
+4111518 CODE 163-Agrostemma githago spag.
+11173157 CODE 164-Ailanthus glandulosa
+37315116 CODE 165-Ailanthus glandulosa spag.
+13410169 CODE 166-Ajuga montana
+13588109 CODE 167-Ajuga montana spag.
+13411539 CODE 168-Ajuga reptans
+13694518 CODE 169-Ajuga reptans spag.
+36414226 CODE 170-Alaninum
+4092106 CODE 171-Albedo
+15151278 CODE 172-Albizzia anthelmintica
+15141763 CODE 173-Albizzia lebbeck
+48131412 CODE 174-Albumen ovi
+13220718 CODE 175-Alchemilla alpina
+1329829 CODE 176-Alchemilla alpina spag.
+13212810 CODE 177-Alchemilla vulgaris
+6128371 CODE 178-Alchemilla vulgaris spag.
+11613101 CODE 179-Alcohol amylicus
+30121416 CODE 180-Alcohol isopropylicus
+11212101 CODE 181-Alcohol methylicus
+31317117 CODE 182-Aldicarb
+11531288 CODE 183-Aletris farinosa
+91911413 CODE 184-Alisma plantago
+1160118 CODE 185-Alisma plantago-aquatica spag.
+32110170 CODE 186-Alkanna
+38469160 CODE 187-Allium cepa
+15135518 CODE 188-Allium cepa spag.
+38415826 CODE 189-Allium fallax
+3841459 CODE 190-Allium porrum
+38410145 CODE 191-Allium sativum
+15213411 CODE 192-Allium sativum spag.
+1522040 CODE 193-Allium schoenoprasum
+15220482 CODE 194-Allium schoenoprasum spag.
+38449122 CODE 195-Allium ursinum
+15143164 CODE 196-Allium ursinum spag.
+31291026 CODE 197-Alloxanum
+8148608 CODE 198-Allysoides utriculata
+5242213 CODE 199-Alnus glutinosa
+5785717 CODE 200-Alnus serrulata
+1111779 CODE 201-Aloe
+13163998 CODE 202-Aloe arborescens
+5621711 CODE 203-Aloe arborescens spag.
+21295147 CODE 204-Aloe soccotrina
+39191257 CODE 205-Aloe vera
+13193102 CODE 206-Aloe vera spag.
+3173361 CODE 207-Aloinum
+31995100 CODE 208-Alsine media
+6410663 CODE 209-Alstonia constricta
+64148260 CODE 210-Alstonia scholaris
+4269927 CODE 211-Althaea
+12116101 CODE 212-Althaea spag.
+11276509 CODE 213-Alumen
+13836107 CODE 214-Alumen chromicum
+11277497 CODE 215-Alumina
+1359547 CODE 216-Alumina silicata
+13231712 CODE 217-Aluminium acetico-tartaricum
+1392137 CODE 218-Aluminium aceticum
+1311634 CODE 219-Aluminium chloratum
+1395488 CODE 220-Aluminium metallicum
+5113158 CODE 221-Aluminium phosphoricum
+1310570 CODE 222-Aluminium sulfuricum
+1199607 CODE 223-Ambra
+31271054 CODE 224-Ambrosia artemisiifolia
+3124891 CODE 225-Ambrosia trifida
+34121612 CODE 226-Amitrolum
+31218879 CODE 227-Ammi majus
+31293147 CODE 228-Ammi visnaga
+6139102 CODE 229-Ammi visnaga spag.
+3129617 CODE 230-Ammoniacum
+62193215 CODE 231-Ammonium aceticum
+6181443 CODE 232-Ammonium arsenicicum
+6181374 CODE 233-Ammonium arsenicosum
+6195072 CODE 234-Ammonium benzoicum
+62051224 CODE 235-Ammonium bichromicum
+61457137 CODE 236-Ammonium bromatum
+61913968 CODE 237-Ammonium carbonicum
+69464658 CODE 238-Ammonium causticum
+61410289 CODE 239-Ammonium chloratum
+1123811 CODE 240-Ammonium chloratum ferratum
+62011510 CODE 241-Ammonium citricum
+61917573 CODE 242-Ammonium fluoratum
+11121920 CODE 243-Ammonium formaldehydicum
+61427210 CODE 244-Ammonium jodatum
+11101021 CODE 245-Ammonium molybdaenicum
+61421091 CODE 246-Ammonium nitricum
+6223215 CODE 247-Ammonium oxalicum
+6145227 CODE 248-Ammonium phosphoricum
+62241113 CODE 249-Ammonium picrinicum
+11321314 CODE 250-Ammonium silico-fluoratum
+61459107 CODE 251-Ammonium succinicum
+61469176 CODE 252-Ammonium sulfo-cyanatum
+6148748 CODE 253-Ammonium sulfuricum
+61559752 CODE 254-Ammonium tartaricum
+6148952 CODE 255-Ammonium valerianicum
+6142607 CODE 256-Ammonium vanadinicum
+69103103 CODE 257-Ampelopsis quinquefolia
+69103491 CODE 258-Ampelopsis quinquefolia spag.
+6936950 CODE 259-Ampelopsis trifolia
+11111024 CODE 260-Amphisbaena vermicularis
+1792108 CODE 261-Amygdalae amarae
+17938181 CODE 262-Amygdalae amarae spag.
+95201628 CODE 263-Amygdalae dulces e seminibus
+38623361 CODE 264-Amygdalinum
+92910511 CODE 265-Amygdalus persica e cortice
+92910713 CODE 266-Amygdalus persica e floribus
+9291082 CODE 267-Amygdalus persica e foliis
+63681617 CODE 268-Amylenum hydratum
+35213997 CODE 269-Amylium nitrosum
+46441393 CODE 270-Amyris gileadensis
+3213210 CODE 271-Anacardium
+3659143 CODE 272-Anacardium spag.
+3651449 CODE 273-Anacardium occidentale
+38121510 CODE 274-Anacyclus officinarum
+12215974 CODE 275-Anacyclus officinarum spag.
+40151482 CODE 276-Anaesthesinum
+31210118 CODE 277-Anagallis arvensis
+61011108 CODE 278-Anagallis arvensis spag.
+33122136 CODE 279-Anagyris foetida
+11181186 CODE 280-Analgesinum
+1014765 CODE 281-Anatherum muriaticum
+3110148 CODE 282-Anchusa officinalis
+3214810 CODE 283-Anchusa officinalis spag.
+11676417 CODE 284-Andrographis paniculata
+3116910 CODE 285-Andropogon iwarancusa
+11410159 CODE 286-Androsace maxima
+11610917 CODE 287-Anemone nemorosa
+8101881 CODE 288-Anemone nemorosa spag.
+1114574 CODE 289-Anethum graveolens
+3457122 CODE 290-Anethum graveolens spag.
+9381027 CODE 291-Aneurinum hydrochloricum
+3216848 CODE 292-Angelica archangelica
+3984117 CODE 293-Angelica archangelica spag.
+3031115 CODE 294-Angophora lanceolata
+19151167 CODE 295-Angustura
+11711111 CODE 296-Angustura spag.
+11719877 CODE 297-Angustura spuria
+9861067 CODE 298-Anhalonium Lewinii
+9871085 CODE 299-Anhalonium Lewinii spag.
+19981427 CODE 300-Anilinum
+11108166 CODE 301-Anilinum sulfuricum
+19982466 CODE 302-Anisum
+11491111 CODE 303-Anisum spag.
+1115314 CODE 304-Anisum stellatum
+11153411 CODE 305-Anisum stellatum spag.
+12111011 CODE 306-Antennaria margaritacea
+43299135 CODE 307-Anthemis tinctoria
+3191036 CODE 308-Anthoxantum odoratum
+34415106 CODE 309-Anthracenum
+34418164 CODE 310-Anthrachinonum
+11144118 CODE 311-Anthracinum
+11144677 CODE 312-Anthracitum
+3442037 CODE 313-Anthracokali
+38781417 CODE 314-Anthriscus cerefolium
+37412478 CODE 315-Anthyllis vulneraria
+37471771 CODE 316-Anthyllis vulneraria spag.
+71611595 CODE 317-Antiaris toxicaria
+47421210 CODE 318-Antidiphtherinum
+3112118 CODE 319-Antifebrinum
+11141316 CODE 320-Antimonit
+38165616 CODE 321-Antimonium arsenicicum
+38165817 CODE 322-Antimonium arsenicosum
+38136346 CODE 323-Antimonium bromatum
+38121367 CODE 324-Antimonium chloratum
+38813830 CODE 325-Antimonium crudum
+3810614 CODE 326-Antimonium jodatum
+38891562 CODE 327-Antimonium oleatum
+38899346 CODE 328-Antimonium oxydatum
+12128479 CODE 329-Antimonium sulfuratum aurantiacum
+12122037 CODE 330-Antimonium sulfuratum rubrum
+38171558 CODE 331-Antimonium sulfuricum
+11191427 CODE 332-Antipyrinum
+10816813 CODE 333-Aphis chenopodii glauci
+8178226 CODE 334-Apiolum
+81138940 CODE 335-Apis mellifica
+8914226 CODE 336-Apisinum
+1751514 CODE 337-Apium graveolens
+1757122 CODE 338-Apium graveolens spag.
+19121515 CODE 339-Apocynum androsaemifolium
+1918129 CODE 340-Apocynum cannabinum
+19184954 CODE 341-Apocynum cannabinum spag.
+67131010 CODE 342-Apomorphinum hydrochloricum
+11155107 CODE 343-Appendicitis
+11112413 CODE 344-Appendicitis chonica
+3121641 CODE 345-Appendicitis necroticans
+6811064 CODE 346-Aqua AM/MW
+6848661 CODE 347-Aqua Aurum
+15121232 CODE 348-Aqua Bad Karlshafen
+73131568 CODE 349-Aqua Bad Sooden-Allendorf
+68483917 CODE 350-Aqua bolente
+1576108 CODE 351-Aqua calcarea
+15069131 CODE 352-Aqua Carlsbad
+23717167 CODE 353-Aqua destillata
+15715254 CODE 354-Aqua elektrostatisch
+15715910 CODE 355-Aqua fervida DCS
+6847398 CODE 356-Aqua FM/UKW
+64314114 CODE 357-Aqua FS
+15323141 CODE 358-Aqua Formantis
+23714104 CODE 359-Aqua Gettysburg
+23111240 CODE 360-Aqua Gottstreu
+21138912 CODE 361-Aqua Hochstein
+68538170 CODE 362-Aqua levitata
+68910916 CODE 363-Aqua lunae
+68615229 CODE 364-Aqua magnetis
+68612108 CODE 365-Aqua marina
+53518917 CODE 366-Aqua nucis vomicarum Rademacheri
+6813142 CODE 367-Aqua ozoni
+68316614 CODE 368-Aqua pluvia
+17101139 CODE 369-Aqua pluvia Mai 1986
+5021074 CODE 370-Aqua quassiae Rademacheri
+6819526 CODE 371-Aqua Radar
+68101611 CODE 372-Aqua regia
+18510107 CODE 373-Aqua sanicula
+6872108 CODE 374-Aqua silicata
+68617104 CODE 375-Aqua solis
+22108410 CODE 376-Aqua Tschernobyl
+68061696 CODE 377-Aqua vitae
+59711914 CODE 378-Aquilegia
+23141774 CODE 379-Aquilegia spag.
+10911103 CODE 380-Aragallus lamberti
+10921590 CODE 381-Aragallus sericeus
+1261012 CODE 382-Aralia hispida
+12111212 CODE 383-Aralia racemosa
+12111177 CODE 384-Aralia racemosa spag.
+5949783 CODE 385-Aranea avicularis
+5478179 CODE 386-Aranea diadema
+5143651 CODE 387-Aranea scinencia
+54614104 CODE 388-Aranea ixobola
+31482312 CODE 389-Araninum
+3559121 CODE 390-Araroba
+36173361 CODE 391-Arbutinum
+16813514 CODE 392-Arbutus andrachne
+38141062 CODE 393-Arctium
+7710164 CODE 394-Arctium spag.
+12136819 CODE 395-Ardor abundantiae DCS
+1213671 CODE 396-Ardor arboris DCS
+1267823 CODE 397-Ardor carbonis DCS
+12107110 CODE 398-Ardor desiderii DCS
+12171196 CODE 399-Ardor eboris DCS
+20312869 CODE 400-Ardor fagus DCS
+20611189 CODE 401-Ardor frumenti DCS
+4413110 CODE 402-Ardor herbarum DCS
+2096611 CODE 403-Ardor laboris DCS
+20519747 CODE 404-Ardor ligni DCS
+20812611 CODE 405-Ardor mali DCS
+2032910 CODE 406-Ardor mellis DCS
+2038119 CODE 407-Ardor metalli DCS
+12712610 CODE 408-Ardor operae DCS
+20467410 CODE 409-Ardor panis DCS
+20161110 CODE 410-Ardor peccati DCS
+2067410 CODE 411-Ardor pinus DCS
+20610012 CODE 412-Ardor quercis DCS
+20653612 CODE 413-Ardor querelae DCS
+2012758 CODE 414-Ardor rationis DCS
+20111952 CODE 415-Ardor rixae DCS
+20315018 CODE 416-Ardor vigiliae DCS
+2096794 CODE 417-Ardor vigoris DCS
+20183112 CODE 418-Ardor vitae DCS
+20112119 CODE 419-Ardor vitis DCS
+11417147 CODE 420-Arenaria rubra
+96601490 CODE 421-Argemone mexicana
+35888413 CODE 422-Argentaurum
+16151021 CODE 423-Argentum arsenicosum
+16181046 CODE 424-Argentum chloratum
+16187215 CODE 425-Argentum chromicum
+16126412 CODE 426-Argentum colloidale
+16121188 CODE 427-Argentum cyanatum
+16101100 CODE 428-Argentum jodatum
+1618147 CODE 429-Argentum metallicum
+16874129 CODE 430-Argentum nitricum
+35889779 CODE 431-Argentum oleatum
+16893926 CODE 432-Argentum oxalicum
+16201117 CODE 433-Argentum oxydatum
+1620896 CODE 434-Argentum phosphoricum
+16201437 CODE 435-Argentum proteinicum
+16191207 CODE 436-Argentum tartaricum
+35111113 CODE 437-Argininum
+91117488 CODE 438-Argyreia speciosa
+38159207 CODE 439-Aristolochia
+46461710 CODE 440-Aristolochia clematis spag.
+12164220 CODE 441-Aristolochia cymbifera
+3810311 CODE 442-Armoracia
+1273212 CODE 443-Armoracia spag.
+3641127 CODE 444-Arnica
+51011152 CODE 445-Arnica spag.
+52126138 CODE 446-Arnica e planta tota
+66128319 CODE 447-Arsenicum album
+13511394 CODE 448-Arsenum bromatum
+13677109 CODE 449-Arsenum hydrogenisatum
+13571017 CODE 450-Arsenum jodatum
+13516279 CODE 451-Arsenum metallicum
+13551439 CODE 452-Arsenum stibiatum
+9101913 CODE 453-Arsenum sulfuratum flavum
+91019108 CODE 454-Arsenum sulfuratum rubrum
+13117517 CODE 455-Artemisia vulgaris
+5176143 CODE 456-Artemisia vulgaris spag.
+18311223 CODE 457-Arum dracontium
+1854521 CODE 458-Arum dracunculus
+39499312 CODE 459-Arum italicum
+39988913 CODE 460-Arum maculatum
+21255378 CODE 461-Arum maculatum spag.
+16114200 CODE 462-Arum triphyllum
+3412914 CODE 463-Arundo
+8261212 CODE 464-Asa foetida
+3314661 CODE 465-Asarum
+38191255 CODE 466-Asarum spag.
+12171012 CODE 467-Asarum canadense
+1156947 CODE 468-Asbest
+12104101 CODE 469-Asclepias curassavica
+15661781 CODE 470-Asclepias incarnata
+12616515 CODE 471-Asclepias incarnata spag.
+15617170 CODE 472-Asclepias syriaca
+12171314 CODE 473-Asclepias syriaca spag.
+15663967 CODE 474-Asclepias tuberosa
+15661898 CODE 475-Asclepias tuberosa spag.
+15642148 CODE 476-Asclepias vincetoxicum
+1271012 CODE 477-Asclepias vincetoxicum spag.
+1271188 CODE 478-Asimina triloba
+7712135 CODE 479-Asparaginum
+15891233 CODE 480-Asparagus officinalis
+14912511 CODE 481-Asparagus officinalis spag.
+15816241 CODE 482-Asparagus racemosus
+14101595 CODE 483-Aspergillus niger
+6654445 CODE 484-Aspergillus niger Antichondrit Serum
+14101299 CODE 485-Aspergillus oryzae
+1410106 CODE 486-Aspergillus ruber
+1459663 CODE 487-Asperula odorata
+14521175 CODE 488-Asperula odorata spag.
+21551338 CODE 489-Asphaltum puratum
+1914610 CODE 490-Asphodelus albus
+1914974 CODE 491-Asphodelus luteus
+72075827 CODE 492-Aspidosperminum
+16102118 CODE 493-Astacus fluviatilis
+6614121 CODE 494-Asteracantha longifolia
+17121173 CODE 495-Asterias rubens
+1710488 CODE 496-Astragalus excapus
+17104917 CODE 497-Astragalus mollissimus
+17109512 CODE 498-Astragalus tragacantha
+25311109 CODE 499-Astrantia major
+25527101 CODE 500-Astrantia major spag.
+44598427 CODE 501-Atracinum
+71215143 CODE 502-Atriplex hortensis
+47143361 CODE 503-Atropinum
+19811615 CODE 504-Atropinum methylonitricum
+19156962 CODE 505-Atropinum sulfuricum
+19162269 CODE 506-Atropinum valerianicum
+10148312 CODE 507-Aufladendes Feld
+86610613 CODE 508-Aurantii flores
+8661284 CODE 509-Aurantii folia
+10761061 CODE 510-Aurantium
+86710127 CODE 511-Aurantium spag.
+26115612 CODE 512-Aurelia aurita
+24610228 CODE 513-Auricularia polytricha
+10111796 CODE 514-Auripigmentum
+71210122 CODE 515-Aurum amalgamum
+71721397 CODE 516-Aurum arsenicosum
+7161386 CODE 517-Aurum bromatum
+7799573 CODE 518-Aurum chloratum
+14201112 CODE 519-Aurum chloratum natronatum
+71517310 CODE 520-Aurum colloidale
+7771062 CODE 521-Aurum cyanatum
+7227192 CODE 522-Aurum jodatum
+78101139 CODE 523-Aurum kalium bromatum
+7821468 CODE 524-Aurum kalium chloratum
+71464215 CODE 525-Aurum metallicum
+71617171 CODE 526-Aurum oleatum
+72241712 CODE 527-Aurum potabile
+1062095 CODE 528-Aurum solis
+7349513 CODE 529-Aurum sulfuratum
+1275159 CODE 530-Autoabgase (Benzin) mit Katalysator
+12152109 CODE 531-Autoabgase (Benzin) ohne Katalysator
+12137663 CODE 532-Autoabgase (Diesel) mit Partikelfilter
+1215128 CODE 533-Autoabgase (Diesel) ohne Partikelfilter
+91065314 CODE 534-Autopolimerisat
+3498398 CODE 535-Avena sativa
+16121043 CODE 536-Avena sativa spag.
+11917151 CODE 537-Azadirachta indica
+21234322 CODE 538-Bacillinum
+53873869 CODE 539-Bacillinum testium
+41214643 CODE 540-Bacillus cereus
+4128011 CODE 541-Bacillus firmus
+41215112 CODE 542-Bacillus subtilis
+91214131 CODE 543-Bacterium acidophilus
+9681882 CODE 544-Bacterium bifidum
+9327210 CODE 545-Bacterium coli
+9717308 CODE 546-Bacterium dysenteriae
+24519513 CODE 547-Bacterium faecalis alkaligenes
+91272119 CODE 548-Bacterium Gaertner
+9664126 CODE 549-Bacterium Morgan
+9663206 CODE 550-Bacterium Proteus
+97716124 CODE 551-Bacterium Pyocyaneus
+97051617 CODE 552-Bacterium subtilis
+2161249 CODE 553-Bacteroides
+57117978 CODE 554-Badiaga
+57116107 CODE 555-Badiaga spag.
+13572612 CODE 556-Bahnstrom
+11814308 CODE 557-Baliospermum montanum
+11601016 CODE 558-Ballota lanata
+11611943 CODE 559-Ballota lanata spag.
+6119414 CODE 560-Balsamodendron mukul
+6127109 CODE 561-Balsamum copaivae
+6199118 CODE 562-Balsamum peruvianum
+6126424 CODE 563-Balsamum tolutanum
+51111178 CODE 564-Bambusa arundinacea
+19766127 CODE 565-Banisteria yage
+19191091 CODE 566-Banisteria yage spag.
+1920135 CODE 567-Banisteriopsis caapi
+19712148 CODE 568-Baptisia
+11086108 CODE 569-Baptisia spag.
+11111261 CODE 570-Baptisia confusa
+12140279 CODE 571-Barium aceticum
+1213537 CODE 572-Barium carbonicum
+12933666 CODE 573-Barium causticum
+12178513 CODE 574-Barium chloratum
+12910558 CODE 575-Barium citricum
+14798738 CODE 576-Barium jodatum
+14710899 CODE 577-Barium nitricum
+12150279 CODE 578-Barium oxalicum
+4581211 CODE 579-Barium oxalsuccinicum
+12481224 CODE 580-Barium phosphoricum
+12121172 CODE 581-Barium sulfuricum
+8113816 CODE 582-Barosma crenulata
+57218184 CODE 583-Basalt
+57298927 CODE 584-Basileum
+1419526 CODE 585-Basilicum
+69517109 CODE 586-Basilicum spag.
+71062278 CODE 587-Begonia tuberosa
+2187115 CODE 588-Belladonna
+11931254 CODE 589-Belladonna spag.
+1195193 CODE 590-Belladonna e fructibus immaturis
+11913185 CODE 591-Belladonna e fructibus maturis
+1127777 CODE 592-Bellis perennis
+11221602 CODE 593-Bellis perennis spag.
+1778115 CODE 594-Benzaldehyd
+15981111 CODE 595-Benzalkoniumchlorid
+15610610 CODE 596-Benzanthracenum
+17153362 CODE 597-Benzinum
+1781782 CODE 598-Benzinum crudum
+17111562 CODE 599-Benzinum dinitricum
+17911122 CODE 600-Benzinum nitricum
+17122858 CODE 601-Benzochinonum
+17121822 CODE 602-Benzolum
+17781014 CODE 603-Benzpyrenum
+71381202 CODE 604-Berberinum chloratum
+78201469 CODE 605-Berberis aquifolium
+78391299 CODE 606-Berberis aristata
+78716147 CODE 607-Berberis vulgaris
+78146754 CODE 608-Berberis vulgaris spag.
+15610061 CODE 609-Beryllium
+12211136 CODE 610-Beryllium carbonicum
+73710710 CODE 611-Beta vulgaris
+71188101 CODE 612-Beta vulgaris spag.
+12121414 CODE 613-Betainum hydrochloricum
+15641127 CODE 614-Betonica
+12121111 CODE 615-Betonica spag.
+15134420 CODE 616-Betula alba
+71125518 CODE 617-Betula alba spag.
+7116888 CODE 618-Betula alba e foliis
+16710241 CODE 619-Bignonia catalpa
+2115727 CODE 620-Bilirubinum
+15131320 CODE 621-Bismuthum
+77189107 CODE 622-Bismuthum carbonicum
+77191156 CODE 623-Bismuthum chloratum
+77134011 CODE 624-Bismuthum colloidale
+77747124 CODE 625-Bismuthum nitricum
+77166558 CODE 626-Bismuthum oxalicum
+77141668 CODE 627-Bismuthum oxychloratum
+77141162 CODE 628-Bismuthum oxydatum
+7716344 CODE 629-Bismuthum subgallicum
+77161017 CODE 630-Bismuthum subnitricum
+15611126 CODE 631-Bismuthum subsalycicum
+77887124 CODE 632-Bismuthum sulfuricum
+77149166 CODE 633-Bismuthum valerianicum
+41141428 CODE 634-Bitis arietans
+1211357 CODE 635-Blatta americana
+12317124 CODE 636-Blatta europaea
+12107119 CODE 637-Blatta orientalis
+24210314 CODE 638-Boerhavia diffusa
+78518216 CODE 639-Bogomoletz-Serum
+51483114 CODE 640-Boldo
+2214109 CODE 641-Boldo spag.
+2186418 CODE 642-Boletus cervinus
+21871254 CODE 643-Boletus laricis
+11101810 CODE 644-Boletus laricis spag.
+21821485 CODE 645-Boletus luridus
+21871028 CODE 646-Boletus satanas
+2181889 CODE 647-Boletus suaveolens
+10168408 CODE 648-Bolus alba
+21114124 CODE 649-Bombyx chrysorrhoea
+2431123 CODE 650-Bombyx mori
+61056145 CODE 651-Borago officinalis
+7511132 CODE 652-Borago officinalis spag.
+51413199 CODE 653-Borax
+21610617 CODE 654-Boswellia serrata
+2713570 CODE 655-Bothrops jararaca
+27197424 CODE 656-Bothrops lanceolatus
+10141427 CODE 657-Botulinum
+1020998 CODE 658-Bounafa
+1060211 CODE 659-Bovista
+10634619 CODE 660-Bovista spag.
+3243240 CODE 661-Brachyglottis repanda
+33281060 CODE 662-Brassica campestris
+3322151 CODE 663-Brassica napus
+3323231 CODE 664-Brassica oleracea
+4111815 CODE 665-Briza media
+61713817 CODE 666-Brochus alveolaris
+11151038 CODE 667-Bromelia sativa
+11829592 CODE 668-Bromoformium
+11881216 CODE 669-Bromophos
+51512662 CODE 670-Bromum
+11614322 CODE 671-Brucinum
+88671148 CODE 672-Brucinum nitricum
+11124107 CODE 673-Bryonia
+32523102 CODE 674-Bryonia spag.
+11521213 CODE 675-Bryophyllum
+57517184 CODE 676-Bucco
+17921109 CODE 677-Bucco spag.
+5761278 CODE 678-Buerin
+5766184 CODE 679-Bufo
+1063187 CODE 680-Bufo ex animale toto
+1088316 CODE 681-Bufo sahytiensis
+15151179 CODE 682-Bungarus
+1212807 CODE 683-Bunias orientalis
+12128584 CODE 684-Bunias orientalis spag.
+13171162 CODE 685-Bupirimatum
+9807429 CODE 686-Buthus australis
+15141060 CODE 687-Buxus sempervirens
+15141079 CODE 688-Buxus sempervirens spag.
+9537155 CODE 689-C-Peptid
+3922183 CODE 690-Cactus
+7165181 CODE 691-Cactus spag.
+78237912 CODE 692-Cactus e floribus
+7168117 CODE 693-cactus Hoodia
+7912472 CODE 694-Cactus rostratus
+14161386 CODE 695-Cadmium bromatum
+14873124 CODE 696-Cadmium carbonicum
+14799573 CODE 697-Cadmium chloratum
+14227192 CODE 698-Cadmium jodatum
+14141215 CODE 699-Cadmium metallicum
+14161276 CODE 700-Cadmium oxydatum
+14819666 CODE 701-Cadmium phosphoricum
+14349513 CODE 702-Cadmium sulfuratum
+14314453 CODE 703-Cadmium sulfuricum
+3248226 CODE 704-Caesium
+65162100 CODE 705-Caesium chloratum
+36141117 CODE 706-Cainca
+31312229 CODE 707-Cajeputum
+32103169 CODE 708-Calabar
+7721121 CODE 709-Caladium seguinum
+7203108 CODE 710-Calamus aromaticus
+72038128 CODE 711-Calamus aromaticus spag.
+7226166 CODE 712-Calcium aceticum
+18504175 CODE 713-Calcium aceticum solutum Hahnemanni
+1762127 CODE 714-Calcium aluminatum et silicatum
+72615547 CODE 715-Calcium arsenicicum
+7212910 CODE 716-Calcium arsenicosum
+72194107 CODE 717-Calcium benzoicum
+72135698 CODE 718-Calcium bichromicum
+7228124 CODE 719-Calcium bromatum
+7253810 CODE 720-Calcium calcinatum
+7227215 CODE 721-Calcium carbonicum
+11712127 CODE 722-Calcium carbonicum Hahnemanni
+11121126 CODE 723-Calcium carbonicum praecipitatum
+7211929 CODE 724-Calcium causticum
+72118150 CODE 725-Calcium causticum segini
+7224746 CODE 726-Calcium chloratum
+7261091 CODE 727-Calcium citricum
+71310127 CODE 728-Calcium fluoratum
+71342062 CODE 729-Calcium formicicum
+7293479 CODE 730-Calcium gluconicum
+1013426 CODE 731-Calcium glycerino-phosphoricum
+71311124 CODE 732-Calcium hippuricum
+71146894 CODE 733-Calcium hypophosphorosum
+7210167 CODE 734-Calcium jodatum
+71310122 CODE 735-Calcium lacticum
+7148118 CODE 736-Calcium malicum
+71813779 CODE 737-Calcium nitricum
+71159316 CODE 738-Calcium oleinicum
+71911112 CODE 739-Calcium ovorum
+7196890 CODE 740-Calcium oxalicum
+71973114 CODE 741-Calcium oxydatum
+76881210 CODE 742-Calcium phospho-lacticum
+76813138 CODE 743-Calcium phosphoricum
+7671072 CODE 744-Calcium picrinicum
+71110253 CODE 745-Calcium silicicum
+91010159 CODE 746-Calcium silico-fluoratum
+71239158 CODE 747-Calcium stibiato-sulfuratum
+7117779 CODE 748-Calcium sulfuricum
+7589210 CODE 749-Calciumcyanamid
+12221218 CODE 750-Calcium-magnesium phosphoricum
+70123315 CODE 751-Calculi biliarii
+70101074 CODE 752-Calculi parotis
+7217196 CODE 753-Calculi prostatae
+70107545 CODE 754-Calculi renales
+91062095 CODE 755-Calculi renales cum acido oxalico
+70142049 CODE 756-Calculi salivarii
+77413139 CODE 757-Calculi vesicales
+3111480 CODE 758-Calendula
+51485518 CODE 759-Calendula spag.
+16771248 CODE 760-Calla aethiopica
+10765115 CODE 761-Calotropis gigantea
+12114101 CODE 762-Caltha palustris
+12115911 CODE 763-Caltha palustris spag.
+42510621 CODE 764-Calycanthus floridus
+33141787 CODE 765-Camphechlor
+3341267 CODE 766-Camphora
+10191519 CODE 767-Camphora monobromata
+10121022 CODE 768-Camphora rubini
+13221437 CODE 769-Cancer fluviatilis
+38579767 CODE 770-Canchalagua
+96277108 CODE 771-Candida albicans
+9202291 CODE 772-Candida parapsillosis
+81512716 CODE 773-Canna glauca
+85412123 CODE 774-Cannabis indica
+8547850 CODE 775-Cannabis sativa
+71012497 CODE 776-Cantharellus aurantiacus
+31331613 CODE 777-Cantharidinum
+3133788 CODE 778-Cantharis
+48446854 CODE 779-Capparis coriaccea
+3885956 CODE 780-Caprolactamum
+31331062 CODE 781-Capsicum
+7415129 CODE 782-Capsicum spag.
+3102113 CODE 783-Captanum
+12101657 CODE 784-Carbo animalis
+1220229 CODE 785-Carbo carnis
+12124155 CODE 786-Carbo mineralis
+31898178 CODE 787-Carbo ossium
+12119114 CODE 788-Carbo vegetabilis
+31861913 CODE 789-Carboneum
+1130139 CODE 790-Carboneum hydrogenisatum
+12814163 CODE 791-Carboneum oxygenisatum
+1281197 CODE 792-Carboneum sulfuratum
+12892517 CODE 793-Carboneum tetrachloratum
+31889347 CODE 794-Carborundum
+3812599 CODE 795-Carcinominum
+86761674 CODE 796-Cardamine pratensis
+86142016 CODE 797-Cardamine pratensis spag.
+31471013 CODE 798-Cardamomum
+87105378 CODE 799-Cardamomum spag.
+9126310 CODE 800-Cardiospermum
+99411152 CODE 801-Cardiospermum spag.
+89716710 CODE 802-Carduus benedictus
+89141116 CODE 803-Carduus benedictus spag.
+8231524 CODE 804-Carduus marianus
+82910411 CODE 805-Carduus marianus spag.
+1291015 CODE 806-Carex arenaria
+12999143 CODE 807-Carex arenaria spag.
+31496898 CODE 808-Carica papaya
+11212792 CODE 809-Carlina acaulis
+11521214 CODE 810-Carlina acaulis spag.
+3151399 CODE 811-Carnosinum
+41015142 CODE 812-Carpinus betulus
+35116439 CODE 813-Carrageen
+35933134 CODE 814-Cartilago
+35101017 CODE 815-Carum carvi
+9191152 CODE 816-Carum carvi spag.
+3511540 CODE 817-Carya alba
+35214712 CODE 818-Caryophyllus
+10604411 CODE 819-Caryophyllus spag.
+51610127 CODE 820-Cascara amarga
+54881171 CODE 821-Cascara sagrada
+5209578 CODE 822-Cascara sagrada spag.
+31110148 CODE 823-Cascarilla
+52441157 CODE 824-Cascarilla spag.
+39441113 CODE 825-Caseinum
+31018487 CODE 826-Cassia tora
+69718616 CODE 827-Castanea vesca
+1310248 CODE 828-Castelea erecta
+3821262 CODE 829-Castor equi
+3891222 CODE 830-Castoreum
+39411174 CODE 831-Catechu
+3969108 CODE 832-Catuaba
+35814116 CODE 833-Caulophyllum
+1318611 CODE 834-Caulophyllum thalictroides spag.
+91510527 CODE 835-Causticum Hahnemanni
+1495148 CODE 836-Ceanothus americanus
+14101260 CODE 837-Ceanothus americanus spag.
+1498138 CODE 838-Ceanothus thrysiflorus
+67135118 CODE 839-Cecropia mexicana
+57101110 CODE 840-Cedron
+59914929 CODE 841-Cedrus deodara
+51762413 CODE 842-Cementum
+14139912 CODE 843-Cenchris contortrix
+74311432 CODE 844-Centaurea cyanus
+74512214 CODE 845-Centaurea cyanus spag.
+71011398 CODE 846-Centaurium chilensis
+78478118 CODE 847-Centella asiatica
+7149663 CODE 848-Cephalanthus occidentalis
+17127637 CODE 849-Cerasus virginiana
+14121993 CODE 850-Ceratonia siliqua
+51212184 CODE 851-Cerebellum
+5128226 CODE 852-Cerebrum
+81881349 CODE 853-Cereus bonplandii
+81524121 CODE 854-Cereus serpentinus
+55549664 CODE 855-Cerium chloratum
+15101091 CODE 856-Cerium metallicum
+55599334 CODE 857-Cerium oxalicum
+51222985 CODE 858-Cerumen
+56651071 CODE 859-Cetonia aurata
+12856415 CODE 860-Cetraria islandica
+11511510 CODE 861-Cetraria islandica spag.
+81512142 CODE 862-Chaerophyllum temulum
+8115113 CODE 863-Chalkopyrit
+16178119 CODE 864-Chamaedrys
+16151614 CODE 865-Chamomilla
+81296108 CODE 866-Chamomilla spag.
+81218127 CODE 867-Chamomilla romana
+11184133 CODE 868-Chamomilla romana spag.
+8851012 CODE 869-Chaparra amargosa
+8622812 CODE 870-Chaulmoogra
+92110112 CODE 871-Cheiranthus cheiri
+1221210 CODE 872-Cheiranthus cheiri spag.
+17166114 CODE 873-Chelidoninum
+17166520 CODE 874-Chelidonium
+9178157 CODE 875-Chelidonium spag.
+92617525 CODE 876-Chelone glabra
+92071493 CODE 877-Chenopodium ambrosioides
+11129148 CODE 878-Chenopodium ambrosioides spag.
+92018778 CODE 879-Chenopodium anthelminticum
+9201067 CODE 880-Chenopodium botrys
+9207415 CODE 881-Chenopodium glaucum
+9206633 CODE 882-Chenopodium olidum
+10151414 CODE 883-Chimaphila maculata
+10155817 CODE 884-Chimaphila umbellata
+2558711 CODE 885-Chimaphila umbellata spag.
+19613171 CODE 886-China
+12101723 CODE 887-China regia
+12214134 CODE 888-China regia spag.
+12961310 CODE 889-Chinhydronum
+16131327 CODE 890-Chinidinum
+87812566 CODE 891-Chinidinum sulfuricum
+86155891 CODE 892-Chininum aceticum
+86121410 CODE 893-Chininum arsenicicum
+86122214 CODE 894-Chininum arsenicosum
+86151558 CODE 895-Chininum bisulfuricum
+86246616 CODE 896-Chininum citricum
+86131248 CODE 897-Chininum ferro-citricum
+86378591 CODE 898-Chininum hydrobromicum
+86381027 CODE 899-Chininum hydrochloricum
+8616484 CODE 900-Chininum jodatum
+86102472 CODE 901-Chininum lacticum
+86100113 CODE 902-Chininum nitricum
+86791109 CODE 903-Chininum phosphoricum
+8616104 CODE 904-Chininum purum
+86210113 CODE 905-Chininum salicylicum
+15511119 CODE 906-Chininum sulfurico-muriaticum
+8611513 CODE 907-Chininum sulfuricum
+86113122 CODE 908-Chininum tannicum
+86181237 CODE 909-Chininum tartaricum
+8678191 CODE 910-Chininum valerianicum
+16131692 CODE 911-Chinoidinum
+81016914 CODE 912-Chinoidinum sulfuricum
+81019157 CODE 913-Chinoidinum tartaricum
+7171422 CODE 914-Chionanthus virginicus
+7941499 CODE 915-Chionanthus virginicus spag.
+14271610 CODE 916-Chirata indica
+81012131 CODE 917-Chloralum hydratum
+8465313 CODE 918-Chloramphenicolum
+81110158 CODE 919-Chlorcamphermentholum
+81531310 CODE 920-Chlorcholinchlorid
+16101197 CODE 921-Chlormequat
+8032327 CODE 922-Chloroformium
+8612713 CODE 923-Chlorophyllinum
+8031011 CODE 924-Chloroquinum
+88101787 CODE 925-Chlortetracyclinum
+8113157 CODE 926-Chlortoluronum
+16100179 CODE 927-Chlorum
+1216513 CODE 928-Cholas terrapina
+12134912 CODE 929-Cholecalciferolum
+16516677 CODE 930-Cholesterinum
+16114322 CODE 931-Cholinum
+92179510 CODE 932-Chromium metallicum
+92151556 CODE 933-Chromium oxydatum
+9211513 CODE 934-Chromium sulfuricum
+84221630 CODE 935-Chrysanthemum
+9241212 CODE 936-Chrysarobinum araroba
+16149114 CODE 937-Chrysophan
+1871113 CODE 938-Chrysosplenium alternifolium
+1435122 CODE 939-Cicer arietinum
+5165320 CODE 940-Cichorium
+4614113 CODE 941-Cichorium intybus spag.
+93389100 CODE 942-Cicuta maculata
+9391311 CODE 943-Cicuta virosa
+91316143 CODE 944-Cicuta virosa spag.
+81512104 CODE 945-Cimex lectularius
+5115577 CODE 946-Cimicifuga
+71201111 CODE 947-Cimicifuga spag.
+51155135 CODE 948-Cimicifuginum
+11321717 CODE 949-Cina
+52638513 CODE 950-Cina spag.
+21219149 CODE 951-Cinchoninum sulfuricum
+16103491 CODE 952-Cineraria maritima
+8016119 CODE 953-Cineraria maritima spag.
+1910589 CODE 954-Cinis abundantiae DCS
+1998311 CODE 955-Cinis arboris DCS
+19267123 CODE 956-Cinis carbonis DCS
+18116610 CODE 957-Cinis desiderii DCS
+20921196 CODE 958-Cinis eboris DCS
+13312869 CODE 959-Cinis fagus DCS
+13611189 CODE 960-Cinis frumenti DCS
+1816162 CODE 961-Cinis herbarum DCS
+1396611 CODE 962-Cinis laboris DCS
+13519747 CODE 963-Cinis ligni DCS
+13812611 CODE 964-Cinis mali DCS
+1332910 CODE 965-Cinis mellis DCS
+1338119 CODE 966-Cinis metalli DCS
+1812910 CODE 967-Cinis operae DCS
+13467410 CODE 968-Cinis panis DCS
+13161110 CODE 969-Cinis peccati DCS
+1367410 CODE 970-Cinis pinus DCS
+13610012 CODE 971-Cinis quercis DCS
+13653612 CODE 972-Cinis querelae DCS
+1312758 CODE 973-Cinis rationis DCS
+13111952 CODE 974-Cinis rixae DCS
+5625426 CODE 975-Cinis talpae
+13315018 CODE 976-Cinis vigiliae DCS
+1396794 CODE 977-cinis vigoris DCS
+13183112 CODE 978-Cinis vitae DCS
+13112119 CODE 979-Cinis vitis DCS
+5118727 CODE 980-Cinnabaris
+5108922 CODE 981-Cinnamomum
+68144518 CODE 982-Cinnamomum spag.
+61310415 CODE 983-Cinnamomum camphora
+61322178 CODE 984-Cinnamomum culilavan
+68146138 CODE 985-Cinnamomum iners
+68144550 CODE 986-Cinnamomum tamala
+68141197 CODE 987-Cinnamomum verum
+12724153 CODE 988-Cirsium arvense
+13128119 CODE 989-Cistus canadensis
+13013962 CODE 990-Cistus incanus
+51092163 CODE 991-Citrinitas
+19949171 CODE 992-Citrus decumana
+56817549 CODE 993-Citrus limonum
+19131112 CODE 994-Citrus limonum spag.
+1951060 CODE 995-Citrus vulgaris
+11533912 CODE 996-Clematis
+7154378 CODE 997-Clematis spag.
+71511832 CODE 998-Clematis vitalba
+91251512 CODE 999-Clerodendron serratum
+61647890 CODE 1000-Clotho arietans
+68812817 CODE 1001-Cobaltum chloratum
+6871362 CODE 1002-Cobaltum metallicum
+6851590 CODE 1003-Cobaltum nitricum
+66119982 CODE 1004-Cobaltum oxydatum
+19101210 CODE 1005-Coca
+51755638 CODE 1006-Cocainum hydrochloricum
+1431177 CODE 1007-Coccinella septempunctata
+11331510 CODE 1008-Cocculus
+5971111 CODE 1009-Cocculus spag.
+5313732 CODE 1010-Coccus cacti
+57181255 CODE 1011-Coccus cacti spag.
+5810313 CODE 1012-Cochlearia
+15387108 CODE 1013-Cochlearia officinalis spag.
+3418872 CODE 1014-Codeinum hydrochloricum
+3710172 CODE 1015-Codeinum phosphoricum
+11202098 CODE 1016-Codeinum sulfuricum
+19107498 CODE 1017-Coffea
+31136107 CODE 1018-Coffea spag.
+31134157 CODE 1019-Coffea tosta
+11115322 CODE 1020-Coffeinum
+3141297 CODE 1021-Coffeinum benzoicum
+31410562 CODE 1022-Coffeinum citricum
+31448136 CODE 1023-Coffeinum hydrobromicum
+31447512 CODE 1024-Coffeinum hydrochloricum
+8621110 CODE 1025-Coffeinum natrium benzoicum
+8141739 CODE 1026-Coffeinum natrium salicylicum
+31416647 CODE 1027-Coffeinum salicylicum
+31485208 CODE 1028-Coffeinum sulfuratum
+3149476 CODE 1029-Coffeinum trijodatum
+3144965 CODE 1030-Coffeinum valerianicum
+11111578 CODE 1031-Colchicinum
+11911107 CODE 1032-Colchicum
+11311411 CODE 1033-Colchicum spag.
+11384566 CODE 1034-Colchicum e seminibus
+11976810 CODE 1035-Colibacillinum
+12214146 CODE 1036-Collinsonia canadensis
+1276411 CODE 1037-Collinsonia canadensis spag.
+35119108 CODE 1038-Colocasia antiquorum
+11142205 CODE 1039-Colocynthis
+38073212 CODE 1040-Colocynthis spag.
+11139413 CODE 1041-Colombo
+33146214 CODE 1042-Colombo spag.
+3310923 CODE 1043-Colophonium
+11131263 CODE 1044-Colostrum
+31671217 CODE 1045-Colutea arborescens
+91281286 CODE 1046-Comarum palustre
+31851064 CODE 1047-Commiphora mukul
+3712717 CODE 1048-Comocladia dentata
+31297710 CODE 1049-Comptonia asplenifolia
+7401097 CODE 1050-Conchae verae
+3113107 CODE 1051-Condurango
+3524129 CODE 1052-Condurango spag.
+4161619 CODE 1053-Conessinum hydrobromicum
+1183361 CODE 1054-Coniinum
+10456108 CODE 1055-Coniinum hydrochloricum
+11141020 CODE 1056-Conium
+8715107 CODE 1057-Conium spag.
+8767187 CODE 1058-Conium e radice
+65747818 CODE 1059-Convallaria majalis
+12810107 CODE 1060-Convallaria majalis spag.
+62822107 CODE 1061-Convolvulus arvensis
+6285584 CODE 1062-Convolvulus arvensis spag.
+62135811 CODE 1063-Convolvulus duartinus
+6274687 CODE 1064-Convolvulus tricolor
+19161613 CODE 1065-Copal
+33711161 CODE 1066-Coprinus comatus
+3156840 CODE 1067-Coptis trifolia
+31711882 CODE 1068-Corallium rubrum
+61310581 CODE 1069-Corallorhiza odontorhiza
+31593674 CODE 1070-Cordyceps sinensis
+11201082 CODE 1071-Coriandrum
+41810164 CODE 1072-Coriandrum spag.
+43183950 CODE 1073-Coriaria myrtifolia
+31655138 CODE 1074-Coriolus versicolor
+31461528 CODE 1075-Cornus alternifolia
+31453291 CODE 1076-Cornus circinata
+31437611 CODE 1077-Cornus florida
+11171617 CODE 1078-Cornus mas
+3147117 CODE 1079-Cornus sericea
+3692713 CODE 1080-Coronilla varia
+3121053 CODE 1081-Coronopus didymus
+91410157 CODE 1082-Corpus luteum
+91417138 CODE 1083-Corpus pineale
+11464417 CODE 1084-Cortex cerebralis
+65361012 CODE 1085-Cortex glandulae suprarenales
+11915649 CODE 1086-Cortisonum
+41813177 CODE 1087-Corydalis cava
+41011125 CODE 1088-Corydalis cava spag.
+4101440 CODE 1089-Corydalis formosa
+32012648 CODE 1090-Corylus avellana
+32091129 CODE 1091-Corylus avellana spag.
+32097993 CODE 1092-Corylus avellana e cortice
+32097582 CODE 1093-Corylus avellana e foliis
+4913425 CODE 1094-Corynebacterium sp.
+32141644 CODE 1095-Costus dulcis
+19185184 CODE 1096-Coto
+3416617 CODE 1097-Cotyledon umbillicus
+11420168 CODE 1098-Coumafos
+11513113 CODE 1099-Crataegus
+13012125 CODE 1100-Crataegus e baccis spag.
+75106125 CODE 1101-Crataegus e floribus
+75106891 CODE 1102-Crataegus e floribus spag.
+1121962 CODE 1103-Creolinum
+11141382 CODE 1104-Cresolum
+11812144 CODE 1105-Cristallinum
+34879155 CODE 1106-Crocus sativus
+3487164 CODE 1107-Crocus spag.
+1195678 CODE 1108-Crotalus
+1110777 CODE 1109-Crotalus cascavella
+3621296 CODE 1110-Crotalus durissus terrificus
+11175892 CODE 1111-Croton tiglium
+11131883 CODE 1112-Croton tiglium spag.
+3129216 CODE 1113-Cubeba
+31291774 CODE 1114-Cubeba spag.
+42181549 CODE 1115-Cucumis sativus
+49932986 CODE 1116-Cucurbita citrullus
+4992110 CODE 1117-Cucurbita pepo
+4203801 CODE 1118-Cucurbita pepo spag.
+11216310 CODE 1119-Culex pipiens
+39142312 CODE 1120-Cumarinum
+52181213 CODE 1121-Cuphea viscosissima
+10818974 CODE 1122-Cupressus australis
+10815139 CODE 1123-Cupressus lawsoniana
+1089149 CODE 1124-Cupressus sempervirens
+91491047 CODE 1125-Cuprum aceticum
+96412172 CODE 1126-Cuprum aluminatum
+91386171 CODE 1127-Cuprum arsenicosum
+91111162 CODE 1128-Cuprum bromatum
+91314958 CODE 1129-Cuprum carbonicum
+91116127 CODE 1130-Cuprum chloratum
+92261738 CODE 1131-Cuprum cyanatum
+91111548 CODE 1132-Cuprum formicicum
+91878958 CODE 1133-Cuprum gluconicum
+31521476 CODE 1134-Cuprum jodatum
+96191066 CODE 1135-Cuprum metallicum
+9208146 CODE 1136-Cuprum nitricum
+92010711 CODE 1137-Cuprum oleatum
+92062190 CODE 1138-Cuprum oleinicum
+9208737 CODE 1139-Cuprum oxalicum
+93398917 CODE 1140-Cuprum oxychloratum
+93151412 CODE 1141-Cuprum oxydatum nigrum
+93158716 CODE 1142-Cuprum oxydatum rubrum
+9102237 CODE 1143-Cuprum phosphoricum
+91572079 CODE 1144-Cuprum sulfuratum
+91320146 CODE 1145-Cuprum sulfuricum
+31211196 CODE 1146-Curare
+81201213 CODE 1147-Curare Borneo
+34188129 CODE 1148-Curry-Netz
+16761110 CODE 1149-Curcuma javanica
+16118127 CODE 1150-Curcuma longa
+16105375 CODE 1151-Curcuma longa spag.
+16797121 CODE 1152-Curcuma zedoaria
+31511115 CODE 1153-Cuscus
+13317124 CODE 1154-Cuscuta europaea
+1339484 CODE 1155-Cuscuta europaea spag.
+21913313 CODE 1156-Cyanocobalaminum
+92111486 CODE 1157-Cyclamen
+14101152 CODE 1158-Cyclamen spag.
+92148682 CODE 1159-Cyclohexanolum
+13353126 CODE 1160-Cyclophosphamidum
+11220514 CODE 1161-Cydonia e seminibus
+1148133 CODE 1162-Cydonia vulgaris spag.
+87474149 CODE 1163-Cymarinum
+25166737 CODE 1164-Cynanchum vincetoxicum
+20141018 CODE 1165-Cynara scolymus
+20142927 CODE 1166-Cynara scolymus spag.
+72211812 CODE 1167-Cynoglossum
+11101111 CODE 1168-Cynoglossum spag.
+71992311 CODE 1169-Cynosbatus
+17116108 CODE 1170-Cynosbatus spag.
+1113621 CODE 1171-Cyperus rotundus
+1113345 CODE 1172-Cyperus scariosus
+8411994 CODE 1173-Cypraea mappa
+24183610 CODE 1174-Cyprinus barbus
+89131161 CODE 1175-Cypripedium
+22691099 CODE 1176-Cyrtopodium punctatum
+86282312 CODE 1177-Cysteinum
+15231099 CODE 1178-Cytisus laburnum
+83109412 CODE 1179-Cytisus laburnum e cortice
+8410154 CODE 1180-Cytisus laburnum e floribus
+8310109 CODE 1181-Cytisus laburnum spag.
+8171097 CODE 1182-Damiana
+89106127 CODE 1183-Damiana spag.
+86210020 CODE 1184-Daminocidum
+6814107 CODE 1185-Daphne indica
+61451214 CODE 1186-Daphne laureola
+1010183 CODE 1187-Datisca cannabina
+83441461 CODE 1188-Datura arborea
+8310118 CODE 1189-Datura metel
+16134877 CODE 1190-Datura tatula
+85713394 CODE 1191-Daucus carota
+2071184 CODE 1192-Daucus carota spag.
+10882204 CODE 1193-Dehydrocortisonum
+2011103 CODE 1194-Delphinium consolida
+36215107 CODE 1195-Deiquat
+16471839 CODE 1196-Deltamethrin
+36390219 CODE 1197-Dentin
+46107168 CODE 1198-Dens loxodonta africana
+6791114 CODE 1199-Derris pinnata
+48185396 CODE 1200-Diacetylaminoazotoluol
+28718149 CODE 1201-Diagonalgitternetz
+1081057 CODE 1202-Diazepamum
+10861361 CODE 1203-Diazinonum
+6318925 CODE 1204-Dibenzofuranum
+83231351 CODE 1205-Dicentra canadensis
+3173553 CODE 1206-Dichapetalum cymosum
+28141323 CODE 1207-Dichlofluanid
+21613107 CODE 1208-Dichlorbenzolum
+91501133 CODE 1209-Dichlordiphenyl-Dichlorethylen
+10187921 CODE 1210-Dichlorprop
+10187948 CODE 1211-Dichlorprop-P
+10187138 CODE 1212-Dichlorvos
+91671025 CODE 1213-Dictamnus albus
+91431311 CODE 1214-Dictamnus albus spag.
+14381111 CODE 1215-Dictamnus albus e radice
+10939107 CODE 1216-Dicumarolum
+1813125 CODE 1217-Dieldrinum
+42414253 CODE 1218-Diflubenzuronum
+1211712 CODE 1219-Digitalis
+4174378 CODE 1220-Digitalis spag.
+41661125 CODE 1221-Digitalis e floribus
+41687815 CODE 1222-Digitalis e radice
+41616235 CODE 1223-Digitalis e seminibus
+41615623 CODE 1224-Digitalis e stipites
+41678133 CODE 1225-Digitalis ferruginea
+41741188 CODE 1226-Digitalis lanata
+41741147 CODE 1227-Digitalis lutea
+12241362 CODE 1228-Digitoxinum
+91010133 CODE 1229-Dijodtyrosinum
+95171011 CODE 1230-Dimethylamino-Azobenzol
+95217382 CODE 1231-Dimethylterephthalatum
+52315107 CODE 1232-Dinitrobenzolum
+5714130 CODE 1233-Dinitrokresol
+51314126 CODE 1234-Dinitrophenolum
+54471013 CODE 1235-Dinosebacetat
+71014311 CODE 1236-Dioscorea villosa
+8141410 CODE 1237-Dioscorea villosa spag.
+15173362 CODE 1238-Dioxinum
+10159612 CODE 1239-Diphenylum
+2141314 CODE 1240-Diphtherinum
+21071033 CODE 1241-Diphtherotoxinum
+95121116 CODE 1242-Dipodium punctatum
+62211218 CODE 1243-Dipsacus sativus
+62111387 CODE 1244-Dipsacus sylvestris
+21411861 CODE 1245-Dipterix odorata
+21418164 CODE 1246-Dirca palustris
+61521111 CODE 1247-Discus intervertebralis
+61396072 CODE 1248-Discus lumbo-sacralis
+2514133 CODE 1249-Distemperinum
+2089130 CODE 1250-Dithiocarbamat
+7201314 CODE 1251-DL-Histidinum
+15214162 CODE 1252-DL-Methioninum
+11225287 CODE 1253-Dodemorphacetat
+79879539 CODE 1254-Dolichos pruriens
+72417109 CODE 1255-Dolichos pruriens spag.
+82313499 CODE 1256-Dopaminum hydrochloricum
+9126190 CODE 1257-Dorema ammoniacum
+13457900 CODE 1258-Doryphora decemlineata
+15236510 CODE 1259-Dracontium foetidum
+12144310 CODE 1260-Drimys granatensis
+12316224 CODE 1261-Drimys winteri
+6449151 CODE 1262-Drosera
+11483212 CODE 1263-Drosera spag.
+11101714 CODE 1264-Dryas octopetala
+11122261 CODE 1265-Dubiosia myoporoides
+14331108 CODE 1266-Dulcamara
+2041533 CODE 1267-Eberthinum
+12317134 CODE 1268-Echeveria scheideckeri
+81323102 CODE 1269-Echinacea spag.
+8134563 CODE 1270-Echinacea angustifolia
+8131661 CODE 1271-Echinacea purpurea
+10413757 CODE 1272-Eclipta alba
+51312639 CODE 1273-Eclipta erecta
+7955513 CODE 1274-Eichhornia crassipes
+78101048 CODE 1275-Elaeagnus angustifolia
+61420128 CODE 1276-Elaeocarpus ganitrus
+6872152 CODE 1277-Elaeis guinensis
+91291313 CODE 1278-Elaps corallinus
+14111099 CODE 1279-Elaterinum
+14111010 CODE 1280-Elaterium
+10259611 CODE 1281-Electricitas
+3114512 CODE 1282-Elektrosmog
+42094914 CODE 1283-Elettaria cardamomum
+45223133 CODE 1284-Eleutherococcus
+16855125 CODE 1285-Eleutherococcus senticosus spag.
+21108686 CODE 1286-Embelia ribes
+4685118 CODE 1287-Emblica officinalis
+17182312 CODE 1288-Emetinum
+14121414 CODE 1289-Emetinum hydrochloricum
+16591915 CODE 1290-Endosulfan
+10172118 CODE 1291-Enterococcinum
+99163362 CODE 1292-Eosinum
+24815151 CODE 1293-Ephedra
+71881011 CODE 1294-Ephedra vulgaris spag.
+2126103 CODE 1295-Ephedrinum hydrochloricum
+13123122 CODE 1296-Epigaea repens
+2467392 CODE 1297-Epihysterinum
+81729165 CODE 1298-Epilobium angustifolium
+16126105 CODE 1299-Epilobium angustifolium spag.
+8179497 CODE 1300-Epilobium palustre
+81792118 CODE 1301-Epilobium palustre spag.
+81715148 CODE 1302-Epilobium parviflorum
+95247954 CODE 1303-Epimedium grandiflorum
+93312117 CODE 1304-Epiphegus virginianus
+16131733 CODE 1305-Epiphysinum
+1110910 CODE 1306-Equisitum arvense
+11109218 CODE 1307-Equisitum arvense spag.
+11105412 CODE 1308-Equisitum hiemale
+11105737 CODE 1309-Equisitum hiemale spag.
+11101510 CODE 1310-Equisitum limosum
+21212119 CODE 1311-Eranthis hyemalis
+20598192 CODE 1312-Erbium oxydatum
+21381747 CODE 1313-Erbium sulfuricum
+18461310 CODE 1314-Erechthites hieracifolia
+1811833 CODE 1315-Erechthites hieracifolia spag.
+20161010 CODE 1316-Ergotaminum
+10101561 CODE 1317-Ergotinum
+91015187 CODE 1318-Erica
+8121255 CODE 1319-Erica spag.
+8773469 CODE 1320-Erigeron acre
+81713619 CODE 1321-Erigeron acre spag.
+81769153 CODE 1322-Erigeron canadensis
+16615148 CODE 1323-Erigeron canadensis spag.
+7568890 CODE 1324-Eriodictyon californicum
+75688109 CODE 1325-Eriodictyon californicum spag.
+72269532 CODE 1326-Erodium cicutarium
+72179857 CODE 1327-Erodium cicutarium spag.
+10201173 CODE 1328-Ervum lens
+10229111 CODE 1329-Ervumervilia
+81129366 CODE 1330-Eryngium aquaticum
+87742116 CODE 1331-Eryngium campestre
+16310143 CODE 1332-Eryngium campestre spag.
+82873179 CODE 1333-Eryngium maritinum
+8214497 CODE 1334-Eryngium planum
+10151616 CODE 1335-Erysimum officinale
+2516962 CODE 1336-Erysimum officinale spag.
+37359667 CODE 1337-Erythraea centaurium
+13201112 CODE 1338-Erythraea centaurium spag.
+1021075 CODE 1339-Erythrinus
+35121111 CODE 1340-Erythromycinum
+3157416 CODE 1341-Erythronium americanum
+31311231 CODE 1342-Erythroxylum catuaba
+11431713 CODE 1343-Eschscholzia
+10541113 CODE 1344-Escoba amarga
+14374149 CODE 1345-Eserinum
+89896167 CODE 1346-Eserinum salicylatum
+31712168 CODE 1347-Espeletia grandiflora
+16951113 CODE 1348-Eucalyptolum
+16826158 CODE 1349-Eucalyptus globulus
+16878847 CODE 1350-Eucalyptus rostrata
+16892110 CODE 1351-Eucalyptus tereticortis
+4136973 CODE 1352-Eugenia australis
+41381311 CODE 1353-Eugenia jambosa
+13271561 CODE 1354-Eupatorium
+61071416 CODE 1355-Eupatorium ageratoides
+61087358 CODE 1356-Eupatorium aromaticum
+6109667 CODE 1357-Eupatorium cannabinum
+7961814 CODE 1358-Eupatorium cannabinum spag.
+6104179 CODE 1359-Eupatorium odoratum
+6107516 CODE 1360-Eupatorium perfoliatum
+7751214 CODE 1361-Eupatorium perfoliatum spag.
+61085742 CODE 1362-Eupatorium purpureum
+4771878 CODE 1363-Euphorbia amygdaloides
+47714100 CODE 1364-Euphorbia corallata
+47715210 CODE 1365-Euphorbia cyparissias
+18152137 CODE 1366-Euphorbia cyparissias spag.
+4733814 CODE 1367-Euphorbia esula
+4771751 CODE 1368-Euphorbia helioscopia
+47712612 CODE 1369-Euphorbia heterophylla
+4731173 CODE 1370-Euphorbia hypericifolia
+4772617 CODE 1371-Euphorbia lathyris
+47727143 CODE 1372-Euphorbia lathyris spag.
+4732963 CODE 1373-Euphorbia marginata
+4774179 CODE 1374-Euphorbia palustris
+4772596 CODE 1375-Euphorbia pilulifera
+47789414 CODE 1376-Euphorbia polycarpa
+47792412 CODE 1377-Euphorbia resinifera
+47769203 CODE 1378-Euphorbia splendans
+4788810 CODE 1379-Euphorbia villosa
+4016173 CODE 1380-Euphorbium
+12189810 CODE 1381-Euphrasia
+41884411 CODE 1382-Euphrasia spag.
+12338322 CODE 1383-Eupionum
+41212171 CODE 1384-Europium chloratum
+8816118 CODE 1385-Evonymus atropurpurea
+17611621 CODE 1386-Evonymus atropurpurea spag.
+8851571 CODE 1387-Evonymus europaea
+88513578 CODE 1388-Evonymus europaea spag.
+11491910 CODE 1389-Evolvulus alsinoides
+6131111 CODE 1390-Evolvulus pluricaulis
+9289090 CODE 1391-Excrementum caninum
+13171432 CODE 1392-Extractum carnis
+57131686 CODE 1393-Extractum glandulae thymi
+13172297 CODE 1394-Extractum Hamamelidis
+1717133 CODE 1395-Faex medicinalis
+97141357 CODE 1396-Fagopyrum
+22151774 CODE 1397-Fagopyrum spag.
+10216351 CODE 1398-Fagus sylvatica
+10991378 CODE 1399-Fagus sylvatica spag.
+9621127 CODE 1400-Farfara
+96461255 CODE 1401-Farfara spag.
+9317217 CODE 1402-Farina secalis cerealis
+1782896 CODE 1403-Farina triciti vulgaris
+20148512 CODE 1404-Favilla abundantiae DCS
+2012953 CODE 1405-Favilla arboris DCS
+20101413 CODE 1406-Favilla carbonis DCS
+3017111 CODE 1407-Favilla desiderii DCS
+20132210 CODE 1408-Favilla eboris DCS
+20712110 CODE 1409-Favilla fagus DCS
+2015138 CODE 1410-Favilla frumenti DCS
+20104143 CODE 1411-Favilla herbarum DCS
+20103110 CODE 1412-Favilla laboris DCS
+20371194 CODE 1413-Favilla ligni DCS
+20106166 CODE 1414-Favilla mali DCS
+20288610 CODE 1415-Favilla mellis DCS
+2010112 CODE 1416-Favilla metalli DCS
+20846910 CODE 1417-Favilla operae DCS
+2088610 CODE 1418-Favilla panis DCS
+20131411 CODE 1419-Favilla peccati DCS
+20584119 CODE 1420-Favilla pinus DCS
+20128747 CODE 1421-Favilla quercis DCS
+20121371 CODE 1422-Favilla querelae DCS
+2016125 CODE 1423-Favilla rationis DCS
+2011819 CODE 1424-Favilla rixae DCS
+20818110 CODE 1425-Favilla vigiliae DCS
+20747189 CODE 1426-Favilla vigoris DCS
+2071099 CODE 1427-Favilla vitae DCS
+20812131 CODE 1428-Favilla vitis DCS
+29232513 CODE 1429-Fel tauri
+13911144 CODE 1430-Fel tauri depuratum
+29131410 CODE 1431-Fel vulpis
+3910658 CODE 1432-Fenitrothionum
+14161653 CODE 1433-Ferrum aceticum
+14748999 CODE 1434-Ferrum albuminatum
+61121927 CODE 1435-Ferrum ammoniato-citricum
+14128990 CODE 1436-Ferrum arsenicicum
+14128129 CODE 1437-Ferrum arsenicosum
+1499171 CODE 1438-Ferrum bromatum
+14118647 CODE 1439-Ferrum carbonicum
+14132196 CODE 1440-Ferrum citricum oxydatum
+14791116 CODE 1441-Ferrum cyanatum
+6757102 CODE 1442-Ferrum cyanatum insolubile
+1419400 CODE 1443-Ferrum fluoratum
+14126215 CODE 1444-Ferrum formicicum
+66531695 CODE 1445-Ferrum glycerino-phosphoricum
+14851073 CODE 1446-Ferrum haematinatum
+14810617 CODE 1447-Ferrum hypophosphorosum
+14151162 CODE 1448-Ferrum jodatum
+14136116 CODE 1449-Ferrum lacticum
+14131324 CODE 1450-Ferrum manganicum
+14781648 CODE 1451-Ferrum metallicum
+14111891 CODE 1452-Ferrum nitricum oxydatum
+26677273 CODE 1453-Ferrum oleatum
+14123953 CODE 1454-Ferrum oxalicum
+14128527 CODE 1455-Ferrum oxydatum hydricum
+14128713 CODE 1456-Ferrum oxydatum nigrum
+14128106 CODE 1457-Ferrum oxydatum rubrum
+14103237 CODE 1458-Ferrum pernitricum
+1417876 CODE 1459-Ferrum phosphoricum
+61615144 CODE 1460-Ferrum phosphoricum cum natrium citricum
+14134122 CODE 1461-Ferrum picrinicum
+14737100 CODE 1462-Ferrum pomatum
+14162114 CODE 1463-Ferrum protoxalatum
+6911146 CODE 1464-Ferrum pyrophosphoricum
+6214114 CODE 1465-Ferrum sesquichloratum
+14792117 CODE 1466-Ferrum sidereum
+14714459 CODE 1467-Ferrum silicicum
+1410917 CODE 1468-Ferrum sulfuratum
+14101137 CODE 1469-Ferrum sulfuricum
+14173616 CODE 1470-Ferrum tartaricum
+14117316 CODE 1471-Ferrum valerianicum
+17761216 CODE 1472-Ferula glauca
+25106427 CODE 1473-Fibrinum
+28163148 CODE 1474-Ficus carica
+11613415 CODE 1475-Ficus indica
+1184418 CODE 1476-Ficus religiosa
+11621127 CODE 1477-Ficus venosa
+3511510 CODE 1478-Filix mas
+35217104 CODE 1479-Filix spag.
+1212058 CODE 1480-Flor de piedra
+1761031 CODE 1481-Flores graminis
+17696108 CODE 1482-Flores graminis spag.
+12510117 CODE 1483-Fluggea virosa
+39714423 CODE 1484-Fluoroformium
+21299229 CODE 1485-Foeniculum
+52331410 CODE 1486-Foeniculum spag.
+51098126 CODE 1487-Foenum graecum
+5101188 CODE 1488-Foenum graecum spag.
+3184139 CODE 1489-Folliculi lymphatici aggregati (Peyer-Plaques)
+27297113 CODE 1490-Folliculinum
+10121013 CODE 1491-Follikelhormon synthetisch
+3019898 CODE 1492-Fomitopsis pinicola e mycelio
+1321652 CODE 1493-Formaldehyd solutum
+7161441 CODE 1494-Formica rufa
+1310516 CODE 1495-Fragaria vesca
+13105710 CODE 1496-Fragaria vesca spag.
+18121395 CODE 1497-Franciscea uniflora
+1894119 CODE 1498-Frangula alnus
+1893212 CODE 1499-Frangula spag.
+10514489 CODE 1500-Frankenia grandiflora
+21691664 CODE 1501-Frasera caroliniensis
+10971990 CODE 1502-Fraxinus americana
+10719118 CODE 1503-Fraxinus americana spag.
+10915619 CODE 1504-Fraxinus excelsior
+10911171 CODE 1505-Fraxinus ornus
+2148337 CODE 1506-Fuchsina
+9381027 CODE 1507-Fuchsinum hydrochloricum
+25998513 CODE 1508-Fucus spag.
+16139812 CODE 1509-Fucus vesiculosus
+21496152 CODE 1510-Fuligo ligni
+79127618 CODE 1511-Fuligo splendans
+4795533 CODE 1512-Fumaria officinalis
+47914219 CODE 1513-Fumaria officinalis spag.
+3411137 CODE 1514-Funiculus umbilicaris
+91316167 CODE 1515-Gadolinium oxydatum
+10928557 CODE 1516-Gadus morrhua
+1127367 CODE 1517-Galanga
+41623102 CODE 1518-Galanga spag.
+42619517 CODE 1519-Galanthus nivalis
+11486361 CODE 1520-Galbanum
+3127474 CODE 1521-Galega officinalis
+6719141 CODE 1522-Galega officinalis spag.
+11127104 CODE 1523-Galeopsis
+1111960 CODE 1524-Galinsoga parviflora
+11255526 CODE 1525-Galium album
+4511618 CODE 1526-Galium aparine
+4789143 CODE 1527-Galium aparine spag.
+4129714 CODE 1528-Galium mollugo
+41213378 CODE 1529-Galium mollugo spag.
+11212857 CODE 1530-Galium verum
+41111254 CODE 1531-Galium verum spag.
+10479126 CODE 1532-Gallae turcicae
+32552107 CODE 1533-Gallium metallicum
+9379530 CODE 1534-Galphimia glauca
+10169137 CODE 1535-Gamma-Globulinum
+9104110 CODE 1536-Ganoderma lucidum
+11131162 CODE 1537-Garcinia cambogia
+8977629 CODE 1538-Gaultheria procumbens
+89779108 CODE 1539-Gaultheria procumbens spag.
+18128443 CODE 1540-Gelatine
+18133122 CODE 1541-Gelsemium
+10155181 CODE 1542-Gelsemium spag.
+14181413 CODE 1543-Genista tinctoria
+6814572 CODE 1544-Genista tinctoria spag.
+61434963 CODE 1545-Gentiana cruciata
+11161612 CODE 1546-Gentiana cruciata spag.
+67610157 CODE 1547-Gentiana lutea
+6146602 CODE 1548-Gentiana lutea spag.
+6213586 CODE 1549-Gentiana quinqueflora
+12121962 CODE 1550-Geraniinum
+44710968 CODE 1551-Geranium dissecta
+44791268 CODE 1552-Geranium maculatum
+9611124 CODE 1553-Geranium odoratissimum
+96111862 CODE 1554-Geranium odoratissimum spag.
+9010124 CODE 1555-Geranium pratense spag.
+44107108 CODE 1556-Geranium robertianum
+4101886 CODE 1557-Germanium metallicum
+82315175 CODE 1558-Getreidepollen
+86132143 CODE 1559-Getreidepollen spag
+13425226 CODE 1560-Geum rivale
+81612107 CODE 1561-Geum rivale spag.
+13410746 CODE 1562-Geum urbanum
+88111152 CODE 1563-Geum urbanum spag.
+15821159 CODE 1564-Gingko biloba
+14413164 CODE 1565-Gingko biloba spag.
+49210106 CODE 1566-Glacies mariae
+81610714 CODE 1567-Glandulae parathyreoideae
+8141416 CODE 1568-Glandulae suprarenales
+12277796 CODE 1569-Glandulae thymi
+52111925 CODE 1570-Glandulae thyreoideae
+11914130 CODE 1571-Glechoma hederacea
+11141355 CODE 1572-Glechoma hederacea spag.
+18131111 CODE 1573-Global-Gitternetz
+87493362 CODE 1574-Glonoinum
+73101113 CODE 1575-Glutaminum
+81014133 CODE 1576-Glycerinum
+8107479 CODE 1577-Glycocollum
+81014949 CODE 1578-Glycogenum
+9156560 CODE 1579-Glycyrrhiza glabra
+91561614 CODE 1580-Glycyrrhiza glabra spag.
+82514107 CODE 1581-Glyoxalum
+8899159 CODE 1582-Glyphosate
+13718013 CODE 1583-Gnaphalium arenarium
+13718860 CODE 1584-Gnaphalium arenarium spag.
+13741166 CODE 1585-Gnaphalium dioicum
+1376145 CODE 1586-Gnaphalium polycephalum
+13741110 CODE 1587-Gnaphalium leontopodium
+21198334 CODE 1588-Gossypium herbaceum
+21191468 CODE 1589-Gossypium herbaceum spag.
+1324119 CODE 1590-Gräserpollen
+13263619 CODE 1591-Gräserpollen spag.
+8914229 CODE 1592-Granatum
+89743212 CODE 1593-Granatum spag.
+81037811 CODE 1594-Graphites
+88717810 CODE 1595-Gratiola
+1582214 CODE 1596-Gratiola spag.
+16193911 CODE 1597-Grifola frondosa
+1018145 CODE 1598-Grillus campestris
+11811111 CODE 1599-Grindelia robusta
+11811616 CODE 1600-Grindelia robusta spag.
+11810612 CODE 1601-Grindelia squarrosa
+15841514 CODE 1602-Griseofulvinum
+84992614 CODE 1603-Grossularia
+19316164 CODE 1604-g-Strophanthinum
+36131913 CODE 1605-Guaco
+2312311 CODE 1606-Guajacolum
+26121448 CODE 1607-Guajacolum carbonicum
+26985107 CODE 1608-Guajacolum valerianicum
+10131412 CODE 1609-Guajacum
+2891111 CODE 1610-Guajacum spag.
+1081862 CODE 1611-Guanidinum
+36134315 CODE 1612-Guano
+10311368 CODE 1613-Guarana
+6139921 CODE 1614-Guarea trichilioides
+82913113 CODE 1615-Gummi arabicum
+12218108 CODE 1616-Gunpowder
+36867104 CODE 1617-Gutti
+2061297 CODE 1618-Gymnema sylvestre
+14169135 CODE 1619-Gymnocladus canadensis
+9318158 CODE 1620-Gymnosporangium sabinae
+7809514 CODE 1621-Gynocardia odorata e seminibus
+10113613 CODE 1622-Haematinum
+6418914 CODE 1623-Haematoxylon campechianum
+2115107 CODE 1624-Haemoglobinum
+21916167 CODE 1625-Hafnium oxydatum
+10876361 CODE 1626-Halothanum
+92182212 CODE 1627-Hamamelis
+12855214 CODE 1628-Hamamelis spag.
+91097158 CODE 1629-Hammelplasma
+10411910 CODE 1630-Haplopappus
+10136367 CODE 1631-Haronga
+1095738 CODE 1632-Harpagophytum
+10151611 CODE 1633-Harpagophytum spag.
+1095115 CODE 1634-Harpagosid
+10814354 CODE 1635-Hausstaub
+9665181 CODE 1636-Hausstaub spag.
+4981315 CODE 1637-Haustierhaare Mix
+4981379 CODE 1638-Haustierhaare Mix spag.
+81341248 CODE 1639-Hedeoma pulegioides
+16121628 CODE 1640-Hedera helix
+89281774 CODE 1641-Hedera helix spag.
+16567825 CODE 1642-Hedysarum ildefonsianum
+5568161 CODE 1643-Heisteria pallida
+12593151 CODE 1644-Hekla lava
+10141920 CODE 1645-Helanthemum vulgare
+93512117 CODE 1646-Helianthus annuus
+93546102 CODE 1647-Helianthus annuus spag.
+93105163 CODE 1648-Helianthus tuberosus
+17651990 CODE 1649-Heliotropinum
+14978934 CODE 1650-Heliotropium europaeum
+1495167 CODE 1651-Heliotropium peruvianum
+17747278 CODE 1652-Helix pomatia
+17717670 CODE 1653-Helix tosta
+17109314 CODE 1654-Helleborus
+90938619 CODE 1655-Helleborus spag.
+91291929 CODE 1656-Helleborus foetidus
+9127122 CODE 1657-Helleborus orientalis
+9121360 CODE 1658-Helleborus viridis
+91213682 CODE 1659-Helleborus viridis spag.
+9750337 CODE 1660-Helminthochorton
+91561430 CODE 1661-Heloderma horridum
+14961637 CODE 1662-Helonias dioica
+17916198 CODE 1663-Hepar
+1691379 CODE 1664-Hepar sulfuris
+1691187 CODE 1665-Hepar sulfuris kalinum
+17845189 CODE 1666-Hepar vulpis
+17841620 CODE 1667-Heparinum
+1674616 CODE 1668-Hepatica triloba
+16741085 CODE 1669-Hepatica triloba spag.
+17171787 CODE 1670-Heptachlor
+92111043 CODE 1671-Heracleum sphondylium
+1224112 CODE 1672-Heracleum sphondylium spag.
+1085369 CODE 1673-Hericium erinaceus
+9127913 CODE 1674-Herniaria glabra
+91271931 CODE 1675-Herniaria glabra spag.
+10111328 CODE 1676-Herpes simplex
+1010104 CODE 1677-Herpes Virus Typ 6
+10101292 CODE 1678-Herpes zoster
+10718897 CODE 1679-Herpestris moniera
+5139810 CODE 1680-Hexabarbitalum
+10616147 CODE 1681-Hexachlorbenzol
+10699132 CODE 1682-Hexachlorophenum
+8562157 CODE 1683-Hexamethylendiaminum
+8579913 CODE 1684-Hexamethylentetraminum
+13210183 CODE 1685-Hibiscus
+31086208 CODE 1686-Hieracium pilosella
+31012132 CODE 1687-Hieracium umbellatum
+41213210 CODE 1688-Hieracium umbellatum spag.
+1571488 CODE 1689-Hintonia latiflora
+16153699 CODE 1690-Hippomanes
+87108316 CODE 1691-Hippophae rhamnoides
+98671427 CODE 1692-Hirudinum
+98670149 CODE 1693-Hirudo
+13341311 CODE 1694-Histaminum dihydrochloricum
+66163139 CODE 1695-Histaminum hydrochloricum
+6646752 CODE 1696-Histaminum pulmonis
+86510369 CODE 1697-Hoang Nan
+1711437 CODE 1698-Hoitzia coccinea
+14997773 CODE 1699-Holmium oxydatum
+16310517 CODE 1700-Holzschutzmittel Mix
+87111412 CODE 1701-Homarus
+81847727 CODE 1702-Hordeum sativum
+84391880 CODE 1703-Hoya carnosa
+65111269 CODE 1704-Humea elegans
+3121576 CODE 1705-Hundehaare Mix
+31811152 CODE 1706-Hundehaare spag.
+13192154 CODE 1707-Hura brasiliensis
+98731111 CODE 1708-Hyaluronidase
+11154713 CODE 1709-Hyancynthus orientalis
+83107881 CODE 1710-Hydrangea arborescens
+12078163 CODE 1711-Hydrangea arborescens spag.
+81514208 CODE 1712-Hydrastinum chloratum
+14101110 CODE 1713-Hydrastinum sulfuricum
+16116104 CODE 1714-Hydrastis
+81673212 CODE 1715-Hydrastis spag.
+8281410 CODE 1716-Hydrazinsulfat
+13121713 CODE 1717-Hydrochinonum
+1314849 CODE 1718-Hydrocotyle asiatica
+5261219 CODE 1719-Hydrogenium peroxydatum
+13812177 CODE 1720-Hydrophyllum virginicum
+1661633 CODE 1721-Hydropiper
+13101210 CODE 1722-Hydropiper spag.
+16158113 CODE 1723-Hyoscinum
+16151078 CODE 1724-Hyoscyaminum
+86919109 CODE 1725-Hyoscyaminum hydrobromicum
+16151091 CODE 1726-Hyoscyamus
+86971111 CODE 1727-Hyoscyamus spag.
+8617551 CODE 1728-Hyoscyamus scopolia
+10971117 CODE 1729-Hypericum
+10151254 CODE 1730-Hypericum spag.
+1015788 CODE 1731-Hypericum pulchrum
+2572114 CODE 1732-Hypericum pulchrum spag.
+10916661 CODE 1733-Hypophysinum
+1016524 CODE 1734-Hypophysis anterior
+10161193 CODE 1735-Hypophysis cerebri
+10161045 CODE 1736-Hypophysis posterior
+10965679 CODE 1737-Hypothalamus
+9413102 CODE 1738-Hypoxanthinum
+16131590 CODE 1739-Hyssopus officinalis
+14258318 CODE 1740-Iberis amara
+7168254 CODE 1741-Iberis amara spag.
+59126920 CODE 1742-Ichthyolum
+73261212 CODE 1743-Ictodes foetida
+12014108 CODE 1744-Ignatia
+12546108 CODE 1745-Ignatia spag.
+9328269 CODE 1746-Ignis abundantiae DCS
+9169112 CODE 1747-Ignis arboris DCS
+91218952 CODE 1748-Ignis carbonis DCS
+91615458 CODE 1749-Ignis desiderii DCS
+99957123 CODE 1750-Ignis eboris DCS
+9351210 CODE 1751-Ignis fagus DCS
+94162023 CODE 1752-Ignis frumenti DCS
+91263910 CODE 1753-Ignis herbarum DCS
+92010210 CODE 1754-Ignis laboris DCS
+95912611 CODE 1755-Ignis ligni DCS
+9710210 CODE 1756-Ignis mali DCS
+91221199 CODE 1757-Ignis mellis DCS
+9962069 CODE 1758-Ignis metalli DCS
+91017658 CODE 1759-Ignis operae DCS
+9183794 CODE 1760-Ignis panis DCS
+9432119 CODE 1761-Ignis peccati DCS
+9179794 CODE 1762-Ignis pinus DCS
+91498610 CODE 1763-Ignis quercis DCS
+9141090 CODE 1764-Ignis querelae DCS
+9138012 CODE 1765-Ignis rationis DCS
+95138156 CODE 1766-Ignis rixae DCS
+15378212 CODE 1767-Ignis salis
+9118189 CODE 1768-Ignis vigiliae DCS
+9925911 CODE 1769-Ignis vigoris DCS
+91823111 CODE 1770-Ignis vitae DCS
+9110869 CODE 1771-Ignis vitis DCS
+1012512 CODE 1772-Ilex aquifolium
+10125103 CODE 1773-Ilex aquifolium spag.
+11841448 CODE 1774-Ilex cassine
+10417154 CODE 1775-Ilex paraguariensis
+11899618 CODE 1776-Ilex vomitoria
+1689312 CODE 1777-Illecebrum
+81655142 CODE 1778-Imperatoria ostruthium
+15510138 CODE 1779-Imperatoria ostruthium spag.
+32812116 CODE 1780-Indigo
+13712117 CODE 1781-Indikan
+13179510 CODE 1782-Indium metallicum
+32891661 CODE 1783-Indolum
+18723427 CODE 1784-Influencinum
+1343362 CODE 1785-Ingluvinum
+71112118 CODE 1786-Insektizide Mix
+1011613 CODE 1787-Insulinum
+63101669 CODE 1788-Inula helenium
+64133619 CODE 1789-Inula helenium spag.
+5210730 CODE 1790-Ipecacuanha
+53112214 CODE 1791-Ipecacuanha spag.
+22311210 CODE 1792-Ipomea turpethum
+7401048 CODE 1793-Iridium metallicum
+81510718 CODE 1794-Iris
+23712125 CODE 1795-Iris spag.
+11791513 CODE 1796-Iris florentina
+11719139 CODE 1797-Iris foetidissima
+6083951 CODE 1798-Iris germanica
+61115118 CODE 1799-Iris germanica spag.
+61210120 CODE 1800-Iris pseudoacorus
+23141014 CODE 1801-Iris tenax
+97792222 CODE 1802-Isocyanatum
+91061586 CODE 1803-Isoleucinum
+1386836 CODE 1804-Isonikotinsäurehydrazid
+24811133 CODE 1805-Isopropyl-N-phenylcarbamat
+1679710 CODE 1806-Ivarancusa
+16721095 CODE 1807-Jaborandi
+14131157 CODE 1808-Jaborandi spag.
+19345138 CODE 1809-Jacaranda caroba
+19313246 CODE 1810-Jacaranda gualanday
+1961713 CODE 1811-Jacoalta
+91210118 CODE 1812-Jalapa
+11261812 CODE 1813-Jasminum officinale
+17105110 CODE 1814-Jatropha curcas
+17181521 CODE 1815-Jatropha glossypifolia
+18827572 CODE 1816-Jatropha urens
+18107313 CODE 1817-Jequiritolum
+9342167 CODE 1818-jinyi
+17217862 CODE 1819-Jodoforminum
+17217539 CODE 1820-Jodoformium
+1715978 CODE 1821-Jodothyrin
+81888866 CODE 1822-Jodum
+1798513 CODE 1823-Jonesia asoka
+3517133 CODE 1824-Juglandinum
+3798169 CODE 1825-Juglania adstringens
+32212635 CODE 1826-Juglans cinerea
+35959100 CODE 1827-Juglans regia
+31910118 CODE 1828-Juglans regia spag.
+6688156 CODE 1829-Juncus effusus
+6697122 CODE 1830-Juncus pilosus
+1210843 CODE 1831-Juniperus communis
+12108188 CODE 1832-Juniperus communis spag.
+12925910 CODE 1833-Juniperus virginiana
+12921582 CODE 1834-Juniperus virginiana spag.
+3765131 CODE 1835-Justicia adhatoda
+1262362 CODE 1836-Kalium aceticum
+11814117 CODE 1837-Kalium aluminium sulfuricum
+12105659 CODE 1838-Kalium arsenicicum
+12101216 CODE 1839-Kalium arsenicosum
+1257953 CODE 1840-Kalium benzoicum
+12311546 CODE 1841-Kalium bicarbonicum
+12351390 CODE 1842-Kalium bichromicum
+12314962 CODE 1843-Kalium bioxalicum
+47108898 CODE 1844-Kalium bromatum
+12725316 CODE 1845-Kalium carbonicum
+12710291 CODE 1846-Kalium causticum
+12791890 CODE 1847-Kalium chloricum
+12791238 CODE 1848-Kalium chloratum
+12721258 CODE 1849-Kalium chromicum
+1221147 CODE 1850-Kalium citricum
+12011488 CODE 1851-Kalium cyanatum
+12281446 CODE 1852-Kalium ferricyanatum
+1221544 CODE 1853-Kalium ferrocyanatum
+1245416 CODE 1854-Kalium fluoratum
+4011152 CODE 1855-Kalium hypophosphorosum
+1211416 CODE 1856-Kalium jodatum
+1269215 CODE 1857-Kalium nitricum
+12096122 CODE 1858-Kalium oxalicum
+12111124 CODE 1859-Kalium permanganicum
+12116180 CODE 1860-Kalium phosphoricum
+1231348 CODE 1861-Kalium picrinicum
+12333672 CODE 1862-Kalium picro-nitricum
+8101310 CODE 1863-Kalium pyrophosphoricum
+12777513 CODE 1864-Kalium rhodanatum
+12117124 CODE 1865-Kalium salicylicum
+12695124 CODE 1866-Kalium silicicum
+12551215 CODE 1867-Kalium sulfuricum
+1210713 CODE 1868-Kalium tartaricum
+1247084 CODE 1869-Kalium telluricum
+12020113 CODE 1870-Kalium uricum
+12981889 CODE 1871-Kaliumxanthogenat
+4415137 CODE 1872-Kalmia
+51111152 CODE 1873-Kalmia spag.
+4231101 CODE 1874-Kamala
+12682312 CODE 1875-Kaolinum
+10531116 CODE 1876-Katzenhaare Mix
+1055125 CODE 1877-Katzenhaare Mix spag.
+9451113 CODE 1878-Keratinum
+9273361 CODE 1879-Kerosinum
+92710132 CODE 1880-Kerosolenum
+88161427 CODE 1881-Khellinum
+7817149 CODE 1882-Kino
+51317106 CODE 1883-Knautia arvensis
+5139475 CODE 1884-Knautia arvensis spag.
+7869107 CODE 1885-Kola
+16191111 CODE 1886-Kola spag.
+78814184 CODE 1887-Koso
+11128726 CODE 1888-Kreatininum
+1115762 CODE 1889-Kreosotum
+3336101 CODE 1890-Kupferamalgam
+88191062 CODE 1891-K-Strophanthinum
+8101013 CODE 1892-Lac caninum
+8477813 CODE 1893-Lac condensatum
+82071238 CODE 1894-Lac defloratum
+8141085 CODE 1895-Lac delphinum
+86411239 CODE 1896-Lac elephantis
+15241327 CODE 1897-Lac felinum
+15214724 CODE 1898-Lac humanum
+15611127 CODE 1899-Lac leontis
+4441416 CODE 1900-Lac loxodonta africana
+1569147 CODE 1901-lac lupi
+15269107 CODE 1902-Lac maternum
+15218620 CODE 1903-Lac ovinum
+4525116 CODE 1904-Lac panis troglodytis
+15610613 CODE 1905-Lac suinum
+12161433 CODE 1906-Lac vaccinum
+12816814 CODE 1907-Lac vaccinum coagulatum
+78182025 CODE 1908-Lacerta agilis
+15728916 CODE 1909-Lachesis
+71561935 CODE 1910-Lachnanthes tinctoria
+1569108 CODE 1911-Lactuca
+1251157 CODE 1912-Lactuca spag.
+1255145 CODE 1913-Lactuca sativa
+12510159 CODE 1914-Lactuca sativa spag.
+1255139 CODE 1915-Lactuca scariola
+8622614 CODE 1916-Laminaria
+83454226 CODE 1917-Lamium album
+15108101 CODE 1918-Lamium album spag.
+15105114 CODE 1919-Lamium album e floribus
+15610128 CODE 1920-Lamium galeobdolon
+15610597 CODE 1921-Lamium galeobdolon spag.
+53912194 CODE 1922-Landwirtschaftsstaub Mix
+1749149 CODE 1923-Landwirtschaftsstaub Mix spag.
+1391427 CODE 1924-Lanolinum
+51395100 CODE 1925-Lanthanum oxydatum
+88814977 CODE 1926-Lapathum acutum
+8147542 CODE 1927-Lapis albus
+81476733 CODE 1928-Lapis animalis
+13524142 CODE 1929-Lapis compositum
+13151023 CODE 1930-Lapis mineralibus
+1311159 CODE 1931-Lapis philosophorum
+1314711 CODE 1932-Lapis vegetabilis
+13152458 CODE 1933-Lapis pozzuoli
+11928810 CODE 1934-Lapsana communis
+34814164 CODE 1935-Lariciformes officinalis e mycelio
+11112216 CODE 1936-Larix decidua
+11446108 CODE 1937-Larix decidua spag.
+9324171 CODE 1938-Larrea mexicana
+16392118 CODE 1939-Latex
+10154891 CODE 1940-Latex vulcani
+10145890 CODE 1941-Lathyrus sativus
+10142228 CODE 1942-Lathyrus sativus spag.
+1014557 CODE 1943-Lathyrus silvestris
+2455611 CODE 1944-Lathyrus silvestris spag.
+8118524 CODE 1945-Latrodectus hasselti
+81111206 CODE 1946-Latrodectus katipo
+81116827 CODE 1947-Latrodectus mactans
+11896912 CODE 1948-Laurocerasus
+10244774 CODE 1949-Laurocerasus spag.
+3761316 CODE 1950-Laurus nobilis
+37105255 CODE 1951-Laurus nobilis spag.
+82011167 CODE 1952-Lavandula
+10131111 CODE 1953-Lavandula spag.
+13141090 CODE 1954-Lecithinum
+17808866 CODE 1955-Ledum
+15109665 CODE 1956-Lemna minor
+71581255 CODE 1957-Lemna minor spag.
+31731218 CODE 1958-Lentinula edodes
+5101214 CODE 1959-Leontopodium alpinum
+35114159 CODE 1960-Leonurus cardiaca
+35111073 CODE 1961-Leonurus cardiaca spag.
+35431397 CODE 1962-Leonurus sibiricus
+13111102 CODE 1963-Lepidium latifolium
+91369147 CODE 1964-Lepidium meyenii
+96109118 CODE 1965-Leptandra
+16056108 CODE 1966-Leptandra spag.
+1196957 CODE 1967-Leptidania reticulata
+4611715 CODE 1968-Leptospermum scoparium
+81783228 CODE 1969-Lespedeza bicolor
+8176114 CODE 1970-Lespedeza capitata
+81761609 CODE 1971-Lespedeza capitata spag.
+81751613 CODE 1972-Lespedeza sieboldii
+91134149 CODE 1973-Leucinum
+9331912 CODE 1974-Levico
+19614589 CODE 1975-Levisticum officinale
+16101089 CODE 1976-Levisticum officinale spag.
+17641290 CODE 1977-Levomepromazinum
+92382917 CODE 1978-Liatris spicata
+1052180 CODE 1979-Lidocainum hydrochloricum
+17484229 CODE 1980-Ligamentum
+9961035 CODE 1981-Ligustrum vulgare
+17910362 CODE 1982-Lilium album
+17415129 CODE 1983-Lilium album spag.
+17131217 CODE 1984-Lilium auratum
+17489235 CODE 1985-Lilium martagon
+1721722 CODE 1986-Lilium martagon spag.
+17961294 CODE 1987-Lilium tigrinum
+17921119 CODE 1988-Lilium tigrinum spag.
+16940817 CODE 1989-Limax ater
+84829105 CODE 1990-Limulus cyclops
+74914710 CODE 1991-Linaria
+3211378 CODE 1992-Linaria spag.
+74101017 CODE 1993-Lindan
+1110366 CODE 1994-Linum catharticum
+11106715 CODE 1995-Linum e seminibus
+11215615 CODE 1996-Linum usitatissimum
+41512154 CODE 1997-Linum usitatissimum spag.
+14321741 CODE 1998-Lippia dulcis
+89148916 CODE 1999-Lippia mexicana
+5116129 CODE 2000-Liriodendron tulipifera
+79138510 CODE 2001-Lithiospermum officinale
+12820847 CODE 2002-Lithium benzoicum
+12814317 CODE 2003-Lithium bromatum
+1297872 CODE 2004-Lithium carbonicum
+12371046 CODE 2005-Lithium chloratum
+1211815 CODE 2006-Lithium chloricum
+12361590 CODE 2007-Lithium citricum
+1257100 CODE 2008-Lithium jodatum
+12413124 CODE 2009-Lithium lacticum
+24674129 CODE 2010-Lithium nitricum
+12135766 CODE 2011-Lithium picrinicum
+12201472 CODE 2012-Lithium salicylicum
+12821791 CODE 2013-Lithium sulfuricum
+24171066 CODE 2014-Lithospermum
+3214137 CODE 2015-L-Noradrenalinhydrochlorid
+37141027 CODE 2016-L-Noradrenalin-L-hydrogentartrat
+1077157 CODE 2017-Loasa tricolor
+75131711 CODE 2018-Lobelia cardinalis
+75131711 CODE 2019-Lobelia cardinalis
+73117816 CODE 2020-Lobelia erinus
+7605148 CODE 2021-Lobelia inflata
+76646129 CODE 2022-Lobelia inflata spag.
+75161343 CODE 2023-Lobelia purpurascens
+76127107 CODE 2024-Lobelia syphilitica
+12512512 CODE 2025-Lobelinum hydrochloricum
+87110590 CODE 2026-Locusta veridissima
+19117124 CODE 2027-Lolium temulentum
+1414234 CODE 2028-Lonicera caprifolium
+14169113 CODE 2029-Lonicera pericylmenum
+2221112 CODE 2030-Loranthus europaeus
+1213613 CODE 2031-Luesinum
+9839108 CODE 2032-Luffa operculata
+89214226 CODE 2033-Lupulinum
+8225264 CODE 2034-Lupulus
+89143212 CODE 2035-Lupulus spag.
+84471620 CODE 2036-Luteinum
+10312214 CODE 2037-Lux lunae
+1035889 CODE 2038-Lux solis
+10301751 CODE 2039-Lycium berberis
+1038133 CODE 2040-Lycium berberis spag.
+3410211 CODE 2041-Lycopersicum esculentum
+1551469 CODE 2042-Lycopodium
+11113619 CODE 2043-Lycopodium spag.
+11114333 CODE 2044-Lycopodium annotinum
+36641114 CODE 2045-Lycopodium clavatum subsp. monostachyon
+1111103 CODE 2046-Lycopodium selago
+1168968 CODE 2047-Lycopus europaeus
+11682337 CODE 2048-Lycopus europaeus spag.
+11727748 CODE 2049-Lycopus virginicus
+9161372 CODE 2050-Lycopus virginicus spag.
+45357541 CODE 2051-Lysimachia nummularia
+17103361 CODE 2052-Lyssinum
+10205367 CODE 2053-Lythrum salicaria
+34685106 CODE 2054-Lythyrus cicera
+11202282 CODE 2055-Macuna pruriens
+11201284 CODE 2056-Macuna pruriens spag.
+61011118 CODE 2057-Madar
+97831121 CODE 2058-Magnesia usta
+24172390 CODE 2059-Magnesium aceticum
+24218268 CODE 2060-Magnesium boricum
+24117676 CODE 2061-Magnesium borocitricum
+24106524 CODE 2062-Magnesium carbonicum
+24189573 CODE 2063-Magnesium chloratum
+24273348 CODE 2064-Magnesium citricum
+24922119 CODE 2065-Magnesium DL-asparagicum
+2437202 CODE 2066-Magnesium fluoratum
+2418564 CODE 2067-Magnesium gluconicum
+2453467 CODE 2068-Magnesium hyposulfurosum
+2467192 CODE 2069-Magnesium jodatum
+2495166 CODE 2070-Magnesium lacticum
+24917215 CODE 2071-Magnesium metallicum
+24761453 CODE 2072-Magnesium nitricum
+24938688 CODE 2073-Magnesium peroxydatum
+24911216 CODE 2074-Magnesium phosphoricum
+2444166 CODE 2075-Magnesium silicicum
+24411129 CODE 2076-Magnesium silico-fluoratum
+24414103 CODE 2077-Magnesium sulfuricum
+24183476 CODE 2078-Magnesium thiosulfuricum
+17781772 CODE 2079-Magnetis artificialis
+17214511 CODE 2080-Magnetis poli ambo
+17213665 CODE 2081-Magnetis polus arcticus
+10134912 CODE 2082-Magnetis polus australis
+92412716 CODE 2083-Magnetit
+15221216 CODE 2084-Magnolia glauca
+15236315 CODE 2085-Magnolia grandiflora
+45108952 CODE 2086-Mahonia aquifolium
+91008108 CODE 2087-Majorana
+10919143 CODE 2088-Majorana spag.
+91910133 CODE 2089-Malandrinum
+18436617 CODE 2090-Malaria officinalis
+91082312 CODE 2091-Malleinum
+18141112 CODE 2092-Mallotus philippinensis
+13113534 CODE 2093-Malva silvestris
+5111131 CODE 2094-Malva silvestris spag.
+1664324 CODE 2095-Mammae siccatae
+15218800 CODE 2096-Mancinella
+14710467 CODE 2097-Mandragora
+12511111 CODE 2098-Mandragora spag.
+8431026 CODE 2099-Mandragora e radice siccata
+63621921 CODE 2100-Maneb
+13151253 CODE 2101-Manganum aceticum
+13141547 CODE 2102-Manganum carbonicum
+13127108 CODE 2103-Manganum chloratum
+5621159 CODE 2104-Manganum citricum solubile
+13121214 CODE 2105-Manganum dioxydatum
+52106107 CODE 2106-Manganum hypophosphorosum
+1312962 CODE 2107-Manganum jodatum
+13191648 CODE 2108-Manganum metallicum
+13123672 CODE 2109-Manganum nitricum
+13121653 CODE 2110-Manganum oxalicum
+13121016 CODE 2111-Manganum oxydatum
+13121015 CODE 2112-Manganum peroxydatum
+13148776 CODE 2113-Manganum phosphoricum
+13124459 CODE 2114-Manganum silicicum
+13129217 CODE 2115-Manganum sulfuratum
+13129437 CODE 2116-Manganum sulfuricum
+15188108 CODE 2117-Mangifera
+63791021 CODE 2118-Manihot
+10391562 CODE 2119-Mannitum
+10101014 CODE 2120-Manzanita
+61649926 CODE 2121-Maranta arundinacea
+69915856 CODE 2122-Marchantiapolymorpha
+8564310 CODE 2123-Marrubium album
+8154352 CODE 2124-Marrubium album spag.
+1411972 CODE 2125-Marum verum
+61675181 CODE 2126-Marum verum spag.
+9917338 CODE 2127-Mater perlarum
+91011812 CODE 2128-Mate spag.
+9011184 CODE 2129-Matico
+12416101 CODE 2130-Matico spag.
+63410153 CODE 2131-Mazout
+61006910 CODE 2132-MCPA
+1181758 CODE 2133-Mecoprop
+93614921 CODE 2134-Medicago sativa
+1777613 CODE 2135-Medorrhinum
+1138128 CODE 2136-Medulla dorsalis
+15521155 CODE 2137-Medulla ossium
+11415222 CODE 2138-Medulla ossium rubra
+11149111 CODE 2139-Medulla spinalis
+68101217 CODE 2140-Medusa
+13131365 CODE 2141-Mel cum sale
+10412167 CODE 2142-Mel depuratum
+92710615 CODE 2143-Melaleuca hypericifolia
+1638427 CODE 2144-Melampyrum nemorosum
+17229838 CODE 2145-Melilotus alba
+10182857 CODE 2146-Melilotus officinalis
+2821479 CODE 2147-Melilotus officinalis spag.
+69281767 CODE 2148-Melissa
+9622109 CODE 2149-Melissa spag.
+17177818 CODE 2150-Meloe majalis
+1568123 CODE 2151-Melolontha vulgaris
+9046144 CODE 2152-Membranum ovi
+7176317 CODE 2153-Menispermum canadense
+11147698 CODE 2154-Mentha aquatica
+11122112 CODE 2155-Mentha aquatica spag.
+1181198 CODE 2156-Mentha arvensis
+13791289 CODE 2157-Mentha crispa
+11121431 CODE 2158-Mentha crispa spag.
+11949107 CODE 2159-Mentha piperita
+11227128 CODE 2160-Mentha piperita spag.
+11914432 CODE 2161-Mentha pulegium
+13791425 CODE 2162-Mentha viridis
+13778226 CODE 2163-Mentholum
+14221799 CODE 2164-Menyanthes
+72177129 CODE 2165-Menyanthes spag.
+8624310 CODE 2166-Mephitis putorius
+2234849 CODE 2167-Mercaptanum
+76199218 CODE 2168-Mercaptodimethurum
+2281572 CODE 2169-Mercurialis
+12135214 CODE 2170-Mercurialis spag.
+12136321 CODE 2171-Mercurialis annua
+12166106 CODE 2172-Mercurius aceticus
+12167106 CODE 2173-Mercurius arsenicosus
+1216790 CODE 2174-Mercurius auratus
+12111016 CODE 2175-Mercurius bijodatus
+42221112 CODE 2176-Mercurius bijodatus cum kali
+1211824 CODE 2177-Mercurius bromatus
+41311149 CODE 2178-Mercurius chromicus oxydulatus
+12163715 CODE 2179-Mercurius cyanatus
+12181252 CODE 2180-Mercurius dulcis
+4413289 CODE 2181-Mercurius jodatus flavus
+41715103 CODE 2182-Mercurius nitricus oxydulatus
+12122361 CODE 2183-Mercurius oleatus
+12121643 CODE 2184-Mercurius oxycyanatus
+4611153 CODE 2185-Mercurius phosphoricus
+4923173 CODE 2186-Mercurius praecipitatus albus
+4923155 CODE 2187-Mercurius praecipitatus ruber
+12168106 CODE 2188-Mercurius rhodanatus
+12161810 CODE 2189-Mercurius salicylicus
+41510101 CODE 2190-Mercurius solubilis Hahnemanni
+4104636 CODE 2191-Mercurius sublimatus corrosivus
+1216985 CODE 2192-Mercurius sulfuricus
+1216435 CODE 2193-Mercurius tannicus
+22891742 CODE 2194-Mercurius vivus
+1451219 CODE 2195-Mesembrianthemum cristallinum
+11611951 CODE 2196-Mespilus germanica
+1520187 CODE 2197-Mesua ferrea
+81013986 CODE 2198-Methoxychlor
+23311922 CODE 2199-Methylaethylketon
+18456187 CODE 2200-Methylcholanthrenum
+1844443 CODE 2201-Methylenum coeruleum
+89720148 CODE 2202-Methylglyoxalum
+18111133 CODE 2203-Methylguanidinum
+23221248 CODE 2204-Methylium salicylicum
+18311820 CODE 2205-Methylmethacrylat
+20963879 CODE 2206-Meum atamanthicum
+11197962 CODE 2207-Mezereum
+37199143 CODE 2208-Mezereum spag.
+73910107 CODE 2209-Mica
+1692102 CODE 2210-Millefolium
+16313107 CODE 2211-Millefolium spag.
+16912110 CODE 2212-Millepedes
+1444127 CODE 2213-Mimosa humilis
+14121087 CODE 2214-Mimosa pudica
+74410511 CODE 2215-Minium
+9246123 CODE 2216-Mitchella repens
+12269797 CODE 2217-Mitragyna speciosa
+61010344 CODE 2218-Molybdaenum metallicum
+61015723 CODE 2219-Molybdaenum sulfuricum
+1118147 CODE 2220-Momordica balsamina
+11229237 CODE 2221-Momordica charantia
+9153133 CODE 2222-Monarda didyma
+7391077 CODE 2223-Monesia
+97516599 CODE 2224-Monotropa uniflora
+78615497 CODE 2225-Monsonia ovata
+12917142 CODE 2226-Morbillinum
+12179375 CODE 2227-Morgan Bach
+12159120 CODE 2228-Morgan Gaertner-Paterson
+47121110 CODE 2229-Morgan purum
+1221086 CODE 2230-Morphinum
+9121110 CODE 2231-Morus nigra
+12210183 CODE 2232-Moschus
+98319169 CODE 2233-Mucor mucedo
+20109136 CODE 2234-Mucor racemosus
+3352017 CODE 2235-Mucor racemosus Antichondrit Serum
+1187337 CODE 2236-Mucosa nasalis
+9165661 CODE 2237-Mucotoxinum
+25562282 CODE 2238-Mucuna pruriens
+9101192 CODE 2239-Muira puama
+10111119 CODE 2240-Muira puama spag.
+66301215 CODE 2241-Mumio
+10171410 CODE 2242-Murex purpureus
+61810127 CODE 2243-Musa sapientum
+6915216 CODE 2244-Musca domestica
+14111362 CODE 2245-Muscarinum
+1312123 CODE 2246-Mutisia viciaefolia
+7121079 CODE 2247-Mycobacterium bovis
+71210119 CODE 2248-Mycobacterium phlei
+1545812 CODE 2249-Mygale lasiodora
+14111130 CODE 2250-Myocard
+69118153 CODE 2251-Myosotis arvensis
+16114148 CODE 2252-Myosotis arvensis spag.
+61029154 CODE 2253-Myosurus minimus
+1012659 CODE 2254-Myrica cerifera
+2261410 CODE 2255-Myrica cerifera spag.
+1279454 CODE 2256-Myrica nagi
+43181297 CODE 2257-Myristica sebifera
+12313107 CODE 2258-Myrrha
+11141118 CODE 2259-Myrrhis odorata
+4731312 CODE 2260-Myrtillocactus
+1210983 CODE 2261-Myrtillus
+40916518 CODE 2262-Myrtillus spag.
+11384119 CODE 2263-Myrtus cheken
+11107517 CODE 2264-Myrtus communis
+3013107 CODE 2265-Myrtus communis spag.
+12872489 CODE 2266-Myrtus pimenta
+11131512 CODE 2267-Myrtus pimenta spag.
+10398408 CODE 2268-Nabalus alba
+22610969 CODE 2269-Naja tripudians
+24720322 CODE 2270-Naphthalinum
+1312502 CODE 2271-Naphthochinonum
+2475661 CODE 2272-Naphtholum
+42123165 CODE 2273-Narcissus poeticus
+7112392 CODE 2274-Narcissus pseudonarcissus
+31148118 CODE 2275-Nardostachys jatamansi
+31837552 CODE 2276-Nasturtium aquaticum
+12151610 CODE 2277-Nasturtium aquaticum spag.
+15342352 CODE 2278-Natrium aceticum
+15415737 CODE 2279-Natrium anilarsinicum
+1592696 CODE 2280-Natrium arsanilicum
+15809558 CODE 2281-Natrium arsenicicum
+15809984 CODE 2282-Natrium arsenicosum
+15848103 CODE 2283-Natrium arseno-methylatum
+15820847 CODE 2284-Natrium benzoicum
+15102188 CODE 2285-Natrium bicarbonicum
+15102279 CODE 2286-Natrium bichromicum
+15814317 CODE 2287-Natrium bromatum
+15622160 CODE 2288-Natrium cacodylum
+1597872 CODE 2289-Natrium carbonicum
+15381098 CODE 2290-Natrium causticum
+15371046 CODE 2291-Natrium chloratum
+1511815 CODE 2292-Natrium chloricum
+15113122 CODE 2293-Natrium choleinicum
+15398549 CODE 2294-Natrium cinnamylicum
+15361590 CODE 2295-Natrium citricum
+15311188 CODE 2296-Natrium cyanatum
+1510168 CODE 2297-Natrium ferrocyanatum
+1593746 CODE 2298-Natrium fluoratum
+1549253 CODE 2299-Natrium formicicum
+15678118 CODE 2300-Natrium glutamicum
+75111078 CODE 2301-Natrium glycerino-phosphoricum
+15341199 CODE 2302-Natrium hippuricum
+15791371 CODE 2303-Natrium hypochlorosum
+15741134 CODE 2304-Natrium hypophosphorosum
+15747589 CODE 2305-Natrium hyposulfurosum
+1557100 CODE 2306-Natrium jodatum
+15242124 CODE 2307-Natrium kakodylicum
+15413124 CODE 2308-Natrium lacticum
+27674129 CODE 2309-Natrium nitricum
+1518868 CODE 2310-Natrium nitroprussicum
+27674798 CODE 2311-Natrium nitrosum
+15971437 CODE 2312-Natrium oleinicum
+15109478 CODE 2313-Natrium o-phenylphenolat
+27693926 CODE 2314-Natrium oxalicum
+15193616 CODE 2315-Natrium phosphoricum
+15135695 CODE 2316-Natrium pyrophosphoricum
+15201472 CODE 2317-Natrium salicylicum
+1585647 CODE 2318-Natrium santoninicum
+15101210 CODE 2319-Natrium selenicum
+15316548 CODE 2320-Natrium silicicum
+15105189 CODE 2321-Natrium silico-fluoratum
+1569215 CODE 2322-Natrium succinicum
+1587796 CODE 2323-Natrium sulfocarbolicum
+15821814 CODE 2324-Natrium sulfuratum
+15821791 CODE 2325-Natrium sulfuricum
+1588123 CODE 2326-Natrium sulfurosum
+15157107 CODE 2327-Natrium tartaricum
+15113999 CODE 2328-Natrium telluricum
+15547748 CODE 2329-Natrium thiosulfuricum
+15647215 CODE 2330-Natrium vanadinicum
+27674330 CODE 2331-Natriumcyclamat
+1555117 CODE 2332-Natriumtaurocholat
+1891490 CODE 2333-Nectandra amara
+18861163 CODE 2334-Nectandra puchury majoris
+1021578 CODE 2335-Negundium americanum
+11135199 CODE 2336-Nelumbo nucifera
+15913913 CODE 2337-Neodymum oxydatum
+1270129 CODE 2338-Neomycinsulfat
+15912144 CODE 2339-Nepenthes distillatoria
+7471598 CODE 2340-Nerium odorum
+71414226 CODE 2341-Neurinum
+14109279 CODE 2342-Niccolum aceticum
+14141117 CODE 2343-Niccolum bromatum
+1414667 CODE 2344-Niccolum carbonicum
+1414169 CODE 2345-Niccolum chloratum
+14631048 CODE 2346-Niccolum metallicum
+1460899 CODE 2347-Niccolum nitricum
+14146279 CODE 2348-Niccolum oxalicum
+1414917 CODE 2349-Niccolum oxydatum
+14108172 CODE 2350-Niccolum sulfuricum
+7654226 CODE 2351-Nicotinum
+1915747 CODE 2352-Nigella damascena
+19610147 CODE 2353-Nigella sativa
+19773102 CODE 2354-Nigella sativa spag.
+41267889 CODE 2355-Nigredo
+11160109 CODE 2356-Niobium metallicum
+61215513 CODE 2357-Nitrobenzolum
+6831411 CODE 2358-Nitrofurantoinum
+61561363 CODE 2359-Nitroverdünnung
+21121627 CODE 2360-Nix
+82189710 CODE 2361-Norethistheronum
+95118722 CODE 2362-Nuphar luteum
+15161319 CODE 2363-Nuphar luteum spag.
+41193351 CODE 2364-Nutztierhaare Mix
+41115115 CODE 2365-Nutztierhaare Mix spag.
+78895100 CODE 2366-Nux moschata
+23151018 CODE 2367-Nux moschata spag.
+7813587 CODE 2368-Nux vomica
+16921255 CODE 2369-Nux vomica spag.
+7225810 CODE 2370-Nyckterinia
+1452568 CODE 2371-Nyctanthes arbor-tristis
+14591538 CODE 2372-Nymphaea alba
+10158157 CODE 2373-Nymphaea alba spag.
+1014616 CODE 2374-Nymphaea odorata
+71364107 CODE 2375-Ocimum canum
+11131598 CODE 2376-Ocimum gratissimum
+1343061 CODE 2377-Octopus vulgaris
+5105134 CODE 2378-Oenanthe crocata
+51055454 CODE 2379-Oenanthe crocata spag.
+5168017 CODE 2380-Oenothera biennis
+51681143 CODE 2381-Oenothera biennis spag.
+11882036 CODE 2382-Oestradiolum benzoicum
+11131134 CODE 2383-Oestrus cameli
+21517121 CODE 2384-Okoubaka
+11319315 CODE 2385-Olea europaea
+11139352 CODE 2386-Olea europaea spag.
+7299596 CODE 2387-Oleander
+11322129 CODE 2388-Oleander spag.
+73151461 CODE 2389-Oleum album
+1113794 CODE 2390-Oleum animale aethereum
+73151252 CODE 2391-Oleum anisi
+11161316 CODE 2392-Oleum arachidis
+1131484 CODE 2393-Oleum cajeputi
+11312125 CODE 2394-Oleum caryophylli
+31318813 CODE 2395-Oleum chamomillae coeruleum
+11994107 CODE 2396-Oleum chaulmoograe
+1111803 CODE 2397-Oleum chenopodii anthelminthici
+1185159 CODE 2398-Oleum crotonis
+11711339 CODE 2399-Oleum eucalypti
+1117309 CODE 2400-Oleum gaultheriae
+11575222 CODE 2401-Oleum jecoris aselli
+91011952 CODE 2402-Oleum juniperi empyreumaticum
+1157149 CODE 2403-Oleum myristicae
+73105441 CODE 2404-Oleum rizini
+73109144 CODE 2405-Oleum rubrum
+11121020 CODE 2406-Oleum rosmarini
+11712104 CODE 2407-Oleum santali
+73172116 CODE 2408-Oleum sesami
+1191157 CODE 2409-Oleum sinapis nigrae
+11751610 CODE 2410-Oleum succini
+11341012 CODE 2411-Oleum therebinthinae
+7310132 CODE 2412-Oleum thymi
+11117134 CODE 2413-Oleum valerianae
+7102113 CODE 2414-Olibanum
+5495148 CODE 2415-Ononis spinosa
+54159157 CODE 2416-Ononis spinosa spag.
+10687156 CODE 2417-Ononis spinosa e radice recente
+52012713 CODE 2418-Onopordon acanthium
+52012795 CODE 2419-Onopordon acanthium spag.
+12711105 CODE 2420-Onosmodium virginicumum
+17113427 CODE 2421-Oophorinum
+6757829 CODE 2422-Operculina turpethum
+66100511 CODE 2423-Opium
+1969137 CODE 2424-Opopanax chironium
+38122716 CODE 2425-Opuntia streptacantha
+31171083 CODE 2426-Opuntia vulgaris
+31181011 CODE 2427-Opuntia vulgaris spag.
+7167178 CODE 2428-Orchis moro
+14157119 CODE 2429-Orchis moro spag.
+7161186 CODE 2430-Orchitinum
+10721534 CODE 2431-Oreodaphne californica
+10191520 CODE 2432-Oreoselinum athamanta
+81011616 CODE 2433-Orgonum concentratum
+2049434 CODE 2434-Origanum creticum
+20313997 CODE 2435-Origanum vulgare
+20719457 CODE 2436-Origanum vulgare spag.
+7710589 CODE 2437-Origo mundis
+15812827 CODE 2438-Ornithin-Aspartat
+15698773 CODE 2439-Ornithogalum umbellatum
+15698207 CODE 2440-Ornithogalum umbellatum spag.
+1219511 CODE 2441-Ornithogalum umbellatum e foliis
+15741124 CODE 2442-Orontium aquaticum
+10121341 CODE 2443-Orthosiphon stamineus
+2641010 CODE 2444-Orthosiphon stamineus spag.
+65121349 CODE 2445-Osmium metallicum
+91023119 CODE 2446-Osmunda regalis
+4422561 CODE 2447-Ossae hominis
+48181111 CODE 2448-Ossae hominis spag.
+41413999 CODE 2449-Ossae tostae hominis
+91391810 CODE 2450-Ossae tostae hominis spag.
+4413874 CODE 2451-Ossae sepiae
+64108911 CODE 2452-Ostitis
+37897610 CODE 2453-Ostitis chronica
+18312140 CODE 2454-Ostrya virginica
+6451312 CODE 2455-Ova formicarum
+1112128 CODE 2456-Ova tosta
+11111562 CODE 2457-Ovarium
+66330511 CODE 2458-Ovinum
+81695298 CODE 2459-Ovi gallinae pellicula
+88711013 CODE 2460-Oxalis acetosella
+88721427 CODE 2461-Oxalis acetosella spag.
+14971187 CODE 2462-Oxycamphora
+6161243 CODE 2463-Oxydendron arboreum
+10671518 CODE 2464-Oxytropis lambertii
+12616226 CODE 2465-Ozonum
+48810712 CODE 2466-Padus avium
+49825533 CODE 2467-Paeonia officinalis
+49812511 CODE 2468-Paeonia officinalis spag.
+16871091 CODE 2469-Palladium metallicum
+42511289 CODE 2470-Paloondo
+4128513 CODE 2471-Pambotano
+1113906 CODE 2472-Panacea arvensis
+1152166 CODE 2473-Panax Ginseng
+1159718 CODE 2474-Panax Ginseng spag.
+9397929 CODE 2475-Pancreas
+9191255 CODE 2476-Pancreatinum
+12610170 CODE 2477-Panna
+9851310 CODE 2478-Papaver dubium
+9821186 CODE 2479-Papaver nudicaule
+91661452 CODE 2480-Papaver rhoeas
+9131084 CODE 2481-Papaver rhoeas spag.
+96182915 CODE 2482-Papaverinum hydrochloricum
+4151899 CODE 2483-Papayotinum
+41096121 CODE 2484-Paracetamol
+4148726 CODE 2485-Paraffinum
+47171610 CODE 2486-Paraldehydum
+13111711 CODE 2487-Paratyphoidinum
+48218751 CODE 2488-Pareira brava
+14161312 CODE 2489-Pareira brava spag.
+4146411 CODE 2490-Parietaria
+11151179 CODE 2491-Paris quadrifolia
+11159118 CODE 2492-Paris quadrifolia spag.
+13144719 CODE 2493-Parnassia palustris
+42183362 CODE 2494-Parotidinum
+11168137 CODE 2495-Passiflora edulis
+11165107 CODE 2496-Passiflora incarnata
+3651098 CODE 2497-Passiflora incarnata spag.
+18810147 CODE 2498-Pastinaca sativa
+18829102 CODE 2499-Pastinaca sativa spag.
+6736277 CODE 2500-Patchouly
+47181321 CODE 2501-PCB
+12121929 CODE 2502-Pedicularis canadensis
+12932712 CODE 2503-Pediculus
+1035101 CODE 2504-Pediculus humanus capitis
+6288957 CODE 2505-Peganum harmala
+1217496 CODE 2506-Pel talpae
+5987311 CODE 2507-Pelargonium reniforme
+10945142 CODE 2508-Pendimethalinum
+2171318 CODE 2509-Penghawar Djambi
+76996102 CODE 2510-Penicillinum G
+22741913 CODE 2511-Penicillium glabrum
+22814222 CODE 2512-Penicillium notatum
+22753113 CODE 2513-Penicillium roquefortii
+11101510 CODE 2514-Penicillium stoloniferum
+10231587 CODE 2515-Pentachlorphenol
+14101443 CODE 2516-Penthorum sedoides
+53154322 CODE 2517-Pepsinum
+5388322 CODE 2518-Peptonum
+10774155 CODE 2519-Perchloraethylenum
+41551942 CODE 2520-Perilla ocymoides
+41118127 CODE 2521-Periploca graeca
+12512137 CODE 2522-Permethrinum
+4591213 CODE 2523-Persea gratissima
+47691061 CODE 2524-Persica vulgaris
+12322726 CODE 2525-Pertussinum
+51610915 CODE 2526-Petasites
+12231254 CODE 2527-Petasites spag.
+1329557 CODE 2528-Petiveria tetrandra
+71153338 CODE 2529-Petroleum rectificatum
+51113139 CODE 2530-Petroselinum
+75101254 CODE 2531-Petroselinum spag.
+7510564 CODE 2532-Petroselinum e seminibus
+73131779 CODE 2533-Peucedanum officinale
+73136238 CODE 2534-Peucedanum oreoselinum
+12818118 CODE 2535-Pferdehaare Mix
+12810109 CODE 2536-Pferdehaare Mix spag.
+5211111 CODE 2537-Phalaris canariensis
+5710588 CODE 2538-Phascolarctos cinereus
+14955835 CODE 2539-Phaseolus multiflorus
+1499169 CODE 2540-Phaseolus nanus
+14916109 CODE 2541-Phaseolus nanus spag.
+14737818 CODE 2542-Phaseolus vulgaris e planta tota
+14151411 CODE 2543-Phaseolus vulgaris spag.
+35513917 CODE 2544-PHB-Ester
+85387226 CODE 2545-Phellandrium
+1610502 CODE 2546-Phellandrium spag.
+81811134 CODE 2547-Phenacetinum
+13411126 CODE 2548-Phenolphtaleinum
+88512107 CODE 2549-Phenolum
+81626146 CODE 2550-Phenylalaninum
+15141763 CODE 2551-Phenyldimethylpyrazolonum
+15161072 CODE 2552-Phenylendiaminum
+1571229 CODE 2553-Phenylhydrazinum
+15178117 CODE 2554-Phenylsalicylat
+2715132 CODE 2555-Philadelphus coronarius
+4833610 CODE 2556-Philodendron pertusum
+1727115 CODE 2557-Phleum pratense
+32126377 CODE 2558-Phoratum
+98118122 CODE 2559-Phloridizinum
+37107214 CODE 2560-Phosphorus
+1116441 CODE 2561-Phosphorus amorphus
+10111944 CODE 2562-Physalis alkekengi
+21114103 CODE 2563-Physalis alkekengi spag.
+10123107 CODE 2564-Physalis physalia
+6124135 CODE 2565-Physostigminum hydrobromicum
+61241023 CODE 2566-Physostigminum hydrochloricum
+10511758 CODE 2567-Physostigminum purum
+6111816 CODE 2568-Physostigminum salicylicum
+6125148 CODE 2569-Physostigminum sulfuricum
+1067473 CODE 2570-Phyteuma spicatum
+10618112 CODE 2571-Phyteuma spicatum spag.
+41016446 CODE 2572-Phthirus pubis
+32856171 CODE 2573-Phytolacca
+13104619 CODE 2574-Phytolacca spag.
+1310845 CODE 2575-Phytolacca e baccis
+1310767 CODE 2576-Phytolacca e foliis
+5615564 CODE 2577-Pichi-Pichi
+7122277 CODE 2578-Picrorhiza kurroa
+71113133 CODE 2579-Picrotoxinum
+15747286 CODE 2580-Pilocarpinum hydrochloricum
+10561415 CODE 2581-Pilus equinus
+32152531 CODE 2582-Pimpinella alba
+38101181 CODE 2583-Pimpinella alba spag.
+10142734 CODE 2584-Pinguicula vulgaris
+2427125 CODE 2585-Pinguicula vulgaris spag.
+8369215 CODE 2586-Pinus abies
+1481089 CODE 2587-Pinus lambertiana
+12211118 CODE 2588-Pinus montana
+16111260 CODE 2589-Pinus silvestris
+16119253 CODE 2590-Pinus silvestris spag.
+5194771 CODE 2591-Piper chaba
+15184619 CODE 2592-Piper chaba spag.
+51981962 CODE 2593-Piper longum
+15187213 CODE 2594-Piper longum spag
+1574169 CODE 2595-Piper methysticum
+13111711 CODE 2596-Piper methysticum spag.
+5195863 CODE 2597-Piper nigrum
+51223427 CODE 2598-Piperazinum
+43771768 CODE 2599-Pirola rotundifolia
+43152281 CODE 2600-Pirola rotundifolia spag.
+12117312 CODE 2601-Pirus malus
+4118212 CODE 2602-Pirus malus spag.
+11317589 CODE 2603-Piscidia erythrina
+5712726 CODE 2604-Pituitrinum
+5117738 CODE 2605-Pix betulina
+51711149 CODE 2606-Pix crudum
+5169347 CODE 2607-Pix liquida
+11533171 CODE 2608-Placenta
+7828171 CODE 2609-Placenta humana
+31411159 CODE 2610-Plantago lanceolata
+8111285 CODE 2611-Plantago lanceolata spag.
+31021813 CODE 2612-Plantago major
+31011572 CODE 2613-Plantago major spag.
+34512135 CODE 2614-Plantago media
+11774404 CODE 2615-Plasma equi
+1162112 CODE 2616-Platanus
+31578610 CODE 2617-Platinum chloratum
+3151274 CODE 2618-Platinum dijodatum
+31813952 CODE 2619-Platinum metallicum
+7562156 CODE 2620-Platinum natrium chloratum
+81054148 CODE 2621-Plectranthus fruticosus
+4113923 CODE 2622-Plumbago europaea
+4111077 CODE 2623-Plumbago littoralis
+41189138 CODE 2624-Plumbago zeylanica
+1113424 CODE 2625-Plumbum aceticum
+1113125 CODE 2626-Plumbum arsenicicum
+11131235 CODE 2627-Plumbum arsenicosum
+11688177 CODE 2628-Plumbum bromatum
+11112969 CODE 2629-Plumbum carbonicum
+11915973 CODE 2630-Plumbum chloratum
+1193152 CODE 2631-Plumbum chromicum
+1181773 CODE 2632-Plumbum jodatum
+11160109 CODE 2633-Plumbum metallicum
+11671148 CODE 2634-Plumbum nitricum
+12869156 CODE 2635-Plumbum oleatum
+11170171 CODE 2636-Plumbum oxydatum
+11141213 CODE 2637-Plumbum phosphoricum
+34111610 CODE 2638-Plumbum stibio-bismuthum
+11141202 CODE 2639-Plumbum sulfuratum
+1114198 CODE 2640-Plumbum sulfuricum
+11148315 CODE 2641-Plumbum tetra-aethylicum
+4655815 CODE 2642-Plumeria cellinus
+45958138 CODE 2643-Plutonium nitricum
+10101686 CODE 2644-Pneumococcinum
+27154139 CODE 2645-Pneumotoxinum
+11131690 CODE 2646-Podophyllinum
+31713102 CODE 2647-Podophyllum
+11131381 CODE 2648-Podophyllum spag.
+6780492 CODE 2649-Polemonium caeruleum
+31217427 CODE 2650-Pollantinum
+3122259 CODE 2651-Pollen Mix
+62259109 CODE 2652-Pollen Mix spag.
+36794996 CODE 2653-Polyester
+10161012 CODE 2654-Polygala amara
+1016329 CODE 2655-Polygala amara spag.
+2610222 CODE 2656-Polygonatum multiflorum
+10916612 CODE 2657-Polygonum amphibium
+10910897 CODE 2658-Polygonum aviculare
+1026108 CODE 2659-Polygonum aviculare spag.
+10151541 CODE 2660-Polygonum bistorta
+25151410 CODE 2661-Polygonum bistorta spag.
+10973179 CODE 2662-Polygonum maritinum
+10159713 CODE 2663-Polygonum persicaria
+2597167 CODE 2664-Polygonum persicaria spag.
+10155656 CODE 2665-Polygonum punctatum
+10151256 CODE 2666-Polygonum sagittatum
+1015757 CODE 2667-Polygonum vulgare
+2571615 CODE 2668-Polygonum vulgare spag.
+31924189 CODE 2669-Polymerisat
+81518815 CODE 2670-Polymnia uvedalia
+81126138 CODE 2671-Polypodium vulgare
+88972244 CODE 2672-Polyporus pinicola
+82512169 CODE 2673-Polyporus umbellatus
+31492170 CODE 2674-Polystyrolum
+12107150 CODE 2675-Polytrichum juniperinum
+89512720 CODE 2676-Polyvinylchlorid
+82281513 CODE 2677-Polyvinylpyrrolidon
+48144121 CODE 2678-Populus alba
+13924619 CODE 2679-Populus alba spag.
+13987166 CODE 2680-Populus alba e cortice
+1398617 CODE 2681-Populus alba e foliis
+1310899 CODE 2682-Populus candicans
+5081711 CODE 2683-Populus candicans spag.
+48148140 CODE 2684-Populus nigra
+13467977 CODE 2685-Populus pyramidalis
+13171779 CODE 2686-Populus pyramidalis spag.
+1371912 CODE 2687-Populus tremula
+1371877 CODE 2688-Populus tremula spag.
+13714284 CODE 2689-Populus tremuloides
+1167412 CODE 2690-Populus tremuloides e foliis
+64671189 CODE 2691-Porcellanum misniense
+3881510 CODE 2692-Portulaca
+19712214 CODE 2693-Portulaca spag.
+3171933 CODE 2694-Positronum
+9101920 CODE 2695-Potamogeton natans
+51014125 CODE 2696-Potentilla anserina
+51014513 CODE 2697-Potentilla anserina spag.
+51001111 CODE 2698-Potentilla aurea
+51023774 CODE 2699-Potentilla aurea spag.
+5946141 CODE 2700-Potentilla recta
+59116378 CODE 2701-Potentilla recta spag.
+59468153 CODE 2702-Potentilla reptans
+14117511 CODE 2703-Poterium spinosum
+41219182 CODE 2704-Praseodymum oxydatum
+3610997 CODE 2705-Prenanthes serpentaria
+3054768 CODE 2706-Prima materia
+32091112 CODE 2707-Primula farinosa
+31413648 CODE 2708-Primula obconica
+11158426 CODE 2709-Primula veris
+31746107 CODE 2710-Primula veris spag.
+14719767 CODE 2711-Principium hermeticum I
+1471979 CODE 2712-Principium hermeticum II
+14719714 CODE 2713-Principium hermeticum III
+14719710 CODE 2714-Principium hermeticum IV
+14719768 CODE 2715-Principium hermeticum V
+14719764 CODE 2716-Principium hermeticum VI
+14719715 CODE 2717-Principium hermeticum VII
+89141046 CODE 2718-Prionurus australis
+92111458 CODE 2719-Procainum hydrochloricum
+1854149 CODE 2720-Prolinum
+1433133 CODE 2721-Promethazinum
+6111175 CODE 2722-Propionibacterium acnes
+61111162 CODE 2723-Propionibacterium avidum
+1876288 CODE 2724-Propolis
+18981422 CODE 2725-Propylaminum
+1820911 CODE 2726-Propylthiouracilum
+18711010 CODE 2727-Prostata
+1317810 CODE 2728-Proteus vulgaris
+1197516 CODE 2729-Prunella vulgaris
+11216319 CODE 2730-Prunus mahaleb
+30111015 CODE 2731-Prunus padus e cortice
+30111415 CODE 2732-Prunus padus e floribus
+3011154 CODE 2733-Prunus padus e foliis
+11101110 CODE 2734-Prunus padus spag.
+11701713 CODE 2735-Prunus serotina
+1182112 CODE 2736-Prunus spinosa
+11886164 CODE 2737-Prunus spinosa spag.
+41513107 CODE 2738-Pseudomonas aeruginosa
+1121091 CODE 2739-Psoralia bituminosa
+11281414 CODE 2740-Psoralia corylifolia
+1110613 CODE 2741-Psorinum
+11315016 CODE 2742-Ptelea trifoliata
+11134777 CODE 2743-Pteridium aquilinum
+11138037 CODE 2744-Pteroxylum obliquum
+97641047 CODE 2745-Ptychotis ajowan
+18561717 CODE 2746-Pueraria lobata
+18128134 CODE 2747-Pueraria lobata spag.
+18116747 CODE 2748-Pueraria mirifica
+18911127 CODE 2749-Pueraria tuberosa
+20551391 CODE 2750-Pulex irritans
+2910116 CODE 2751-Pulmo vulpis
+29451516 CODE 2752-Pulmonaria vulgaris
+29411512 CODE 2753-Pulmonaria vulgaris spag.
+10128911 CODE 2754-Pulpitis
+21164111 CODE 2755-Pulpitis acuta
+10161028 CODE 2756-Pulsatilla
+27139710 CODE 2757-Pulsatilla nuttaliana
+10231111 CODE 2758-Pulsatilla vulgaris spag.
+63139177 CODE 2759-Pulvis proiectionis album
+10391015 CODE 2760-Pulvis proiectionis rubrum
+6189169 CODE 2761-Pulvis solaris
+61498052 CODE 2762-Pyoctaninum coeruleum
+5104057 CODE 2763-Pyrethrum
+67159620 CODE 2764-Pyrethrum roseum e floribus
+60121720 CODE 2765-Pyridoxinum hydrochloricum
+13491597 CODE 2766-Pyrit
+57318561 CODE 2767-Pyrocarbonum
+57144226 CODE 2768-Pyrogenium
+57148205 CODE 2769-Pyrogenium avis
+1313979 CODE 2770-Pyrogenium crustaceen
+13140810 CODE 2771-Pyrogenium ex ovo
+53196175 CODE 2772-Pyrogenium Salzwasserfisch
+13481620 CODE 2773-Pyrogenium suis
+5711166 CODE 2774-Pyrogenium Suesswasserfisch
+88912238 CODE 2775-Quallentoxin
+25111410 CODE 2776-Quarz
+8158666 CODE 2777-Quassia amara
+14201519 CODE 2778-Quassia amara spag.
+1411618 CODE 2779-Quassia cedron
+16847613 CODE 2780-Quebracho
+1596214 CODE 2781-Quebracho spag.
+91410547 CODE 2782-Quercus e cortice
+14108108 CODE 2783-Quercus e cortice spag.
+91410908 CODE 2784-Quercus e glandibus
+14109810 CODE 2785-Quercus e glandibus spag.
+91391474 CODE 2786-Quercus glandium spiritus
+25871069 CODE 2787-Quillaya
+14221254 CODE 2788-Quillaya spag.
+41512122 CODE 2789-Racedrinum
+34688177 CODE 2790-Radium bromatum
+72971515 CODE 2791-Ranunculus acer
+71871743 CODE 2792-Ranunculus acer spag.
+7127983 CODE 2793-Ranunculus bulbosus
+71272118 CODE 2794-Ranunculus bulbosus spag.
+7125321 CODE 2795-Ranunculus ficaria
+71258134 CODE 2796-Ranunculus ficaria spag.
+71218158 CODE 2797-Ranunculus flammula
+71293125 CODE 2798-Ranunculus glacialis
+7126210 CODE 2799-Ranunculus repens
+71251972 CODE 2800-Ranunculus sceleratus
+1056753 CODE 2801-Raphanistrum arvense
+10567153 CODE 2802-Raphanistrum arvense spag.
+10311218 CODE 2803-Raphanus sativus
+10348164 CODE 2804-Raphanus sativus spag.
+41711107 CODE 2805-Ratanhia
+12316109 CODE 2806-Ratanhia spag.
+4759477 CODE 2807-Rauwolfia
+12101255 CODE 2808-Rauwolfia spag.
+82116188 CODE 2809-Remija purdieana
+11534815 CODE 2810-Renine
+11614178 CODE 2811-Reseda lutea
+11821220 CODE 2812-Reseda odorata
+1199427 CODE 2813-Reserpinum
+6118634 CODE 2814-Resina laricis
+1191390 CODE 2815-Resistinum
+11618121 CODE 2816-Resorcinum
+3041016 CODE 2817-Rhamnus californica
+1110790 CODE 2818-Rhamnus cathartica
+11107928 CODE 2819-Rhamnus cathartica spag.
+10711058 CODE 2820-Rhenium metallicum
+10768866 CODE 2821-Rheum
+81022102 CODE 2822-Rheum spag.
+91142113 CODE 2823-Rheum e radice recente
+94011510 CODE 2824-Rheum raponticum
+4697203 CODE 2825-Rhinanthus alectorolophus
+4614158 CODE 2826-Rhinanthus major spag.
+2116113 CODE 2827-Rhinanthus minor
+7742728 CODE 2828-Rhodallin
+1597101 CODE 2829-Rhodiola rosea
+15351279 CODE 2830-Rhodium chloratum
+1514824 CODE 2831-Rhodium metallicum
+15016611 CODE 2832-Rhododendron
+13217412 CODE 2833-Rhododendron ferrugineum
+1310512 CODE 2834-Rhododendron ferrugineum spag.
+1571669 CODE 2835-Rhododendron ponticum
+71044929 CODE 2836-Rhus aromatica
+71041663 CODE 2837-Rhus cotinus
+8808207 CODE 2838-Rhus diversiloba
+71099158 CODE 2839-Rhus glabra
+89161427 CODE 2840-Rhus juglandifolia
+81541211 CODE 2841-Rhus radicans
+8154512 CODE 2842-Rhus toxicodendron
+14451210 CODE 2843-Rhus toxicodendron spag.
+14101445 CODE 2844-Rhus toxicodendron e summitis rectis
+71020454 CODE 2845-Rhus venenata
+71025949 CODE 2846-Rhus vernix
+6103768 CODE 2847-Ribes nigrum
+71684411 CODE 2848-Ribes nigrum spag.
+71611193 CODE 2849-Ribes nigrum e baccis
+7161179 CODE 2850-Ribes nigrum e foliis
+6114322 CODE 2851-Ricinum
+13101294 CODE 2852-Ricinus communis
+5012149 CODE 2853-Ricinus communis spag.
+18151011 CODE 2854-Rinderhaare Mix
+1815238 CODE 2855-Rinderhaare Mix spag.
+79981337 CODE 2856-Rinderplasma
+14135750 CODE 2857-Robinia pseudoacacia
+6357159 CODE 2858-Robinia pseudoacacia spag.
+21541095 CODE 2859-Rosa canina
+8592175 CODE 2860-Rosa canina spag.
+85134968 CODE 2861-Rosa canina e fructibus
+14161572 CODE 2862-Rosa canina e fructibus spag.
+84812916 CODE 2863-Rosa centifolia
+87671527 CODE 2864-Rosa damascena
+21546982 CODE 2865-Rosa spag.
+33613273 CODE 2866-Rosmarinus officinalis
+12131714 CODE 2867-Rosmarinus officinalis spag.
+2893912 CODE 2868-Rotenon
+11104889 CODE 2869-Rubedo
+5841323 CODE 2870-Rubia cordifolia
+5511887 CODE 2871-Rubia tinctorum
+61278513 CODE 2872-Rubidium chloratum
+65111410 CODE 2873-Rubus fruticosus
+6511682 CODE 2874-Rubus fruticosus spag.
+67387934 CODE 2875-Rubus idaeus e foliis
+67386107 CODE 2876-Rubus idaeus spag.
+18914108 CODE 2877-Rudbeckia hirta
+18149352 CODE 2878-Rudbeckia hirta spag.
+9312889 CODE 2879-Rumex acetosa
+9688970 CODE 2880-Rumex acetosella
+96251718 CODE 2881-Rumex acetosella spag.
+93781011 CODE 2882-Rumex crispus
+91616625 CODE 2883-Rumex obtusifolius
+97814120 CODE 2884-Rumex patientia
+8107129 CODE 2885-Rumex spag.
+19718115 CODE 2886-Ruscus aculeatus
+31209810 CODE 2887-Ruta graveolens
+1123109 CODE 2888-Ruta spag.
+63102817 CODE 2889-Ruthenium chloratum
+63531362 CODE 2890-Ruthenium metallicum
+11994149 CODE 2891-Rutinum
+78819710 CODE 2892-Sabadilla
+16164411 CODE 2893-Sabadilla spag.
+24466167 CODE 2894-Sabal serrulatum
+24169375 CODE 2895-Sabal serrulatum spag.
+1714324 CODE 2896-Sabatia angularis
+71316310 CODE 2897-Sabdariffa
+1426338 CODE 2898-Sabina
+71241157 CODE 2899-Sabina spag.
+77247322 CODE 2900-Saccharinum
+16191511 CODE 2901-Saccharinum raffinatum
+16918174 CODE 2902-Saccharis officinarum
+16489615 CODE 2903-Saccharum album
+1621833 CODE 2904-Saccharum amylaceum
+1613612 CODE 2905-Saccharum lactis
+1579914 CODE 2906-Sagitta sagittifolia
+7978833 CODE 2907-Sal carolinum
+77394226 CODE 2908-Sal marinum
+16111863 CODE 2909-Sal weissenburg
+1767810 CODE 2910-Salamandra maculata
+71064322 CODE 2911-Salipyrinum
+7553210 CODE 2912-Salix alba
+1764411 CODE 2913-Salix alba spag.
+75118150 CODE 2914-Salix nigra
+13167119 CODE 2915-Salix nigra spag.
+13741013 CODE 2916-Salix purpurea
+13124352 CODE 2917-Salix purpurea spag.
+7161822 CODE 2918-Salolum
+17146111 CODE 2919-Salvia e floribus
+16818718 CODE 2920-Salvia officinalis
+16179107 CODE 2921-Salvia officinalis spag.
+16468153 CODE 2922-Salvia pratensis
+75411824 CODE 2923-Salvia sclarea
+11159929 CODE 2924-Samarium oxydatum
+13187282 CODE 2925-Sambucus canadensis
+13994163 CODE 2926-Sambucus ebulus
+13221118 CODE 2927-Sambucus ebulus spag.
+13961117 CODE 2928-Sambucus nigra
+56105811 CODE 2929-Sambucus nigra e cortice
+13161081 CODE 2930-Sambucus nigra spag.
+81491777 CODE 2931-Sanguinaria
+13156128 CODE 2932-Sanguinaria spag.
+13118862 CODE 2933-Sanguinarinum nitricum
+5181211 CODE 2934-Sanguinarinum tartaricum
+1397159 CODE 2935-Sanguis draconis
+13127102 CODE 2936-Sanguis suis
+1343178 CODE 2937-Sanguis totalis
+1126120 CODE 2938-Sanguisorba officinalis
+11261228 CODE 2939-Sanguisorba officinalis spag.
+1015918 CODE 2940-Sanicula europaea
+2591171 CODE 2941-Sanicula europaea spag.
+81189777 CODE 2942-Sansevieria
+13117483 CODE 2943-Santalum album
+1392131 CODE 2944-Santalum album spag.
+1393157 CODE 2945-Santalum rubrum
+1399728 CODE 2946-Santalum rubrum spag.
+89108427 CODE 2947-Santoninum
+9266415 CODE 2948-Sapo domesticus
+92081510 CODE 2949-Sapo medicatus
+71191158 CODE 2950-Saponaria
+99741157 CODE 2951-Saponaria spag.
+71193361 CODE 2952-Saponinum
+1781610 CODE 2953-Saraca indica
+14848484 CODE 2954-Sarcoptes canis
+23151427 CODE 2955-Sarracenia purpurea
+71183111 CODE 2956-Sarsaparilla
+91210119 CODE 2957-Sarsaparilla spag.
+7148264 CODE 2958-Sassafras
+12113619 CODE 2959-Sassafras spag.
+15551150 CODE 2960-Satureja hortensis
+15557253 CODE 2961-Satureja hortensis spag.
+16411991 CODE 2962-Saussurea lappa
+81264157 CODE 2963-Saxifraga
+1176128 CODE 2964-Saxifraga spag.
+1177487 CODE 2965-Saxifraga sarmentosa
+1520887 CODE 2966-Scabiosa succisa
+6112192 CODE 2967-Scammonium
+17151614 CODE 2968-Scandium oxydatum
+61351862 CODE 2969-Scarlatinum
+61332062 CODE 2970-Scatolum
+20181212 CODE 2971-Sceletium tortuosum
+91249913 CODE 2972-Schafwolle Mix
+97243212 CODE 2973-Schafwolle Mix spag.
+9614811 CODE 2974-schaumstoff Mix
+61916123 CODE 2975-Schiefer
+8925129 CODE 2976-Schimmelpilz Mix
+89823619 CODE 2977-Schimmelpilz Mix spag.
+17111116 CODE 2978-Schlafzimmerstaub Mix
+91111718 CODE 2979-Schlafzimmerstaub Mix spag.
+6021710 CODE 2980-Scilla
+63174438 CODE 2981-Scilla spag.
+10161106 CODE 2982-Scirpus lacustris
+63824149 CODE 2983-Scirrhinum
+16111010 CODE 2984-Scolopendra
+16111087 CODE 2985-Scolopendrium
+16395128 CODE 2986-Scolopendrium spag.
+4456103 CODE 2987-Scopolaminum hydrobromicum
+4457198 CODE 2988-Scopolaminum hydrochloricum
+1111158 CODE 2989-Scopolia japonica
+6291261 CODE 2990-Scordium
+17910127 CODE 2991-Scordium spag.
+15516113 CODE 2992-Scorpio europaeus
+9981637 CODE 2993-Scrophularia nodosa
+99810116 CODE 2994-Scrophularia nodosa spag.
+8455176 CODE 2995-Scutellaria galericulata
+8433315 CODE 2996-Scutellaria lateriflora
+18381585 CODE 2997-Secale cereale
+12141310 CODE 2998-Secale cereale spag.
+18351012 CODE 2999-Secale cornutum
+1836148 CODE 3000-Secale cornutum spag.
+13278116 CODE 3001-Sedum acre
+62212107 CODE 3002-Sedum acre spag.
+1327877 CODE 3003-Sedum album
+61651347 CODE 3004-Sedum palustre
+61610411 CODE 3005-Sedum repens
+67771213 CODE 3006-Sedum telephium
+62141255 CODE 3007-Sedum telephium spag.
+1459780 CODE 3008-Selaginella
+14981648 CODE 3009-Selenium metallicum
+1313928 CODE 3010-Selinum carviflorum
+1113134 CODE 3011-Sempervivum tectorum
+33133812 CODE 3012-Sempervivum tectorum spag.
+81171578 CODE 3013-Senecio aureus
+8913108 CODE 3014-Senecio aureus spag.
+8344127 CODE 3015-Senecio fuchsii
+8397129 CODE 3016-Senecio fuchsii spag.
+83041418 CODE 3017-Senecio gracilis
+8371360 CODE 3018-Senecio jacobaea
+83710118 CODE 3019-Senecio jacobaea spag.
+8401023 CODE 3020-Senecio vulgaris
+10212181 CODE 3021-Senega
+61041410 CODE 3022-Senega spag.
+14591710 CODE 3023-Senna
+10174619 CODE 3024-Senna spag.
+1497617 CODE 3025-Sepia
+6351816 CODE 3026-Sepia gruneris
+14144149 CODE 3027-Sepsinum
+15361097 CODE 3028-Sequoia gigantea
+14973361 CODE 3029-Serinum
+14143147 CODE 3030-Serotoninum
+14249158 CODE 3031-Serpentaria
+1421082 CODE 3032-Serpyllum
+7912153 CODE 3033-Serpyllum spag.
+14910117 CODE 3034-Serratula tinctoria
+14101162 CODE 3035-Serratula tinctoria spag.
+11141285 CODE 3036-Serum anguillae
+14674617 CODE 3037-Serum equi
+2071017 CODE 3038-Sida cordifolia
+96101173 CODE 3039-Siegesbeckia orientalis
+61111103 CODE 3040-Silberamalgam
+9108716 CODE 3041-Silica marina
+14211377 CODE 3042-Silicea
+96311034 CODE 3043-Silicium metallicum
+14418427 CODE 3044-Siliconum
+14176386 CODE 3045-Silphion
+61423892 CODE 3046-Silphium laciniatum
+12541016 CODE 3047-Simaruba
+2974121 CODE 3048-Sinapis alba
+2207619 CODE 3049-Sinapis alba spag.
+2978140 CODE 3050-Sinapis nigra
+22462214 CODE 3051-Sinapis nigra spag.
+6315993 CODE 3052-Sisyrinchium angustifolium
+15581017 CODE 3053-Sium latifolium
+56127768 CODE 3054-Skookum chuck
+53412163 CODE 3055-Societas
+61217124 CODE 3056-Sol eclipsium
+1348119 CODE 3057-Solaninum aceticum
+1616398 CODE 3058-Solanum arrebenta
+16131010 CODE 3059-Solanum carolinense
+16621510 CODE 3060-Solanum indicum
+16141766 CODE 3061-Solanum lycopersicum
+16102614 CODE 3062-Solanum mammosum
+16615117 CODE 3063-Solanum nigrum
+16124375 CODE 3064-Solanum nigrum spag.
+1610108 CODE 3065-Solanum oleraceum
+1691198 CODE 3066-Solanum pseudocapsicum
+16119891 CODE 3067-Solanum pseudocapsicum spag.
+16121623 CODE 3068-Solanum tuberosum
+82163128 CODE 3069-Solanum tuberosum aegrotans
+8216123 CODE 3070-Solanum tuberosum spag.
+16691598 CODE 3071-Solanum villosum
+16111326 CODE 3072-Solanum xanthocarpum
+4917138 CODE 3073-Solidago canadensis
+12201037 CODE 3074-Solidago virgaurea
+50101460 CODE 3075-Solidago virgaurea spag.
+19101218 CODE 3076-Somatotrophine
+5411060 CODE 3077-Sonchus oleraceus spag.
+71371158 CODE 3078-Sophora japonica
+10211071 CODE 3079-Sorbus americana
+10217165 CODE 3080-Sorbus aucuparia
+3114411 CODE 3081-Sorbus aucuparia spag.
+7418872 CODE 3082-Sparteinum hydrochloricum
+15202098 CODE 3083-Sparteinum sulfuricum
+15672494 CODE 3084-Spartium scoparium
+15151989 CODE 3085-Spartium scoparium spag.
+1073210 CODE 3086-Spigelia
+8647415 CODE 3087-Spigelia marylandica
+83124411 CODE 3088-Spigelia spag.
+68722818 CODE 3089-Spilanthes oleracea
+68111881 CODE 3090-Spilanthes oleracea spag.
+21532818 CODE 3091-Spinacea oleracea
+21719158 CODE 3092-Spiraea ulmaria
+10111211 CODE 3093-Spiraea ulmaria spag.
+21484084 CODE 3094-Spiranthes autumnalis
+1181612 CODE 3095-Spiritus aetheris compositus
+11420511 CODE 3096-Spiritus aetheris nitrosi
+21211659 CODE 3097-Spiritus mercurii
+5610139 CODE 3098-Spiritus querci glandium
+11831077 CODE 3099-Spongia
+31583350 CODE 3100-Spongia marina tosta
+3281294 CODE 3101-Spongia pulvis
+3286127 CODE 3102-Spongia spag.
+20201316 CODE 3103-Stachys recta
+12191046 CODE 3104-Stannum chloratum
+12111100 CODE 3105-Stannum jodatum
+1219147 CODE 3106-Stannum metallicum
+61599779 CODE 3107-Stannum oleatum
+12137814 CODE 3108-Stannum sulfuratum
+41171111 CODE 3109-Stannum sulfuricum oxydatum
+68151811 CODE 3110-Staphisagria
+15143774 CODE 3111-Staphisagria spag.
+22291713 CODE 3112-Staphylococcinum
+22122113 CODE 3113-Staphylococcus aureus
+22101399 CODE 3114-Staphylotoxinum
+21795100 CODE 3115-Stellaria media
+2121254 CODE 3116-Stellaria media spag.
+1088118 CODE 3117-Stibium metallicum
+14861817 CODE 3118-Sticta
+13156129 CODE 3119-Sticta spag.
+10710102 CODE 3120-Stigmata maydis
+1072714 CODE 3121-Stigmata maydis spag.
+51411715 CODE 3122-Stillingia silvatica
+6934322 CODE 3123-Stovainum
+6108939 CODE 3124-Stramonium
+78953212 CODE 3125-Stramonium spag.
+9441485 CODE 3126-Streptococcinum
+94921495 CODE 3127-Streptococcus pyogenes
+9129290 CODE 3128-Streptomycinum
+14188177 CODE 3129-Strontium bromatum
+14141269 CODE 3130-Strontium carbonicum
+14118973 CODE 3131-Strontium chloratum
+1411973 CODE 3132-Strontium jodatum
+14171148 CODE 3133-Strontium nitricum
+16161221 CODE 3134-Strophantinum G
+67316159 CODE 3135-Strophanthus
+16857129 CODE 3136-Strophanthus spag.
+16817258 CODE 3137-Strophanthus hispidus
+16861218 CODE 3138-Strophanthus kombe
+16813352 CODE 3139-Strophanthus sarmentosus
+13110129 CODE 3140-Struthanthus syringifolius
+6615146 CODE 3141-Strychninum
+5012112 CODE 3142-Strychninum aceticum
+50161216 CODE 3143-Strychninum arsenicosum
+5081834 CODE 3144-Strychninum ferro-citricum
+5612512 CODE 3145-Strychninum hydrochloricum
+1310766 CODE 3146-Strychninum jodatum
+5012125 CODE 3147-Strychninum nitricum
+50716180 CODE 3148-Strychninum phosphoricum
+5011545 CODE 3149-Strychninum sulfuricum
+5014476 CODE 3150-Strychninum valerianicum
+6516920 CODE 3151-Styrolum
+65821110 CODE 3152-Styropor Mix
+1397163 CODE 3153-Substantia ossium
+73134149 CODE 3154-Succinum
+1352177 CODE 3155-Succus liquiritiae
+4265127 CODE 3156-Sulfanilamidum
+42671086 CODE 3157-Sulfapyridinum
+12213162 CODE 3158-Sulfur
+9568673 CODE 3159-Sulfur colloidale
+9571162 CODE 3160-Sulfur jodatum
+95161156 CODE 3161-Sulfur praecipitatum
+95101212 CODE 3162-Sulfur stibiatum rubrum
+97991073 CODE 3163-Sulfur terebinthinatum
+6991228 CODE 3164-Sumbulus moschatus
+6995108 CODE 3165-Sumbulus moschatus spag.
+9913556 CODE 3166-Superphosphat
+12108712 CODE 3167-Surrenium
+6897162 CODE 3168-Symphoricarpus e fructibus
+6899132 CODE 3169-Symphoricarpus racemosus
+7532020 CODE 3170-Symphytum
+17161157 CODE 3171-Symphytum spag.
+15512678 CODE 3172-Synovia
+10516061 CODE 3173-Syringa vulgaris
+10516278 CODE 3174-Syringa vulgaris spag.
+19161098 CODE 3175-Syzygium jambolanum
+1173993 CODE 3176-Syzygium jambolanum e cortice
+11610711 CODE 3177-Syzygium jambolanum spag.
+41881620 CODE 3178-Tabacum
+12820108 CODE 3179-Tabacum spag.
+12810439 CODE 3180-Tabacum fumans
+46101116 CODE 3181-Tagetes erectus spag.
+46121010 CODE 3182-Tagetes patula
+46171112 CODE 3183-Tamarindus
+4222658 CODE 3184-Tamarix
+46135119 CODE 3185-Tamarix spag.
+41741014 CODE 3186-Tamoxifenum
+12122618 CODE 3187-Tamus
+1065176 CODE 3188-Tamus communis
+10131379 CODE 3189-Tanacetum balsamita spag.
+15501114 CODE 3190-Tanacetum vulgare
+15521311 CODE 3191-Tanacetum vulgare spag.
+40544149 CODE 3192-Tanninum
+18192124 CODE 3193-Tantalum metallicum
+41616228 CODE 3194-Tarantula
+11161624 CODE 3195-Tarantula cubensis
+11211147 CODE 3196-Tarantula hispanica
+41812312 CODE 3197-Taraxacum
+13911152 CODE 3198-Taraxacum spag.
+1313770 CODE 3199-Tartarus boraxatus
+13714810 CODE 3200-Tartarus crudus
+13175512 CODE 3201-Tartarus depuratus
+13149128 CODE 3202-Tartarus natronatus
+13191212 CODE 3203-Tartarus stibiatus
+7837118 CODE 3204-Taxus baccata
+71861157 CODE 3205-Taxus baccata spag.
+7671853 CODE 3206-Tela aranearum
+46104953 CODE 3207-Tellurium metallicum
+2120101 CODE 3208-Teppichbodenbestandteile Mix
+21201087 CODE 3209-Teppichbodenbestandteile Mix spag
+6899346 CODE 3210-Terbium oxydatum
+31089415 CODE 3211-Terebinthina
+7416612 CODE 3212-Terminalia arjuna
+7461138 CODE 3213-Terminalia belerica
+7453514 CODE 3214-Terminalia chebula
+31311112 CODE 3215-Terpinolum
+71612127 CODE 3216-Terpinum hydratum
+1569716 CODE 3217-Terra de sienna
+3815628 CODE 3218-Testa ovorum
+3413947 CODE 3219-Testes
+12917102 CODE 3220-Testosteronum
+12172915 CODE 3221-Testosteronum basicum
+35457613 CODE 3222-Tetracyclinum
+17961590 CODE 3223-Tetrajodthyroninum
+79415973 CODE 3224-Teucrium bothrys
+71414124 CODE 3225-Teucrium scorodonia
+12141295 CODE 3226-Teucrium scorodonia spag.
+1120914 CODE 3227-Thalictrum cornuti
+51551653 CODE 3228-Thallium aceticum
+51271162 CODE 3229-Thallium jodatum
+54781648 CODE 3230-Thallium metallicum
+5129437 CODE 3231-Thallium sulfuricum
+6161285 CODE 3232-Thea chinensis
+6811707 CODE 3233-Thea chinensis spag.
+41121510 CODE 3234-Thea indica
+41115117 CODE 3235-Thea nigra
+41134813 CODE 3236-Thea pu erh
+11115161 CODE 3237-Theobroma cacao e seminibus
+77489168 CODE 3238-Theobromino-natrium salicylicum
+79982090 CODE 3239-Theridion curassavicum
+11910327 CODE 3240-Thevetia neriifolia
+11910679 CODE 3241-Thevetia neriifolia spag.
+8377141 CODE 3242-Thioacetamidum
+7101093 CODE 3243-Thioaether
+10861316 CODE 3244-Thioglykolsäure
+18161614 CODE 3245-Thioharnstoff
+7571421 CODE 3246-Thiomersal
+98910232 CODE 3247-Thiopental-Natrium
+7997613 CODE 3248-Thiosinaminum
+79121345 CODE 3249-Thiosolpin
+14114217 CODE 3250-Thlaspi arvense
+1438893 CODE 3251-Thlaspi bursa pastoris
+8889148 CODE 3252-Thlaspi bursa pastoris spag.
+11145812 CODE 3253-Thomasmehl
+4218961 CODE 3254-Thryeoidinum
+12197117 CODE 3255-Thuja
+42517704 CODE 3256-Thuja spag.
+4251494 CODE 3257-Thuja lobbi
+58146346 CODE 3258-Thulium bromatum
+40516920 CODE 3259-Thymolum
+41310100 CODE 3260-Thymus bov.
+8716147 CODE 3261-Thymus vulgaris
+8146754 CODE 3262-Thymus vulgaris spag.
+15182139 CODE 3263-Tilia europaea
+7113154 CODE 3264-Tilia europaea spag.
+87861334 CODE 3265-Tinctura sepiae
+82217141 CODE 3266-Tinctura sulfurata
+12102112 CODE 3267-Tinctura sulfuris thioterpenica
+1577615 CODE 3268-Tinospora cordifolia
+63581172 CODE 3269-Titanium metallicum
+65116520 CODE 3270-TMTD
+1142062 CODE 3271-Toluolum
+88717910 CODE 3272-Tonca
+11102412 CODE 3273-Tormentilla
+3656164 CODE 3274-Tormentilla spag.
+3135367 CODE 3275-Torula cerevisiae
+1310598 CODE 3276-Toxinum purum (Agkistrodon piscivoris)
+13131911 CODE 3277-Toxinum purum (Androctonus australis)
+13822124 CODE 3278-Toxinum purum (Bitis arietans)
+13149140 CODE 3279-Toxinum purum (Bitis gabonica)
+13151138 CODE 3280-Toxinum purum (Bothrops jararaca)
+13861110 CODE 3281-Toxinum purum (Bufo marinus)
+13124378 CODE 3282-Toxinum purum (Crotalus terrificus)
+13156758 CODE 3283-Toxinum purum (Elaps corallinus)
+13831810 CODE 3284-Toxinum purum (Lachesis muta)
+13121063 CODE 3285-Toxinum purum (Lachesis trigonocephalus)
+1320368 CODE 3286-Toxinum purum (Latrodectus mactans)
+13812149 CODE 3287-Toxinum purum (Naja nivea)
+13812720 CODE 3288-Toxinum purum (Naja tripudians)
+91385161 CODE 3289-Toxinum purum (Salamandra)
+13170469 CODE 3290-Toxinum purum (Triturus cristatus)
+13935109 CODE 3291-Toxinum purum (Vipera ammodytes)
+91393940 CODE 3292-Toxinum purum (Vipera lebetina)
+13931092 CODE 3293-Toxinum purum (Vipera russelli)
+8999497 CODE 3294-Tradescantia diuretica
+1068488 CODE 3295-trianosperma ficcifolia
+2217223 CODE 3296-Tribulus terrestris
+10131557 CODE 3297-Trichinoylum
+29131110 CODE 3298-Trichloraethylenum
+2210478 CODE 3299-Trichophyton
+23176884 CODE 3300-Trichophyton verrucosum
+21211665 CODE 3301-Trichosanthes dioica
+21515158 CODE 3302-Tricitum vulgare
+25541256 CODE 3303-Trifolium arvense
+25108114 CODE 3304-Trifolium arvense spag.
+25141515 CODE 3305-Trifolium pratense
+25131011 CODE 3306-Trifolium repens
+13611694 CODE 3307-Trikatu
+21409911 CODE 3308-Trillium pendulum
+2891195 CODE 3309-Trimethylaminum
+10416134 CODE 3310-Trinitrotoluol
+10481513 CODE 3311-Trional
+1051366 CODE 3312-Triosteum perfoliatum
+10311101 CODE 3313-Triphala
+10101516 CODE 3314-Triticum repens
+2071411 CODE 3315-Triticum repens spag.
+88813388 CODE 3316-Trombidium muscae domesticae
+14416249 CODE 3317-Tropaeolum majus
+14498582 CODE 3318-Tropaeolum majus e foliis
+14491229 CODE 3319-Tropaeolum majus spag.
+81081245 CODE 3320-Trychosanthes
+54882312 CODE 3321-Trypsinum
+51116662 CODE 3322-Tryptophanum
+11123138 CODE 3323-Tuberculinum
+36311610 CODE 3324-Tuberculinum avis
+36121513 CODE 3325-Tuberculinum bovinum
+14101792 CODE 3326-Tuberculinum Denys Bouillon filtre
+36564779 CODE 3327-Tuberculinum Marmoreck
+3631159 CODE 3328-Tuberculinum neu
+36315206 CODE 3329-Tuberculinum Rest
+3696118 CODE 3330-Tuberculinum Spengler
+36912123 CODE 3331-Tuberculocidinum Klebs
+78557275 CODE 3332-Tularaemie
+24767107 CODE 3333-Tulipa
+56511710 CODE 3334-Tunica mucosa ventriculi
+91681017 CODE 3335-Typha latifolia
+79943949 CODE 3336-Typhinum
+1214720 CODE 3337-Tyraminum
+12101312 CODE 3338-Tyrosinum
+13108562 CODE 3339-Ubichinonum
+25788137 CODE 3340-Ulmus
+14910153 CODE 3341-Ulmus spag.
+20138106 CODE 3342-Umbellularia californica
+1219184 CODE 3343-Umbilicus pendulinus
+12510792 CODE 3344-Umckaloabo
+19411876 CODE 3345-Unkrautpollen Mix
+14101184 CODE 3346-Unkrautpollen Mix spag.
+46562788 CODE 3347-Upas antiaris
+4627159 CODE 3348-Upas tiente
+12710113 CODE 3349-Uranium metallicum
+1281122 CODE 3350-Uranium nitricum
+87810608 CODE 3351-Urea nitrica
+87527150 CODE 3352-Urea pura
+87612312 CODE 3353-Urethanum
+25714226 CODE 3354-Urinum
+1277569 CODE 3355-Urinum autopersonale
+15151962 CODE 3356-Urotropinum
+25113108 CODE 3357-Urtica
+85492107 CODE 3358-Urtica dioica
+1712575 CODE 3359-Urtica dioica spag.
+85461007 CODE 3360-Urtica spag.
+92103108 CODE 3361-Usnea barbata
+93497119 CODE 3362-Usnea barbata spag.
+66512128 CODE 3363-Ustilago maydis
+61251674 CODE 3364-Ustilago maydis spag.
+24910214 CODE 3365-Uterus
+41218105 CODE 3366-Uva ursi
+7201157 CODE 3367-Uva ursi spag.
+44171386 CODE 3368-VAB
+89212187 CODE 3369-Vibhuti Sai Baba
+17688427 CODE 3370-Vaccininum
+1412227 CODE 3371-Vaccinium uliginosum
+68919116 CODE 3372-Vaccinium vitis-idaea e fructibus spag.
+6841410 CODE 3373-Vaccinium vitis-idaea spag.
+1436138 CODE 3374-Vaccinotoxinum
+91721849 CODE 3375-Vacuum
+13231015 CODE 3376-Valeriana
+6322175 CODE 3377-Valeriana spag.
+13153136 CODE 3378-Valeriana e radice recente
+91424149 CODE 3379-Valinum
+1010127 CODE 3380-Vanadium metallicum
+29646768 CODE 3381-Vanda roxburghii
+1036100 CODE 3382-Vanilla
+10361427 CODE 3383-Vanillinum
+64517127 CODE 3384-Variola bovina
+14148620 CODE 3385-Variolinum
+1110715 CODE 3386-Venus mercenaria
+11189149 CODE 3387-Venus stella errans
+1110890 CODE 3388-Veratrinum
+3431240 CODE 3389-Veratrum album
+3465108 CODE 3390-Veratrum album spag.
+3431469 CODE 3391-Veratrum viride
+34813129 CODE 3392-Veratrum viride spag.
+11161153 CODE 3393-Verbascum
+3856214 CODE 3394-Verbascum spag.
+4651517 CODE 3395-Verbena hastata
+4662474 CODE 3396-Verbena officinalis
+46613149 CODE 3397-Verbena officinalis spag.
+38341017 CODE 3398-Vernix caseata
+11741127 CODE 3399-Veronica
+9139848 CODE 3400-Veronica anthelmintica
+91316713 CODE 3401-Veronica beccabunga
+13101011 CODE 3402-Veronica chamaedrys
+1320714 CODE 3403-Veronica chamaedrys spag.
+96151111 CODE 3404-Veronica spag.
+3113946 CODE 3405-Vertebra lumbalis
+31179346 CODE 3406-Vertebra thoracalis
+51712148 CODE 3407-Vesicaria utriculata
+13211794 CODE 3408-Vespa crabro
+9610812 CODE 3409-Viburnum opulus
+97133212 CODE 3410-Viburnum opulus spag.
+9133524 CODE 3411-Viburnum prunifolium
+13104124 CODE 3412-Viburnum prunifolium e cortice
+91331218 CODE 3413-Viburnum prunifolium spag.
+55911316 CODE 3414-Vicia faba
+71481410 CODE 3415-Vinblastinsulfat
+66102157 CODE 3416-Vinca minor
+13313153 CODE 3417-Vinca minor spag.
+6687461 CODE 3418-Vincetoxicum
+20125128 CODE 3419-Vincetoxicum spag.
+11157164 CODE 3420-Vincristinsulfat
+15122128 CODE 3421-Vinylpolymerisat
+15495518 CODE 3422-Viola hirta spag.
+47103917 CODE 3423-Viola odorata
+12121071 CODE 3424-Viola odorata spag.
+15161543 CODE 3425-Viola tricolor
+1581660 CODE 3426-Viola tricolor spag.
+4320522 CODE 3427-Vipera aspis
+43201121 CODE 3428-Vipera berus
+88151461 CODE 3429-Viscum album
+1710728 CODE 3430-Viscum album spag.
+90122119 CODE 3431-Viscum album von Abies alba
+93715118 CODE 3432-Viscum album von Acer campestre
+93111612 CODE 3433-Viscum album von Acer pseudoplatanus
+17101295 CODE 3434-Viscum album von Betula
+90121313 CODE 3435-Viscum album von Fraxinus
+9012310 CODE 3436-Viscum album von Malus
+9326197 CODE 3437-Viscum album von Populus nigra
+93261424 CODE 3438-Viscum album von Populus tremula
+9311107 CODE 3439-Viscum album von Quercus
+93101214 CODE 3440-Viscum album von Sorbus aucuparia
+93214108 CODE 3441-Viscum album von tilia europaea
+91061696 CODE 3442-Vis vitae
+57121179 CODE 3443-Vitex trifolia
+4415158 CODE 3444-Vitis vinifera
+4107854 CODE 3445-Vitis vinifera spag.
+22145511 CODE 3446-Vitrum
+14981117 CODE 3447-Wasserader
+10543108 CODE 3448-Withania somnifera
+15201648 CODE 3449-Wolframium metallicum
+81560110 CODE 3450-Wyethia helenoides
+1011116 CODE 3451-Xanthinum
+25381013 CODE 3452-Xanthium spinosum
+21114428 CODE 3453-Xanthorrhiza apiifolia
+21110297 CODE 3454-Xanthorrhoea arborea
+2361058 CODE 3455-Xanthoxylon fraxineum
+11515619 CODE 3456-Xerophyllum tenax
+1091096 CODE 3457-X-Ray
+10252713 CODE 3458-Xylolum
+97121192 CODE 3459-Xylometazolinum
+10122913 CODE 3460-Xylosteum
+81611713 CODE 3461-Xysmalobium undulatum
+85620599 CODE 3462-Yohimbe
+17113212 CODE 3463-Yohimbe spag.
+17117278 CODE 3464-Yohimbinum hydrochloricum
+10171114 CODE 3465-Ytterbium oxydatum
+68119982 CODE 3466-Yttrium oxydatum
+16510511 CODE 3467-Yucca filamentosa
+12101610 CODE 3468-Yucca filamentosa spag.
+16158510 CODE 3469-Zea italica
+16983548 CODE 3470-Zea mays
+1837111 CODE 3471-Zedoaria
+12141410 CODE 3472-Zedoaria spag.
+96650117 CODE 3473-Zement
+42121048 CODE 3474-Zincum aceticum
+42181268 CODE 3475-Zincum arsenicosum
+49157100 CODE 3476-Zincum bromatum
+42107166 CODE 3477-Zincum carbonicum
+42812817 CODE 3478-Zincum chloratum
+42817537 CODE 3479-Zincum chromicum
+42121456 CODE 3480-Zincum cyanatum
+42616738 CODE 3481-Zincum ferrocyanatum
+4225289 CODE 3482-Zincum fluoratum
+49763166 CODE 3483-Zincum gluconicum
+42171476 CODE 3484-Zincum hypophosphorosum
+4214689 CODE 3485-Zincum jodatum
+4651137 CODE 3486-Zincum lacticum
+4271362 CODE 3487-Zincum metallicum
+4251590 CODE 3488-Zincum nitricum
+4217747 CODE 3489-Zincum oxalicum
+40119982 CODE 3490-Zincum oxydatum
+4611967 CODE 3491-Zincum phosphoratum
+46113599 CODE 3492-Zincum phosphoricum
+46141546 CODE 3493-Zincum picrinicum
+46102888 CODE 3494-Zincum salicylicum
+46111338 CODE 3495-Zincum sulfuratum
+46111990 CODE 3496-Zincum sulfuricum
+4691548 CODE 3497-Zincum valerianicum
+12201096 CODE 3498-Zingiber
+5114164 CODE 3499-Zingiber spag.
+61331048 CODE 3500-Zirconium metallicum
+10851435 CODE 3501-Zizia aurea

@@ -1,0 +1,577 @@
+61172672  Affirm.Reduction of strong healing reactions 
+14111115 Regulate Deviation, functional 
+15964612 Degener.State adynamia 
+1136695 Gov.deficiency adynamia 
+10410275 Regulate adynamia 
+6151113 Organ/Spec.Allergy meridian (after full) 
+52181347 Condition Aging, premature / premature 
+16102787 Organ/Spec.amino acids 
+10861015 Organ/Spec.Amino acids, essential 
+93151462 Regulate Argentum D60 (for Chakra 6 = front chakra) 
+7525104 Affirm.aura strengthening 
+93741657 Regulate Aurum D60 (for Chakra 4 = Heart Chakra) 
+99111293 Affirm.Excision of pathogenic earth rays I 
+37219111 Special code Excision of pathogenic earth rays II 
+61412149 Extreme (combi) Exposure to frequency I: extremely low Freq.waves (ELF) 
+8165412 Extreme (combi) Exposure to frequency II: low Freq.range 
+10101142 Extreme (combi) Exposure to frequency III: long waves 
+72191115 Extreme (combi) Strain through frequency IV: medium waves 
+51294662 Extreme (combi) Exposure to frequency IX: infrared waves 
+16121438 Extreme (combi) Load through frequency V: Shortwave 
+1351614 Extreme (combi) Exposure to frequency VI: ultrashort waves 
+11188136 Extreme (combi) Strain through frequency VII: decimeter waves 
+4659111 Extreme (combi) Exposure to frequency VIII: microwaves 
+84138121 Extreme (combi) Exposure to frequency X: light waves (visible) 
+61515910 Extreme (combi) Exposure to frequency XI: ultraviolet waves 
+89119104 Extreme (combi) Exposure to frequency XII: X rays 
+99797159 Extreme (combi) Exposure to frequency XIII: gamma radiation 
+34920107 Organ/Spec.Connective tissue degenerative meridian (after full) 
+10121817 Organ/Spec.Bladder 
+1031154 Organ/Spec.Blockade of a meridian (filter) 
+12158137 Affirm.Chakra energy, blockade free conduction in the energy channels (nadis) 
+??4556114 Affirm.Chakra energy, blockade free conduction from the endocrine system into the bl 
+45121824 Affirm.Chakra energy, blockade free conduction from the NS into the endocrine system 
+4510888 Affirm.Chakra energy, blockade free conduction from the energy channels to the NS 
+7516179 Affirm.Chakra energy, primary incoming (code for ...) 
+12111110 Organ/Spec.Chakra energy, secondary effluent 
+71310823 Mix Code Chakra harmonize, complete (Council in code) 
+67103165 Regulate Chromatic scale from base note A (all octaves) 
+68313173 Regulate Chromatic scale from base note Ais / B (Bb) (all octaves) 
+67103812 Regulate Chromatic scale from base tone C (all octaves) 
+68341011 Regulate Chromatic scale from base note Cis / Des (all octaves) 
+67103123 Regulate Chromatic scale from base tone D (all octaves) 
+67103889 Regulate Chromatic scale from base note Dis / Es (all octaves) 
+67103136 Regulate Chromatic scale from base note E (all octaves) 
+6831216 Regulate Chromatic scale from base note F (all octaves) 
+6839107 Regulate Chromatic scale from base note Fis / Ges (all octaves) 
+67103143 Regulate Chromatic scale from base tone G (all octaves) 
+6833125 Regulate Chromatic scale from base tone Gis / As (all octaves) 
+67103561 Regulate Chromatic scale from base note H (B) (all octaves) 
+9310118 Regulate Cuprum D60 (for Chakra 3 = Milky Chakra) 
+1397720 Affirm.Deblocking of damaged respiratory enzymes 
+91435667 Organ/Spec.Colon Meridian 
+36132310 Organ/Spec.Three heater meridian 
+2496667 Organ/Spec.Small Intestine Meridian 
+61311149 Organ/Spec.Level, emotional (level 3) 
+7831420 Organ/Spec.Plane, divine (Level 8) 
+6172313 Organ/Spec.Level, intuitive (level 5) 
+74816132 Organ/Spec.Level, mental (level 4) 
+78017135 Organ/Spec.Plain, monadic (level 7) 
+65161365 Organ/Spec.Plane, physical etheric (Level 2) 
+12101563 Organ/Spec.Plane, physical etheric, chemical ether (level 2b) 
+12108934 Organ/Spec.Plane, physical etheric, life ether (level 2a) 
+12101212 Organ/Spec.Plane, physical etheric, light ether (level 2c) 
+1210725 Organ/Spec.Plane, physical etheric, heat ether (level 2d) 
+65811203 Organ/Spec.Level, physical fixed (level 1a) 
+6514755 Organ/Spec.Level, physical fluid (level 1b) 
+6578631 Organ/Spec.Plane, physical gaseous (level 1c) 
+6584713 Organ/Spec.Level, physical material (level 1) 
+1851111 Organ/Spec.Plane, physical photon shaped (level 1d) 
+61221112 Organ/Spec.Level, Spiritual (Level 6) 
+14152358 Extreme (combi) electrosmog 
+3114512 Regulate electrosmog 
+11141077 Affirm.Electrosmog, protection against 
+36951614 Regulate Electrosmog load 
+16171615 Degener.State Electrosmog exposure due to heavy metal deposition 
+7191220 Extreme (combi) Electrosmog exposure due to heavy metal deposition 
+81385712 Gov.deficiency Electrosmog exposure due to heavy metal deposition 
+60114136 Organ/Spec.Energy of life 
+36104136 Extreme (combi) energy blockade 
+41712353 Affirm.Energy field: balance apana (for chakra diagnostics) 
+41196353 Affirm.Energy Field: Balance Prana (for chakra diagnostics) 
+41179412 Affirm.Energy field: balance samana (for chakra diagnostics) 
+41224263 Affirm.Energy Field: Balance Upana (for Chakradiagnostik) 
+41544263 Affirm.Energy field: Vyana balance (for Chakradiagnostik) 
+41773144 Affirm.Energy flow, more concentrated (code for ...) 
+89561513 Regulate Energy flow improvement 
+86131623 Degener.State Energy deficiency 
+72176124 Gov.deficiency Energy deficiency 
+8931116 Regulate Energy deficiency 
+12815635 Mix Code Energy optimization, general (Council in Code) 
+16916493 Mix Code Suppression of electrical appliances (Council in code) 
+16106144 Mix Code Suppression of televisions (Council in Code) 
+1618912 Mix Code Suppression of monitors (rates in code) 
+16268117 Mix Code Suppression of potting soil (Council in code) 
+17165173 Regulate Earth Rays: Load from offloading field 
+15599073 Extreme (combi) Earth Rays: Loading by charging field 
+14721310 Gov.deficiency Earth Rays: Loading by charging field 
+91415118 Cause (Combined) Earth rays: stress due to breakage 
+17165140 Regulate Earth Rays: Exposure to curry network 
+14151410 Reg.Deficiency Earth Rays: Exposure to ore deposits 
+1716557 Regulate Earth Rays: Exposure to ore deposits 
+1355126 Degener.State Earth Rays: Exposure to geopathogenic disorder, common 
+12661011 Extreme (combi) Earth Rays: Exposure to geopathogenic disorder, common 
+14751335 Gov.deficiency Earth Rays: Exposure to geopathogenic disorder, common 
+14751336 Cause (Combined) Earth Rays: Exposure to geopathogenic disorder, common 
+9613122 Regulate Earth Rays: Exposure to Global Grid Network 
+14151845 Cause (Combined) Earth radiation: load through cavern 
+13577257 Degener.State Earth Rays: Exposure by crossing curry & global grid 
+8511140 Extreme (combi) Earth Rays: Burden by Fault 
+1350311 Condition Earth radiation: load through water vein 
+17165172 Regulate Earth radiation: load through water vein 
+9311442 Regulate Ferrum D60 (for Chakra 1 = root chakra) 
+23211215 Organ/Spec.Adipose tissue degenerative meridian (after full) 
+12312811 Affirm.Fat burning, accelerated 
+9561360 Degener.State Fokalerkrankungen 
+10051513 Gov.deficiency Fokalerkrankungen 
+1595113 Regulate Freq.b&: 0.1 hertz to 3.0 hertz 
+15212124 Regulate Freq.b&: 40.0 hertz to 60.0 hertz 
+15751434 Regulate Freq.b&: 80.0 hertz to 99.0 hertz 
+14231597 Regulate Freq.Info.(A): 2600 angstroms 
+14231394 Regulate Freq.Info.(A): 10000 angstroms 
+14171887 Regulate Freq.Info.(A): 156000 angstroms 
+14208884 Regulate Freq.Info.(A): 178000 angstroms 
+14233911 Regulate Freq.Info.(A): 205000 angstroms 
+14206911 Regulate Freq.Info.(A): 250000 angstroms 
+14238132 Regulate Freq.Info.(A): 300000 angstroms 
+1423445 Regulate Freq.Info.(GHz): 1.0 Gigahertz 
+1423711 Regulate Freq.Info.(GHz): 100.0 Gigahertz 
+14237316 Regulate Freq.Info.(kHz): 10.0 kilohertz 
+14236944 Regulate Freq.Info.(kHz): 11.0 kilohertz 
+14231044 Regulate Freq.Info.(kHz): 12.0 kilohertz 
+14231410 Regulate Freq.Info.(kHz): 18,688 kilohertz 
+14171344 Regulate Freq.Info.(kHz): 45.0 kilohertz 
+14175599 Regulate Freq.Info.(kHz): 76.0 kilohertz 
+14231131 Regulate Freq.Info.(kHz): 100.0 kilohertz 
+14233106 Regulate Freq.Info.(kHz): 130.2238 kilohertz 
+14231317 Regulate Freq.Info.(kHz): 131.106192 kilohertz 
+1417637 Regulate Freq.Info.(kHz): 150.0 kilohertz 
+14231416 Regulate Freq.Info.(kHz): 362.04 kilohertz 
+14231111 Regulate Freq.Info.(kHz): 383.57 kilohertz 
+14175483 Regulate Freq.Info.(kHz): 406.37 kilohertz 
+14178572 Regulate Freq.Info.(kHz): 430.54 kilohertz 
+14171012 Regulate Freq.Info.(kHz): 456.14 kilohertz 
+14171159 Regulate Freq.Info.(kHz): 483.26 kilohertz 
+14239119 Regulate Freq.Info.(kHz): 512.0 kilohertz 
+14201135 Regulate Freq.Info.(kHz): 542.45 kilohertz 
+14206133 Regulate Freq.Info.(kHz): 574.7 kilohertz 
+1423113 Regulate Freq.Info.(kHz): 608.87 kilohertz 
+1423350 Regulate Freq.Info.(kHz): 645.08 kilohertz 
+14233474 Regulate Freq.Info.(kHz): 683.44 kilohertz 
+14175289 Regulate Freq.Info.(kHz): 724.08 kilohertz 
+14178111 Regulate Freq.Info.(kHz): 767.13 kilohertz 
+14201111 Regulate Freq.Info.(kHz): 812.75 kilohertz 
+14205834 Regulate Freq.Info.(kHz): 861.08 kilohertz 
+1423735 Regulate Freq.Info.(kHz): 912.28 kilohertz 
+14235947 Regulate Freq.Info.(kHz): 966.53 kilohertz 
+14231013 Regulate Freq.Info.(MHz): 1.0 Mega Hertz 
+14236832 Regulate Freq.Info.(MHz): 1.08 megahertz 
+14233455 Regulate Freq.Info.(MHz): 1.92221 megahertz 
+14171320 Regulate Freq.Info.(MHz): 4.911100 megahertz 
+14237493 Regulate Freq.Info.(MHz): 19.0 megahertz 
+1423812 Regulate Freq.Info.(MHz): 30.0 Mega Hertz 
+1420718 Regulate Freq.Info.(MHz): 80.0 megahertz 
+1423274 Regulate Freq.Info.(THz): 1.0 Tera Hertz 
+14237544 Regulate Freq.Info.(THz): 10.0 Tera Hertz 
+1423111 Regulate Freq.Info.(THz): 100000.0 Tera Hertz 
+30100710 Special Code Freq.Info.(THz): 1000000000.0 Tera Hertz 
+14231710 Regulate Freq.Info.(THz): 100000000000.0 Tera Hertz 
+14231012 Regulate Freq.Info.0.1 Hertz 
+14231019 Regulate Freq.Info.0.5 Hertz 
+14231012 Regulate Freq.Info.1.0 Hertz 
+14887159 Regulate Freq.Info.1.05 Hertz 
+14231310 Regulate Freq.Info.1.2 Hertz 
+14887711 Regulate Freq.Info.1.3 Hertz 
+14887103 Regulate Freq.Info.1.4 Hertz 
+14887215 Regulate Freq.Info.2.0 Hertz 
+1423315 Regulate Freq.Info.2.281 Hertz 
+14231111 Regulate Freq.Info.2.3 Hertz 
+14887831 Regulate Freq.Info.2.5 Hertz 
+14887147 Regulate Freq.Info.3.0 Hertz 
+14887910 Regulate Freq.Info.3.04 Hertz 
+14887211 Regulate Freq.Info.3.2 Hertz 
+14231210 Regulate Freq.Info.3.29 Hertz 
+14887241 Regulate Freq.Info.3.5 Hertz 
+14887774 Regulate Freq.Info.3.55 hertz 
+14887642 Regulate Freq.Info.3.94 Hertz 
+1417211 Regulate Freq.Info.4.0 Hertz 
+1417241 Regulate Freq.Info.4.25 Hertz 
+14172114 Regulate Freq.Info.4,563 Hertz 
+14170147 Regulate Freq.Info.4.6 Hertz 
+1417110 Regulate Freq.Info.4.62 hertz 
+14170654 Regulate Freq.Info.4.99 Hertz 
+14884914 Regulate Freq.Info.5.0 Hertz 
+14884555 Regulate Freq.Info.5.38 Hertz 
+14884735 Regulate Freq.Info.5.74 Hertz 
+14231212 Regulate Freq.Info.6.0 Hertz 
+14887812 Regulate Freq.Info.6.3 Hertz 
+14170214 Regulate Freq.Info.7.0 Hertz 
+14170119 Regulate Freq.Info.7.5 Hertz 
+1417410 Regulate Freq.Info.7.8 Hertz 
+1417242 Regulate Freq.Info.7.83 Hertz 
+14884314 Regulate Freq.Info.8.0 Hertz 
+14884513 Regulate Freq.Info.8.2 Hertz 
+14884913 Regulate Freq.Info.8.3 Hertz 
+14884813 Regulate Freq.Info.8.5 Hertz 
+14884214 Regulate Freq.Info.8.6 Hertz 
+14887315 Regulate Freq.Info.9.0 Hertz 
+14887114 Regulate Freq.Info.9.1 Hertz 
+14231096 Regulate Freq.Info.9,125 hertz 
+14237103 Regulate Freq.Info.10.0 Hertz 
+14231011 Regulate Freq.Info.10.2 Hertz 
+14231041 Regulate Freq.Info.10.5 Hertz 
+14887361 Regulate Freq.Info.10.6 Hertz 
+14887611 Regulate Freq.Info.11.0 Hertz 
+14231011 Regulate Freq.Info.12.0 Hertz 
+14887511 Regulate Freq.Info.13.0 Hertz 
+14887812 Regulate Freq.Info.14.0 Hertz 
+14171911 Regulate Freq.Info.15.0 Hertz 
+14884769 Regulate Freq.Info.16.0 Hertz 
+14201169 Regulate Freq.Info.17.0 Hertz 
+14887432 Regulate Freq.Info.18.0 Hertz 
+14887615 Regulate Freq.Info.18:25 Hertz 
+14888167 Regulate Freq.Info.20.0 Hertz 
+14888811 Regulate Freq.Info.23.0 Hertz 
+14884369 Regulate Freq.Info.24.0 Hertz 
+14231174 Regulate Freq.Info.27.5 Hertz 
+14887832 Regulate Freq.Info.28.0 Hertz 
+14887415 Regulate Freq.Info.30.0 Hertz 
+14888311 Regulate Freq.Info.33.0 Hertz 
+14231031 Regulate Freq.Info.35.0 Hertz 
+14231174 Regulate Freq.Info.36.5 Hertz 
+14170515 Regulate Freq.Info.40.0 Hertz 
+14170411 Regulate Freq.Info.45.0 Hertz 
+14884318 Regulate Freq.Info.50.0 Hertz 
+14887319 Regulate Freq.Info.60.0 Hertz 
+14170631 Regulate Freq.Info.73.0 Hertz 
+1417710 Regulate Freq.Info.78.3 Hertz 
+14233105 Regulate Freq.Info.100.0 Hertz 
+14887481 Regulate Freq.Info.105.0 Hertz 
+14887881 Regulate Freq.Info.106.0 Hertz 
+14887159 Regulate Freq.Info.110.0 Hertz 
+14887149 Regulate Freq.Info.125.0 Hertz 
+14231223 Regulate Freq.Info.146.0 Hertz 
+14231123 Regulate Freq.Info.148.0 Hertz 
+1423318 Regulate Freq.Info.149,875 Hertz 
+14884173 Regulate Freq.Info.160.0 Hertz 
+14888615 Regulate Freq.Info.200.0 Hertz 
+14887199 Regulate Freq.Info.210.0 Hertz 
+14231013 Regulate Freq.Info.220.0 Hertz 
+14888179 Regulate Freq.Info.230.0 Hertz 
+14204120 Regulate Freq.Info.240.0 Hertz 
+14201181 Regulate Freq.Info.250.0 Hertz 
+14884495 Regulate Freq.Info.258.0 Hertz 
+14884981 Regulate Freq.Info.290.0 Hertz 
+14884334 Regulate Freq.Info.292.0 Hertz 
+1420313 Regulate Freq.Info.299.75 Hertz 
+14888813 Regulate Freq.Info.330.0 Hertz 
+14239123 Regulate Freq.Info.380.0 Hertz 
+1417504 Regulate Freq.Info.400.0 Hertz 
+14884552 Regulate Freq.Info.410.0 Hertz 
+14170189 Regulate Freq.Info.440.0 Hertz 
+1417510 Regulate Freq.Info.441.0 Hertz 
+14170118 Regulate Freq.Info.442.0 Hertz 
+14170158 Regulate Freq.Info.443.0 Hertz 
+14881099 Regulate Freq.Info.444.0 Hertz 
+14170139 Regulate Freq.Info.445.0 Hertz 
+14170913 Regulate Freq.Info.450.0 Hertz 
+14204105 Regulate Freq.Info.500.0 Hertz 
+14884179 Regulate Freq.Info.584.0 Hertz 
+14206138 Regulate Freq.Info.599.5 Hertz 
+14239119 Regulate Freq.Info.600.0 Hertz 
+14887189 Regulate Freq.Info.666.0 Hertz 
+14232110 Regulate Freq.Info.690.0 Hertz 
+1417804 Regulate Freq.Info.700.0 Hertz 
+14170119 Regulate Freq.Info.728.0 Hertz 
+14170813 Regulate Freq.Info.740.0 Hertz 
+1423910 Extra Code Freq.Info.1000.0 Hertz 
+14242312 Extra Code Freq.Info.1168.0 Hertz 
+14241032 Extra Code Freq.Info.1199.0 Hertz 
+14231099 Extra Code Freq.Info.2336.0 Hertz 
+14238133 Extra Code Freq.Info.2398.0 Hertz 
+14239113 Extra Code Freq.Info.2850.0 Hertz 
+1423499 Regulate Freq.Info.3500.0 Hertz 
+14178613 Extra Code Freq.Info.4672.0 Hertz 
+14175572 Extra Code Freq.Info.4796.0 Hertz 
+14235533 Extra Code Freq.Info.9344.0 Hertz 
+14231017 Regulate Freq.Info.9592.0 Hertz 
+8811795 Regulate Freq.swing: 0.0 Hertz to 1000.0 Hertz 
+88117125 Regulate Freq.swing: 0.0 Hertz to 1000000.0 Hertz 
+1691597 Regulate Freq.wave: rectangle 
+16914944 Regulate Freq.wave: sawtooth 
+16141416 Regulate Freq.wave: Schumann 
+16914919 Regulate Freq.wave: sine wave 
+10141017 Affirm.Radiotelephone interference suppression (analog device) 
+10914696 Affirm.Radio telephone suppression (digital device) 
+10212311 Organ/Spec.Foot chakra, left 
+3121031 Organ/Spec.Foot chakra, right 
+52157737 Organ/Spec.Gallen Meridian 
+2514861 Organ/Spec.Joint degenerative meridian (after full) 
+23101549 Mix Code General protection (Council in code) 
+7125724 Mix Code Weight loss (rates in code) 
+22619463 Organ/Spec.Throat chakra (neck center) 
+25198810 Organ/Spec.H& chakra, left 
+25191466 Organ/Spec.H& chakra, right 
+62310198 Affirm.Harmonious course of healing reactions 
+26106177 Organ/Spec.Skin Degenerative Meridian (after full) 
+11119463 Organ/Spec.Heart Chakra (Heart Center) 
+11147510 Organ/Spec.Heart Meridian 
+91149445 Gov.deficiency Homeostasis (body maintenance) 
+8106574 Regulate Homeostasis (body maintenance) 
+14121486 Degener.State immunodeficiencies 
+7613146 Extreme (combi) immunodeficiencies 
+81121764 Organ/Spec.Immune system, mental (see also brainwashing) 
+83104591 Regulate Immune system, mental (see also brainwashing) 
+12181085 Extreme (combi) Immune system, weakened (immune deficiency) 
+13121075 Affirm.Immune system, stimulating the 
+12381789 Affirm.Impertive Absorb! 
+12417816 Affirm.Impertive astringents! 
+1273167 Affirm.Impertive Activate! 
+12141314 Affirm.Impertive Accept! 
+41731197 Affirm.Impertive Build up! 
+1257015 Affirm.Impertive Build again! 
+41735141 Affirm.Impertive Finish! 
+41735726 Affirm.Impertive moisten! 
+1292116 Affirm.Impertive Promote! 
+12312129 Affirm.Impertive Start! 
+41735710 Affirm.Impertive Belebe! 
+12357419 Affirm.Impertive correct! 
+12351319 Affirm.Impertive Calm down! 
+41735886 Affirm.Impertive Summon! 
+1290513 Affirm.Impertive better off! 
+41735922 Affirm.Impertive bend over! 
+12313291 Affirm.Impertive master! 
+1295208 Affirm.Impertive Make Power! 
+41735867 Affirm.Impertive picture! 
+12731413 Affirm.Impertive Spread yourself! 
+1211119 Affirm.Impertive unmask yourself! 
+1216616 Affirm.Impertive Disinfect! 
+12516176 Affirm.Impertive Eliminate blockages! 
+1252689 Affirm.Impertive Eliminate! 
+41731915 Affirm.Impertive Receive! 
+1250117 Affirm.Impertive Feel! 
+1267513 Affirm.Impertive Energize! 
+41732847 Affirm.Impertive Discover! 
+1261127 Affirm.Impertive Remove! 
+41732587 Affirm.Impertive detoxify! 
+41732367 Affirm.Impertive Relieve! 
+12328102 Affirm.Impertive Relax! 
+12326139 Affirm.Impertive Develop! 
+12317412 Affirm.Impertive complete! 
+12310137 Affirm.Impertive Increase! 
+1245512 Affirm.Impertive relax! 
+1241618 Affirm.Impertive Remember! 
+12310717 Affirm.Impertive recognize! 
+12486513 Affirm.Impertive Explain yourself! 
+12310179 Affirm.Impertive Allow! 
+12486616 Affirm.Impertive easier! 
+12414312 Affirm.Impertive enable! 
+12310315 Affirm.Impertive Nutrition! 
+1245147 Affirm.Impertive Renew! 
+12318215 Affirm.Impertive warm! 
+12123176 Affirm.Impertive Exp&! 
+7210211 Affirm.Impertive Create life energy! 
+41732698 Affirm.Impertive lie down! 
+1266816 Affirm.Impertive Win back! 
+41730311 Affirm.Impertive Give! 
+1261413 Affirm.Impertive same thing! 
+91014311 Affirm.Impertive the same again to normal! 
+12321495 Affirm.Impertive limit one! 
+41731108 Affirm.Impertive Heal! 
+41733512 Affirm.Impertive Stop! 
+12811214 Affirm.Impertive Integrate! 
+12311515 Affirm.Impertive turn back! 
+41739266 Affirm.Impertive clear up! 
+12426162 Affirm.Impertive Control consciously! 
+12425106 Affirm.Impertive Control! 
+1245124 Affirm.Impertive coordinate! 
+7810917 Affirm.Impertive correct the energy flow! 
+71013187 Affirm.Impertive Correct metabolic fluctuations! 
+12413414 Affirm.Impertive correct! 
+12391717 Affirm.Impertive strong! 
+41733311 Affirm.Impertive cool off! 
+12537104 Affirm.Impertive let germinate! 
+1263975 Affirm.Impertive Live in the present! 
+1261916 Affirm.Impertive continue to lead! 
+12321114 Affirm.Impertive Lindere! 
+11741726 Affirm.Impertive Delete stressful memories! 
+11127101 Affirm.Impertive Delete stressful childlike educational elements! 
+1155176 Affirm.Impertive clear mental blocks! 
+11141866 Affirm.Impertive Delete bad posthypnotic comm&s! 
+11119119 Affirm.Impertive Delete unwarranted guilt! 
+41734147 Affirm.Impertive delete! 
+12809114 Affirm.Impertive dissolve! 
+4173489 Affirm.Impertive solve! 
+12104597 Affirm.Impertive make progress! 
+12321514 Affirm.Impertive Milder! 
+12509187 Affirm.Impertive Mobilize! 
+12101416 Affirm.Impertive motivate! 
+12131214 Affirm.Impertive Neutralize! 
+12128559 Affirm.Impertive Remove weight! Take weight off!
+12121815 Affirm.Impertive Add weight! Take weight!
+41738917 Affirm.Impertive Take it! 
+1214637 Affirm.Impertive Normalize! 
+12771313 Affirm.Impertive reveal yourself! 
+41731935 Affirm.Impertive open yourself! 
+4173197 Affirm.Impertive Open! 
+12114196 Affirm.Impertive Optimize! 
+41738785 Affirm.Impertive Passe on! 
+12141624 Affirm.Impertive Polarize! 
+1265513 Affirm.Impertive erase! 
+12114187 Affirm.Impertive reactivate! 
+4173176 Affirm.Impertive Listen! 
+1211624 Affirm.Impertive Regenerate! 
+12310169 Affirm.Impertive Clean! 
+12454513 Affirm.Impertive Reconstruct! 
+12121416 Affirm.Impertive Repay! 
+12418513 Affirm.Impertive Resorb! 
+41737411 Affirm.Impertive Give! 
+1214542 Affirm.Impertive close yourself! 
+12112898 Affirm.Impertive Protect yourself! 
+12122778 Affirm.Impertive Be attractive! 
+12125353 Affirm.Impertive Be balanced! 
+41738168 Affirm.Impertive Be free! 
+1212816 Affirm.Impertive Be fruitful! 
+12382019 Affirm.Impertive Be banned! 
+12121080 Affirm.Impertive Be able! 
+12127109 Affirm.Impertive be creative! 
+41738952 Affirm.Impertive be quiet! 
+12201415 Affirm.Impertive Be insensitive! 
+12122818 Affirm.Impertive Be banished! 
+41738514 Affirm.Impertive Safe! 
+41737852 Affirm.Impertive special off! 
+12810136 Affirm.Impertive Stabilize! 
+41738156 Affirm.Impertive strength! 
+12386104 Affirm.Impertive Get up! 
+12386119 Affirm.Impertive Get in! 
+12129115 Affirm.Impertive Restore! 
+41738682 Affirm.Impertive push off! 
+41738417 Affirm.Impertive support! 
+41739142 Affirm.Impertive part! 
+12391111 Affirm.Impertive dry! 
+12399101 Affirm.Impertive overcome! 
+12514410 Affirm.Impertive support! 
+12348716 Affirm.Impertive cause! 
+12161014 Affirm.Impertive Improve! 
+12349107 Affirm.Impertive forbid! 
+12349117 Affirm.Impertive connect! 
+1280153 Affirm.Impertive evaporate! 
+12831643 Affirm.Impertive Dilute yourself! 
+12341322 Affirm.Impertive dilute! 
+12341286 Affirm.Impertive Evil! 
+12346630 Affirm.Impertive Unite! 
+1284419 Affirm.Impertive solidify! 
+12821577 Affirm.Impertive liquefy! 
+12131616 Affirm.Impertive Zoom in! 
+12346679 Affirm.Impertive enlarge! 
+12341118 Affirm.Impertive rejuvenations! 
+1284616 Affirm.Impertive Decrease! 
+12346589 Affirm.Impertive Extend! 
+12131016 Affirm.Impertive lose! 
+12136119 Affirm.Impertive Decrease! 
+1284814 Affirm.Impertive Decrease! 
+12817117 Affirm.Impertive Get lost! 
+1282157 Affirm.Impertive reinforce! 
+12341277 Affirm.Impertive Underst&! 
+12341397 Affirm.Impertive Trust! 
+12814913 Affirm.Impertive drive out of the body! 
+12341383 Affirm.Impertive drive away! 
+12161578 Affirm.Impertive Realize! 
+12346118 Affirm.Impertive Forgive! 
+4173896 Affirm.Impertive Wake up! 
+4173831 Affirm.Impertive waxes! 
+12351615 Affirm.Impertive way too! 
+12951414 Affirm.Impertive repeat! 
+1215675 Affirm.Impertive work against! 
+12727442 Affirm.Impertive Destroy yourself! 
+12714118 Affirm.Impertive Disperse yourself! 
+12766113 Affirm.Impertive pull back! 
+12146513 Affirm.Impertive circulate! 
+76611166 Organ/Spec.Individually weakest meridian, due to the system (filter) 
+14537211 Affirm.Defense against infection enhancing 
+51551217 Regulate Defense against infection enhancing 
+1115136 Regulate Jet lag problem 
+14544722 Extreme (combi) Cac&hexia (wasting, general dystrophy: various causes) 
+81612147 Affirm.Catalyst, protection against motor vehicle 
+1513461 Organ/Spec.Conception vessel (Meridian) 
+91113892 Cause (Combined) Coord.Deficiency between etheric body & astral body (for chakra diagnostics) 
+9111388 Cause (Combined) Coord.Deficiency between phys.& etheric body (eg Chakradiagnostik) 
+31519818 Extreme (combi) Headache (3 heating meridian type) 
+12461256 Cause (Combined) Headache (bladder meridian type) 
+7385121 Cause (Combined) Headache (gallbladder meridian type) 
+35369960 Regulate Headache (stomach meridian type) 
+61615161 Special Code Power triangle I (spiritual will to live) (for Chakradiagnostik) 
+91914191 Special Code Power triangle II (physical will to live) (for Chakradiagnostik) 
+11761130 Organ/Spec.Circulatory Sexuality Meridian 
+19611322 Organ/Spec.Crystal system amorphous (also: human type equivalent) 
+19809412 Organ/Spec.Crystal system hexagonal (also: human type equivalent) 
+1990810 Organ/Spec.Crystal system cubic (also: human type equivalent) 
+1984811 Organ/Spec.Crystal system monoclinic (also: human type equivalent) 
+19895164 Organ/Spec.Crystal system orthorhombic (also: human type equivalent) 
+19941610 Organ/Spec.Crystal system tetragonal (also: human type equivalent) 
+1989109 Organ/Spec.Crystal system trigonal (also: human type equivalent) 
+1989101 Organ/Spec.Crystal system triklin (also: human type equivalent) 
+3411466 Affirm.Life energy (code for more ...) 
+3773312 Affirm.Increase vitality 
+2525667 Organ/Spec.Liver Meridian 
+6155852 Mix Code Tap water improvement (Council in code) 
+12100177 Organ/Spec.H&lebar vessel (Meridian) 
+31311100 Organ/Spec.Links (filters) 
+34117414 Affirm.Left spin (left turn postulate as conditioning additive) 
+12818737 Organ/Spec.Lung meridian 
+25205667 Organ/Spec.Lymph meridian (after full) 
+1495667 Organ/Spec.Stomach Meridian 
+1111661 Organ/Spec.Maximum disturbed meridian (filter) 
+32223206 Organ/Spec.Maximum disturbing meridian (filter) 
+13147437 Regulate Mercurius D60 (for Chakra 2 = navel chakra) 
+18121121 Affirm.Balance Meridian (Filter) 
+1829777 Affirm.Sedate meridian (filter) 
+18311405 Affirm.Toning Meridian (Filter) 
+18104335 Affirm.Meridian harmonize, general 
+13056687 Mix Code Meridian harmonize, complete (Council in Code) 
+1021617 Organ/Spec.Meridian short circuit (filter) 
+6119463 Organ/Spec.Spleen chakra 
+15231817 Organ/Spec.Spleen Meridian 
+82019729 Extreme (combi) Fatigue syndrome, chronic (CFS) 
+44616299 Regulate Fatigue syndrome, chronic (CFS) 
+81710823 Organ/Spec.Navel Chakra (Vitality Center) 
+49141130 Organ/Spec.Nerve Degener.meridian (after full) 
+11818737 Organ/Spec.Kidney Meridian 
+31010127 Organ/Spec.Organ regeneration meridian (after full) 
+75211706 Organ/Spec.Personal constitution meridian (filter) 
+93811427 Regulate Platinum D60 (for Chakra 7 = crown chakra) 
+93891712 Regulate Plumbum D60 (for Chakra 5 = Chakra) 
+3016539 Organ/Spec.Pranic Triangle I (Pranic Triangle) (base: Milky Chakra) 
+84444448 Special Code Pranic Triangle II (base: spleen chakra) 
+4914767 Extreme (combi) progeria 
+91671595 Gov.deficiency progeria 
+77230724 Mix Code Rate Mix: Human (Council in Code) 
+1036279 Organ/Spec.Right (filter) 
+12216125 Affirm.Right spin (right turn postulate as conditioning additive) 
+1012787 Affirm.revitalization code 
+88203144 Regulate loss of fluids 
+17111912 Affirm.Gentle lifting of blockages in the throat chakra 
+1734118 Affirm.Gentle lifting of blockages in the heart chakra 
+35911587 Affirm.Gentle lifting of blockages in the spleen chakra 
+17111312 Affirm.Gentle lifting of blockages in the navel chakra 
+17311411 Affirm.Gentle lifting of blockages in the crown chakra 
+17111295 Affirm.Gentle lifting of blockages in the forehead chakra 
+17118117 Affirm.Gentle lifting of blockages in the root chakra 
+16101795 Organ/Spec.Crested Chakra (Head Center) 
+18101102 Affirm.Normalize sleep wake rhythm 
+82010187 Mix Code Pain of all kinds (Council in Code) 
+1097912 Degener.State weakness 
+61621976 Regulate weakness 
+13412153 Regulate weakness 
+35117124 Extreme (combi) debility 
+18016116 Affirm.Mental & physical balance 
+12125827 Affirm.Smog, protection against 
+14103125 Extreme (combi) Stowage in the etheric body (for chakra diagnostics) 
+8910823 Organ/Spec.Forehead chakra (forehead center) 
+15771522 Cause (Combined) Tinnitus aurium, by radio telephone use 
+5513949 Regulate inertia 
+2766109 Organ/Spec.Overfunction (filter) 
+91481012 Regulate Overstimulation of the etheric body (for chakra diagnostics) 
+9382376 Organ/Spec.Subfunction (filter) 
+93971015 Organ/Spec.underweight 
+1663310 Cause (Combined) Vasomotorenkollaps 
+16101693 Affirm.Reinforcement of all physiological bodily functions 
+43121146 Regulate Reinforcement of all physiological bodily functions 
+12801273 Organ/Spec.Root chakra (base center) 
+17361712 Organ/Spec.Yang level of a meridian (filter) 
+98111314 Organ/Spec.Yin level of a meridian (filter) 
+36405148 Affirm.Yin Yang energy balance 
+93932122 Organ/Spec.cell control 
+15131118 Affirm.Normalize cell control 
+7213155 Affirm.Normalize cell metabolism 
+59395812 Affirm.For the best of the whole! 

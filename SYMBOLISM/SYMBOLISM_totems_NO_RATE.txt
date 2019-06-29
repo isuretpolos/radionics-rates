@@ -1,0 +1,183 @@
+Afghan Hound
+Airedale Terrier
+Alligator
+Ant
+Antelope
+Arabian Horse
+Badger
+Bat
+Bear
+Beagle
+Beaver
+Bee
+Bernese Mountain Dog
+Blackbird
+Black Jaguar
+Black Panther
+Bloodhound
+Blue Heron
+Blue Jay
+Boston Terrier
+Bouvier des Flandres
+Boxer
+Buffalo
+Bulldog
+Butterfly
+Camel Coming Soon
+Canada Goose
+Cardinal
+Caribou
+Cassowary
+Cat
+Catfish
+Chameleon
+Cheetah
+Chicken
+Chihuahua
+Chimpanzee
+Cocker Spaniel
+Collie
+Coral
+Coyote
+Cougar
+Crab
+Cricket
+Crocodile
+Crow
+Dachshund
+Deer
+Doberman Pinscher
+Dog
+Dolphin
+Dove
+Dragonfly
+Duck
+Dugong
+Dung Beetle
+Eagle
+Elephant
+Elk
+Falcon
+Finch
+Flamingo
+Fly
+Fox
+Frog
+German Shepherd
+Goat
+Golden Retriever
+Goldfinch
+Goose
+Gorilla
+Giraffe
+Grasshopper
+Great Dane
+Groundhog
+Hawk
+Hedgehog
+Heron
+Hippopotamus
+Honey Bee
+Horse
+Hummingbird
+Inch Worm
+Jaguar
+Jay
+Jellyfish
+Kangaroo
+Killer Whale
+Koala
+Koi
+Komodo Dragon
+Labrador Retriever
+Ladybug
+Leopard
+Lion
+Lizard
+Llama
+Lobster
+Lynx
+Magpie
+Manatee
+Marmot
+Miniature Schnauzer
+Monkey
+Moose
+Mosquito
+Moth
+Mountain Goat
+Mountain Lion
+Mouse
+Old English Sheepdog
+Opossum
+Orangutan
+Orca
+Otter
+Osprey
+Ostrich
+Owl
+Panda
+Panther
+Parrot
+Peacock
+Pelican
+Penguin
+Pheasant
+Platypus
+Polar Bear
+Pomeranian
+Poodle
+Porcupine
+Prairie Dog
+Praying Mantis
+Pug
+Quail
+Quarter Horse
+Rabbit
+Raccoon
+Rat
+Raven
+Redwing Blackbird
+Reindeer
+Rhinoceros
+Robin
+Rottweiler
+Salamander
+Salmon
+Scarab Beetle
+Schnauzer
+Scorpion
+Scrub Jay
+Seagull
+Seal
+Sea Lion
+Seahorse
+Shark
+Shih Tzu
+Siberian Husky
+Skunk
+Snail
+Snake
+Snow Goose
+Spider
+Squirrel
+Stellar Jay
+Starfish
+Stingray
+Swan
+Tarantula
+Tasmanian Devil
+Tick
+Tiger
+Turkey
+Turtle
+Vulture
+Wapiti
+Wasp
+West Highland White Terrier
+Whale
+Wolf
+Woodchuck
+Woodpecker
+Yorkshire Terrier
+Zebra
