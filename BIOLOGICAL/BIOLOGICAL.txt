@@ -21579,8 +21579,8 @@ Vital ty. female409711
  Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Beath of Metus 504379
  Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis 907651
  Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis, age related 2097651
- Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis, haemorMagic 10427954
- Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis, perLient 6097651
+ Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis, haemorrhagic 10427954
+ Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis, purulent 6097651
  Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Endometritis, septic 60954
  Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling Feivic abscess 302525
  Women's diseases (Gynaecology)Discharge, vaginal,Discharge foul smelling uterine cancer 50954
