@@ -399,7 +399,7 @@ Trunk (tree)
 Veins
 A
 B
-Brix--
+Brix
 C
 Ca
 Cu
