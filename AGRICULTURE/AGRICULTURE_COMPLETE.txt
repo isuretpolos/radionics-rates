@@ -1,217 +1,146 @@
-Insect and Plant Pests
-Common Farm and Home Insect Pests
-Fertilizers
-Organic Compounds
-Insecticides and Herbicides
-Fungicides
-Miscellaneous
-Plant Vitamins
-Plant Activated Drugs
-Soil and Plant Treatment
-Soil Salts
-Homoeopathic Nutritional Sprays O to x
-Poor Soil Spray
-1st Spray in Spring
-2nd Spray
-Nutritional Spray
-Every Week Until Fruit Sets
-When The Blossoms Are Open
-Weekly After Fruit Sets
-After Harvest Until st Frost
-Pollen Spray
-Sick Plant Spray
-Plants and Plant Parts
-Soil Testing for Nutrients (Reams Technique)
-Fertilizers and Manures
-Source
-Nitrogen
-Potassium
-Phosphorous
-Sulphur
-Manganese
-Iron
-Zinc
-Copper
-Boron
-Lime Sources
-Fungus, Virus
-Miscellaneous Rates
-Chemical Used in Agriculture
-Oils
-Herbs
-Flower Essences
-Australian Bush Flower Remedies
-The New Biochemic Remedies
-Artificial Elements
-Metallic Minerals
-Non-Metallic Minerals
-Common Farm and Home Insert Pests Rate 
-Alfalfa Caterpilar
-Alfalfa Looper
-Ants
-Black
-Ants
-Red
-Aphids
-White
-Aphids
-Green
-Army Worm
-Adult
-Army Worm
-Young
-Army Worm
-Baby
-Asparagus
-Azelea Caterpillar
-Bagworm
-Black Swalowtail Larvac
-Buffalo Gnats
-Cabbage Butterfly
-Cockroaches
-Brown
-Cockroaches
-Common
-Codling Moth
-Colorado (Potato) Beetle
-Colorado (Potato) Looper
-Corn Borer
-Corn Earworm
-Corn Earworm
-(Sweet)
-Cricket Brown
-(Mormon)
-Diamondback Moth
-Egg Plant Weevil
-European Corn Borer
-Fall Webworm
-Flea Beeetles
-Fleas
-Grasshopper
-Green Cloverworm
-Water Fleas
-Rate
-Alaska Fish
-Anionic - CaNO
-Anionic - Super Phosphate
-Anionic Ca Hydoxide (Triple)
-Bicarbonate of Soda
-Bone Meal
-Ca Carbonate
-Capphos
-CaSO - Gypsum
-Cationic - Vinegar
-Cottonseed Meal
-Dolomite Blood
-Dried Blood
-Eather Meal
-Fe Chelate
-FeSO
-KSO
-Liquid Ca Hydroxide
-Medina - Seaweed
-MgSO
-Nicotine SO
-NO
-Nitrate of Soda
-Nutritional - Nicotine SO
-Nutritional - Peters
-Nutritional - Peters 
-Octagon Soap - bar
-Phosphoric Acid
-Planters II
-Poor Soil Spray (Use in spring)
-Poor Soil - Basic H
-K*Mag
-Sul-Po-Mag
-Triple Superphosphate
-Urea
-Used Motor Oil
-Rate 
-Agrispon (Soil Innoculant)
-Alaska Fish
-Bacterial (before Flowing for DM)
-Basic H
-Basig G
-BD Compot Starter
-Bone Meal
-Calcium Carbonate
-Calcium Phosphate - to 
-Calphos
-Cottonseed Meal
-Diatomaceous Earth
-Dolomite Lime Mg
-Erth-Rite
-Fish mould
-G & H Grass & Leaf Hopper Killer
-Granite Meal (K)
-Greensand (K)
-Gypsum
-Kelp Meal
-Leaf mould Oak
-Leather Meal
-Marigolds - Yellow Blossoms
-Medina
-Mushroom Waste
-Nitrozyne (Plant Growth Regulator)
-NTC Bio-activator (Composter)
-Pent-A-Vate
-Rice Hulls Sand, Mushroom Base
-Seaweed
-Sodium Thiosulphate 
-Sul-Po-Mag
-Volcanic Ash - Colo
-Worm Castings
-Chlordane Dry
-Chlordane Liquid
-Chlordane Liquid
-Diazinon
-Nicotine Sulphate
-Sevin
-Sevin
-Malathion
-Benomyl (Benlate)
-Capton
-Cygon
-Dipel-Bacillus Thuringiensis
-Dormant Oil
-Flea-Off
-Fruit Tree Spray
-Insectitidal Scap
-Mesurol
-Pyrerthrim-Rotenone
-Rabbit & Deer Repellent
-Roundup
+Alfalfa Caterpillar 3370
+Alfalfa Looper 3370
+Ants Black 4852
+Ants Red 324925
+Aphids White 3225475
+Aphids Green 38251925
+Army Worm Adult 612567
+Army Worm Young 39753825
+Army Worm Baby 2525365
+Asparagus Beetle 4367
+Azalea Caterpillar 127534
+Bagworm 3370
+Black Swallowtail Larvae 2075325
+Buffalo Gnats 3551325
+Cabbage Butterfly 338043671359
+Cockroaches Brown 41581254367
+Cockroaches Common 13145487
+Codling Moth 3370502550
+Colorado (Potato) Beetle 6523
+Colorado (Potato) Looper 33704367
+Corn Borer 37529
+Corn Earworm 41571251359
+Corn Earworm (Sweet) 2325235
+Cricket Brown (Mormon) 6675405
+Diamondback Moth 3370
+Eggplant Weevil 5738
+European Corn Borer 43671359
+Fall Webworm 330
+Flea Beetles 2543671359
+Fleas 4367
+Grasshopper 557579
+Green Cloverworm 337091
+Water Fleas 357557
+Anionic - Ca No.3 15.5-0-0 9445
+Anionic - Super Phosphate 0-20-0 39735
+Anionic - Ca Hydroxide (Triple) 59551
+Bicarbonate of Soda 2145
+Ca Carbonate-98% 39755525
+Cationic - Vinegar 1226615
+Cottonseed Meal 31445
+Dolomite-35% Mg 4567
+Dried Blood 42755425
+Fe Chelate-10% 6453
+FeSO-22.8% 60754725
+KSO 0050 57925
+Leather Meal 4129325
+Liquid Ca Hydroxide 292551
+Medina W/Seaweed 336025
+MgSO 7169
+Nicotine SO-40% 35857
+Nitrate of Soda NO2 32254175
+Nutritional # 1 w/Nicotine SO4 3237
+Nutritional # 4 w/Peters 15-45-5  287542
+Nutritional # 5 w/Peters 30-30-30  4365
+Phosphoric Acid-85% 6394
+Planters II 3158
+Poor Soil Spray (Use in Spring) 85145
+Poor Soil w / Basic H 32256425
+Sul-Po-Mag K*Mag 2057325
+Triple Superphosphate 0-46-0 352557
+Urea 44-0-0 497564
+Used Motor Oil 40495
+Agrispon (Soil Inoculant) 41615
+Bacterial (before Flowing for D.M) 4884
+Basic H 485715
+Basic G 485715
+BD Compost Starter 292572
+Bone Meal 1-11-0 183375
+Calcium Carbonate 39755325
+Calcium Phosphate 2 to 1 342532
+Cottonseed Meal 6-1-1 31445
+Diatomaceous Earth 417125
+Dolomite Lime-35% MG 4567
+Erth-Rite 375555
+Fish mould 52569
+G&H Grass & Leaf Hopper Killer 5757975
+Granite Meal (K) 38538
+Greensand (K) 4657675
+Kelp Meal 506625
+Leaf mould-Oak 4394
+Leather Meal 412525
+Marigolds - Yellow Blossoms 31525
+Medina 336025
+Musbroom Waste 54695
+Nitrozyne (Plant Growth Regulator)  487557
+NTC Bio-activator (Composter) 2475495
+Pent-A-Vate 445675
+Rice Hulls 7 Sand,Mushroom Base 7164
+Sodium Thiosulphate 505715
+Sul-Po-Mag 207325
+Volcanic Ash - Colo 655545
+Worm Castings 52861
+Chlordane - Dry 5% 28255625
+Chlordane - Liquid 75% 335625
+Chlordane - Liquid 10% 4755625
+Diazinon 82% 247625
+Nicotine Sulphate 40% 357557
+Sevin 80% 29579
+Sevin 5% 34579
+Malathion 50% 41574
+Benomyl (Benlate) 857475
+Capton 50% 677557
+Cygon 2125535
+Dipel-Bacillus Thuringiensis 3370
+Dormant Oil 502550
+Flea-Off 227475
+Fruit Tree Spray 37575
+Insecticidal Soap 3225475
+Mesurol 5375715
+Pyrerthrim-Rotenone 4367
+Rabbit & Deer Repellent 567579
+Roundup 5753
 Rozol
-Spectracode
-Paraquat CL
-Sinbar
+Spectracode 25% 315475
+Paraquat CL 258075
+Sinbar 4557475
 Karmex
-Princep
-T (agent Orange)
-Brush Killer (Agent White)
-DDT
-Grass Killer
-Lindane
-Parathion
-Ambush
-Ergot
-Pontelentiazol
-Temirik
+Princep 90% 37757175
+02/04/2000  432565
+2-4-5-T (Agent Orange) 21975
+Bush Killer (Agent White) 346475
+DDT 4885
+Grass Killer 12% 32475
+Lindane 6515
+Parathion 8548
+Ambush 33752675
+Ergot 4694
+Pentelentiazol 492596
+Temik 30253425
 Berry Set
-Bicarnonate of Soda
-Blossom Set
-Bluestone
-Copper Sulphate
-Giberellic Acid Hormone
-Giberellic Acid Hormone
-Homex Root Powder
-Homex Root Powder
-Maneh
-Potassium Soap (Frost Control)
-Propylene Glycol (Frost Control)
-Rootone
+Bicarbonate of Soda 2145
+Blossom Set 355445
+Bluestone 3750
+Gibberellic Acid .0857% Hormone 575165
+Gibberellic Acid 3.91%. Hormone 235855
+Homex Root Powder # 1 665
+Homex Root Powder # 3 268375
+Maneh 80% 4175815
+Potassium Soap (Frost Control) 594075
+Propylene Glycol (Frost Contro)) 535435
+Rootone # 10 184275
 Slug-It
+<<<<<<< HEAD
 Sodium of Molybate (MO)
 Sulfuric Acid
 Wilt Pruf
@@ -532,1349 +461,1418 @@ Colemanite
 FertBorate 
 FertBorate 
 Sodium Pentaborate
-Sodium Tetraborate
-Solubor
-Lime Sources
-Relative Neutralizing Value
-Backed Oyster Shells
-Basic Slag
-Burned 
-Burned Oyster Shells
-Ca Carbonate
-Calcite
-Dolomitic
-Gypsum
-Hydrated
-Marl
-Fungus, Virus
-Black Hearth
-Blue Mould (Damping Off)
-Lichen Moss (On trees)
-Mange (dog, livestock)
-Mosaic virus
-Mummy berry 
-Snowmouldbank rate
-Miscellaneous Rates
-repel rats and mice
-repel rabbits
-clear radioactive fall-out
-Magnetic fall-out
-Sidereal Radioactivity
-Agent Orange
-Agent White
-Ambush
-Benlate
-Capton
-Chlordane
-Chlordane
-Chlordane
-Cygon
-Diazinin
-Dieldrin
-Dipel
-DBCF
-DDT
-Ergot
-Lanate
-Lindane
-Malathion
-Mesurol
-Nicotine Sulphate
-Paraquat CL
-Parathion
-Pemtac
-Pentelentiezol
-Princep
-Pyrethrin
-Round-Up
-Sevin
-Sevin
-Sinbar
-Temick
-Trithion
-Weed Killer
-Clove Oil
-Eucalyptus Oil
-Mineral Oil
-Olive Oil
-Pennyroyal Oil
-Peppermint Oil
-Wintergreen Oil
-Abcess Root
-Acacia Bark
-Acacia Gum
-Aconite
-Acorn
-Adder’s Tongue, American
-Adder’s Tongue, English
-Adrue
-Agar - Agar
-Agaricus
-Agrimony
-Alder, Black, American
-Alder, English
-Alkanet
-Allspice
-Almonds, Bitter
-Almonds, Sweet
-Aloes
-Alstonia Bark
-Amadou
-Amaranth
-Ammoniacum
-Angelica, European
-Angosura
-Anissed
-Annatto
-Aveloz
-Avender Cotton
-Benne
-Benzoin
-Berberis
-Betal
-Beth Root
-Bilberry
-BindWeed
-Birch, European
-Birthwort
-Bistort
-Bitter Apple
-Bitter Root
-Bittersweet
-Bittersweet, American
-Black Haw
-Black Root
-Blackberry, American
-Blackcurrant
-Blackthorn
-Bladderwrack
-Blood Root
-Blue Flag
-Blue Mallow
-Blueberry
-Boldo
-Boneset
-Borage
-Boric Acid
-Box
-Boxwood, American
-Brogamint
-Brooklime
-Broom
-Broom-corn
-Bryony, Black
-Bryony, White
-Buchu
-Buckbean
-Buckthorn, Alder
-Bugle
-Bugleweed
-Buglose
-Burdock
-Burnet, Greater
-Burnet, Saxifrage
-Burr Marigold
-Burre Gokeroo
-Bush Tea
-Butcher’s Broom
-Butterbur
-Butternut
-Button Snakerrot
-Cabbage Tree
-Cacao
-Cajuput
-Calamint
-Calamus
-Calarbar Bean
-Calotropis
-Calumba
-Camphor
-Canadian Hemp
-Canadian Thistle
-Cancholague
-Canella
-Caraway
-Cardomom
-Caroba
-Cascara Sagrada
-Cascare Amarga
-Cashew Nut
-Casscarilla
-Cassia
-Cassia Pods
-Castor Beans
-Castor Oil Plant
-Catechu, Black
-Catechu, Pale
-Catnip
-Catnip
-Cayenne
-Cdron
-Celandine
-Celery
-Centaury
-Chamomile
-Chamomile, German
-Chaulmoogra
-Cheken
-Cherry - Laurel
-Cherry Stalks
-Chestnut
-Chickweed
-Chicory
-China
-Chloropyii - Vomfrey
-Cicely, Sweet
-Cinchona
-Cineraria Maritime
-Cinnamon
-Ciretta
-Clary
-Clivers
-Cloves
-Clubmoss
-Coca
-Cocculus Indious
-Cocillane
-Coffee
-Cohosh, Black
-Cohosh, Blue
-Colchicum
-Colophany
-Coltsfoot
-Columbo, America
-Combratum
-Comfrey
-Common Yellow Wood Sorrell
-Condurando
-Contrayerva
-Coolwort
-Copaiva
-Coriander
-Corn Ergot
-Corn Gronwell
-Corn Silk
-Corn Silk
-Cornflower
-Corsican Moss
-Coto
-Cotton Root
-Couchgrass
-Cowhage
-Cowslip
-Cramp Bark
-Cranesbill, American
-Crawley
-Crosswort
-Croton Seeds
-Cubaba
-Cuckoopint
-Cudweed
-Cummin
-Cup Moss
-Cup Plant
-Damiana
-Dandelion
-Deers Tongue
-Devils Bit
-Dill
-Dodder
-Dog Rose
-Dragons Blood
-Dwarf Elder
-Dyer’s Greenwood
-Echinacea
-Elder
-Elecampane
-Elm
-Embellia
-Ephedra
-Ergot
-Eryngo
-Eternel Flower
-Eucalyptus
-Eucalyptus Kino
-Euphorbia
-Euphorbium
-Evening Primrose
-Eyebright
-Fennel
-Feverbush
-Feverfew
-Fig
-Figwort
-Five-leaf Grass
-Fleabone
-Fluellin
-Foenugreek
-Fool’s Parsley
-Foxglove
-Fringetree
-Frostwort
-Fumitory
-Galangal
-Galbanum
-Gale, Sweet
-Galls
-Gamboge
-Garlic
-Galsemium
-Genrian
-Gentian, English
-Germander
-Ginger
-Ginger, Wild
-Ginseng
-Gladwin
-Goa
-Goats Roe
-Gold Thread
-Golden Rod
-Dolden Seal
-Goutwort
-Grains of Paradise
-Gravel Root
-Grindelia
-Ground Ivy
-Ground Pine, American
-Ground Pine, European
-Groundsel
-Guarana
-Guiacum
-Hair Cap Moss
-Hartatongue
-Hawthorn
-Heartease
-Hedge - Hyssop
-Hedge Mustard
-Hellebore, American
-Hellebore, Black
-Hellebore, False
-Hemlock
-Hemp Agrimony
-Henbone
-Henna
-Holly
-Holly Thistle
-Hollyhock 
-Honeysuckle
-Hops
-Horehound
-Horehound, Black
-Horse Chestnut
-Horse Weed
-Horsemint
-Horsemint, English
-Horsenettle
-Horseradish
-Horsetail
-Houndstongue
-Houseleek
-Hydrangea
-Hydrocotyle
-Hyssop
-Iceland Moss
-Ignatius Beans
-Indian Hemp
-Indian Physic
-Ipe Roxo (Bark)
-Ipecacuanha
-Irish Moss
-Ivy
-Ivy, American
-Jaborandi
-Jacobs Ladder
-Jalop
-Jamaica Dogwood
-Jambul
-Jequirity
-Jewel Weed
-John’s Bread
-Jujube
-Juniper
-Kola
-Kousso
-Kumarhou
-Labrador Tea
-Lachnonthes
-Lady’s Bedstraw
-Lady’s Mantle
-Lady’sSlipper
-Larch
-Larkspur
-Laurel
-Lavender
-Leaf Mould - Oak
-Lemon
-Lettuce, Wild
-Life Everlasting
-Life Root
-Lilly-of-the-valley
-Lime Flowers
-Lime Fruit
-Linseed
-Lippia
-Lippis Citriodora
-Liquorice
-Litmus
-Livewort, American
-Livewort, English
-Lobelia
-Logwood
-Loosestrife
-Lovage
-Lucerne
-Lungwort
-Mace
-Madder
-Magnolia
-Maidenhair
-Malabar Nut
-Male Fern
-Manaca
-Mandrake, American
-Manna
-Maple, Red
-Marigold
-Marijuana
-Marjoram, Sweet
-Marjoram, Wild
-Marshmallow
-Masterwort
-Mastic
-Matico
-Mayweed
-Meadow Fern
-Meadow Lily
-Meadowsweet
-Melliot
-Mescal Buttons
-Mezerson
-Mint
-Mistletoe
-Monsonia
-Motherwort
-Mountain Ash
-Mountain Flax
-Mountain Grape
-Mountain Laurel
-Mouse Ear
-Mugwort
-Muire-Puama
-Mulberry
-Mullein
-Muskseed
-Mustard
-Mustard Hedge
-Myrobalans
-Myrrh
-Myrtle
-Nettle Leaves
-Nettle Leaves
-Night-Blooming Cereus
-Nikkar Nuts
-Nutmeg
-Nux Vomica
-Oak
-Oats
-Oldfield Toad Flux
-Olive
-Oliver Bark
-Onion
-Orange, Bitter
-Orange, Sweet
-Orris
-Osier, Red, American
-Ox-Eye Daisy
-Papow
-Paraguay Tea
-Pareira
-Parsley
-Parsley Piert
-Passion Flower
-Patchouli
-Paw Paw, American
-Peach
-Pellitory
-Pellitory-of-the-wall
-Pennyroyal
-Peony
-Pepper
-Peppermint
-Periwinkle
-Peruvian Balsam
-Pichi
-Pilewort
-Pimpernel, Scarlet
-Pine Oils
-Pine, White
-Pinkroot
-Pinus Bark
-Pipsissiwa
-Pitcher Plant
-Plantain
-Pleurisy Root
-Poison Oak
-Poke Root
-Polk Root
-Pollen - Blueberry
-Polypody Root
-Pomegranate
-Poplar
-Poppy
-Poppy, Red
-Prickly Ash
-Primrose
-Prostate Knotweed
-Prune
-Psylilium
-Puff Ball
-Pulsatilla
-Pumpkin
-Purslane Speedwell
-Pyrethrim
-Pyrethrum, Dalmatian
-Quassia
-Quebrocha
-Queens Delight
-Quince
-Ragwort
-Raspberry
-Red Clover
-Red Pepper
-Red Raspberry
-Red Root
-Red Sae
-Red Sorrel
-Rest Harrow
-Rhatany
-Rhubarb, East Indian, China or Turkey
-Rhubarb, English
-Rice
-Rose, Pale
-Rose, Red
-Rosemary
-Rosinwod
-Rue
-Rupturewort
-Sabadille
-Safflower
-Saffron
-Sago
-Salep
-Salt, Iodized
-Samphire
-Sandalwood
-Sanderswood, Red
-Sanicle
-Sarsaparilla, American
-Sarsaparilla, Indian
-Sarsaparilla, Jamaica
-Sassafras
-Sassafras Root Bark
-Sassy Bark
-Savin
-Savory, Summer
-Saw Palmetto
-Scammony Root, Mexican
-Scopolia
-Scullcap
-Scurvy Grass
-Sea Lavender
-Self-Heal
-Senega
-Senna
-Shallot
-Sheep Sorrel
-Sheperd’s Purse
-Siegesbeckia
-Silver Weed
-Simaruba
-Skunk Cabbage
-Slippery Elm
-Smartweed
-Snake Root
-Soap Tree
-Soapwort
-Solomon’s Seal
-Sorrel
-Southernwood
-Soya Beans
-Spearmint
-Speedwell
-Spikenard, American
-Squaw Vine
-Squill
-St John’s Wort
-Star Anise
-Stevesacre
-Stockholm Tar
-Stone Root
-Stonecrop, Virginia
-Storax
-Strawberry
-Stromonium
-Strophonthus
-Sumach, Smooth
-Sumach, Sweet
-Sumbul
-Sundew
-Sunflower
-Swamp Milkwood
-Tag Alder
-Tamarac
-Tamarinds
-Tansy
-Tapioca
-Tea
-Thuja
-Thyme
-Thyme, Wild
-Toadflax, yellow
-Tobbaco
-Tolu Balsam
-Tonka Beans
-Tormentilla
-Tragacanth
-Tree of Heaven
-Turkey Cor
-Turmeric
-Turpentine
-Turpeth
-Unicorn Root, False
-Unicorn Root, True
-Uva-Ursi
-Valerian
-Vernal Grass, Sweet
-Vervain
-Violet
-Wafer Ash
-Wahoo
-Wake Robin, American
-Walnut
-Water Betony
-Water Dock
-Water Dropwort
-Water Fennel
-Water Germander
-Water Plantain
-White Clover
-White Pond Lily, American
-Wild Carrot
-Wild Cherry
-Wild Grape
-Wild Indigo
-Wild Lettuce
-Wild Mint
-Wild Yam
-Willow, Black, American
-Willow, White
-Winter Cherry
-Winter Vetch
-Wintergreen
-Winter’s Bark
-Witch Hazel
-Wood Berony
-Wood Sage
-Wood Sorrel
-Woodruff
-Wormseed
-Wormseed, Levant
-Wormwood
-Wormwood
-Woundwort
-Yarrow
-Yarrow Flowers
-Yellow Dock
-Yellow Flack
-Yellow Parilla
-Yerba Rauma
-Yerba Santa
-Yew
-Yohimbe Bark
-Zedoary
-Common Name Latin Name Rate
-Acacia
-Acacia sp
-Almond
-Prunus Amygdalus
-Aloe Vera
-Aloe Vera
-Amaranthus
-Amaranthus Hypochondriacus 
-Angelica
-Angeloca Armenlaca
-Apricot
-Prunus Armenlaca
-Arnica
-Arnica Mollis
-Aster
-Aster sp
-Advacado
-Persea Americana
-Banana
-Musa Sapientum
-Bee Balm
-Monarde Didyma
-Bells of Ireland
-Malluccella Laevis
-Birch
-Betula Pendula
-Bistort
-Polygnomum Bistortoides
-Blackberry
-Rubus Villorus
-Bleeding Heart
-Dicentra Chrysantha
-Bloodroot
-Sandguinana Canadensis
-Blue Flag
-Iris Versicolor
-Borage
-Borrago Officinalis
-Bottle Brush
-Callistemon Vimenalis
-Calendula
-Calendus Officiniballis
-California Poppy
-Eschscholtzia California
-California Pitcher Plant
-Darlintonia California
-Calla Lily
-Zantedeschia sp
-Camphor
-Cinnamomim Camphora
-Carob (St John’s Bread)
-Ceratonia Siliqua
-Cedar
-Thuja Occidentalis
-Celandine
-Chelidonium Majus
-Cenruary Aggue
-Agave Americana
-Chamomile, German
-Matricaria Chamomilla
-Chaparial
-Chaparro Amargoso
-Cherry
-Pronus Avium
-Chrysanthemum
-Chrysanthemum Morifolium
-Coffe
-Coffe Arabica
-Compfrey
-Symphytum Officinale
-Corn, Sweet
-Zea Mats
-Cosmos
-Cosmos Bipinnatus
-Cotton
-Gossypium Arborcum
-Daffodil
-Narcissus sp
-Daisy, English
-Bellis Perennis
-Dandelion
-Taraxacum Officinale
-Daphne
-Daphne Odorata
-Date Palm
-Phoenis Dactylifera
-Deer Bush
-Ceanothus Integerrimus
-Dill
-Anethum Graveolens
-Dogwood
-Cornus Nuttalli
-Eucalyptus
-Eucalyptus Globulus
-Feverfew
-Chrysanthemum Parthenium
-Fig
-Ficus Carica
-Filaree
-Erodium Cicutarium
-Forget-me-not
-Mysotis Sylvatica
-Four Leaf Clover, Shamrock
-Triflorium Dubium
-Foxglove
-Digitalis sp
-Garlic
-Allium Sativum
-Gilia
-Gilia Capitate
-Ginger
-Alpinia sp
-Golden Rod Bud
-Solidago cf
-Grapefruit
-Citrus Paradisa
-Green Rose
-Rosa Chinensis Viridiflora
-Gum Plant
-Grindelia Subaipina
-Harvest Brodiaea
-Brodiaca Elegans
-Hawthorne, English
-Crataegus Oxyacantha
-Helleborus, Black
-Helleborus Niger
-Henna
-Lawsonia Inerinis
-Hibiscus
-Hibiscus sp
-Hollyhock
-Althea Roas
-Hops
-Humulus Lupulus
-Hound’s Tongue
-Cynoglossum Grande
-Hyssop
-Hyssopus Officinalis
-Indian Pink
-Silene Californixa
-Jasmine
-Jasmine Officinalis
-Jewel Flower
-Strepthanthus Glandulosus
-Khat
-Catha Edulis
-Lavender, French
-Lavendula Officinalis
-Lemon
-Citus Limon
-Lilac 
-Syringa Vulgaris
-Live Forever
-Dudleya Farinosa
-Loosestrife
-Lythium Salicaria
-Loquat
-Eribotrya Japonica
-Lotus
-Nelumbo Nucifera
-Luffa
-Luffa Aegyptiaca
-Macartney Rose
-Rosa Macrantha
-Madar
-Madia Elegans
-Magnolia
-Magnolia Grandoflora
-Mallow
-Malve Sylvestric
-Mango
-Mangifera Ibdica
-Manzonita
-Arctorsap Hylos Manzanota
-Maple, Sugar
-Hacer Saccharum
-Marigold, French
-Tagetes Petula
-Maropasa, Lily
-Calochortus Leichtlinii
-Monkshood
-Aconitum Columbianum
-Morning Glory
-Ipoosa Purpurca
-Mountain Pennyroyal
-Monardella Odoratissima
-Mountain Pride
-Penstemon Newberryi
-Mugwort
-Atremisia Vulgaris
-Mullein
-Verbascum Thapsus
-Nasturtium
-Trapaeolum Majus
-Nectarine
-Prunus Persica
-Onion
-Allium Cepa
-Orange
-Citrus Sinensis
-Orange Hawkweed
-Heiracium Aurantiacum
-Oregon Grape
-Mahonia Aquifolium
-Pansey
-Viola Tricolor
-Papaya
-Carica Papaya
-Passion Flower
-Passiflora Incarnate
-Paw Paw, American
-Asimina Triloba
-Peach
-Prunus Persaca
-Pear
-Pyrus Communis
-Pennyroyal
-Hedeoma Pulegioides
-Peppermint
-Mentha Piperita
-Peony
-Paeonia sp
-Petunia
-Petunia Hybrid
-Pimpernel, Scarlet, Red
-Anagallis Arvensis
-Plantain
-Plantago Lanceolata
-Plum
-Prunus Domestica
-Pomegranate
-Prinica Granatum
-Prickly Pear Cactus
-Opunria Acidulate
-Pussypaws
-Calypt Idium Umbellatum
-Queen Anne’s Lace
-Dauvus Catota
-Quince
-Chaeomoneles Specuisa
-Ragwood
-Ambrosia Chamissionis
-Red Bud
-Cercis Offidentalis 
-Redwood
-Sequia Sempervirens
-Rosemary
-Rosmarimus Officinalis
-Rue
-Ruta Graveolene
-Sage
-Salvia Officinalis
-Saquaro
-Carnegica Gigantre
-St John’s Wort
-Hypericum Perforatum
-Self Heal
-Orunella Vulgaris
-Shinning Flower
-Lamprantus cf Multiradiatus
-Shinning Star
-Dodecatheon Media
-Sierra Iris
-Iris Hartwegii
-Skullcap
-Scurellaria Lateriflora
-Soap Plant
-Chlorogalum Pomeridianum
-Sonoma Sage
-Salivia Sonomensis
-Spice Bush
-Calycanthus Officentalia
-Spiderwort
-Tradescanilia Virginica
-Spikenard
-Aralia California
-Spruce, Colorado, Blue
-Pices Pendens
-Squash, Acorn
-Cucurbita Marina
-Squash, Crookneck
-Cucurbita Moschata
-Squash, Zuccini
-Cucurbita Pepo
-Star Jasmine
-Trachalospermum Jasminoides
-Star Thistle, Barnaby’s Thistle
-Centaurea Soistitalis
-Star Tulip
-Calochortus Tolnue
-Stinging Nettle
-Urtica Dioica
-Strawberry
-Fragia sp
-Sugar Beet
-Beta Vulgaris
-Sunflower
-Heliantjus Annus
-Sweet Alyssum
-Lobularia Maritama
-Sweet Flag
-Acorus Calamus
-Sweetpea
-Lathyrus Latifolus
-Tansy
-Tanacetum Vulgare
-Thyme
-Thymus Vulgaris
-Tiger Lily
-Lilium Columbianum
-Tobacco
-Nicotiana Tabacum
-Trillium
-Truillium sp
-Tuberose
-Polianthus Tuberosa
-Turk’s Cal
-Malvaviscus Arboreous
-Violet
-Viola so
-Wallflower
-Erysimum Capitatum
-Watermelon
-Citrullus Vulgaris
-Wisteria, Chinese
-Wisteria Sihensis
-Wood Betony
-Stachys Betomixa
-Yarrow
-Achiles Millefolium
-Yerba Mate
-Ilex Paraquariensis
-Yerba Santa
-Eriodictyon Californicum
-Zinnia
-Zinnia Elegans
-Rate 
-Banksia Robor
-Baubinia
-Billy Goat Plum
-Black Eyed Susan
-Bluebell
-Boronia
-Bottle Brush
-Bush Fuchsia
-Bush Gardenia
-Bush Iris
-Crowea
-Dagger Hakea
-Dog Rose
-Five Corners
-Flannel Flower
-Fringed Violet
-Grey Spider Flower
-Hibbertia
-Isopogon
-Kangeroo Paw
-Kapok Bush
-Little Flannel Flower
-Macrocarpa
-Mountain Devil
-Mulla Mulla
-Old Man Banksia
-Paw Paw
-Peach Flowered Tree
-Philotheca
-Red Grevillen
-Red Helmet
-Red Lily
-She Oak
-Silver Princola
-Slender Rice Flower
-Southern Cross
-Spinifex
-Sturt Desert Pea 
-Sturt Desert Rose
-Sundew
-Sunshine Wattle
-Tal Yellow Top
-Turkey Bush
-Waratha
-Wedding Bush
-Wild Potato Bush
-Wisteria
-Yellow Cowslip Orchid
-Aurum Mur
-Agentum Nit
-Antimonum Tart
-Baryta Carb
-Calc Lod
-Cuprum
-Cadmium Sulphate
-Erbium
-Graphites
-Iridium
-Kali Asen
-Kali Vrom
-Kali Bichromicum
-Kali Silicotum
-Mercurius
-Neodynum Oxide
-Platino
-Palladium
-Plumbum
-Easium
-Selenium
-Somarium
-Stronria
-Stonnum
-Titonium
-Tellurium
-Thorium
-Thallium Oxide
-Tantelum
-Zincum
-Rate 
-Americium
-Astatine
-Berkelium
-Californium
-Curlum
-Einsteinium
-Fermium
-Frencium
-Hahnium
-Kurehatovium
-Lawencium
-Mendelevium
-Neptunium
-Nobelium
-Plutonium
-Technetium
-Aluminium
-Bauxite
-Corondum
-Cryolite
-Kaolin
-Kyonite
-Arsenic
-Arsenopyrite
-Orpiment
-Reolgar
-Beryl
-Chromium
-Chromite
-Crocoite
-Cobalt
-Cobaltite
-Slutterudite
-Columbite
-Copper
-Azurite
-Bornite
-Chalcopyrite
-Chrysoceila
-Cuprite
-Malachite
-Gold
-Iron
-Hernatite
-Limonite
-Magetite
-Marcosite
-Meteorite
-Pyrite
-Pyrrhotite
-Siderite
-Lead
-Anglesite
-Cerussite
-Gelena
-Magnesium
-Dolomite
-Magnesite
-Spinal
-Mangonose
-Mangonite
-Psilomelane
-Pyrolusite
-Rhodochrosite
-Rhodonite
-Mercury
-Cinnabar
-Molybenite
-Monozite
-Nickle
-Millerite
-Nicklelite
-Pentiondite
-Samorskite
-Scheolite
-Silver
-Ardentite
-Stibnite
-Tentalite
-Tin
-Cassiterite
-Titanium
-Limenite
-Rutile
-Uranium
-Autunite
-Cornotite
-Pitchblende
-Uraninite
-Uranophane
-Vanadinite
-Wolframite
-Zinc
-Blende
-Hemimorphite
-Smithsonite
-Willemite
-Zincite
-Apatite
-Argonite
-Coral
-Flos Ferri
-Asbestos
-Chrysotile
-Crocidolite
-Barite
-Borax
-Colemanite
-Kernite
-Calcite
-Chalk
-Dogtooth Spar
-Iceland Spar
-Nail-Head Spar
-Travertine
-Tufa
-Dolomite
-Flourite
-Graphite
-Gypsum
-Anhydrite
-Halite
-Glauberite
-Saltpeter
-Opal
-Geyserite
-Hyalite
-Tripolite
-Quartz
-Blue
-Chert
-Flint
-Milky
-Sulpher
-Talc
-Soapstone
-Steatite
-GEOPATHOLOGICAL ZONES
-Curry Pattern
-Eartj shift
-Hartmann Pattern
-Radioactivity
-Water flow
-E-SMOG
-Hz mains current
-computer monitor
-electromagnetig alternating field
-electrosmog
-electrostatic field 
-ELF (Extreme Low Frequency)
-LFR (Low Frequency Radiation)
-Magnetic constant field
-Microwave oven
-Mobile telephone, GSM (GHz)
-Mobile telephone, GSM (GHz)
-RF (Radiofrequency)
-Traction corrent - Hz
-TV screen
-TOXINS/TOXIC BURDEN 
-Albumin
-Alcohol
-Aluminium 
-Alypin
-Antimoniun
-Arsenic
-Arsenicum album
-Atropine
-Barium
-Benzedrine (dye, carcinogenic)
-Bismuth carbonate
-Caffeine
-Cantharis (Spanish fly)
-Carbolic acid (disinfectant)
-Carbon acid (CO)
-Carbon bisulphide
-Carbon gases (general)
-Carbon monoxide
-Chloral hydrates
-Chlorine
-Chloroform
-Chloromycetin
-Chlorophill
-Cicutine (alkaloid of spotted hemlock)
-Cigarettes
-Conium
-Copper salts 
-Crystals
-Curare (arrow poison)
-DDT (Dichlorodiphenyl trichloroethane)
-Dexedrin
-Dial
-Diogenal
-Ergatamine
-Eskrin
-Ferrous phosphate 
-Ferrum
-Fibrin
-Flourine
-Food poisoning
-Food
-Formaldehyde
-Formalin 
-Glycerine
-Gold 
-Henna
-Hexamidine (disinfectant)
-Hydrogen peroxide
-Hyoscine, scopolamine
-Iodine
-Iron
-Iron
-Irritants, general
-Lactates
-Lead
-Lindane (in water)
-Liver extract
-Luminal
-Lysol (disinfectant)
-Medinol
-Mercury poisoning
-Mercury 
-Mercury
-Monkshood, wolf’s bane alkaliod
-Natrium bicarbonates
-Natrium 
-Neuronal
-Nicotine
-Nicotinic acid ethylester
-Nirvanal
-Paraldehyde
-Paramyascin
-Percain
-Pethidine
-Phenobarbital (sleeping medicine)
-Phenol
-Phosphine
-Phosphorus poisoning
-Phosphorus
-Phosphorus
-Phthalic acid (DEHP)
-Poison sumac
-Potassium cyanide
-Propanol
-Prostigmin
-Proteins
-Prussic acid
-Sabina, general
-Santonin
-Sedormide
-Selenium
-Silver nitrate
-Snake poison
-Stramonium (thorn apple)
-Streptomicyn
-Strichnine
-Sulphonal
-Sulphuric acid
-Sulphydric acid
-Sumac
-Tartaric acid
-Tensides
-Thyroid gland extract
-Toxic gases (general)
-Toxins/toxic burden
-Turpentine
-Veronal
-Water, polluted
-Zinc salts
+=======
+Sodium of Molybate(MO) 547575
+Sulphuric Acid 295825
+Wilt Pruf 265625
+Zineb 352558
+Amethyst 2554475
+Beer 3775825
+Brix-Sugar 4667
+Ceder Oil 4285
+Citrine 33545
+Diesel 7345
+Dog Wormer 43715
+Emerald 49557
+Fire Opal 34555
+Fuller's Earth 54475
+Garnet 2839
+Linseed Oil - Boiled 83755
+Liquid-E 28.000 (l0) 5455575
+LOC 2951
+Mineral Spirits 447025
+Moonstone 5075595
+Paint Thinner 63561
+Peridot 422543
+Plum Sapphire 28572
+Ruby 435525
+Rutile  Garnet 395525
+Snuff 4425625
+Straw Oil 407547
+Topaz 45465
+Turpentine - Pure Gum 65552
+Turquoise 336275
+Zonolite 552582
+Anti-Gastrin 5225805
+B-Complex 2199
+Calcium 11 Reams 8746
+Calcium Lactate 10qr 50589
+Calcium-Oyster 750mg 3866
+Lysine 41754675
+Norwegian Fjord Kelp 222533
+Vitamin A (Livestock) 1175485
+Zinc 665665
+Quinine Sulfate 39756325
+Min-cal 42548
+Aldactazide  (Blood Pressure Control) 397395
+Aspirin 35457
+Atarax 25mg 1825325
+Benadryl 25mg 63217
+Benadryl 50mg 2256025
+Cophene (Antihistamine) 20712
+Declomycin 300mg 2325515
+Drixoral 7.2mg 32497
+Elavil 100mg 3857575
+Endal (Sinus and Mucous) 445577
+Gris-PEG 124mg (Fungus Infection) 3325425
+Hydrochiorothiazide 50mg 207305
+Iodine 416025
+Leprossor 100mg 40505
+Leprossor 50mg 33254225
+Letter #3 (Thyroid Replacement) 225335
+Neosporin Ophthalmic (For eyes) 23415
+Periactin 4mg (itching) 313277
+Slow-K  12252675
+Tegopen 250mg 3177825
+Tenuate 25mg 18535
+Tetracycline 3143
+Tylenol #3 3125425
+Bacteria Count 81495625
+Circulation (Air) 2321
+Circulation (Water) 26252875
+Fertility 66753625
+Humus 292425
+Magnetic Phenomena (Negative) 3841
+Magnetic Phenomena (Positive) 62546
+Mineral Imbalance 525516
+Moisture 435405
+Porosity 253125
+Ammonia Salts 631
+Calcium Salts 232552
+Chloride 3793
+Iron Chloride Salts 465325
+Nitrogen Salts 21752225
+Agrispon (Feeds bateria) 415615
+Alaska Fish (Nutrient, oil) 52554
+Bicarbonate of Soda (Carbon, nutrient) 214530
+Calcium Hydroxide (Triple anion) 29551
+Calphos (Wetting/binding agent,anchor,trace nutrient) 292553
+Chelated Manganese (Nutrient) 41256066
+Chelated Zinc (Nutrient) 2975665
+Chlordane (Insecticide) 10% 475615
+Copper Sulphate (Germicide. nutrient) 5457575
+Cygon (Insecticide) 2125535
+Household Ammonia-5 (Nutrient. catalyst) 21578
+Iron Chelate (Nutrient, anchor) 6453
+Iron Sulphate (Nutrient, anchor) 6075472511
+Liquide Phosphate (Nutrient,catalyst,anchor) 6393
+Nicotine Sulphate (Insecticide, nutrient) 357557
+Octagon Soap (Nutrient,wetting agent) 3956
+Potassium Hydrozide (Nutrient) 287552
+Sea Water (Ionizing agent, nutrient) 36925
+Seaweed (Ionizing agent, nutrient) 52577
+Snuff (Insecticide) 4425625
+Used Motor Oil (Oil, nutrient) 40495
+Vinegar 1225615
+CuS04 3750
+FeS04 60754625
+Worm Castings 527561
+Household Ammonia 5% 21578
+Giberellic Acid 505625
+Iron Chelate 6453
+P205 85% 6393
+Planters II 3158
+Chlordane 5% - Alternate every other week 28259075
+Nicotine Sulfate - Alternate every other week 357557
+P205 6393
+Calcium Carbonate 39755525
+P205 85% 6393
+Urea 497564
+Flowers (general) 482553825
+Fruits (general) 4225445
+Leaves (everqreen) 3451325
+Leaves (qeneral 255275
+Roots 38225
+Roots (top) 32365
+Sap (general) 46551
+Sap (tree) 48752675
+Trunk (stem) 2552075
+Trunk (tree) 2555325
+Veins 3454425
+A1 1617
+B 24525
+Brix-0-30 572
+C1 3793
+Ca 244
+Cu 7532
+Ergs 949
+Fe 4927
+Humus 292425
+K20 30567
+Mg 2713
+Mn 7371
+N02 8800
+N03 325265
+NH4 2232
+O.M.
+P205 9262
+pH (acid) 3484
+pH (alkalinity) 2641
+S04 7794
+Salts 8242
+Vitality 949
+Zn 5341
+Ammonium Sulphate 483925
+Blood Meal 427549
+Cosmo Fertilizer 7099771301
+Cow Manure 61755175
+Hoof and Horn Mix 77581
+Hop Manure 285305
+Horse Manure 495585
+KC1 53570
+Leaf Mould 34830
+Lime Super Phosphate 54503
+Lime, Slaked 57472
+Nitrate of Potash 3254275
+Nitrate of Soda 19252925
+Nitro Chalk 362285
+Peat, General 37378
+Peat, Irish 432526
+Pig Manure 6855875
+Poultry Manure 5653725
+Sphagnum Peat Moss 51577
+Wood Ash 30415
+Ammonium  Nitrate 33.5%
+Ammonium  Sulphate 21% 3925
+Anhydrous Ammonia 82.5%
+Bone Meal 5.00% 237525
+Calcium Nitrate 15.5% 94645
+Cottonseed Meal 6% 31445
+Cow 3.5% 61755175
+Dried Blood 10% 42755425
+Hoof and Horn 2.6% 77581
+Hop 2.60% 285305
+Horse 4.70% 495585
+Leather Meal 10% 41259325
+Pig 5.60% 6855875
+Potassium Nitrate 44% 3254275
+Poultry 6.3% 565372
+Sodium Nitrate 16% 82645
+Urea 46% 497564
+Granite Meal 10% 38535
+Greensand 10% 4657675
+K2S04 50% 57925
+K2S04 2MgS04 22% 7169
+KC1 60% to 62%
+KNO3 44% 3257675
+Basic Slag 6% 545025
+Conc. Superphosphoric 46% 352557
+Di. Amm. Phosphate  18%  46  8651
+Hard Rock Phosphate 35% 42548
+Mono. Amm. Phosphate II 48% 962551
+Normal Superphosphoric 20% 93735
+Phosphoric Acid 55% 9296
+Soft Rock Phosphate 18% 292553
+Superphosphoric Acid 80% 52257597
+Aluminium Sulphate 14% 473925
+Ammonium  Sulphate 23.7% 28582
+Basic Slag 3% 545026
+Commercial Superphosphate 1.4% 352557
+Copper Sulphate 12.8% 5457575
+Elemental Sulphur 30% to 100% 7794
+Gypsum 12% 4075415
+Iron Sulphate 19% 60754725
+Magnesium Sulphate 13% 545435
+Manganese Sulphate 14.5% 4175815
+Normal Superphosphoric 11.9% 39735
+Potassium - Manganese Sulphate 22% 415975
+Potassium Sulphate 18% 594075
+Manganese Carbonate 31% 5156175
+Manganese Chelates 12% 412560
+Manganese Chloride 17% 45586
+Manganese Frits 10% to 25% 7371
+Manganese Oxides 41% to 68% 402560
+Manganese Sulphates 26% to 28% 2960
+Ferrum Ammonium Polyphosphate 22% 63527
+Ferrum Ammonium Sulphates 14% 622527
+Ferrum Chelates 5% to 15% 6427
+Ferrum Frits Various% 4927
+Ferrum Oxides 69% to 73% 422527
+Ferrum Sulphates 19% to 23% 60752725
+Molybdic Acid 47.5% 34585
+Sodium Molybdate 39% to 41% 295825
+Zinc Carbonate 52% 705665
+Zinc Chelates 9% to 14% 2975665
+Zinc Frits Various% 5341
+Zinc Oxides 78% 325665
+Zinc Phosphate 51% 40665
+Zinc Supphates (Hydrated) 23% to 35% 31665
+Zinc Sulphates - Basic 55% 665665
+Zinc Sulphide 67% 3525665
+Cuprum Ammonium Phosphate 30% 3556175
+Cuprum Chelates 10% 3750
+Cuprum Frits Various% 7532
+Cuprum Sulphate 22.5% 5457575
+Borax 11.3% 24525
+Boric Acid 17% 5975395
+Boron Frits 2% to 60% 56525
+Colemanite 10% 6975555
+Fert. Borate_46 14% 3952
+Fert. Borate_65 22% 3552
+Sodium Pentaborate 18% 295125
+Solubor 20% 5953
+Baked Oyster Shells 80%-90% 8746
+Basic Slag 50%-70% 545025
+Burned 150%-175% 574725
+Burned Oyster Shells 90%-110% 3866
+Calcium Carbonate 100% 39755525
+Calcite 85%-100% 50589
+Dolomitic 95%-108% 4567
+Hydrated 120%-135% 59551
+Marl 50%-90% 292553
+Black Heart 24525
+Blue Mould (Damping Off) 7532
+Lichen Moss (On Trees) 4927
+Mange (Dog,Livestock) 1585
+Mosaic Virus 238
+Mummy Berry 244
+Snowmould-2 bank rate 7532
+To repel rats and mice 1922061
+To repel rats and mice 2761
+To repel rabbits 138332
+To clear radioactive fall-out 2725485
+Sidereal radioactivity 342775
+Agent Orange 2197
+Agent White 10252375
+Ambush 33752775
+Benlate 857475
+Capton 67755l
+Chlordane 75% 335625
+Chlordane 10% 475615
+Chlordare 5% 2825907
+Cygon 2125535
+Diazinin 82% 247625
+Dieldrin 455675
+Dipel 3370
+DBCF 595465
+DDT (Dichlordiphenyltrichlorethan) 901795
+Ergot 4694
+Lanate 445385
+Lanate 33732775
+Lindane 6515
+Malathion 1836
+Malathion 7515
+Mesurol 5375715
+Nicotine  Sulphate 357557
+Paraquat CL 325775
+Paraquat CL 42258075
+Parathion 3050
+Parathion 8548
+Pemtac 367539
+Pentelentiezol 367539
+Princip 37757175
+Pyrethrin 4367
+Round-Up 5753
+Sevin 80% 295625
+Sevin 5% 3456225
+Sinbar 4657475
+Temick 30253425
+Trithion 15125
+Weed Killer 2545
+2,4-D 12525
+Clove Oil 40495
+Eucalyptus Oil 48695
+Mineral Oil 6453475
+Olive Oil 384575
+Pennyroyal Oil 42845
+Peppermint Oil 4165
+Wintergreen Oil 465625
+Abcess Root 116
+Acacia Bark 1305
+Acacia Gum 1104
+Aconite 1741
+Acorn 214
+Adder's Tongue,American 15775
+Adder's Tongue,English 1504
+Adrue 2746
+Agar-Agar 2152
+Agaricus 3149
+Agrimony  449
+Alder,Black,American 3725
+Alder,English 2436
+Alkanet 4151
+Allspice 1114
+Almonds, Bitter 5581
+Almonds, Sweet 704
+Aloes 2506
+Alstonia Bark 2311
+Amadou 1208
+Amaranth 3173
+Ammoniacum 5623
+Angelica, European 1719
+Angosura 1683
+Aniseed 2125
+Annatto 1465
+Aveloz 1660
+Avender Cotton 3711
+Benne 2584
+Benzoin 7503
+Berberis 4119
+Betal 118
+Beth Root l881
+Bilberry 1185
+BindWeed 64554
+Birch, European 1647
+Birthwort 2725
+Bistort 524
+Bitter Apple 4191
+Bitter Root 1786
+Bittersweet 2205
+Bittersweet, American 1528
+Black Haw 2168
+Black Root 196
+Blackberry, American 2349
+BIackcurrant 747
+Blackthorn 1705
+Bladderwrack 2607
+Blood Root 1195
+Blue Flag 1366
+Blue Mallow 2475
+Blueberry 8130
+Boldo 255
+Boneset 1509
+Borage 405
+Boric Acid 5975395
+Box 3199
+Boxwood, American 2499
+Brogamint 395475
+Brooklime 2817
+Broom 1799
+Broom-corn 904
+Bryony, Black 1636
+Bryony, White 2183
+Buchu 2472
+Buckbean 1308
+Buckthorn, Alder 44711
+Bugle 2536
+Bugleweed 611
+Buglose 2211
+Burdock 1809
+Burnet, Greater 2911
+Burnet, Saxifrage 1415
+Burr Marigold 1915
+Burre Gokeroo 3702
+Bush Tea 1514
+Butcher's Broom 4142
+Butterbur 2637
+Butternut 1153
+Button Snakeroot 1679
+Cabbage Tree 1281
+Cacao 2702
+Cajuput 5292
+Calamint 2141
+Calamus 2428
+Calarbar Bean 416l
+Calotropis 5953
+Calumba 3164
+Camphor 45323
+Canadian Hemp 5561
+Canadian Thistle 24753875
+Cancholague 5677
+Canella 2329
+Caraway 1726
+Cardomom 4199
+Caroba 1161
+Cascara Sagrada 1583
+Cashew Nut 2934
+Casscarilla 7403
+Cassia 1574
+Cassia Pods 3194
+Castor Beans 43756175
+Castor Oil Plant 1943
+Catechu, BIack 5699
+Catechu, Pale 439
+Catnip 5264
+Catnip 2239
+Cayenne 3741
+Cdron 3944
+Celandine 2842
+Celery 682
+Centaury 3116
+Chamomile 3643
+Chamomile, German 1759
+Chaulmoogra 2358
+Cheken 541
+Cherry Iaurel 3186
+Cherry Stalks 876
+Chestnut 4179
+Chickweed 1899
+Chicory 22915
+China 5569
+Chloropyii - Vomfrey 2325 335585
+Cicely. Sweet 1341
+Cinchona 1552
+Cineraria Maritime 5911
+Cinnamon 6883
+Ciretta 294
+Clary 1456
+Clivers 794
+Cloves 1627
+Clubmoss 2115
+Coca 5244
+Cocculus Indious 1604
+Cocillane 3749
+Coffee 1259
+Cohosh, Black 2251
+Cohosh, Blue 7845
+Colchicum 3475
+Colophany 809
+Coltsfoot 2173
+Columbo. America 1835
+Combratum 2273
+Comfrey 3141
+Common Yellow Wood Sorrell 506575
+Condurango 1107
+Contrayerva 3751
+Coolwort 1939
+Copaiva 6409
+Coriander 4123
+Corn Ergot 2306
+Corn Gronwell 59375
+Corn Silk 19565
+Corn Silk 5589
+Cornflower 1407
+Corsican Moss 1885
+Coto 8319
+Cotton Root 2729
+Couchgrass 1347
+Cowhage 2902
+Cowslip 869
+Cramp Bark 3197
+Cranesbill, American 1689
+Crawley 2518
+Crosswort 1528
+Croton Seeds 6129
+Cubaba 5605
+Cuckoopint 6117
+Cudweed 1789
+Cummin 2449
+Cup Moss 4168
+Cup Plant 1143
+Damiana 6136
+Dandelion 2851
+Deers Tongue 1381
+Devils Bit 2954
+Dill 5552
+Dodder 2231
+Dog Rose 6124
+Dragons Blood 2266
+Dwarf Elder 4116
+Dyer's  Greenwood 1993
+Echinacea 762
+Elder 1841
+Elecampane 4171
+Elm 2319
+Embellia 2437
+Ephedra 1984
+Ergot 2821
+Eryngo 1561
+Eternal Flower 6153
+Eucalyptus 2526
+Eucalyptus Kino 7228
+Euphorbia 3138
+Euphorbium 7397
+Evening Primrose 1243
+Eyebright 6142
+Fennel 2403
+Feverbush 508
+Feverfew 2599
+Fig 926
+Figwort 2181
+Five-leaf Grass 6114
+Fleabone 652
+Fluellin 2377
+Foenugreek 427
+Fool's Parsley 1317
+Foxglove 1763
+Fringetree 2619
+Frostwort 1459
+Fumitory 2717
+Galangal 1969
+Galbanum 888
+Gale, Sweet 2465
+Galls 5577
+Gamboge 3943
+Garlic 42562
+Gelsemium 1244
+Gentian 2921
+Gentian. English 2561
+Germander 3761
+Ginger 1584
+Ginger, Wild 1174
+Ginseng 6364
+Gladwin 1837
+Goa 602
+Goats Rue 2575
+Gold Thread 2408
+Golden Rod 2708
+Golden Seal 804
+Goutwort 3134
+Grains of Paradise 511
+Gravel Root 3747
+Grindelia 1924
+Ground Ivy 4128
+Ground Pine, American 1217
+Ground Pine. European 2352
+Groundsel 2629
+Guarana 3968
+Guiacum 4863
+Hair Cap Moss 2133
+Hartatongue 5584
+Hawthorn 271
+Heartease 2421
+Hedge - Hyssop 1522
+Hedge Mustard 6135
+Hellebore, American 1474
+Hellebore, Black 7205
+Hellebore, False 1721
+Hemlock 2839
+Hemp Agrimony 962
+Henbone 5691
+Henna 2368
+Holly 4118
+Holly Thistle 1318
+Hollyhock 5558
+Honeysuckle 7219
+Hops 2386
+Horehound 7224
+Horehound, Black 1962
+Horse Chestnut 5566
+Horse Weed 5369
+Horsemint 2279
+Horsemint, English 3159
+Horsenettle 708
+Horseradish 2958
+Horsetail 7728
+Houndstongue 1369
+Houseleek 4131
+Hydrangea 23118
+Hydrocotyle 6258
+Hyssop 1746
+Iceland moss 3754
+Ignatius Beans 7731
+Indian Hemp 489
+Indian Physic 2826
+Ipe Roxo (Bark) 44505
+Ipecacuanha 2166
+Irish Moss 2414
+Ivy 738
+Ivy, American 4157
+Jaborandi 2733
+Jacobs Ladder 2905
+Jalop 1337
+Jamaica Dogwood 2156
+Jambul 3179
+Jequirity 4912
+Jewel Weed 7709
+John's Bread 6119
+Jujube 1246
+Juniper 5837
+Kola 1873
+Kousso 7719
+Kumarhou 2294
+Labrador Tea 4198
+Lachnonthes 1121
+Lady's Bedstraw 3707
+Lady's Mantle 2394
+Lady's Slipper 1336
+Larch 2139
+Larkspur 1602
+Laurel 3136
+Lavender 1805
+Leaf Mould - Oak 4394
+Lemon 2489
+Lettuce, Wild 339
+Life Ever1asting 4149
+Life Root 5571
+Lilly-of-the-valley 2355
+Lime Flowers 6121
+Lime Fruit 617
+Linseed 4196
+Lippia 2206
+Lippis Citriodora 714
+Liquorice 4162
+Litmus 417
+Liverwort, American 2723
+Liverwort, English 2216
+Lobelia 2631
+Logwood 1617
+Loosestrife 3157
+Lovage 917
+Lucerne 2836
+Lungwort 1126
+Mace 1846
+Madder l374
+Magnolia 5318
+Maidenhair 4159
+Malabar Nut 5596
+Male Fern 1287
+Manaca 5697
+Mandrake, American 2248
+Manna 6158
+Maple, Red 1934
+Marigold 5588
+Marijuana 3656775
+Majoram, Sweet 2161
+Majoram. Wild 2528
+Marshmallow 1199
+Masterwort 971
+Mastic 1771
+Matico 2511
+Mayweed 415655
+Meadow Fern 1592
+Meadow Lily 4195
+Meadowsweet 2376
+Melliot 91588
+Mescal Buttons 5559
+Mezerson 1499
+Mint 407375
+Mistletoe 7209
+Monsonia 2916
+Motherwort 1269
+Mountain Ash 861
+Mountain Flax 7238
+Mountain Grape 2282
+Mountain Laurel 7243
+Mouse Ear 315
+Mugwort 5593
+Muire-Puama 2565
+Mulberry 6148
+Mullein 58518
+Muskseed 1429
+Mustard 2942
+Mustard Hedge 42255775
+Myrobalans 605
+Myrrh 3172
+Myrtle 1784
+Nettle Leaves 38548
+Nettle Leaves 2118
+Night-Blooming Cereus 1531
+Nikkar Nuts 2742
+Nutmeg 1651
+Nux Vomica 6222
+Oak 2497
+Oats 1163
+Oldfield Toad Flux 4177
+Olive 6127
+Oliver Bark 2369
+Onion 3274
+Orange, Bitter 6144
+Orange, Sweet 1855
+Orris 7223
+Osier,Red,American 3746
+Papow 1818
+Parquay Tea 2269
+Pareira  8297
+Parsley 4555425
+Parsley Piert 2103
+Passion Flower 1637
+Patchouli 3759
+Paw Paw American 4131
+Peach 1206
+Pellitory-of-the-wall 1902
+Pennyroyal 2515
+Peony 5562
+Pepper 946
+Peppermint 6132
+Periwinkle 4136
+Peruvian Balsam 7241
+Pichi 3921
+Pilewort 7712
+Pimpernel. Scarlet 2638
+Pine Oils 6159
+Pine, White 48591
+Pinkroot 2381
+Pinus Bark 1392
+Pipsissiwa 2929
+Pitcher Plant 1779
+Plantain 4592
+Pleurisy Root 1251
+Poison Oak 7725
+Poke Root 1462
+Polk Root 6753175
+Pollen - Blueberry 37395
+Polypody Root 1149
+Pomegranate 4169
+Poplar 7738
+Poppy 2406
+Poppy, Red 7722
+Prickly Ash 1859
+Primrose 2734
+Prostate Knotweed 237565
+Prune 4146
+Psyllium 1922
+PuffBall 7716
+Pulsatilla 5556
+Pumpkin 4184
+Purslane Speedwell 412552
+Pyrethrim 1359
+Pyrethrum, Dalmatian 7235
+Quassia 2509
+Quebrocha 3527
+Queens Delight 7246
+Quince 2948
+Ragwort 505
+Raspberry 4189
+Red Clover 57715
+Red Pepper 4263
+Red Raspberry 5653725
+Red Root 907
+Red Sae 3167
+Red Sorrel 27715
+Red Sorrel 1225495
+Rest Harrow 4155
+Rhatany 1796
+Rhubarb, East Indian, China or Turkey 1361
+Rhubarb, English 2317
+Rice 819
+Rose, Pale 2595
+Rose, Red 407
+Rosemary 2829
+Rosinwod 4176
+Rue 729
+Rupturewort 3139
+Sabadille 3962
+Safflower 5138
+Saffron 17358
+Sago 1295
+Salep 1669
+Salt,Iodized 4675475
+Samphire 2623
+Sandalwood 1483
+Sandelwood, Red 3735
+Sanicle 3926
+Sarsaparilla, American 6151
+Sarsaparilla, Indian 1137
+Sarsaparilla, Jamaica 7216
+Sassafras 1891
+Sassafras Root Bark 387551
+Sassy Bark 2563
+Savin 1396
+Savory, Summer 5567
+Saw Palmetto 2303
+Scammony Root, Mexican 2918
+Scopolia 2261
+Scullcap 1111
+Scurly Grass 1737
+Sea Lavender 2194
+Self-Heal 2539
+Senega 8955
+Senna 6515
+Shallot 3152
+Sheep Sorrel 3718
+Sheperd's Purse 1405
+Siegesbeckia 4147
+Silver Weed 1813
+Simaruba 2481
+Skunk Cabbage 548
+Slippery Elm 2849
+Smartweed 3101
+Snake Root 1225
+Soap Tree 2923
+Soapwort 1685
+Solomon's Seal 2711
+Sorrel 389
+Southernwood 6146
+Soya Beans 1449
+Spearmint 2525
+Speedwell 1158
+Spikenard. American 2106
+Squaw Vine 4158
+Squill 1471
+St. John's Wort 1283
+Star Anise 3731
+Stevesacre 1353
+Stockholm Tar 4177
+Stone Root 1656
+Stonecrop, Virginia 2217
+Storax 5564
+Strawberry 4181
+Stromonium 9627
+Strophanthus 8945
+Sumach, Smooth 7239
+Sumach, Sweet 1929
+Sumbul 5889
+Sundew 3168
+Sunflower 2932
+Swamp Milkwood 1947
+Tag Alder 626
+Tamarac 7249
+Tamarinds 1277
+Tansy 6154
+Tapioca 1896
+Tea 2939
+Thuja 82
+Thyme 2546
+Thyme, Wild 1615
+Toadflax, yellow 771
+Tobacco 2361
+Tolu Balsam 5598
+Tonka Beans 1981
+Tormentilla 7232
+Tragacanth 519
+Tree of Heaven 3165
+Turkey Cor 2611
+Turmeric 7212
+Turpentine 593
+Turpeth 2197
+Unicorn Root,False 6141
+Unicorn Root,True 1439
+Uva-Ursi 7275
+Valerian 6454
+Vernal Grass, Sweet 5587
+Vervain 1264
+Violet 2589
+Wafer Ash 361
+Wahoo 2289
+Wake Robin, American 2813
+Walnut 1489
+Water Betony 3175
+Water Dock 968
+Water Dropwort 2399
+Water Fennel 4165
+Water Germander 1849
+Water Plantain 3756
+White Clover 28545
+White Pond Lily,American 2459
+Wild Carrot 2265
+Wild Cherry 4188
+Wild Grape 4375325
+Wild Indigo 1665
+Wild Lettuce 2941745
+Wild Mint 1203
+Wild Yam 2136
+Willow, Black,American 1607
+Willow. White 595
+Winter Cherry 2543
+Winter Vetch 27755275
+Wintergreen 669
+Winter's Bark 1958
+Witch Hazel 1712
+Wood Berony 1414
+Wood Sage 986
+Wood Sorrel 4174
+Woodruff 3161
+Wormseed 5591
+Wormseed, Levant 584
+Wormwood 4457
+Wormwood 4185
+Woundwort 1652
+Yarrow 2832
+Yarrow Flowers 4175925
+Yellow Dock 1495
+Yellow Flack 2257
+Yellow Parilia 1855
+Yerba Rauma 721
+Yerba Santa 2447
+Yew 1794
+Yohimbe Bark 1291
+Zedoary 562
+Acacia - Acacia sp. 7141641
+Almond - Prunus Amygdalus 197414
+Aloe Vera - Aloe Vera 58046
+Amaranthus - Amaranthus Hypochondriacus 3071431
+Angelica - Angelica Archangelica 38862
+Apricot - Prunus Armeniaca 103617
+Arnica - Arnica Mollis 86344
+Aster - Aster sp. 616773I
+Avocado - Persea Americana 48923868
+Banana - Musa Sapientum 2000713
+Bee BaIm - Monarda Didyma 9401555
+Bells of lreland - Molucella Laevis 2309191
+Birch - Betula Pendula 8489728
+Bistort - Polygonum Bistorta 2184
+Blackberry - Rubus Villosus 669140
+Bleeding Heart - Dicentra Chrysantha 2640994
+Bloodroot - Sanguinaria Canadensis 291748
+Blue Flag - Iris Versicolor 74118
+Borage - Borage Officinalis 86308
+Bottle Brush - Callistemon Vimenalis 497846
+Calendula - Calendus Officinalis 78971
+California Poppy - Eschscholtzia Californica 66549
+California Pitcher Plant - Darlingtonia Californica 200974381
+Calla Lily - Zantedeschia Aethiopica 881188
+Camphor - Cinnamomum Camphora 31714
+Carob (St. John's Bread) - Ceratonia Siliqua 6364000
+Cedar - Thuja Occidentalis 43119
+Celandine - Chelidonium Majus 45321
+Century Agave - Agave Americana 601341
+Chamomile, German - Matricaria Chamomilla 31609
+Chaparral - Chaparro Amargosa 3803110
+Cherry - Prunus Avium 219663
+Coffee - Coffea Arabica 60317
+Comfrey - Symphytum Officinale 2106635
+Corn, Sweet - Zea Mays 20020037
+Cosmos - Cosmos Bipinnatus 24499007
+Cotton - Gossypium Arboreum 996691
+Daffodil - Narcissus Ajax 18991
+Daisy. English - Bellis Perennis 239001
+Dandelion - Taraxacum Officinale 965105
+Daphne - Daphne Odorata 41616
+Date Palm - Phoenix Dactylifera 678086
+Deer Bush - Ceanothus Integerrimus 4040406
+Dill - Anethum Graveolens 466300
+Dogwood - Cornus Nuttalii 32817
+Eucalyptus - Eucalyptus Globulus 11201
+Feverfew - Chrysanthemum Parthenium 98105
+Fig - Ficus Carica 377843
+Filaree - Erodium Cicutarium 463008
+Forget-me-not - Myosotis Sylvatica 9
+Four Leaf Clover, Shamrock - Triflorium Dubium 94887000
+Foxglove - Digitalis sp. 1097877
+Garlic - Allium Sativum 80509
+Gilia - Gilia Capitate 2293441
+Ginger - Alpinia Purpurea 98771
+Golden Rod Bud - Solidago cf. 1141
+Grapefruit - Citrus Paradisi 305555
+Green Rose - Rosa Chinensis Viridiflora 9546591
+Gum Plant - Grindelia Subalpina 41364
+Harvest Brodiaea - Brodiaea Elegans 850179
+Hawthorne, English - Crataegus Oxyacantha 51522
+Helleborus, Black - Helleborus Niger 95671
+Henna - Lawsonia Inernis 77
+Hibiscus - Hibiscus sp. 287093301
+Hollyhock - Althaea Rosea 900504011
+Hops - Humulus Lupulus 99
+Hound's Tongue - Cynoglossum Grande 8933100
+Hyssop - Hyssopus Officinalis 4457787
+Indian Pink - Silene Californica 38067727
+Jasmine - Jasmine Officinalis 4457787
+Jewel Flower - Streptanthus Glandulosus 40889788
+Khat - Catha Edulis 371064823
+Lavender, French - Lavendula Officinalis 81325
+Lemon - Citrus Limon 216
+Lilac - Syringa Vulgaris 8050939
+Live Forever - Dudleya Farinosa 80101086
+Loosestrife - Lythium Salicaria 14022204
+Loquat - Eriobotrya Japonica 2906663
+Lotus - Nelumbo Nucifera 36486914
+Luffa - Luffa Aegyptiaca  66414
+Macartney Rose - Rosa Macrantha 4101077823
+Madia - Madia Elegans 4343661
+Magnolia - Magnolia Grandiflora 20556611
+Mallow - Malve Sylvestris 28406
+Mango - Mangifera Indica 20106
+Manzanita - Arctostaphylos Manzanita 1000066
+Maple, Sugar - Acer Saccharum 80641
+Marigold, French - Tagetes Patula 11
+Mariposa Lily - Calochortus Leichtlinii 696050038
+Monkshood - Aconitum Columbianum 35171
+Morning Glory - Ipomoea Purpurea 2104
+Mountain Pennyroyal - Monardella Odoratissima 878139161800
+Mountain Pride - Penstemon Newberryi 498481
+Mugwort - Artemisia Vulgaris 623522
+Mullein - Verbascum Thapsus 37155
+Nasturtium - Trapaeolum Majus 280631
+Nectarine - Prunus Persica 1974388011
+Onion - Allium Cepa 6190993
+Orange - Citrus Sinensis 20717
+Orange Hawkweed - Hieracium Aurantiacum 26542134
+Oregon Grape Root - Mahonia Aquifolium 8298641
+Pansey - Viola Tricolor 80396
+Papaya - Carica Papaya 71067103
+Passion Flower - Passiflora Incarnate 60340
+Paw Paw, American - Asimina Triloba 7783451
+Peach - Prunus Persica 21056
+Pear - Pyrus Communis 77176
+Pennyroyal - Hedeoma Pulegioides 2179
+Peony - Paeonia officialis 416
+Peppermint - Mentha Piperita 20101
+Petunia - Petunia Hybrid 24762
+Pimpernel, Scarlet,Red - Angallis Arvensis 13161
+Plantain - Plantago Lanceolata 22244
+Plum - Prunus Domestica 196403
+Pomegranate - Punica Granatum 201406
+Prickly Pear Cactus - Opuntia Acidulate 210621
+Pussypaws - Calyptridium Umbellatum 63945211
+Queen Anne's Lace - Daucus Carota 3688
+Quince - Chaenomeles Speciosa 418600719
+Ragweed - Ambrosia Chamissionis 33176
+Red Wood - Cercis Occidentalis 381677998
+Redwood - Sequoia Sempervirens 93
+Rosemary - Rosmarinus Officinalis 222121
+Rue - Ruta Graveolene 74444
+Sage - Salvia Officinalis 809004
+Saquaro - Carnegiea Gigantea 41111186
+St. John's Wort - Hypericum Perforatum 53362
+Self Heal - Prunella Vulgaris  10101
+Shining Flower - Lamprantus cf. Multiradiatus 387996331
+Shooting Star - Dodecatheon Media 28061488781
+Sierra Iris - Iris Hartwegii 14488718
+Skullcap - Scutellaria Lateriflora 22118
+Soap Plant - Chlorogalum Pomeridianum 18964
+Sonoma Sage - Salvia Sonomensis 2860079814
+Spice Bush - Calycanthus Occidentalis 84067621
+Spiderwort - Tradescantia Virginica 3077000009
+Spikenard - Aralia California 32165
+Spruce, Colorad,Blue - Pices Pendens 20463
+Squash, Acorn - Cucurbita Marima 646
+Squash, Crookneck - Cucurbita Moschata 94560801
+Squash, Zucchini - Cucurbita Pepo 66
+Star Jasmine - Trachelospermum Jasminoides 555056851
+Star Thistle, Barnaby's Thistle - Centaurea Solstititalis 306769804
+Star Tulip - Calochortus Tolmei 206668759
+Stinging Nettle - Urtica Dioica 990499
+Strawberry - Fragia sp. 46911854
+Sugar Beet - Beta Vulgaris 33447
+Sunflower - Heliantus Annus 60312
+Sweet Alyssum - Lobularia Maritima 999814
+Sweet Flag - Acorus Calamus 368455643
+Sweetpea - Lathyrus Latifolius 201441
+Tansy - Tanacetum Vulgare 506632
+Thyme - Thymus Vulgaris 2605
+Tiger Lily - Lilium Colombianum 20895
+Tobacco - Nicotiana Tabacum 31212
+Trillium - Trillium sp. 81916
+Tuberose - Polianthus Tuberosa 1090960113
+Turk's Cap - Malvaviscus Arboreus 26046043
+Violet - Viola sp. 81396
+Wallflower - Erysimum Capitatum 41694321
+Watermelon - Citrullus Vulgaris 6588423
+Wisteria, Chinese - Wisteria Sinensis 9124568
+Wood Betony - Stachys Betonica 233106
+Yarrow - Achillea Millefolium 48274
+Yerba Mate - Ilex Paraquariensis 111
+Yerba Santa - Eriodictyon Califirnicum 19641
+Zinnia - Zinnia Elegans 26464381
+Banksia Robor 222515857595
+Bauhinia 35856525158575
+Billy Goat Plum 451505951037
+Black-Eyed Susan 6585357796
+Bluebell 99515850515
+Boronia 458525857562
+Bottle Brush 45158565773
+Bush Fuchsia 94515857563
+Bush Gardenia 44022537
+Bush Iris 65113585657
+Crowea 66633563
+Dager Hakea 5159575951585
+Dog Rose 397577577
+Five Corners 65959597593
+Flannel Flower 45158535559575
+Fringed Violet 977575793
+Grey Spider Flower 88427513
+Hibbertia 4515958535756
+Isopogon 455555255
+Kangaroo Paw 15853595159535
+Kapok Bush 15852515951585
+Little Flannel Flower 65158566335
+Macrocarpa 2252515358
+Mountain Devil 111595358525
+Mulla Mulla 651195995158
+Old Man Banksia 177517513
+Paw Paw 445551793
+Peach Flowered Tea Tree 9872259535
+Philotheca 398565759535
+Red Grevillea 15852565859515
+Red Helmet Orchid 91135179
+Red Lily 65852535852575
+She Oak 62175793
+Silver Princess 15852522335
+Slender Rice Flower 158565956585575
+Southem Cross 6515052585657
+Spinifex 917753
+Sturt Desert Pea 635339951
+Sturt Desert Rose 656635951575
+Sundew 95103510337
+Sunshine Wattle 6565662175
+Tall Yellow Top 63358595857
+Waratah 445119517
+Wedding Bush 45456595759515
+Wild Potato Bush 65158525159535
+Wisteria 2510595927
+Yellow Cowslip Orchid 66656217
+Aurum Mur 2172
+Argentum Nit 1156
+Antimonium Tart 3573
+Baryta Carb 6532
+Calc Iod 2883
+Cuprum 4772
+Cadmium Sulphate 3887
+Erbium	7335
+Graphites 4797
+Iridium 5747
+Kali Ars 1659
+Kali Brom 2615
+Kali Bichromicum 3598
+Kali Silicatum 6517
+Mercurius 4785
+Neodynum Oxide 1935
+Platina 2925
+Palladium 5713
+Plumbum 1682
+Easium 5126
+Selenium 2833
+Samarium 3832
+Stronria 2123
+Stannum 5792
+Titanium 1193
+Tellurium 2847
+Thallium Oxide 2648
+Thorium 5782
+Tantelum 3594
+Zincum 1628
+Americium 32246
+Astatine 47499
+Berkelium 32233
+Californium 66556
+Curium 6753
+Einsteinium 26972
+Fermium 29714
+Francium 67765
+Hahnium 22271
+Kurchatovium 64183
+Lawrencium 31319
+Mendelevium 28867
+Neptunium 42547
+Nobelium 55453
+Plutonium 44444
+Technetium 51957
+Aluminium 39799
+Bauxite 97568
+Corundum 1761
+Cryolite 2286
+Kaolin 3218
+Kyonite 4461
+Arsenic 34999
+Arsenopyrite 5348
+Orpiment  3755
+Realgar 2484
+Beryl 3171
+Chromium 3614
+Chromite 5931
+Crocoite 6184
+Cobalt 36003
+Cobaltite 6228
+Skutterudite 7521
+Columbite 6663
+Copper 34437
+Azurite 8441
+Bornite 6529
+Chalcopyrite 3524
+Chrysoceila 6619
+Cyprite 4489
+Malachite 1788
+Gold 3808
+Iron 3492
+Hematite 7146
+Limonite 6468
+Magnetite 5161
+Marcasite 8565
+Meteorite 2721
+Pyrite 4559
+Pyrrhotite 3751
+Siderite 9618
+Lead 31609
+Anglesite 4221
+Cerussite 884
+Gelena 1754
+Magnesium 3877
+Dolomite 7291
+Magnesite 6287
+Spinel 2984
+Mangonese 25227
+Mangonite 9755
+Psilomelane 4163
+Pyrolusite 2383
+Rhodochrosite 4456
+Rhodonite 7651
+Mercury 358
+Cinnabar 6868
+Molybenite 30642
+Monozite 7669
+Nickle 164
+Millerite 2419
+Nickelite 3287
+Pentlandite 4971
+Samorskite 4488
+Scheelite 1621
+Argentite 2522
+Stibnite 1191
+Tantalite 32873
+Tin 31127
+Cassiterite 5987
+Titanium 303422
+Limonite 6468
+Rutile 5291
+Uranium 39099
+Autunite 6382
+Cornotite 9883
+Pitchblende 4683
+Uraninite 7529
+Uranophane 3862
+Vanadinite 30523
+Wolframite 2519
+Zinc 31125
+Blende 2787
+Hemimorphite 4277
+Smithsonite 7585
+Willemite 4493
+Zincite 1124
+Apatite 7258
+Argonite 2658
+Coral 33479
+Flos Ferri 1171
+Asbestos 914
+Chrysotile 2169
+Crocidolite 6657
+Barite 4276
+Borax 4793
+Colemanite 3191
+Kernite 6714
+Calcite 2713
+Chalk 8254
+Dogtooth Spar 9452
+Iceland Spar 7553
+Nail-Head Spar 8756
+Travertine 5915
+Tufa 2117
+Dolomite 8498
+Flourite 7926
+Graphite 9999
+Gypsum 2158
+Anhydrite 1176
+Halite 8152
+Glauberite 3911
+Saltpeter 5488
+Opal 8868
+Geyserite 6181
+Hyalite 7879
+Tripolite 5921
+Quartz 6286
+Blue Quartz 8755
+Chert 2162
+Flint 8781
+Milky Quartz 6891
+Sulpher 4433
+Talc 6963
+Soapstone 6979
+Streatite 6957
+Curry Pattern 972312
+Earth shift 432323
+Hartmann Pattern 544324
+Radioactivity 97431
+Water flow 34752
+50 Hz mains current 56333
+computer monitor 85488
+electromagnetic alternating field 56532
+electrosmog 96500
+electrostatic field 1234566
+ELF (Extreme Low Frequency) 34344
+LFR (Low Frequency Radiation) 4378464
+Magnetic constant field 122225
+Microwave oven 53345765
+Mobile telephone, GSM (0,9 GHz) 8336457
+Mobile telephone, GSM (1,8 GHz) 354475
+RF (Radiofrequency) 25654
+Traction current 16 2/3 Hz 642
+TV screen 74422
+Albumin 9019
+Alcohol 4004
+Aluminium 39799
+Alypin 5825
+Antimonium 3909
+Arsenic 34999
+Arsenicum album 646444
+Atropine 6543
+Barium 301156
+Benzedrine (dye, carcinogenic) 812
+Bismuth carbonate 812
+Caffeine 4125
+Cantharis (Spanish fly) 9011026
+Carbolic acid (disinfectant) 2226
+Carbon acid (CO2) 5348
+Carbon bisulphide 545
+Carbon gases (general) 9016789
+Carbon monoxide 6531
+Chloral hydrates 3252
+Chlorine 3817
+Chloroform 334410
+Chloromycetin 5888
+Chlorophill 9011021
+Cicutine (alkaloid of spotted hemlock) 9015289
+Cigarettes 90130010
+Conium 59412
+Copper salts 3837
+Crystals 901588
+Curare (arrow poison) 4456
+DDT (Dichlorodiphenyl trichloroethane) 901795
+Dexedrin 4547
+Dial 213
+Diogenal 3215
+Ergatamine 90110103
+Eskrin 3939
+Ferrous phosphate 34597
+Ferrum 901493
+Fibrin 901156
+Flourine 30099
+Food poisoning 90154722
+Food 2013
+Formaldehyde 34335
+Formalin 304223
+Glycerine 90118
+Gold 3803
+Henna 901145
+Hexamidine (disinfectant) 187
+Hydrogen peroxide 5666
+Hyoscine, scopolamine 4333
+Iodine 3884
+Iron 3492
+Iron 901493
+Irritants, general 90148
+Lactates 452
+Lead 316091
+Lindane (in water) 560222
+Liver extract 4487
+Luminal 4764
+Lysol (disinfectant) 1055
+Medinol 7856
+Mercury poisoning 9017046
+Mercury 2966
+Mercury 358
+Monkshood, wolfâ€™s bane alkaliod 5378
+Natrium bicarbonates 1132
+Natrium 90145
+Neuronal 3653
+Nicotine 300101
+Nicotinic acid ethylester 3542
+Nirvanal 5242
+Paraldehyde 3744
+Paramyascin 404234
+Percain 5246
+Pethidine 9556
+Phenobarbital (sleeping medicine) 304355
+Phenol 73442
+Phosphine 3774
+Phosphorus poisoning 901695
+Phosphorus 3791
+Phosphorus 43560
+Phthalic acid (DEHP) 977658
+Poison sumac 9011188
+Potassium cyanide 3345
+Propanol 5622
+Prostigmin 50422
+Proteins 32302
+Prussic acid 3845
+Sabina general 5844
+Santonin 4354
+Sedormide 7351
+Selenium 30734
+Silver nitrate 498
+Snake poison 901808
+Stramonium (thorn apple) 3343
+Streptomicyn 50265
+Strichnine 5122
+Sulphonal 2443
+Sulphuric acid 5554
+Sulphydric acid 5143
+Sumac 10085
+Tartaric acid 3321
+Tensides 4423303
+Thyroid gland extract 4424
+Toxic gases (general) 6789
+Toxins/toxic burden 90172
+Turpentine 7078811
+Veronal 7413
+Water, polluted 9011008
+Zinc salts 35009
