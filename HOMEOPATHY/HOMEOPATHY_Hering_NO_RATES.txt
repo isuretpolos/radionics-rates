@@ -6,9 +6,9 @@ Aceticum Acidum ----- Acet. ac.
 Aconitum Napellus ----- Acon.
 Actea Racemosa (Cimicifuga) ----- Act. r.
 Actea Spicata ----- Act. sp.
-Æsculus Glabra ----- Æsc. g.
-Æsculus Hippocastanum ----- Æsc.
-Æthusa Cynapium ----- Æth.
+Aesculus Glabra ----- Aesc. g.
+Aesculus Hippocastanum ----- Aesc.
+Aethusa Cynapium ----- Aeth.
 Agaricus Muscarius (Amanita) ----- Agar.
 Agnus Castus ----- Agn.
 Ailanthus Glandulosa ----- Ail.
@@ -61,8 +61,8 @@ Arum Dracontium ----- Arum d.
 Arum Maculatum ----- Arum m.
 Arum Triphyllum ----- Arum t.
 Arundo Mauritanica ----- Arund.
-Asafœtida ----- Asaf.
-Asarum Europæum ----- Asar.
+Asafoetida ----- Asaf.
+Asarum Europaeum ----- Asar.
 Asclepias Cornuti ----- See Asc. s. ----- Asclepias Syriaca
 Asclepias Syriaca (Asclepias Cornuti) ----- Asc. s.
 Asclepias Tuberosa ----- Asc. t.
@@ -184,7 +184,7 @@ Cuprum Arsenicosum ----- Cupr. ar.
 Cuprum Metallicum ----- Cupr.
 Cuprum Sulphuricum ----- Cupr. s.
 Curare (Curara) ----- Cur.
-Cyclamen Europæum ----- Cycl.
+Cyclamen Europaeum ----- Cycl.
 Cypripedium (Cypripedium Pubescens) ----- Cypr.
 Daphne Indica ----- See Daph. ----- Daphne Odora
 Daphne Odora (Daphne Indica) ----- Daph.
@@ -234,7 +234,7 @@ Helleborus (Helleborus Niger) ----- Hell.
 Helonias Dioica ----- Helon.
 Hepar Sulph. Calc. (Hepar Sulphuris Calcareum) ----- Hep.
 Hippomanes ----- Hipp.
-Hippozænin (Hippozæninum) ----- Hippoz.
+Hippozaenin (Hippozaeninum) ----- Hippoz.
 Hydrastis Canadensis ----- Hydr.
 Hydrocotyle Asiatica ----- Hydrc.
 Hydrocyanic Acid (Hydrocyanicum Acidum) ----- Hydr. ac.
@@ -242,7 +242,7 @@ Hydrophobinum ----- See Lyss. ----- Lyssin
 Hyoscyamus Niger ----- Hyos.
 Hypericum Perforatum ----- Hyper.
 Iberis Amara ----- Iber.
-Ictodes Fœtida ----- Ictod.
+Ictodes Foetida ----- Ictod.
 Ignatia (Ignatia Amara) ----- Ign.
 Illicium anisatum ----- Ill.
 Indigo (Indigo Tinctoria) ----- Indg.
@@ -251,7 +251,7 @@ Inula (Inula Helenium) ----- Inul.
 Iodoformum (Iodoformium) ----- Iodof.
 Iodum (Iodium Purum) ----- Iod.
 Ipecacuanha ----- Ip.
-Ipomœa ----- Ipom.
+Ipomoea ----- Ipom.
 Iridium (Iridium Metallicum) ----- Irid.
 Iris Versicolor ----- Iris
 Jaborandi ----- Jab.
@@ -290,9 +290,9 @@ Ledum Palustre ----- Led.
 Leptandra (Leptandra Virginica) ----- Lept.
 Lilium Tigrinum ----- Lil. t.
 Lithium Carbonicum ----- Lith. c.
-Lobelia Cœrulea (Lobelia Syphilitica) ----- Lob. c.
+Lobelia Coerulea (Lobelia Syphilitica) ----- Lob. c.
 Lobelia Inflata ----- Lob.
-Lobelia Syphilitica ----- See Lob. c. ----- Lobelia Cœrulea
+Lobelia Syphilitica ----- See Lob. c. ----- Lobelia Coerulea
 Luesinum ----- See Syph. ----- Syphilinum
 Lycopodium (Lycopodium Clavatum) ----- Lyc.
 Lycopus virginicus ----- Lycps.
@@ -342,16 +342,16 @@ Nitrum ----- See Kali n. ----- Kali Nitricum
 Nuphar Luteum ----- Nuph.
 Nux Moschata ----- Nux. m.
 Nux Vomica ----- Nux. v.
-Œnanthe Crocata ----- Œna.
+Oenanthe Crocata ----- Oena.
 Oleander ----- Olnd.
-Oleum Animale (Oleum Animale Æthereum) ----- Ol. an.
+Oleum Animale (Oleum Animale Aethereum) ----- Ol. an.
 Oleum Cajeputi (Cajeputi) ----- Ol. c.
 Oleum Jecoris Aselli ----- Ol. j.
 Opium ----- Op.
 Origanum (Origanum Majorana) ----- Orig.
 Osmium (Osmium Metallicum) ----- Osm.
 Oxalicum Acidum ----- Ox. ac.
-Pæonia (Pæonia Officinalis) ----- Pæon.
+Paeonia (Paeonia Officinalis) ----- Paeon.
 Palladium (Palladium Metallicum) ----- Pall.
 Pareira Brava ----- Pareir.
 Paris Quadrifolia ----- Par.
@@ -419,13 +419,13 @@ Tabacum ----- Tab.
 Taraxacum (Taraxacum Officinale) ----- Tarax.
 Tarentula (Tarentula Hispanica) ----- Tarent.
 Tellurium (Tellurium Metallicum) ----- Tell.
-Terebinthina (Terebinthiniæ Oleum) ----- Ter.
+Terebinthina (Terebinthiniae Oleum) ----- Ter.
 Teucrium ----- See Mar. v. ----- Marum Verum
 Theridion Curassavicum ----- Ther.
 Thlaspi Bursa Pastoris (Bursa Pastoris) ----- Thlas.
 Thuja (Thuja Occidentalis) ----- Thuj.
 Trillium Pendulum ----- Tril.
-Trombidium (Trombidium Muscæ Domesticæ) ----- Trom.
+Trombidium (Trombidium Muscae Domesticae) ----- Trom.
 Tuberculinum (Tuberculinum Bovinum) ----- Tub.
 Turpethum ----- See Merc. Sul. ----- Mercurius Sulphuricus
 Uranium Nitricum ----- Uran. n.

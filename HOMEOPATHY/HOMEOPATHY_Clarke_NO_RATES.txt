@@ -11,14 +11,14 @@ Aconitum Cammarum ----- A. camm.
 Aconitum Ferox ----- A. ferox
 Aconitum Lycoctonum ----- A. lycoct.
 Aconitum Napellus ----- Acon.
-Actæa Racemosa ----- Act. r.
-Actæa Spicata ----- Act. sp.
+Actaea Racemosa ----- Act. r.
+Actaea Spicata ----- Act. sp.
 Adonis Vernalis ----- Adonis
 Adrenalin ----- Adrenalin
-Æsculus Glabra ----- Æsc. g.
-Æsculus Hippocastanum ----- Æsc. hip.
-Æthiops Antimonialis ----- Æthiops ant.
-Æthusa Cynapium ----- Æthus.
+Aesculus Glabra ----- Aesc. g.
+Aesculus Hippocastanum ----- Aesc. hip.
+Aethiops Antimonialis ----- Aethiops ant.
+Aethusa Cynapium ----- Aethus.
 Agaricus Emeticus ----- Agar. emet.
 Agaricus Muscarius ----- Agar.
 Agaricus Phalloides ----- Agar. phal.
@@ -36,7 +36,7 @@ Alstonia Constricta ----- Alston. c.
 Alumen ----- Alum.
 Alumina ----- Alm.
 Ambra Grisea ----- Ambra
-Ambrosia Artemisiæfolia ----- Ambro.
+Ambrosia Artemisiaefolia ----- Ambro.
 Ammoniacum ----- Ammon.
 Ammonium Aceticum ----- Amm. acet.
 Ammonium Benzoicum ----- Amm. benz.
@@ -47,8 +47,8 @@ Ammonium Muriaticum ----- Amm. mur.
 Ammonium Phosphoricum ----- Amm. phos.
 Ammonium Picricum ----- Amm. pic.
 Ampelopsis ----- Ampel.
-Amphisbæna ----- Amph.
-Amygdalæ Amaræ Aqua ----- Amyg.
+Amphisbaena ----- Amph.
+Amygdalae Amarae Aqua ----- Amyg.
 Amylenum Nitrosum ----- Amyl. nit.
 Anacardium Occidentale ----- Anac. occ.
 Anacardium Orientale ----- Anac.
@@ -76,7 +76,7 @@ Antipyrinum ----- Antipyrin.
 Aphis Chenopodii Glauci ----- Aphis
 Apis ----- Apis
 Apium Graveolens ----- Apium g.
-Apocynum Androsæmifolium ----- Apoc. andr.
+Apocynum Androsaemifolium ----- Apoc. andr.
 Apocynum Cannabinum ----- Apoc. c.
 Apomorphinum ----- Apomorph.
 Aqua Marina ----- Aq. mar.
@@ -114,8 +114,8 @@ Arum Italicum ----- Arum i.
 Arum Maculatum ----- Arum. m.
 Arum Triphyllum ----- Arum. tri.
 Arundo Mauritanica ----- Arundo
-Asafœtida ----- Asaf.
-Asarum Europœum ----- Asar.
+Asafoetida ----- Asaf.
+Asarum Europoeum ----- Asar.
 Asclepias Syriaca ----- Asclep. syr.
 Asclepias Tuberosa ----- Asclep. tub.
 Asimina Triloba ----- Asimina
@@ -196,7 +196,7 @@ Calcarea Iodata ----- Calc. iod.
 Calcarea Lactica ----- Calc. lact.
 Calcarea Lactica Natronata ----- Calc. lact. nat.
 Calcarea Muriatica ----- Calc. mur.
-Calcarea Ovi Testæ ----- Calc. ov. test.
+Calcarea Ovi Testae ----- Calc. ov. test.
 Calcarea Oxalica ----- Calc. ox.
 Calcarea Phosphorica ----- Calc. phos.
 Calcarea Picrica ----- Calc. pic.
@@ -313,7 +313,7 @@ Cornus Florida ----- Corn. f.
 Corydalis ----- Coryd.
 Coto Bark ----- Coto b.
 Cotyledon ----- Cotyl.
-Cratægus Oxyacantha ----- Cratæg.
+Crataegus Oxyacantha ----- Crataeg.
 Crocus Sativus ----- Croc.
 Crotalus Cascavella ----- Crot. c.
 Crotalus Horridus ----- Crot. h.
@@ -355,7 +355,7 @@ Duboisinum ----- Dub.
 Dulcamara ----- Dulc.
 Echinacea Angustifolia ----- Echin.
 Echinacea Purpurea ----- Echin. p.
-Elæis Guineensis ----- Elæis
+Elaeis Guineensis ----- Elaeis
 Elaps Corallinus ----- Elaps
 Elaterium ----- Elat.
 Electricitas ----- Elect.
@@ -381,7 +381,7 @@ Eucalyptus ----- Eucalyp.
 Eugenia Jambos ----- Eug.
 Euonyminum ----- Euonymin.
 Euonymus Atropurpurea ----- Euon. atro.
-Euonymus Europæa ----- Euon. europ.
+Euonymus Europaea ----- Euon. europ.
 Eupatorium Aromaticum ----- Eupat. arom.
 Eupatorium Perfoliatum ----- Eupat. perf.
 Eupatorium Purpureum ----- Eupat. purpur.
@@ -390,7 +390,7 @@ Euphorbia Corollata ----- Euphorb. corol.
 Euphorbia Cyparissias ----- Euphorb. cyparis.
 Euphorbia Heterodoxa ----- Euphorb. heter.
 Euphorbia Hypericifolia ----- Euphorb. hyperic.
-Euphorbia Ipecacuanhæ ----- Euphorb. ipecac.
+Euphorbia Ipecacuanhae ----- Euphorb. ipecac.
 Euphorbia Lathyris ----- Euphorb. lath.
 Euphorbia Peplus ----- Euphorb. peplus
 Euphorbia Pilulifera ----- Euphorb. pil.
@@ -456,7 +456,7 @@ Gummi Gutti ----- (see Gambogia) ----- Gamb.
 Gymnema Sylvestre ----- Gymnema
 Gymnocladus Canadensis ----- Gymnocl.
 Gunpowder ----- Gunp.
-Hæmatoxylon ----- Hæm.
+Haematoxylon ----- Haem.
 Hall ----- Hall
 Hamamelis ----- Ham.
 Hecla ----- Hecla
@@ -466,7 +466,7 @@ Hedysarum Ildefonsianum ----- Hedysar.
 Helianthus ----- Helianth.
 Heliotropium ----- Heliot.
 Helix Tosta ----- Helix t.
-Helleborus Fœtidus ----- Hell. f.
+Helleborus Foetidus ----- Hell. f.
 Helleborus Niger ----- Hell. n.
 Helleborus Orientalis ----- Hell. o.
 Helleborus Viridis ----- Hell. v.
@@ -476,7 +476,7 @@ Hepar ----- Hepar
 Hepatica ----- Hepatica
 Heracleum ----- Heracl.
 Hippomanes ----- Hippom.
-Hippozæninum ----- Hippoz.
+Hippozaeninum ----- Hippoz.
 Hoang-nan ----- Hoang-nan
 Homarus ----- Homarus
 Homeria ----- Homeria
@@ -495,7 +495,7 @@ Hyoscyamus ----- Hyo.
 Hypericum ----- Hyp.
 Iberis ----- Iber.
 Icthyolum ----- Ichthol.
-Ictodes Fœtida ----- Ictod.
+Ictodes Foetida ----- Ictod.
 Ignatia ----- Ign.
 Ilex Aquifolium ----- Ilex
 Illicium Anisatum ----- Illic.
@@ -507,10 +507,10 @@ Inula ----- Inula
 Iodium ----- Iod.
 Iodoformum ----- Idf.
 Ipecacuanha ----- Ipec.
-Ipomœa ----- (see Convolvulus Duartinus) ----- Conv. d.
+Ipomoea ----- (see Convolvulus Duartinus) ----- Conv. d.
 Iridium ----- Irid.
 Iris Florentina ----- Ir. flor.
-Iris Fœtidissima ----- Ir. fœt.
+Iris Foetidissima ----- Ir. foet.
 Iris Germanica ----- Ir. germ.
 Iris Tenax ----- Ir. t.
 Iris Versicolor ----- Ir. v.
@@ -640,7 +640,7 @@ Manganum Carbonicum ----- (see Manganum) ----- Mang.
 Manganum Muriaticum ----- Mang. mur.
 Manganum Oxydatum Nativum ----- Mang. ox. n.
 Manganum Sulphuricum ----- Mang. sulph.
-Matthiola Græca ----- Matt. g.
+Matthiola Graeca ----- Matt. g.
 Medorrhinum ----- Medorrh.
 Medusa ----- Medusa
 Melastoma ----- Melast.
@@ -661,8 +661,8 @@ Mercurius Cyanatus ----- Merc. cy.
 Mercurius Dulcis ----- Merc. dulc.
 Mercurius Nitricus ----- Merc. nit.
 Mercurius Oxydulatus Niger (M. Sol. Hahn.) ----- (see Mercurius) ----- Merc.
-Mercurius Præcipitatus Albus ----- Merc. præcip. alb.
-Mercurius Præcipitatus Ruber ----- Merc. præcip. rub.
+Mercurius Praecipitatus Albus ----- Merc. praecip. alb.
+Mercurius Praecipitatus Ruber ----- Merc. praecip. rub.
 Mercurius Protoiodatus ----- Merc. iod.
 Mercurius Solubilis Hahnemanni ----- (see Mercurius) ----- Merc.
 Mercurius Sulphocyanatus ----- Merc. sulcy.
@@ -727,10 +727,10 @@ Nux juglans ----- (see Juglans Regia) ----- Jug. r.
 Nux Moschata ----- Nux. m.
 Nux Vomica ----- Nux. v.
 Nyctanthes ----- Nyct.
-Nymphæa Odorata ----- Nymph.
+Nymphaea Odorata ----- Nymph.
 Ocimum Canum ----- Ocim. can.
-Œnanthe Crocata ----- Œn. c.
-Œnothera ----- Œnoth.
+Oenanthe Crocata ----- Oen. c.
+Oenothera ----- Oenoth.
 Oleander ----- Olean.
 Oleum Animale ----- Ol. an.
 Oleum Jecoris Aselli ----- Ol. j. a.
@@ -747,14 +747,14 @@ Origanum ----- Orig.
 Ornithogalum ----- Ornith.
 Osmium ----- Osm.
 Ostrya ----- Ost.
-Ovi Gallinæ Pellicula ----- Ovi g. p.
-Ovi Gallinæ Testa ----- (see Calcarea Ovi Testa) ----- Calc. ov. test.
+Ovi Gallinae Pellicula ----- Ovi g. p.
+Ovi Gallinae Testa ----- (see Calcarea Ovi Testa) ----- Calc. ov. test.
 Oxalicum Acidum ----- Oxal. ac.
 Oxydendron ----- Oxydend.
 Oxygenium ----- Oxy.
 Oxytropis Lamberti ----- Oxyt. lamberti
 Ozonum ----- (see Oxygenium) ----- Oxy.
-Pæonia ----- Pæon.
+Paeonia ----- Paeon.
 Palladium ----- Pallad.
 Pancreatinum ----- Pancr.
 Papaya ----- (see Asimina) ----- Asimina
@@ -825,7 +825,7 @@ Polyporus Officinalis ----- (see Boletus Laricis) ----- Bol. lar.
 Polyporus Pinicola ----- Pol. pin.
 Populus Candicans ----- Pop. c.
 Populus Tremuloides ----- Pop. t.
-Pothos Fœtidus ----- (see Ictodes) ----- Ictod.
+Pothos Foetidus ----- (see Ictodes) ----- Ictod.
 Primula Obconca ----- Prim. ob.
 Primula Veris ----- Prim. ver.
 Primula Vulgaris ----- Prim. vulg.
@@ -917,12 +917,12 @@ Secale Cornutum ----- Sec.
 Selenium ----- Sel.
 Sempervivum Tectorum ----- Semp.
 Senecio Aureus ----- Senec.
-Senecio Jacobœa ----- Sen. jac.
+Senecio Jacoboea ----- Sen. jac.
 Senega ----- Seneg.
 Senna ----- Senna
 Sepia ----- Sep.
 Sepsinum ----- (see Pyrogenium) ----- Pyro.
-Septicæminum ----- Septic.
+Septicaeminum ----- Septic.
 Shucks ----- (see Zea) ----- Zea
 Silica ----- Sil.
 Silica Marina ----- Sil. mar.
@@ -943,13 +943,13 @@ Solanum Nigrum ----- Sol. n.
 Solanum Oleraceum ----- Sol. ol.
 Solanum Pseudo-Capsicum ----- Sol. p. c.
 Solanum Tuberosum ----- Sol. t.
-Solanum Tuberosum Ægrotans ----- Sol. t. æ.
+Solanum Tuberosum Aegrotans ----- Sol. t. ae.
 Solidago ----- Solid.
 Sperminum ----- (see Orchitinum) ----- Orch.
 Sphingurus ----- Sph.
 Spigelia ----- Spi.
 Spigelia Marilandica ----- Spi. m.
-Spiræa Ulmaria ----- Spir.
+Spiraea Ulmaria ----- Spir.
 Spiranthes ----- Spiran.
 Spongia Tosta ----- Spo.
 Stachys Betonica ----- Stach.
@@ -1021,7 +1021,7 @@ Trimethylaminum ----- Trimethyl.
 Triosteum ----- Triost.
 Triticum Repens ----- Trit. r.
 Trombidium ----- Tromb.
-Tropæolum ----- Trop.
+Tropaeolum ----- Trop.
 Tuberculinum ----- Tub.
 Turnera Aphrodisiaca ----- Turn. a.
 Tussilago Farfara ----- Tus. far.
@@ -1059,7 +1059,7 @@ Viola Odorata ----- V. od.
 Viola Tricolor ----- V. tri.
 Vipera ----- Vip.
 Viscum Album ----- Visc.
-Vœslau ----- Voeslau
+Voeslau ----- Voeslau
 Wiesbaden ----- Wiesb.
 Wildbad ----- Wildb.
 Wyethia ----- Wyeth.

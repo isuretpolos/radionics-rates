@@ -15,10 +15,10 @@ Actaea Racemosa	http://homeoint.org/clarke/a/act_r.htm
 Actaea Spicata	http://homeoint.org/clarke/a/act_sp.htm
 Adonis Vernalis	http://homeoint.org/clarke/a/adonis.htm
 Adrenalin	http://homeoint.org/clarke/a/adrenalin.htm
-Aesculus Glabra	http://homeoint.org/clarke/æ/æsc_g.htm
-Aesculus Hippocastanum	http://homeoint.org/clarke/æ/æsc_hip.htm
-Aethiops Antimonialis	http://homeoint.org/clarke/æ/æthiops_ant.htm
-Aethusa Cynapium	http://homeoint.org/clarke/æ/æthus.htm
+Aesculus Glabra	http://homeoint.org/clarke/ae/aesc_g.htm
+Aesculus Hippocastanum	http://homeoint.org/clarke/ae/aesc_hip.htm
+Aethiops Antimonialis	http://homeoint.org/clarke/ae/aethiops_ant.htm
+Aethusa Cynapium	http://homeoint.org/clarke/ae/aethus.htm
 Agaricus Emeticus	http://homeoint.org/clarke/a/agar_emet.htm
 Agaricus Muscarius	http://homeoint.org/clarke/a/agar.htm
 Agaricus Phalloides	http://homeoint.org/clarke/a/agar_phal.htm
@@ -114,8 +114,8 @@ Arum Italicum	http://homeoint.org/clarke/a/arum_i.htm
 Arum Maculatum	http://homeoint.org/clarke/a/arum_m.htm
 Arum Triphyllum	http://homeoint.org/clarke/a/arum_tri.htm
 Arundo Mauritanica	http://homeoint.org/clarke/a/arundo.htm
-Asafœtida	http://homeoint.org/clarke/a/asaf.htm
-Asarum Europœum	http://homeoint.org/clarke/a/asar.htm
+Asafoetida	http://homeoint.org/clarke/a/asaf.htm
+Asarum Europoeum	http://homeoint.org/clarke/a/asar.htm
 Asclepias Syriaca	http://homeoint.org/clarke/a/asclep_syr.htm
 Asclepias Tuberosa	http://homeoint.org/clarke/a/asclep_tub.htm
 Asimina Triloba	http://homeoint.org/clarke/a/asimina.htm
@@ -313,7 +313,7 @@ Cornus Florida	http://homeoint.org/clarke/c/corn_f.htm
 Corydalis	http://homeoint.org/clarke/c/coryd.htm
 Coto Bark	http://homeoint.org/clarke/c/coto_b.htm
 Cotyledon	http://homeoint.org/clarke/c/cotyl.htm
-Crataegus Oxyacantha	http://homeoint.org/clarke/c/cratæg.htm
+Crataegus Oxyacantha	http://homeoint.org/clarke/c/crataeg.htm
 Crocus Sativus	http://homeoint.org/clarke/c/croc.htm
 Crotalus Cascavella	http://homeoint.org/clarke/c/crot_c.htm
 Crotalus Horridus	http://homeoint.org/clarke/c/crot_h.htm
@@ -355,7 +355,7 @@ Duboisinum	http://homeoint.org/clarke/d/dub.htm
 Dulcamara	http://homeoint.org/clarke/d/dulc.htm
 Echinacea Angustifolia	http://homeoint.org/clarke/e/echin.htm
 Echinacea Purpurea	http://homeoint.org/clarke/e/echin_p.htm
-Elaeis Guineensis	http://homeoint.org/clarke/e/elæis.htm
+Elaeis Guineensis	http://homeoint.org/clarke/e/elaeis.htm
 Elaps Corallinus	http://homeoint.org/clarke/e/elaps.htm
 Elaterium	http://homeoint.org/clarke/e/elat.htm
 Electricitas	http://homeoint.org/clarke/e/elect.htm
@@ -456,7 +456,7 @@ Gummi Gutti	http://homeoint.org/clarke/g/gamb.htm
 Gymnema Sylvestre	http://homeoint.org/clarke/g/gymnema.htm
 Gymnocladus Canadensis	http://homeoint.org/clarke/g/gymnocl.htm
 Gunpowder	http://homeoint.org/clarke/g/gunp.htm
-Haematoxylon	http://homeoint.org/clarke/h/hæm.htm
+Haematoxylon	http://homeoint.org/clarke/h/haem.htm
 Hall	http://homeoint.org/clarke/h/hall.htm
 Hamamelis	http://homeoint.org/clarke/h/ham.htm
 Hecla	http://homeoint.org/clarke/h/hecla.htm
@@ -466,7 +466,7 @@ Hedysarum Ildefonsianum	http://homeoint.org/clarke/h/hedysar.htm
 Helianthus	http://homeoint.org/clarke/h/helianth.htm
 Heliotropium	http://homeoint.org/clarke/h/heliot.htm
 Helix Tosta	http://homeoint.org/clarke/h/helix_t.htm
-Helleborus Fœtidus	http://homeoint.org/clarke/h/hell_f.htm
+Helleborus Foetidus	http://homeoint.org/clarke/h/hell_f.htm
 Helleborus Niger	http://homeoint.org/clarke/h/hell_n.htm
 Helleborus Orientalis	http://homeoint.org/clarke/h/hell_o.htm
 Helleborus Viridis	http://homeoint.org/clarke/h/hell_v.htm
@@ -495,7 +495,7 @@ Hyoscyamus	http://homeoint.org/clarke/h/hyo.htm
 Hypericum	http://homeoint.org/clarke/h/hyp.htm
 Iberis	http://homeoint.org/clarke/i/iber.htm
 Icthyolum	http://homeoint.org/clarke/i/ichthol.htm
-Ictodes Fœtida	http://homeoint.org/clarke/i/ictod.htm
+Ictodes Foetida	http://homeoint.org/clarke/i/ictod.htm
 Ignatia	http://homeoint.org/clarke/i/ign.htm
 Ilex Aquifolium	http://homeoint.org/clarke/i/ilex.htm
 Illicium Anisatum	http://homeoint.org/clarke/i/illic.htm
@@ -507,10 +507,10 @@ Inula	http://homeoint.org/clarke/i/inula.htm
 Iodium	http://homeoint.org/clarke/i/iod.htm
 Iodoformum	http://homeoint.org/clarke/i/idf.htm
 Ipecacuanha	http://homeoint.org/clarke/i/ipec.htm
-Ipomœa	http://homeoint.org/clarke/c/conv_d.htm
+Ipomoea	http://homeoint.org/clarke/c/conv_d.htm
 Iridium	http://homeoint.org/clarke/i/irid.htm
 Iris Florentina	http://homeoint.org/clarke/i/ir_flor.htm
-Iris Fœtidissima	http://homeoint.org/clarke/i/ir_fœt.htm
+Iris Foetidissima	http://homeoint.org/clarke/i/ir_foet.htm
 Iris Germanica	http://homeoint.org/clarke/i/ir_germ.htm
 Iris Tenax	http://homeoint.org/clarke/i/ir_t.htm
 Iris Versicolor	http://homeoint.org/clarke/i/ir_v.htm
@@ -661,8 +661,8 @@ Mercurius Cyanatus	http://homeoint.org/clarke/m/merc_cy.htm
 Mercurius Dulcis	http://homeoint.org/clarke/m/merc_dulc.htm
 Mercurius Nitricus	http://homeoint.org/clarke/m/merc_nit.htm
 Mercurius Oxydulatus Niger (M. Sol. Hahn.)	http://homeoint.org/clarke/m/merc.htm
-Mercurius Praecipitatus Albus	http://homeoint.org/clarke/m/merc_præcip_alb.htm
-Mercurius Praecipitatus Ruber	http://homeoint.org/clarke/m/merc_præcip_rub.htm
+Mercurius Praecipitatus Albus	http://homeoint.org/clarke/m/merc_praecip_alb.htm
+Mercurius Praecipitatus Ruber	http://homeoint.org/clarke/m/merc_praecip_rub.htm
 Mercurius Protoiodatus	http://homeoint.org/clarke/m/merc_iod.htm
 Mercurius Solubilis Hahnemanni	http://homeoint.org/clarke/m/merc.htm
 Mercurius Sulphocyanatus	http://homeoint.org/clarke/m/merc_sulcy.htm
@@ -729,8 +729,8 @@ Nux Vomica	http://homeoint.org/clarke/n/nux_v.htm
 Nyctanthes	http://homeoint.org/clarke/n/nyct.htm
 Nymphaea Odorata	http://homeoint.org/clarke/n/nymph.htm
 Ocimum Canum	http://homeoint.org/clarke/o/ocim_can.htm
-Oenanthe Crocata	http://homeoint.org/clarke/œ/œn_c.htm
-Oenothera	http://homeoint.org/clarke/œ/œnoth.htm
+Oenanthe Crocata	http://homeoint.org/clarke/oe/oen_c.htm
+Oenothera	http://homeoint.org/clarke/oe/oenoth.htm
 Oleander	http://homeoint.org/clarke/o/olean.htm
 Oleum Animale	http://homeoint.org/clarke/o/ol_an.htm
 Oleum Jecoris Aselli	http://homeoint.org/clarke/o/ol_j_a.htm
@@ -754,7 +754,7 @@ Oxydendron	http://homeoint.org/clarke/o/oxydend.htm
 Oxygenium	http://homeoint.org/clarke/o/oxy.htm
 Oxytropis Lamberti	http://homeoint.org/clarke/o/oxyt_lamberti.htm
 Ozonum	http://homeoint.org/clarke/o/oxy.htm
-Paeonia	http://homeoint.org/clarke/p/pæon.htm
+Paeonia	http://homeoint.org/clarke/p/paeon.htm
 Palladium	http://homeoint.org/clarke/p/pallad.htm
 Pancreatinum	http://homeoint.org/clarke/p/pancr.htm
 Papaya	http://homeoint.org/clarke/a/asimina.htm
@@ -825,7 +825,7 @@ Polyporus Officinalis	http://homeoint.org/clarke/b/bol_lar.htm
 Polyporus Pinicola	http://homeoint.org/clarke/p/pol_pin.htm
 Populus Candicans	http://homeoint.org/clarke/p/pop_c.htm
 Populus Tremuloides	http://homeoint.org/clarke/p/pop_t.htm
-Pothos Fœtidus	http://homeoint.org/clarke/i/ictod.htm
+Pothos Foetidus	http://homeoint.org/clarke/i/ictod.htm
 Primula Obconca	http://homeoint.org/clarke/p/prim_ob.htm
 Primula Veris	http://homeoint.org/clarke/p/prim_ver.htm
 Primula Vulgaris	http://homeoint.org/clarke/p/prim_vulg.htm
@@ -917,7 +917,7 @@ Secale Cornutum	http://homeoint.org/clarke/s/sec.htm
 Selenium	http://homeoint.org/clarke/s/sel.htm
 Sempervivum Tectorum	http://homeoint.org/clarke/s/semp.htm
 Senecio Aureus	http://homeoint.org/clarke/s/senec.htm
-Senecio Jacobœa	http://homeoint.org/clarke/s/sen_jac.htm
+Senecio Jacoboea	http://homeoint.org/clarke/s/sen_jac.htm
 Senega	http://homeoint.org/clarke/s/seneg.htm
 Senna	http://homeoint.org/clarke/s/senna.htm
 Sepia	http://homeoint.org/clarke/s/sep.htm
@@ -943,7 +943,7 @@ Solanum Nigrum	http://homeoint.org/clarke/s/sol_n.htm
 Solanum Oleraceum	http://homeoint.org/clarke/s/sol_ol.htm
 Solanum Pseudo-Capsicum	http://homeoint.org/clarke/s/sol_p_c.htm
 Solanum Tuberosum	http://homeoint.org/clarke/s/sol_t.htm
-Solanum Tuberosum Aegrotans	http://homeoint.org/clarke/s/sol_t_æ.htm
+Solanum Tuberosum Aegrotans	http://homeoint.org/clarke/s/sol_t_ae.htm
 Solidago	http://homeoint.org/clarke/s/solid.htm
 Sperminum	http://homeoint.org/clarke/o/orch.htm
 Sphingurus	http://homeoint.org/clarke/s/sph.htm
@@ -1059,7 +1059,7 @@ Viola Odorata	http://homeoint.org/clarke/v/v_od.htm
 Viola Tricolor	http://homeoint.org/clarke/v/v_tri.htm
 Vipera	http://homeoint.org/clarke/v/vip.htm
 Viscum Album	http://homeoint.org/clarke/v/visc.htm
-Vœslau	http://homeoint.org/clarke/v/voeslau.htm
+Voeslau	http://homeoint.org/clarke/v/voeslau.htm
 Wiesbaden	http://homeoint.org/clarke/w/wiesb.htm
 Wildbad	http://homeoint.org/clarke/w/wildb.htm
 Wyethia	http://homeoint.org/clarke/w/wyeth.htm

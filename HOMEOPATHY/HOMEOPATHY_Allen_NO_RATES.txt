@@ -11,13 +11,13 @@ Aconitum ferox. ---------- Acon-f.
 Aconitum lycoctonum. ---------- Acon-l.
 Aconitum. ---------- Acon.
 Aconitum septentrionale, koelle. ---------- Acon-s.
-Actæa racemosa see Cimicifuga---------- Act-r.
-Actæa spicata. ---------- Act-sp.
+Actaea racemosa see Cimicifuga---------- Act-r.
+Actaea spicata. ---------- Act-sp.
 Adelheidsquelle. ---------- Adel.
 Adoxa. ---------- Adox.
-Æsculus glabra. ---------- Aesc-g.
-Æsculus hippocastanum. ---------- Aesc.
-Æthusa. ---------- Aeth.
+Aesculus glabra. ---------- Aesc-g.
+Aesculus hippocastanum. ---------- Aesc.
+Aethusa. ---------- Aeth.
 Agaricus campanulatus. ---------- Agar-cpn.
 Agaricus campestris. ---------- Agar-cps.
 Agaricus citrinus. ---------- Agar-cit.
@@ -43,7 +43,7 @@ Alstonia scholaris. ---------- Alst-s.
 Alumen. ---------- Alumn.
 Alumina. ---------- Alum.
 Ambra. ---------- Ambr.
-Ambrosia artemisiæfolia. ---------- Ambro.
+Ambrosia artemisiaefolia. ---------- Ambro.
 Ammoniacum. ---------- Ammc.
 Ammonium aceticum. ---------- Am-a.
 Ammonium benzoicum. ---------- Am-be.
@@ -55,8 +55,8 @@ Ammonium muriaticum. ---------- Am-m.
 Ammonium nitricum. ---------- Am-n.
 Ammonium phosphoricum. ---------- Am-p.
 Ampelopsis. ---------- Amp-qu.
-Amphisbœna. ---------- Amph.
-Amygdalæ amaræ aqua. ---------- Amyg.
+Amphisboena. ---------- Amph.
+Amygdalae amarae aqua. ---------- Amyg.
 Amyl nitrosum. ---------- Aml-n.
 Amylamine chlorohydrate. ---------- Amyl.
 Anacardium. ---------- Anac.
@@ -77,7 +77,7 @@ Antimon. et potass. tart. ---------- Ant-t.
 Aphis chenopodii glauci. ---------- Aphis.
 Apis. ---------- Apis.
 Apium graveolens. ---------- Ap-g.
-Apocynum androsæmifolium. ---------- Apoc-a.
+Apocynum androsaemifolium. ---------- Apoc-a.
 Apocynum cannabinum. ---------- Apoc.
 Apomorphinum. ---------- Apom.
 Aqua marina (sea-water). ---------- Aq-m.
@@ -110,7 +110,7 @@ Arum italicum. ---------- Arum-i.
 Arum maculatum. ---------- Arum-m.
 Arum triphyllum. ---------- Arum-t.
 Arundo mauritanica. ---------- Arund.
-Asafœtida. ---------- Asaf.
+Asafoetida. ---------- Asaf.
 Asarum. ---------- Asar.
 Asclepias cornuti (syriaca). ---------- Asc-c.
 Asclepias tuberosa. ---------- Asc-t.
@@ -146,7 +146,7 @@ Blatta americana. ---------- Blat.
 Boletus laricis see Polyporus officinalis. ---------- Bol-la.
 Boletus luridus. ---------- Bol-lu.
 Boletus satanas. ---------- Bol-s.
-Bombyx chrysorrhœa. ---------- Bomb-chr.
+Bombyx chrysorrhoea. ---------- Bomb-chr.
 Bombyx processionea. ---------- Bomb-pr.
 Bondonneau. ---------- Bond.
 Acidum boracicum. ---------- Bor-ac.
@@ -304,7 +304,7 @@ Datura metel. ---------- Dat-m.
 Datura sanguinea. ---------- Dat-s.
 Delphininum. ---------- Delphini.
 Delphinus. ---------- Delphinu.
-Dematium petræum. ---------- Dem.
+Dematium petraeum. ---------- Dem.
 Derris pinnata. ---------- Der.
 Dictamnus. ---------- Dict.
 Digitalinum. ---------- Digin.
@@ -322,7 +322,7 @@ Eaux bonnes. ---------- Eaux.
 Echites. ---------- Echit.
 Elaps. ---------- Elaps.
 Elaterium. ---------- Elat.
-Elæis guineensis. ---------- Elæ.
+Elaeis guineensis. ---------- Elae.
 Emetinum. ---------- Emet.
 Epilobium palustre. ---------- Epil.
 Equisetum. ---------- Equis.
@@ -331,20 +331,20 @@ Erigeron. ---------- Erig.
 Eriodyction californicum. ---------- Erio.
 Eryngium aquaticum. ---------- Ery-a.
 Eryngium maritimum. ---------- Ery-m.
-Erythrophlæum. ---------- Eryt.
+Erythrophlaeum. ---------- Eryt.
 Eserinum. ---------- Eser.
 Ether. ---------- Ether.
 Ethyl-nitrate. ---------- Ethyl-n.
 Eucalyptus. ---------- Eucal.
 Eugenia jambos. ---------- Eug.
-Euonymus europæus. ---------- Euon.
+Euonymus europaeus. ---------- Euon.
 Eupatorium perfoliatum. ---------- Eup-per.
 Eupatorium purpureum. ---------- Eup-pur.
 Euphorbia amygdaloides. ---------- Euph-a.
 Euphorbia corollata. ---------- Euph-c.
 Euphorbia cyparissias. ---------- Euph-cy.
 Euphorbia hypericifolia. ---------- Euph-hy.
-Euphorbia ipecacuanhæ. ---------- Euph-ip.
+Euphorbia ipecacuanhae. ---------- Euph-ip.
 Euphorbia lathyris. ---------- Euph-l.
 Euphorbia peplus. ---------- Euph-pe.
 Euphorbium. ---------- Euph.
@@ -365,7 +365,7 @@ Ferrum tartaricum. ---------- Ferr-t.
 Ferula glauca. ---------- Ferul.
 Filix mas. ---------- Fil.
 Fluoricum acidum. ---------- Fl-ac.
-Fœniculum. ---------- Foen.
+Foeniculum. ---------- Foen.
 Formica. ---------- Form.
 Fragaria. ---------- Frag.
 Franzensbad. ---------- Franz.
@@ -399,14 +399,14 @@ Guarana. ---------- Guar.
 Guarea. ---------- Guare.
 Gymnocladus. ---------- Gymn.
 Gymnema. ---------- Gymne.
-Hæmatoxylon. ---------- Hæm.
+Haematoxylon. ---------- Haem.
 Hall. ---------- Hall.
 Hamamelis. ---------- Ham.
 Hedeoma. ---------- Hedeom.
 Hedysarum ildefonsianum. ---------- Hedy.
 Helianthus. ---------- Helia.
 Heliotropium. ---------- Helio.
-Helleborus fœtidus. ---------- Hell-f.
+Helleborus foetidus. ---------- Hell-f.
 Helleborus niger. ---------- Hell.
 Helleborus orientalis. ---------- Hell-o.
 Helleborus viridis. ---------- Hell-v.
@@ -438,7 +438,7 @@ Iodoformum. ---------- Iodof.
 Iodum. ---------- Iod.
 Ipecacuanha. ---------- Ip.
 Iris florentina. ---------- Ir-fl.
-Iris fœtidissima. ---------- Ir-foe.
+Iris foetidissima. ---------- Ir-foe.
 Iris versicolor. ---------- Iris.
 Itu. ---------- Itu.
 Jaborandi. ---------- Jab.
@@ -600,11 +600,11 @@ Nitrum see Kali nitricum. ---------- Nitrum.
 Nuphar luteum. ---------- Nuph.
 Nux moschata. ---------- Nux-m.
 Nux vomica. ---------- Nux-v.
-Nymphæa odorata. ---------- Nym.
+Nymphaea odorata. ---------- Nym.
 Ocimum. ---------- Oci.
 Ocimum basilicum. ---------- Oci-b.
-Œnanthe. ---------- Oena.
-Œnothera. ---------- Oeno.
+Oenanthe. ---------- Oena.
+Oenothera. ---------- Oeno.
 Oleander. ---------- Olnd.
 Oleum animale. ---------- Ol-an.
 Oleum jecoris aselli. ---------- Ol-j.
@@ -618,7 +618,7 @@ Ostrya. ---------- Ost.
 Oxalicum acidum. ---------- Ox-ac.
 Oxeodaphne. ---------- Oxeo.
 Ozonum. ---------- Ozone.
-Pæonia. ---------- Pæon.
+Paeonia. ---------- Paeon.
 Palladium. ---------- Pall.
 Panacea. ---------- Pan.
 Papaverinum. ---------- Pap.
@@ -740,7 +740,7 @@ Solanum nigrum. ---------- Sol-n.
 Solanum oleraceum. ---------- Sol-o.
 Solanum pseudo-capsicum. ---------- Sol-ps.
 Solanum tuberosum. ---------- Sol-t.
-Solanum tuberosum ægrotans. ---------- Sol-t-æ.
+Solanum tuberosum aegrotans. ---------- Sol-t-ae.
 Spigelia. ---------- Spig.
 Spigelia marilandica. ---------- Spig-m.
 Spiggurus. ---------- Spigg.
@@ -784,7 +784,7 @@ Thuja. ---------- Thuj.
 Tilia. ---------- Til.
 Titanium. ---------- Titan.
 Tongo. ---------- Tong.
-Toxicophlœa. ---------- Tox-th.
+Toxicophloea. ---------- Tox-th.
 Toxicophis. ---------- Toxi.
 Trachinus. ---------- Trach.
 Tradescantia. ---------- Trad.
@@ -793,7 +793,7 @@ Trifolium repens. ---------- Trif-r.
 Trillium cernuum. ---------- Tril-c.
 Trimethylaminum. ---------- Trim.
 Triosteum. ---------- Trio.
-Trombidium muscæ domesticæ. ---------- Trom.
+Trombidium muscae domesticae. ---------- Trom.
 Tussilago fragrans. ---------- Tus-f.
 Tussilago petasites. ---------- Tus-p.
 Upas. ---------- Upa.
