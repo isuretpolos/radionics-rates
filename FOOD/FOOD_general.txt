@@ -1,3 +1,839 @@
+Abalone
+Abalone shell
+Agar
+Air bladder of fish
+Air bladder of shark
+Alfalfa
+Alfalfa root
+Almond
+Aloes
+Amaranth
+Ambergris
+Anchovy
+Long-tailed anchovy
+Chinese anise
+Antelopes horn
+Antelope meat
+Apple
+Apple peel
+Apple leaf
+Apple cucumber
+Dried apricot fruit
+Bitter apricot seed
+Sweet apricot seed
+Fried apricot
+Apricot leaf
+Apricot blossom
+Areca nuts
+Instant arrowroot vermicelli
+Asparagus
+Azalea
+Azalea root
+Azalea leaf
+Chinese bacon
+Bamboo shoot
+Preserved bamboo shoot
+Spring bamboo shoot
+Winter bamboo shoo
+Banana
+Banana peel
+Banana rhizome
+Barley
+Sweet basil
+Bay leaf
+Bay seed
+Red bayberry
+Red bayberry skin
+Preserved Bayberry
+Bayberry kernel
+Bayberry root
+Bean
+Broad bean
+Dried broad bean
+Broad been shell
+Broad bean flower
+Fresh broad bean
+Broad bean cracker
+Broad bean shell
+Hyacinth bean
+Kidney bean
+White kidney bean
+Castor bean
+Bog bean
+Bog bean root
+Lima bean
+String bean
+String been root
+String bean leaf
+String bean shell ( pea shell)
+Preserved bean
+Red bean
+Adzuki bean
+Sword bean
+Mung bean
+Mung bean flower
+Mung bean sprouts
+Mung bean powder
+Bean curd
+Pressed bean curd
+Dried bean curd
+Roasted bean curd
+Bean drink (soya milk)
+Bean jelly
+Bean cream roll
+Beef
+Seasoned beef
+Hind leg beef
+Saddle beef
+Fat beef
+Lean beef
+Young cow beef
+Soft steak
+Sinew beef
+Beef tendons
+Beef stomach
+Beef bladder
+Beef lungs
+Beet
+Birds nest
+Blood
+Chicken blood
+Cow blood
+Duck blood
+Eel blood
+Goose blood
+Pork blood
+Lamb blood
+Pork brain
+Soft bone
+Bone soup
+Wheat bran
+Rice bran
+Brandy
+White bread
+Broccoli
+Brussels sprouts
+Buckwheat
+Buckwheat flour
+Steamed bun
+Butter
+Butterfish
+Wild cabbage
+Large and white cabbage
+Small and white cabbage
+Dried cabbage
+Dried cole cabbage
+Camellia
+Camphor mint
+Capers
+Carambola
+Caraway see
+Cardomum seed
+Carnation clove
+Grass carp
+Grass carp gall
+Gold carp
+Gold carp head
+Gold carp brain
+Silver carp
+Cat meat
+Catfish
+Carrot
+Japanese cassia bark
+Japanese cassia fruits
+Chinese tender cassia twig
+Chinese cassia bark
+Cauliflower
+Celery
+Cereal
+Cheese
+Cherry
+Cherry kernel
+Cherry juice
+Cherry leaf
+Cherry root
+Chestnut
+Chestnut flower
+Chestnut leaf
+Chestnut shell
+Chestnut inner peel
+Water chestnut
+Chicken
+Steamed chicken
+Chicken head
+Chicory
+Red chili
+Red chilli Leaf
+Red chili root
+Red chili rhizome
+Chinese chive
+Chinese chive seed
+Chinese chive root stem
+Citrus fruit and juice
+Chrysanthemum
+Chrysanthemum leaf
+Cider
+Clam
+Dried clam
+Razor clam
+River clam
+Dried razor clam
+Cocoa
+Coconut root bark
+Coconut shell
+Coconut meat
+Coconut milk
+Cod
+Coffee
+Coffee with sugar
+Cotton
+Cottonseed
+Cordata telosma
+Corn
+Corn style
+Corncob
+Coriander
+Crab
+Blue crab
+Fresh water crab
+Lake crab
+River crab
+Sea crab
+Crab shell
+Crabapple
+Chinese pear leaved crabapple
+Crane
+cream
+Yellow croaker
+Cucumber
+Curry powder
+Cuttlefish
+Dae
+Red and black date
+Jujube date
+Dry red date
+Day lily
+Dry day lily flower
+Dill buds
+Dill seed
+Dog
+Dough sticks
+Durian
+Duck
+Lean duck
+Nanking duck
+Peking duck
+Eel
+Eel head 
+Eel skin
+Eel bone
+Chicken egg
+Chicken egg shell
+Cuttle fish bone
+Inner membrane of chicken egg shell
+Chicken egg white
+Chicken egg yolk
+Whole chicken egg
+Duck egg
+Duck egg yolk
+Whole duck egg
+Preserved duck egg
+Pigeon egg
+Quail egg
+Sparrow egg
+Turtle egg
+Eggplant
+Chinese endive
+Chinese endive flower
+Epiphyllum
+Fennel nut
+Fennel root
+Fennel rhizome
+Fig
+Fish
+Salted fish
+Small fish
+Fish head
+Flatfish
+Flour
+Polished flour
+Polished flour swet sauce
+Frog
+Fruits
+Black fungus
+White fungus
+Bears gall bladder
+Cows gall bladder
+Goose gall bladder
+Mandarin fish gal bladder
+Pigs gall bladder
+Morrels gall bladder
+Garlic
+Green garlic leaf
+Garlic fresh head
+Garlic stem
+Ginger
+Dried ginger
+Ginger leaf
+Ginger sprouts
+Fresh ginger peel
+Fresh ginkgo
+Cooked ginkgo
+Gingko leaf
+Gingko root
+Duck gizzard
+Chicken gizzard
+Gluten
+Fresh  gluten
+Bitter gourd seed
+Biiter gourd
+Deep fried gluten
+Goose meat
+Gorgan fruit
+Bitter gourd leaf
+Bitter gourd flower
+Bitter gourd root
+Bitter gourd vine
+Dehydrated bitter gourd
+Towel  gourd
+Towel  gourd seed
+Towel  gourd peel
+Towel  gourd root
+Towel  gourd flower
+Towel  gourd root
+Towel  gourd calyx and receptacle
+Towel  gourd vine
+Towel  gourd sponge
+Wax gourd
+Wax gourd seed
+Wax gourd peel
+Bottle gourd
+Bottle gourd seed
+Old and ripe bottle gourd peel
+Whole grains
+Grape
+Grapevine root
+Grapevine leaf
+Grapefruit
+Greens
+Green pepper
+Guava
+Green onion
+Green onion bulb
+Dried guava
+Guava leaf
+Guava root bark  and tree bark
+Green onion fresh juice
+Hair vegetable
+Hairtail
+Pickled hairtail
+Ham
+Chinese ham
+Western ham
+Hawthorn
+Hawthorn wood
+Hawthorn root
+Hawthorn seed
+Hawthorn leaf
+Heart
+Beef heart
+Chicken heart
+Lamb heart
+Pork heart
+Hemp
+Old hen
+Herring
+Honey
+Honeysuckle
+Hops
+Hot sauce
+Beef intestine
+Pork intestine
+Ice
+Indian strawberry
+Jasmine blossoms
+Jasmine root
+Jasmine steamed blossoms extract
+Beef kidney
+Pork kidney
+Kohlrabi
+Jelly fish
+Jobs tears seed
+Kelp
+Kidney
+Lamb  kidney
+Kudzu vine leaf
+Kudzu vine root
+Kudzu vine root powder
+Kudzu vine blossoms
+Lamb fat
+Lamb bladder
+Lamb skin
+Lard
+Cured lard
+Laver
+Leaf mustard
+Dried leaf mustard
+Leek
+Legumes
+Lemon
+Lemon juice
+Lemon peel
+Lemon root
+Lettuce
+Romaine lettuce
+Licorice root
+Lily flower
+Lily bulb leaf
+Lily seed
+Ling
+Ling powder
+Liquor
+Litchi nut
+Litchi nut shell
+Litchi nut seed
+Liver beef liver chicken liver
+Cod liver
+Duck liver
+Halibut liver
+Lamb liver
+Rabbit liver
+Pork liver
+Shark liver
+Loach
+Dried spiny lobster
+Fresh longan
+Dried longan
+Longan seed
+Longan shell
+Loquat
+Loquat leaf
+Red loquat
+Lotus blossoms
+Lotus root
+Preserved lotus root
+Lotus root joint
+Lotus root powder
+Lotus seed and fruits
+Fresh lotus seed
+Dried lotus seed
+Mace
+Mackerel
+Macaroni
+Magnolia
+Chinese magnolia vine fruit
+Mallow rot
+Mallow seed
+Malt
+Mandarin fish
+Mango
+Mango kernel
+Mango leaf
+Mango bark
+Red maple leaf
+Maple root bark
+Margarine
+Marjoram
+Beef marrow
+Pork marrow
+Lamb marrow
+Matrimony vine fruit
+Matrimony vien leaf
+Meat
+Lean meat
+Dried meat floss
+Organ meat
+Melon
+Musk melon
+Salted melon seed
+Fresh milk
+Condensed milk
+Canned milk
+Defatted milk
+Whole milk
+Powder milk
+Condensed milk powder
+Human milk
+Fresh sheeps milk
+Millet
+Glutinous millet
+Broom corn millet
+Momordica fruit
+Murrel
+Mulberry leaf
+Mulberry root bark
+Mulberry twig
+Mulberry leaf
+Pine mushroom
+Common button mushroom
+Dried mushroom
+Shiitake mushroom tuber
+Winter mushroom
+Mussel
+Dried mussel
+Mustard seed
+Mustard paste
+Hot pickled mustard 
+Mutton
+Waist mutton
+Lean mutton
+Fat mutton
+Noodle
+Bean or potato noodle
+Millet noodle
+Sweet noodle sauce
+Nutmeg
+Nuts
+Oatmeal
+Oats
+Octopus
+Aniseed oil
+Carnation clove oil
+Castor bean oil
+Coconut oil
+Cottonseed oil
+Fennel oil
+Fish liver oil
+Sesame oil
+Soybean oil
+Vegetable oil
+Walnut oil
+Olive
+Preserved olive
+Salted olive
+Olive oil
+Peanut oil
+Peppermint oil
+Pine oil
+Rape oil
+Olive kernel
+Olive steamed extract
+Olive seed
+Onion
+Sweet November orange
+Tangerine orange
+Kumquat orange
+Dried orange peel
+Orange peel jelly
+Tangerine orange peel
+Sour orange peel
+Ox tail
+Fresh oyster
+Oyster sauce
+Oyster shell
+Palm flower
+Palm leaf
+Palm leaf sheath fibre
+Palm root 
+Palm see
+Pork pancreas
+Papaya
+Papaya leaf
+Parsley 
+Parsnip
+Peas
+Fresh peas
+Green peas crackers
+Peach 
+Peach kernel
+Peach blossoms
+Peach twigs
+Peach leaf
+Peach root
+Peanut
+Fried peanut
+Pear
+Pearl sago
+Peony flower
+Peony bark
+Peony rhizome
+Perch
+Pepper
+Black pepper
+White pepper
+Peppermint
+Steamed peppermint extract
+Persimmon fruit
+Persimmon cake
+Preserved persimmon
+Persimmon calyx and receptacle
+Persimmon surface powder
+Persimmon root
+Persimmon leaf
+Persimmon peel
+Persimmon flower
+Pheasant
+Phoenix eye nut
+Pineapple
+Pine leaf
+Pine root
+Pine nut kernel
+Plum
+Green plum
+Preserved plum
+Smoked plum
+Sour plum
+Plum blossom
+Sour pomegranate fruit
+Sweet pomegranate fruit
+Pomegranate peel
+Pomegranate flower
+Pomegranate root
+Pork
+Lean pork
+Hind leg pork
+Potato
+Sweet potato
+Preserved potherb mustard
+Prickly ash
+Prickly ash root
+Prickly ash leaf
+Preserved pomelo peel
+Pumpkin
+Fried pumpkin seed
+Purple perilla
+Quail
+Rabbit
+Radish
+Red radish
+Small and red radish
+Radish leaf
+Radish seed
+Raisin
+Rape
+Rapeseed
+Raspberry
+Rice washing water
+Cooked rice
+Brown rice
+Sweet rice
+Old rice
+Polished and round rice
+Polished and long rice
+Polished rice congee
+Rice flour
+Fried rice tea
+Rosemary
+Rosin roses
+Royal jelly
+Rye
+Safflower
+Saffron
+Sago cycas seed
+Sogo cycas leaf
+Sago cycas blossoms
+Salmon
+Salt
+Well salt
+River snail
+Sardine
+Sausage
+Savory
+Scallion bulb
+Dried scallop
+Scholartree blossoms
+Scholartree pod
+Sea cucumber
+Immersed sea cucumber
+Seafoods
+Seagrass( marine algae0
+Seaweed
+Dried seaweed
+Black sesame
+Sesame paste sesame sauce
+Sesame cake
+Sesame powder
+Shallot
+Shark meat
+Shark skin
+Shell
+Shepherds purse
+Shrimp
+Fresh water shrimp
+Dried shrimp
+Sorghum
+Husked sorghum
+Soybean
+Fermented soybean
+Green dry soybean
+Black soybean
+Green and salted soybean
+Soybean sprout
+Soybean paste
+Soybean sauce
+Spinach water 
+Spearmint
+Spicy foods
+Squash
+Fresh squid
+Dry squid
+Cooking starch
+Strawberry
+Strawberry leaf
+Strawberry root
+Sturgeon
+Brown sugar
+Granulated sugar
+Malt sugar
+Rock sugar
+Sugarcane bark
+Sugarcane juice
+Sugarcane residue
+Sunflower
+Sunflower disc or receptacle
+Sunflower leaf
+Sunflower root
+Sunflower seed
+Sunflower shell
+Sunflower stem and pith
+Sunlight
+Taro
+Taro stalk
+Tea
+Tench
+Thyme
+Tobacco
+Tomato
+Trout
+Tulip
+Tulip root
+Turnip
+Turnip flower
+Turnip seed
+Fresh vegetables
+Fresh green vegetables
+Green vegetables
+Seacoast vegetables
+Leafy vegetables
+Green-leafy or yellow vegetables
+Vegetable marrow
+Vinegar
+Walnut kernel
+Walnut leaf
+Walnut shell
+Walnut root
+Walnut powder
+Watercress
+Watercress flower
+Watermelon pulp
+Watermelon peel
+Watermelon root and leaf
+Watermelon seed kernel
+Watermelon seed shell
+Wheat
+Whole wheat
+Floating wheat
+Wheat germ
+Whitebait white wine
+Shrimp wine
+Yam
+Yam bean
+Yam flour
+Yeast
+Dried yeast
+Grapefruit leaf
+Grapefruit flower
+Grapefruit peel
+Grapefruit seed
+Millet sprouts
+Millet sugar
+Melt washing water
+Japanese ginger
+Chinese flower cabbage
+Bryophyte mustard
+Root mustard
+Three colored amaranth
+Leaf beet ( spinach beet or swiss chard)
+Garland chrysanthemum( crown daisy)
+Malafar nightshade
+Bitter endive
+Aromatic green onion
+Lettuce seed
+Autumn bottle gourd
+Devilâ€™s taro
+Hairv yam
+Brake( fern)
+Arrowhead
+Water out
+Western watercress
+Broad-leaved epiphythum
+Red back flower
+Grass mushroom
+Wild amaranth
+Prickling amaranth
+Chinese long leaved spinach
+Dog liver vegetable
+Plantain
+Pseudo garland chrysanthemum
+White nightshade
+Pigweed
+Lychi mushroom
+Black hair brake
+Aralia
+Garden asparagus
+Wild celery
+Spring orchid
+Corla ladybell root
+Butterbur ( bog rhubarb)
+Reed
+Ginseng
+Chinese angelica
+Goldthread
+Fig root
+Fig leaf
+Cow bone
+Chinese rose
+Chinese rose leaf
+Chinese rose root
+Wax gourd leaf
+Plum root
+Plum leaf
+Plum kernel
+Green sweet orange peel
+Crab apple root crab apple leaf
+Eggplant 
+Eggplant leaf 
+Eggplant flower
+Eggplant root
+Red outer layer of tangerine peel
+Orchid leaf
+Orchid root
+Sour mandarin orange
+Young trifoliate orange
+Near-ripe trifoliate orange 
+Mandarin orange
+Mandarin orange leaf
+Mandarin orange  seed
+Trifoliate orange
+Coriander seed
+Carrot seed
+Squash leaf
+Squash flower
+Squash root
+Squash vine
+Squash pulp
+Tea oil
+Tea seed
+Tea seed residue
+Tea plant root
+Steamed ginger extract
+Hyacinth bean leaf
+Hyacinth bean flower
+Peach tree resin
+Lotus leaf
+Lotus
+Stem
+Lotus leaf base
+Duck fat
+River clamshell powder 
+Fermented glutinous  rice
+Sea prawn
+Spinach seed
+Pear peel
+currants
+raspberry
+sultanas
+raisins
 Legumes
 Edible plants
 Edible fungi
