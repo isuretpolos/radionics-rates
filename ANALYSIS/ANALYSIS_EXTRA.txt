@@ -1,0 +1,4758 @@
+'A' Cells, Pancreas, 99
+'B* Cells, Pancreas, 991
+Abasia, 60273
+Abdomen, 1233
+Abdominal Aneurysm, 4014971233
+Abdominal Angina, 701233
+Abdominal Hemorrage, 7049
+Abdominal Hernia, 104859
+Abdominal Tumor, 5081233
+Abducens Nerves, 22086
+Aberration (functional), 5033
+Aberration (mental), 10412
+Abnormality, 2031
+Abortion, 90764954, 90772
+Abortion (threatened), 90764954
+Abrasion, 10923
+Abscess, 3042
+Abscess Bursting into Ear, 30244
+Abscess Cerebral, 30244
+Abscess Gastric, 302321
+Abscess of Brain, 30244
+Abscess of Liver,304248, 3042487
+Abscess of Palp, 30251499
+Abscess of Sac ~ Eyes, 3042953
+Abscess of Septum, 302415496
+Abscess, Alveolar, 302499
+Abscess, Brodie's, 30441
+Abscess, Hepatic, 304248
+Abscess, Ischio-rectal, 302851835, 50851835
+Abscess, Local, 302599
+Abscess, Lumbar, 302987
+Abscess, Mammary, 30274
+Abscess, Mastoid, 602843
+Abscess, Mediastinal, 302356
+Abscess, Neck, 302523
+Abscess, Pelvic, 302525
+Abscess, Perineal, 3021653, 3023568
+Abscess, Perinephric, 30223379
+Abscess, Peritoneal, 3021653
+Abscess, Peritonsillar, 6056
+Abscess, Post Pharyngeal, 30219
+Abscess, Prostatic, 302999
+Abscess, Rectal, 50851
+Abscess, Retromammary, 302748
+Abscess, Spinal, 302297
+Abscess, Subphrenic, 505991096
+Abscess Tuberculous, 40274
+Absent Auricles - Ears, 10937
+Acarus Scaltei, 20444
+Accessory Duct, Pancreas, 327
+Accessory Thyroid, 5687
+Acetic, Duodenum Acid, 45149
+Acetone, 60969
+Acetonemia (Diabetes Mellitus), 5094
+Acetonuria, 609969
+Acetylcholine, 4644
+Achlorhydria, 60583
+Achylia Gastrica, 2074632
+Acid, 201451
+Acid Diarrhea, 7064
+Acid Stomach, 551
+Acid, Acetic, 20145149
+Acidilactici, 50538
+Acidity, 407
+Acidosis, 50106
+Acids (Organic), Duodenum, 451
+Acne Aggregata, 40423
+Acne Rosacea, 207184, 9083
+Acnes - Bacterium, 20522
+Aconite, 35171, 5378
+Acoustic (8th Cranial) Nerves, 088
+Acoustic Atrophy, 906228
+Acquired Allegy, 4410
+Acromegaly, 309694, 80945
+Acromion process of Scapula, 221
+Actinic radiation, 78736
+Actinium, 34439
+Actinomycosis, 6049
+Action of Alcohol, 9014004
+Action of Belladonna, 901488
+Action of Cocaine, 90126
+Action of Pituitrin, 6098
+Action of Tobacco, 40476
+Acupunture, 804739
+Acute Aortitis, 40789
+Acute Ascending Paralysis, 5042592163
+Acute Yellow Atrophy, 2044048, 487
+Aline, 6322
+Addison's Disease, 50112, 50712, 7098108
+Adductor Longus, 2365
+Adductor Magnus, 708901
+Adenoids, 358, 90183
+Adenoma, 50554
+Adenoma internum, 901269
+Adentitis, 90126
+Adhesions, 1011633, 5011
+Adhesions, abdominal, 60111233
+Adhesions, Peritonaeal, 1011653
+Adhesions, pleural, 60117
+Adipose - Arteries, 4965
+Adipose Tissue, Large Intestine, 4093
+Aditus, Middle Ear, 5454
+Adrenal Cortex, 747, 1454
+Adrenal Medulla, 735, 9609
+Adrenal Medulla, Arteries, 2237
+Adrenal Medulla, Chromaffin Cells, 1311
+Adrenal Medulla, Venous Sinusoids, 353
+Adrenal Medulla-Sympathetic Nerve Fibres, 4263
+Adrenalin, Allergy, 40780 
+Adrenaline, 257 
+Adrenosterone, 203 
+Adrenotropic, 1064
+Aerogenes Bacterium, 3064 
+Aerolar Tissue, Thymus, 9583
+Afferent Nerves, 561
+African Sleeping Sickness, 90898 
+Ageusia, 50585
+Agranulocytosis, 40567 
+Ague, 30248709
+AIDS, 5224
+Alanine, 4535
+Albinoism, 30693
+Albumen, 60977, 9019 
+Albuminura, 609779
+Albus, 3054 
+Alcohol, 9014004
+Alcoholic Coma, 901400456 
+Alcoholism, 9014004, 901467
+Alcoholism, Chronic, 90140
+Allergy, 80433
+Allergy (Plastics), 80464
+Almond, 201673
+Alopecia, 305453
+Aluminum, 39799, 834979
+Aluminum - Allergy, 222012
+Alveoli, 7761
+Alveoli - Pancreas, 9789
+Alypin, 5825
+Alzheimer's Disease, 5073852
+Amaurosis, 20439, 5079297
+Amaurosis of Spinal Origin, 5075297
+Amblyopia, 6043
+Amebiasis, 2300
+Amenorrhea, 6063, 801954
+Amentia, 80924
+Americium, 32246 
+Amino Acids, 4515 
+Ammonium Sulphate, 979761 
+Amnesia (loss of memory), 80624 
+Amoeba, 6073
+Amoebic Dysentery, 30245 
+Ampulla of Duct, Pancreas, 3233 
+Ampulla of Vater, 114 
+Ampullae, 2387, 883
+Amyloid Disease, 5019
+Amyloid, Tissue Infiltration, 7095
+Amytrophic Lat. Sclerosis, 90192 
+Anal Canal served by the Superior Rectal Nerve, 287
+Anal Fissure, 706951
+Anal Muscle, 6001
+Anaphylaxis, 71111
+Anaplasia, 902894
+Anasarca, 60102, 6062
+Anesthesia, 3033
+Anatomy, 7266
+Androgenic, Testes, 7842
+Anemia, 20976, 4081, 40972
+Anemia (pernicios), 80995
+Anemia of Brain, 4081, 40849
+Anemia, Splenic, 20976465
+Anerior Poliomyelitis Acute, 40865 
+Aneuria, 609711
+Aneurysm of Orbit, 4014973, 40149731 
+Aneurysm, 41497, 90389
+Aneurysm of Aorta, 401497789
+Aneurysm of Asc, Aorta, 40149775
+Aneurysm of Heart, 40149725
+Aneurysm of In nominate, 40149744
+Aneurysm, Abdominal, 4014971233
+Aneurysm, Aortic, 4052
+Aneurysm, Carotid, 40894
+Aneurysm, Cerebral, 40849
+Aneurysm, Cirsoid, 40149
+Aneurysm, Descending Aorta, 4014977898
+Aneurysm, Femoral or Popliteal, 401497114
+Aneurysm, Subclavian, 401497548
+Aneurysm, Thoracic, 401497769
+Aneurysmal Prominence, 40149775
+Angeioma, 40971
+Angeioneurotic Edema, 40973785
+Anger, 3078
+Angina, 4047
+Angina Pectoris, 7025
+Angina, Abdominal, 3056, 702123
+Angina, Esophageal, 70235
+Angina, Pectoris, 4078
+Angina, Pseudo, 3025
+Angioma, 40971996
+Angioma Capillary, 409719
+Angioma Cavernous, 60653
+Angioneurotic Edema, 205266
+Anhidrosis, 50546
+Animal Fur Allergy, 66918
+Anima1 Fur, Cat - Allergy, 66806
+Animal Fur, Dog - Allergy, 66916
+Animal Parasites, 1088103
+Ankle, 841893
+Ankle Joints (4), 1892
+Ankle, left, 173
+Ankle, right, 172
+Ankylosis, 1073
+Anorexia, 302373
+Anorexia Nervosa, 302295, 40132
+Anosmia, 505801
+Anoxia, 90417
+Anteflexion, 90547
+Anterior Cardiac, 3564
+Anterior Communicating Arteries, 9874
+Anterior horns. Meninges & Spinal Cord, 2963
+Anterior Lobe, Alpha Cells, Pituitary Body , 763
+Anterior Lobe, Beta Cells - Pituitary, 1524
+Anterior Lobe, Chromophobe Cells, Pituitary , 3543
+Anterior Lobe, Pituitary Body, 694
+Anterior Pituitary, 433, 9695
+Anterior Wall, Middle Ear, 6334
+Anterior Wall, Vagina, 659
+Antero-inferior, Basilar network-Sinuses, 5227
+Antero-inferior, Cavernous sinuses, 363
+Antero-inferior, Intercavernous sinuses, 43345
+Antero-inferior, Middle meningeal sinuses, 7531
+Antero-inferior, Petrosal inferior sinuses, 4313
+Antero-inferior, Petrosalsuperior sinuses, 22722
+Anthracis Baccillus, 30333
+Anthrax, 7077
+Anthropophilia, 70877
+Anthropophobia, 90968
+Antimony, 3909, 834909
+Antral Abscess, 302254
+Antral Disease, 90138 
+Antrum, 285, 84254
+Antrum, Disease of, 60254
+Antrum, Distended, 3065254
+Anuria, 905594
+Anus, 2393
+Anxiety Neurosis, 40345
+Anxiety State, 90769
+Aorta, 789
+Aorta, Abdominal, 1233789
+Aorta, Arch of, 6023
+Aorta, Thoracic, 75789
+Aortic Cusp, Rupture of, 1092256
+Aortic Disease, 40789
+Aortic Regurgitation, 402256
+Aortic Valve, 46
+Aortic, Plexus of Nerves, 9431
+Aortitis, 40789
+Aphasia, 1026
+Aphasia Hysterical, 10763
+Aphids, black, 4332
+Aphids, green, 2343
+Aphids, grey (cause leaf curl), 66510
+Aphids, white, 21
+Aphonia, 40454
+Aponeurosis, 2451
+Apoplexy, 10427
+Appendicitis, 6072, 607898, 908864
+Appendicular Colic, 6078
+Appendix, 86, 960
+Appetite, 901471
+Apples, 201878
+Apples, cooked, 201351
+Apprehension, 20335
+Approbation, 30326
+Apricots, 20145
+Apricots, cooked, 2011372
+Aqueduct of mid brain, 3212
+Aqueous humour, 7483
+Aquired sensitiveness, 66781
+Aqueduct of mid brain, 3212
+Aqueous humour, 7483
+Aquired sensitiveness, 66781
+Arachnoid mater, Meninges & Spinal Cord, 9309
+Arachnoid villi, Meninges & Spinal Cord, 5545 
+Arginine, 2298
+Argon, 3918
+Arm, 84115
+Arm, Post-rolandic brain, area, 3487
+Arm, Pre-rolandic brain area, 3018
+Arms, 131
+Arms, forearm, 2131
+Arms, Left, 2691
+Arms, Right, 269
+Arrhythmia, 501227
+Arrhythmias (Cardiac), 906322810
+Arsenic, 34999, 8344999
+Arsenic, Alb, 646444 
+Arsenic-poisoning, 901656 
+Arsenicism, 901884
+Arterial Contusion, 409735
+Arteries from Hepatic Artery, Gall Bladder, 4844
+Arteries from Inferior Thyroid, Thymus, 612 
+Arteries from Internal Mammary - Thymus, 1511 
+Arteries from into. Iliac artery - Uterus, 1492
+Arteries from Superior Thyroid, Thymus, 614
+Arteries, all except where designated, plus location rate. 497
+Arteries, Bladder, 6044
+Arteries, Bronchi, 4303
+Arteries, Corium, 7546
+Arteries, Cystic - Gall Bladder, 644
+Arteries, Duodenum, 7723
+Arteries, External Auditory Meatus, 2542
+Arteries, Gall Bladder, 2477
+Arteries, Helicine - Penis, 9410
+Arteries, Kidneys, 3753
+Arteries, Larynx, 4222
+Arteries, Lung, 2456
+Arteries, Lungs, 8994
+Arteries, Mammary Glands, 6432
+Arteries, Middle Ear, 3849
+Arteries, Mouth, 858
+Arteries, Nose, 1326
+Arteries, Parathyroid Glands, 2304
+Arteries, Penis, 8024
+Arteries, Prostate, 952
+Arteries, Retina, 7323
+Arteries, Spermatic Cord, 5447
+Arteries, Spleen, 364
+Arteries, Stomach, 7848
+Arteries, Stroma, 9243
+Arteries, Thymus, 2739
+Arteries, Tongue, 3826
+Arteries, Ureters, 4231
+Arteries, Vagina, 5319
+Arteries, Capillaries, 1428
+Arterioles, 495
+Arterioles, Spleen, 4326
+Arteriosclerosis, 903, 9036, 9038
+Arteritis, 40497
+Artery Leaving Villus-Duodenum, 1544
+Artery leaving Villus-Small Intestine, 2202
+Arthritis, 4500, 502497, 50689, 9027
+Arthritis in Heel, 9027
+Arthritis, Degenerative Osteo, 503849
+Arthritis, Gonorrheal, 502354, 9027
+Arthritis, Infective, 50558
+Arthritis, Infective Polio, 403325
+Arthritis, Osteo, 50684
+Arthritis, Pneumococcal, 9027217
+Arthritis, Post-febrile, 90279
+Arthritis, Rheumatoid, 902
+Arthritis, Tuberculous, 402954
+Artichoke, 201413
+Artichoke, cooked, 201613
+Artichoke-Jewish, cooked, 201773
+Articular Fever, 90279
+Articulations of Ossicles, 8428
+Ascending Colon, 844
+Ascending Colon, Right Colic Flexure, 8042
+Ascites, 303326, 601753
+Asleep, 10891
+Asparagus, cooked, 201271
+Aspartic, 464
+Aspirin, 7442
+Aspirin, Allergy, 707699
+Association area of Brain, 80485 
+Association area, Frontal, 3534 
+Association area, Post antral, 4329
+Asthenia, 20954
+Asthenopia, 70653
+Asthma, 10237, 70949
+Asthma Bronchial, 20454
+Asthma Cardiac, 199525
+Asthma Hay, 60767
+Asthma, Alveolar, 402324
+Asthma, Bacterial, 305810
+Asthma, Spasmodic, 402392
+Asthma, Thymic, 20279 
+Asthreonine, 3315
+Astigmatism, 20612, 402348
+Ataxia, 40212
+Ataxia, Friedreich's, 40243 
+Ataxic Paraplegia, 50592
+Athlete's Foot, 50359
+Athlete's Heart, 40256 
+Atlas, Vertebra, 842823 
+Atomic Fall-out, 304218 
+Atonic Dyspepsia, 107832
+Atony of Stomach, 1078
+Atophic Proctitis, 50843
+Atopic, 788101
+Atopy, 20466
+Atria, 3521
+Atrial Septum, 3502
+Atrio-ventricular Node, 8526 
+Atrium, Left, 56
+Atrium, Right, 55
+Atrophic Emphysema, 10277
+Atrophy, 906
+Atrophy of Brain, 90613, 9061332 
+Atrophy of Uterus, 906954 
+Atropine, 6543
+Auditory area (Temporal lobe), 4534
+Auditory Nerve, 220808
+Auditory Nerve, 3571 
+Auditory Neuritis, 70511 
+Auditory Ossicles, 6537 
+Auireomycin, 095465 
+Aura epileptica, 2092 
+Aureus, 3044 
+Auric, 80331 
+Auric Imbalance, 73740014 
+Auric shock, 73731014 
+Auricles, 8143
+Auricular - Ear Drainage, 533
+Auricular Fibrillation, 70679
+Auricular Posterior, 847 
+Auricule Ventricular Ring, 2307 
+Auromycetin, 50596 
+Auto-Intoxication, 407910 
+Autonomic Nervous System, 795 
+Avocado pears, 2015446 
+Axillary - Breast Drainage, 448 
+Axillary Artery, 648 
+Axillary Nodes, 885599
+Bacillus morganii, 3034
+Back, 88
+Backache, 7088
+Bacon, 20162
+Bacteria, 6091280, 7752, 7753
+Bacteria count, Soil, 331109
+Bad Breath, 20317
+Baked Foods, 201222
+Balance and equilibrium(Cerebellar cortex), 4675
+Baldness, 604325
+Balsamic drugs, Allergy, 707887
+Bananas, 201282
+Bang's Disease, 5957
+Banti's Disease (spleen), 5017
+Barbiturates, 3242
+Barium, 301156
+Barley Bread, 201440
+Barley, cooked, 20144
+Bartholin's Gland, left, 931
+Bartholin's Gland, right, 93
+Bartholinitis, 30293, 302931
+Basal - Plexus of Veins, 5332
+Basal Lamina, 7203
+Basedow's Disease, 30665
+Basement Membrane - Pleura, 2532
+Basic Slag, 9
+Basilar membrane, 3537
+Basilar Membrane - Duct of Cochlea, 1310
+Basis pedunculi, Mid Brain, 5455
+Bazin's Disease, 60643
+Beans, broad, 20146
+Beans, lima - cooked, 201301
+Beans, navy - cooked, 201294
+Beans, runner, 20144
+Beans-broad, cooked, 2013391
+Beans-string, cooked, 20147
+Bechterew's Disease, 9079
+Bed Sore, 3032
+Beef, 201190
+Beer, 2011525
+Beets, cooked, 20188
+Bell's paralysis, 5043
+Belladonna, 76290, 901483, 9633
+Benevolence, 3023
+Benign tumors, 501
+Benzedrine, 5510
+Berger's Paresthesia, 5048
+Beri Beri, 60552
+Berkelium, 32233
+Beryllium, 30044
+Between Glands, Stomach, 4234
+Biceps Brachii, 8548
+Biceps Femoris, 4434
+Bile, 4571
+Bile Capillaries, 4854
+Bile Duct, 428
+Bile Ductules, 4285
+Bile Pigment, 60942
+Bilharziasis, 30361
+Biliary Congestion, 20448 
+Bilious Fever, 1032
+Biliousness, 4057
+Biochemie - Therapy Test, 229922101
+Bismouth, 33883 
+Bismuth carbonate, 812
+Blackberries, 201376 
+Blackberries, cooked, 201643
+Blackwater fever, 50323
+Bladder, 62
+Bladder Hernia, 104862
+Bladder Irritation, 809062 
+Bladder, Cancer, 5062
+Bladder, Distended, 306562
+Bladder, Tuberculosis of, 40262
+Bladder, Ulcer, 3062
+Bladder, Villous Growth, 5015862
+Bleeding (External), 40986
+Bleeding (Internal), 40989
+Bleeding from Meatus, 10427
+Bleeding gums, 40959591
+Blepharitis, 8082
+Blepharitis, Marginal, 403979
+Blindness, 2049
+Blister, 904474
+Blockage, 80334 
+Blocked nerves, 9063
+Blood, 1235, 409
+Blood & Nerve Supply, Muscle, 471
+Blood Bicarbonate, 2559
+Blood Calcium, 493204
+Elood Cholesterol, 40459
+Blood Cholinesterase, 5551
+Blood Circulation, 4925
+Blood Clot, 80799
+Blood Corpuscles, 4315
+Blood Gas, 6789
+Blood Gas, Chlorine, 301
+Blood Gas, Hydrogen, 169
+Blood Gas, Nitrogen, 721
+Blood Gas, Oxygen, 263
+Blood Phosphorus, 34549
+Blood Platelets, 4094
+Blood Pressure, High, 409046
+Blood Pressure, Low, 409768
+Blood Pressure, Normal, 409734
+Blood Sugar, 4095
+Blood Tumor, 4092
+Blood Vessels - Arteries, 2324
+Blood Vessels, Duodenum, 836
+Blood Vessels, Small Intestine, 4409
+Blood Vessels, Stomach, 3652
+Blood, large Mononuclear leucocytes, 1312
+Bloody Flux, 40910
+Blow upon Head, 10921
+Blows - Swollen Ears, 10919
+Blueberries, 201165
+Blueberries, cooked, 201898
+Boarishness, 70993
+Body of Uterus, 689
+Body, "neck" of penis, 8259
+Body, corpora savernoca penis, 8322
+Body, corpus spongiosum penis, 8431
+Body, glans penis, 8299
+Body, Penis, 8848
+Boecks Sarcoidosis, 504568
+Boil, 302099
+Boil in Meatus, 40921
+Boil, Nose, 4092
+Boiled Foods, 201243
+Bone Marrow, 3453, 515
+Bone Meal, Manure, 8443661
+Bone, Diseased, 40284
+Bones, 84
+Bones, Flat, 8432
+Bones, Irregular, 84392
+Bones, Long, 849
+Bones, Short, 84168
+Bony labyrinth, 5252
+Bony Part, Ears, 4835
+Bony part, Middle Ear, 821
+Borax, Allergy, 31137
+Botanic Medicine, 897738
+Bottled foods, 2012224
+Botulinium, 7076
+Botulism, 60179
+Bovine TB, 4201
+Brachial Artery, 491
+Brachial Neuralgia, 70599
+Brachial Neuritis, 7051109
+Brachial, Plexus of Nerves, 326
+Brachioradialis, Muscle, 3267
+Brachycardia, 50125
+Brain, 1332, 40856, 80489
+Brain Fag (overworked), 9074
+Brain Relaxed, 60487
+Brain Stimuli, 10091
+Brazil Nuts, 201677
+Breast cholostrum, 3631
+Breast milk, 3248
+Breast, Left, 74
+Breast, Right, 73
+Breasts, 7374
+Bright's Disease, 905979
+Brill's Disease, 70936
+Broiled Foods, 201486
+Bromides, Allergy, 7076685
+Bromine, 3835
+Bromural, 3224
+Bronchi, 2392
+Bronchi Nerves, 2354
+Bronchi-Lymph Vessels to Paratracheal Gland, 3316
+Bronchi-Lymph Vessels to Pretracheal Gland, 33271
+Bronchi-Nerves from Recurrent Laryngeal nerves, 4107
+Bronchi-Nerves from Sympathetic Trunks, 3217
+Bronchi-Nerves from Vagus nerves, 42810 
+Bronchial - Lung Drainage, 791
+Bronchial Calculus, 2042392
+Bronchial Glands, Enlarged, 8054
+Bronchial irritation, 809984
+Bronchial Muscles, 5425
+Bronchial Tube, Left, 2391
+Bronchial Tube, Right, 2392
+Bronchiectasis, 404293
+Bronchitis, 404797
+Bronchitis, Acute, 402392
+Bronchitis, Chronic, 6024 
+Broncho-constrictos from Vagus, Lungs, 3742 
+Broncho-pneumonia, 8024
+Brown Sugar (natural), 2011026
+Brucella abortus Bacterium, 1086
+Brucella bronchiseptica Bacterium, 304167
+Brucella melitensis Bacterium, 1082
+Bruises, 209
+Brunner's Gland, 247
+Buckwheat, 201706
+Buerger's Disease, 50774
+Bulbar Paralysis, 504286544, 605647
+Bundle of His, 8526
+Burn, 806528
+Burning Sensation, 804429
+Burns 1st degree, 7092
+Bums 2nd degree, 7094
+Burns 3rd degree, 7096
+Burns, Electric, 10104929
+Bums, Thermal, 10104917
+Bursa, 7439
+Bursitis, 4028, 407439
+Butter, fresh, 20187
+Butter, salted, 201989
+Buttermilk, 201790
+Buttock, 2675
+Cabbage, 20189 
+Cabbage, cooked, 20124
+Cadmium, 30348 
+Caffeine, 4125
+Caisson Disease, 109277, 109276 
+Calcaneum, 84134
+Calcification, 30367
+Calcium, 3204
+Calcium axalate, 609252 
+Calcium phosphate, 60995
+Calculation centre. Brain Sensory Area, 8624
+Calculus, 2048
+Calculus of Pancreas, 204997
+Calculus, Biliary, 204838
+Calculus, Cystine, 20431
+Calculus, Encysted, 20426
+Calculus, Ovarian, 204383
+Calculus, Pancreatic, 20473
+Calculus, Prostatic, 20949
+Calculus, Renal, 204823, 2094 
+Calculus, Stag Horn, 204222
+Calculus, Ureteral, 2094668
+Calculus, Urethral, 2094439
+Calculus, Uric Acid, 204562
+Calf, 2541
+Californium, 66556 
+Callousness, 303333
+Calmness, 100347 
+Calyces Minores, 772 
+Calyx of Kidney, 775
+Camphor, 45323, 90180741
+Canalis reuniens, 5681
+Cancellous tissue - Bone Marrow, 2444
+Cancer, 50, 5074, 5084864, 50966 
+Cancer General, 50 
+Cancer Infection, 8041 
+Cancer of Bladder, 5062
+Cancer of Bone, 5084
+Cancer of Bowel, 5027
+Cancer of Cecum, 5082
+Cancer of Duodenum, 50221
+Cancer of Esophagus, 5035
+Cancer of Liver, 50487
+Cancer of Lung, 5076, 5077
+Cancer of Pancreas, 50997, 509972
+Cancer of Pleura, 507, 5071
+Cancer of Prostate, 50999
+Cancer of Rectum, 50851
+Cancer of Rectum, Uterus, or Testis, 50788, 508954
+Cancer of Spine, 50297
+Cancer of Stomach, 50321
+Cancer of Tongue, 501296
+Cancer of Uterus, 50954 
+Cancer sore, 7029101
+Cancer Toxins, 309
+Cancer, Abdominal, 501233
+Cancer, Boeck's Sarcoidosis, 504568
+Cancer, Colon, 5027
+Cancer, Liver, 5048, 50487
+Cancer, Medullary, 50974
+Cancer, Melanotic, 70198
+Cancer, Pylorus, 50321
+Cancer, Scirrhous, 70194
+Cancer, Stomach, 5032
+Cancer, Testicle, 50781
+Candy, 23210
+Canker Sore, 5052
+Cantaloupe melon, 20175
+Cantharides, 9011026
+Capillaries - Eyes, 10479
+Capillaries Arteries, 248
+Capillaries, Mucous Membrane - Duodenum, 2632
+Capillaries, Small Intestine, 6422
+Capillary Vessel, Large Intestine, 724 
+Capsule, Lens, 3552
+Carbohydrate, 901543
+Carbohydrate Metabolism, 3203
+Carbolic Acid, 2226
+Carbolic acid, 901597
+Carbon, 387, 83487
+Carbon dioxide, 5348
+Carbon disulphide, 545
+Carbon moiioxidede, $531
+Carbuncle, 40279
+Carcinoma, 50, 509
+Carcinoma, Eyes, 503, 5031
+Carcinosis, 5000
+Carcinosis, Blood Vessel, 5050
+Carcinosis, Bone, 5096
+Carcinosis, Breast, 5063
+Carcinosis, Esophagus, 5024
+Carcinosis, Gallbladder, 5021
+Carcinosis, Gum, 5035 
+Carcinosis, Intestine, 5052
+Carcinosis, Kidney, 5064
+Carcinosis, Liver, 5022
+Carcinosis, Lung, 5073
+Carcinosis, Nerve, 5023
+Carcinosis, Ovary, 5072
+Carcinosis, Pancreas, 5010
+Carcinosis, Prostate, 5062
+Carcinosis, Skin, 5025
+Carcinosis, Spleen, 5006
+Carcinosis, Stomach, 5031
+Carcinosis, Thyroid, 5030
+Carcinosis, Uterus, 5027
+Cardiac Deep, Plexus of Nerves, 5422
+Cardiac Sac, 2572
+Cardiac Superficial - Plexus of Nerves, 253
+Cardiac, Muscle, 5101
+Cardiac, Stomach, 323
+Cardio-inhibitory centre, 9202
+Carel's Sign-Empyema of Antrum, 60254
+Caries, 5024, 606
+Caries of Dorsal Spine, 5024183
+Caries of Ethmoid, 5042993
+Caries of Spine, 5024297
+Caries of Sternum, 5024263
+Caries of Sternum or Spine, 5024263, 297
+Caries of Temporal Bone, 20897
+Caries of Vertebra, 5024867
+Caries Sicca, 5024
+Caries, Cervical, 502444
+Caries, Lumbar, 5024193
+Caries, Lumo-Sacral, 5024193854
+Caries, Temporal Bone, 50284862
+Caries, upper jaw, 5024864
+Carious Teeth, 5024
+Carotid, 6257
+Carotid Aneurysm, 40894
+Carotid Artery, Common, 526
+Carotid Artery, Externa1, 516
+Carotid Artery, Internal, 536
+Carotid External - Plexus of Nerves, 2242 
+Carotid Internal - Plexus of Nerves, 2275 
+Carpi Radialis Brevis, Muscle, 7791 
+Carrot Fly, Plant Disease, 331 
+Carrots, 20197 .
+Carrots, cooked, 201795
+Cartilage Rings, Bronchi, 2337
+Cartilage, ceruminous glands, 4472 
+Cartilage, Displaced, 4035154
+Cartilage, Ears, 5336
+Cartilagenous part, Middle Ear, 3291 
+Cartilages - Muscular, 154
+Cartilages, Trachea, 838
+Caruncle, 40101
+Caruncle, Urethra, 10058
+Caruncle, Urethral, 5079
+Caschew, 201621
+Catalepsy, 40312, 90798
+Cataract, 807, 8087
+Cataract, Incipient, 203988
+Catarrh, 5272
+Catarrh, Acute, 502778
+Catarrh, Chronic, 40445
+Catarrh, General, 602
+Catarrhalis, 5075
+Catechutannic Acid, 68
+Cauda Equina, Tumor of, 50821 
+Caudate nucleus, Fore Brain, 5233 
+Cauliflower, 201443
+Cauliflower, cocked, 201994
+Cavernous, Plexus of Nerves, 363
+Cavity - Pleura, 243
+Cebro-Spinal System, 73113
+Cecal, hernia, 104882
+Cecum, 82
+Cecum Mobile, 808782
+Cecum, Appendix, Ascending Colon. Arteries, 778
+Cecum, Cancer, 5082
+Celery, 20195
+Celery, cooked, 201860
+Celiac - Stomach, Liver Drainage, 768
+Celiac Disease, 60666
+Celiac Ganglion, 813
+Celiac Ganglion from Vagus Nerve, 4341
+Celiac, Plexus of Nerves, 434
+Cell Structure, 5152
+Cells comprising loose reticulum in the Connec, 3359
+Cells of Capillary Wall, 2488
+Cells of Envelope, 249
+Cells of the body, 4822
+Cells, bone marrow, 3453
+Cellstary, 4254
+Cellular Cartilages, 144
+Cellulitis, 40467
+Celuitis, 418
+Centro-ancinar Cells - Pancreas, 982
+Cerebellar Disease, 401332
+Cerebellar Tumors, 501231, 508231
+Cerebellum, 231
+Cerebral Arteries, 2947
+Cerebral Cortex, Fore Brain, 9979
+Cerebral Hemorrhage, 903
+Cerebral Hypoeremia, 40329, 409291
+Cerebral Palsy, 20529
+Cerebral Peduncles, Mid Brain, 1432
+Cerebral Tumor, 50129, 501291, 50829, 508291
+Cerebrospinal Fluid, Meninges & Spinal Cord, 5297
+Cerebrospinal Meningitis, 4027929, 40279291
+Cerebrum, 29
+Cerium, 31358
+Cervical - Glandular System, 174
+Cervical Catarrah, 602952, 9052602
+Cervical Fibroids, 501952
+Cervical Mucus, 2348
+Cervical Posterior, Plexus of Nerves, 4444
+Cervical Rib, 6092542, 60982542, 7074694542
+Cervical, Plexus of Nerves, 3355
+Cervicitis, 40952
+Cervicle (7), Vertebra, 84692
+Cervicle (8 pairs) Nerves, 4344
+Cervico-brachial Neuralgia, 70599
+Cervico-Occipital Neuralgia, 90274
+Cervicodorsal Neuralgia, 7024
+Cervix Concial, 501952
+Cervix of Uterus, 9572
+Cervix of Uterus, external os, 7797
+Cervix of Uterus, internal os, 768, 7688 
+Cervix Parametrium, 5672
+Cervix Parametrium, Mucous Glands, 3355 
+Cervix, Eroded, 502952
+Cervix, Hypertrophied, 401952
+Cesium, 31055
+Chalazion, 6015107
+Chancre, 5052
+Chancroid, 5054 
+Cheerfulness, 10364
+Cheese, 201993
+Chemicals (402 kinds), 901888
+Cherries, 201380
+Cherries, cooked, 201278
+Chest, 75
+Chest wall, 5223
+Chest, Thorax, 7649
+Chestnut, 201629
+Chicken, 2011139
+Chicken Pox, 6092103
+Chicken Pox, 6093
+Chicken, capon, 201129
+Chilblain, 808642163 
+Chilblains, 801647, 9153
+Chill, 8058 
+Chiropratic, 440997
+Chloasma, 8047
+Chloral hydrate, 3252
+Chloral hydrate, Allergy, 7078912
+Chloramycetin, 5888
+Chlorerae, 1053
+Chlorine, 3817 
+Chloroform, 33441
+Chloroleukemia, 203566 
+Chloroma, 50277784
+Chlorophyll, 9011021
+Chlorosis, 4095, 4095, 40995
+Chocolate Drink (with cream & sugar), 2012791 
+Choking, 90682
+Cholecystitis, 20438, 4072
+Cholecystokin, 8303 
+Cholelithiasis, 5930
+Cholera, 90118
+Cholera, Asiatic, 90118822 
+Cholesterol, 40459 
+Cholesterin, 7465 
+Cholesterinase, 5228
+Choline, 3757
+Chondroma, 50175, 5018154 
+Chordae Tendinea, 4351 
+Chorea, 10393, 30557
+Chorid plexuses, Meninges & Spinal Cord, 2745
+Choriocapillary Lamina, 723
+Chorionic gonadotropin, 6837
+Choroid, 5503
+Choroid - Veins, 7449
+Chromatin Granules, 63
+Chromic acid, Allergy, 70669
+Chromium, 3624
+Chromopsia, 60443
+Chromosomes, 6123
+Chromosomes, X-chromosome, 6122
+Chromosomes, Y-chromosome, 613
+Chyli, 3353
+Chyluria, 908969
+Cigarette, 9013001
+Ciliary Body - Eyes, 141
+Ciliary Muscle, 5573
+Ciliary Processes, 4031
+Ciliary Ring - Eyes, 1012
+Cinnamon, 201391
+Circular Fibres, Duodenum, 685
+Circular Fibres, Large Intestine, 888
+Circular Fibres, Stomach, 3338
+Circular Folds - Small Intestine, 2410
+Circular Folds, Mucous Membranes - Duodenum, 2735
+Circular Muscular Fibres, Large Intestine, 368
+Circular Sinuses, 524
+Circulation, 4925
+Circulation (air) in Soil, 6641
+Circulation (water) in Soil, 6651
+Circulation of Fluid Tissues, 1088
+Circulation, Defective, 3065494, 3065497
+Circulatory System, 254974
+Cirrhosis, 1091
+Cirrhosis of Kidney, 109123, 109137, 1091371
+Cirrhosis of Liver, 109149
+Cirrhosis of Liver, Hypertrophic, 109148
+Cirrhosis of Stomach, 109132
+Clams, 20186
+Clasmatocytes, 4314
+Claustrophobia, 6087
+Clavicle, 84548
+Clitoris, 754
+Cloacae Bacterium, 3047
+Clot, 80799
+Clot in Ureter, 80799668, 807996681
+Co-ordination of movement(Cerebellar cortex) 44910
+Coal Gas (general), 9016789
+Cobalt, 36003, 8346003
+Cocaine, 7433, 901206
+Cocaine, Protuding Eyes, 206
+Coccydynia, 305235
+Coccygeal, 564
+Coccygeal, Plexus of Nerves, 623 
+Coccyx (3), 284
+Coccyx (4), Vertebra, 84188
+Cochlea, 3529 
+Cochlear Nerve, 8345
+Cocoa (with cream & sugar), 201217 
+Cocoalactone, 201655
+Coconut, 201601
+Cod liver oil, 2013246
+Codeine, 5437
+Codfish, 201952 
+Coffee Allergy, 4425
+Coffee, black, 201200
+Coffee, with cream & sugar, 201169
+Cold Ears, 90468 
+Cold, Allergy, 60338
+Coli cummune Bacterium, 3017
+Colic, 7027 
+Colic Impression, Liver, 4324
+Colic, Abdominal, 701233
+Colic, Right Renal, 209437 
+Colisepsis, 30672, 4400
+Colitis, 30127, 40839, 6021
+Colitis, Membranous, 3061
+Collapse, 90788
+Colloidal Tissue, 1299
+Colon, 27 
+Colon Cancer, 502,
+Colon, Growth, 50827
+Colon, Hepatic Flexure, 84
+Colon, Ileo-cecal valve, 827
+Colon, Rectum, 851
+Colon, Sigmoid, 85
+Colon, Splenic Flexure, 81
+Colon, Transverse, 83
+Colon, Tumor, 50127, 50827
+Colour, 99998701
+Columnar Epithelium - Small Intestine, 2341 
+Columnar Epithelium, Duodenum, 3763 
+Columnar Epithelium, Stomach, 736 
+Coma, 50637, 50637371
+Common Cold, 3830, 40652
+Common Cold psy. tendency, 40699
+Common Cold, Bone, 3831
+Common Cold, Brain, 3833
+Common Cold, Breast, 3853
+Common Cold, Colon, 3842
+Common Cold, Eye, 3836
+Common Cold, Fallopian Tube, 3827
+Common Cold, Liver, 3872
+Common Cold, Nerve ending, 3834
+Common Cold, Ovary, 3886
+Common Cole, Pancreas, 3832
+Common Cold, Skin, 3835
+Common Cold, Uterus, 3852
+Common Hepatic Duct, 3337
+Compound tissue of Bone Structure, 9202
+Compression, 30454
+Compression of Brain, 106821332
+Compression of Cord, 90192297
+Concentration, 334901
+Concentric Corpuscles, Thymus, 6216
+Concretions, 20422, 8026127
+Concretions of Tonsil, 60206
+Concussion of Brain, 90748
+Condylomata, 10972851
+Confidence, 90845
+Confusion, 70625
+Congenital Defect, 10937
+Congenital Defect, Vision, 109373, 1093731
+Congential predisposition, 50908
+Congestion, 7048
+Congestion of Liver, 40148
+Congestion of Uterus, 401954
+Congestion, Uterine, 40149954
+Congestive Headache, 70935
+Conium, 59412, 9015288
+Conjuctiva left, 31776
+Conjuctiva right, 3979
+Conjunctiva Membranes, 2223
+Conjunctivitis, 403776, 7041
+Conjunctivitis, Parinaud's, 403776
+Connective Tissue in Soft Tissue, 5802
+Connective Tissue, Capillary layer-Corium, 8424
+Connective Tissue, Corium, 5443
+Connective Tissue, Neutrophil Cells, 1074
+Connective Tissue, Oxyphil Granule Parathyroid, 4533
+Connective Tissue, Parathyroid Glands, 5323
+Connective Tissue, Principle Cells Parathyroid, 5555
+Connective Tissue, Reticular layer-Corium, 7543
+Consideration, 705445
+Constipation, 702427, 7029
+Constricted Liver, 1010148
+Constriction, 104410
+Constriction of Transcolon, 10101583
+Constructive Desire, 77971
+Contact dermatitis, 669901
+Contentment, 50686
+Contraction of fascia, 1024
+Contraction of Scars - Eyes, 10142, 10143
+Contracture, 10101
+Contusion, 90101
+Conveying Blood to Bile Ductules, Liver, 4228
+Conveying Blood to Connective Tissue, Liver, 4342
+Conveying Blood to Interlobular Plexuses, 6481
+Conveying Blood to Liver Cells, 7455
+Conveying Blood to Walls of Portal Vein, 4202 
+Convulsion, 40437
+Cophoritis, 403348
+Copper, 34437, 83410837
+Copper - Allergy, 226541
+Corium, 378
+Corn flakes, 201809
+Cornea, Left, 31979
+Cornea, Right, 33988
+Corneal Catarrhal, 60236
+Corneal epithelium, 793
+Corneal Tuberculosis, 4023988
+Cornmeal, 201998
+Corns, 508, 508442
+Corns, Inflamed, 4058442
+Coronary Anterior, Plexus of Nerves, 3625
+Coronary Artery, Left, 4921
+Coronary Artery, Right, 492
+Coronary Gastric, Plexus of Nerves, 5232
+Coronary Ligament, Left Lobe Liver, 125
+Coronary Posterior, Plexus of Nerves, 943
+Coronary Sinus, 238
+Coronary Sinus Valve - Heart Vein, 2308
+Coronary sinuses, 238
+Coronary Thrombosis, 9098492
+Corpora quadrigemina, Mid Brain, 4523
+Corpus callosum, 4233
+Corpus Luteum, 333
+Corpus Luteum, left, 3331
+Corpus Luteum, right, 973
+Corpus Striatum-brain, 5423
+Corrosives (general), 90140517
+Cortex, 746
+Cortex of hair, 7332
+Cortex, Zona Fasciculata, 5543
+Cortex, Zona Glomerulosa, 4335
+Cortex, Zona Reticularis, 5333 
+Corticosterone, 87511
+Ccrticotrophin, 2762 
+Cortilactin, 832
+Cortisone, 575
+Cortisone, Allergy, 7076441
+Coryza, 90468, 904681
+Costal Sterni (14), 503
+Costal Vertebrae (48), 902
+Cotton - Allergy, 11887 
+Cough, 9068
+Coumadin, 551221
+Courage, 70477
+Cow, Manure, 445588
+Cracked Nipple, 1010194
+Cracks, 70322
+Cramp, 702223
+Cranberries, cooked, 201141
+Cranial Nerves, 2208
+Cranium, 846837
+Cream, 2011063
+Cream of Wheat, 201701
+Cremasteric fascia, 4834
+Cress, 201991
+Crico-Anytenoid Arthritis, 404971090
+Crista ampullaris, Ears, 9910
+Crohn's disease, 1010122
+Crude Minerals, 834
+Crura cerebri, forcis-brain, 1453
+Crura cerebri-brain, 1327
+Crural, Plexus of Nerves, 731
+Crus commune, 4449
+Crystals, 901588
+Cubo ideum, 84759
+Cuniform, 84585
+Curare, 4456
+Curium, 6756
+Curschmann's Spiral, 20325
+Curtness, 705331
+Curvature, Lateral-left, 70521
+Curvature, Lateral-right, 7052
+Cuticle, 3310
+Cuticular, Middle Earp 4546
+Cyanotic Liver, 1010148748
+Cyclothalmic Personality, 904332
+Cyst, 70126
+Cyst of Lid, 601979
+Cyst of Orbit, 6013, 60131
+Cyst, Colloid, 60362
+Cyst, Dermatoid, 60178
+Cyst, Hydatid, 4056
+Cyst, Middle Turbinated - Nose, 601154484
+Cyst, Multiple, 10691
+Cyst, Sebaceous, 601101
+Cyst, Testicular, 601
+Cystic Duct, 5351
+Cystic Duct, Spiral Valve, 5353
+Cystic, Plexus of Nerves, 563 
+Cysticercosis, 909413
+Cystine, 4357
+Cystitis, 6062
+Cystocele, 601781, 601788
+Cytocentrum, 2221
+Cytocentrum, Attraction Sphere, 34551
+Cytocentrum, Centrioles, 3281
+Cytoplasm, 6232
+Cytoplasm, Chromophil Granules, 1141
+Cytoplasm, Gogli Network, 4410
+Cytoplasm, Hyaloplasm, 2325
+Cytoplasm, Mitochondria, 3461
+Cytoplasm, Tonofibrils Granules, 2441
+Dacryocystitis, 409533, 4095331 
+Damage, 707663 
+Dandruff, 1062 
+Dartos Muscle, 7859
+Dates, 20193 
+Deafness, 2010, 20489
+Death, 504 
+Death of Fetus, 504379
+Debility, 70174 
+Deceitfulness, 70442 
+Deep Cervical - Gum Drainage, 3310 
+Deep Cervical - Tongue, Thyroid Drainage, 3257
+Deep Fascia, 105
+Deep Inguinal - Tissues, Limbs Drainage, 151 
+Deficiency, 10 
+Degeneration, 40229 
+Deglutition (process of swallowing), 7679
+Dehydrochloric Acid, 5243
+Dehydration 80255
+Delayed Menstration, 141
+Delirium Tremens, 40400, 4040049
+Deltoid, Muscle, 84186 
+Delusions, 606699 
+Dementia - Brain, 201
+Dementia progressive, 40654 
+Dementia, Acute, 2016
+Dementia, Ears, 5073
+Dementia, Praecox, 2016
+Dendrite, Nerves, 4441
+Dental Caries, 4838, 50247
+Dental nucleus. Cerebellum, 4595
+Depression, 10552 
+Dermatitis, 40101, 808101
+Dermatoid cyst, 60178
+Descending Colon, 8053
+Descending Thoracic Aneurysm, 40149775
+Desoxycorticosterone, 2752
+Despondency, 10852
+Dexedrine, 4547
+Diabetes, 5092
+Diabetes Coma, 509456
+Diabetes Insipidus, 300348
+Diabetes Mellitus, 5094, 30236 
+Diabetes, Phosphatic, 5094254
+Diabetic Coma, 509456 
+Diabetogenic, 737
+Diacetic Acid, 60997
+Diacic (or Diacetic), Duodenum, 4517 
+Dial - Poison toxin, 213
+Diaphragm, 8044
+Diaphragm Muscle, Lungs, 8459 
+Diaphragm, Neuralgia, 80864844 
+Diaphragmatic Hernia, 10488044 
+Diaphragmatic Neuralgia, 8089648044 
+Diaphragmatic Pleurisy, 4078044 
+Diaphragmatic, Plexus of Nerves, 4524
+Diarrhea, 60764, 6093 
+Diarrhea, Acid, 7064 
+Diastase, Pancreatic, 3144
+Difficult Childbirth, 54
+Diffidence, 87114
+Digestive Troubles, 403222 
+Digestricus Posterior, Muscle, 927 
+Digitalis, 7321 
+Digitalis, Allergy, 707888 
+Digitorum Communis, Muscle, 7793 
+Digitoxin, 5375
+Dilatation of Heart, 306525 
+Dilated Right Ventricle, 3065259 
+Dilation, 3065
+Dilation of Stomach, 306532 
+Diogenal, 3215 
+Diphteria, 4700
+Diphteritic Eyes, 209323776 
+Diphtheria, 20348, 20932 
+Diphtherial Ulcer, 209323, 2093231 
+Diphtheritic Paralysis, 20932542 
+Diploccoccus, 70343
+Diplococcus pneumoniae, 404547 
+Diplopia, 30971
+Dipsomania, 60687 
+Diptheriae, 40762 
+Disappointment, 504322 
+D ischar ge, 10455 
+Discoloration, 505555 
+Discomfort, 1091 
+Discontentment, 40251 
+Disease, Prognosis, 7076 
+Dislike, 10372 
+Dislocation, 8069
+Dislocation of Lens, 80873777
+Displacement, 403
+Displacement of Heart, 808725 
+Displacement of Punctum, 8087304 
+Disquietude, 40298 
+Dissatisfaction, 50342
+Disseminated Sclerosis, 602528, 90192, 90192297
+Disseminated Sclerosis, 90697 
+Distemper, 601042
+Distended Bladder, 306562 
+Distended Trans. Colon, 306583 
+Distension, 40432
+Distension of Frontal Sinus, 3065133 
+Diuria, 30233
+Diverticula of Esophagus, 80610
+Diverticulitis, 40088, 40806
+Dorsal (12), Vertebra, 84183
+Doubt, 30121
+Dried Beef, 201366
+Dried Blood, 2000555
+Drooping Eyes, 8087979
+Dropsy, 6012
+Drug Allergy, 707791
+Drug Rashes, 90163101
+Drugs, 90163
+Drugs (general), 446
+Dual Personality, 707617
+Duck, tame, 2011051
+Duck, wild, 2011699
+Duct of Cochlea, 127
+Ductless Glands, 689842
+Ducts, Corium, 8452
+Duodenal, 6349
+Duodenal Catarrh, 60221, 60222
+Duodenal Impression, Liver, 43272
+Duodenal Ulcer, 30221
+Duodenal, Nerves, 922
+Duodenitis, 400221
+Duodenum, 221
+Dupuytren's Contraction, 604451
+Dura Mater Sinuses (drain blood from brain), 711
+Dura mater, Meninges & Spinal Cord, 7123
+Dust - Allergy, 145066
+Dying, 70455
+Dysenteriae Bacterium, 8095
+Dysentery, 20105, 6093
+Dysmenorrhea, 40677, 70101
+Dyspepsia, 608
+Dyspepsia Indigestion, 6083
+Dyspepsia, Flatulant, 608
+Dysphasia, 5032
+Dyspnea, 207494734, 808701
+Dyspnoea, 20494, 307494734
+Dysprosium, 32166
+Dystrophy, 60542
+Dysuria, 706427
+Eacherichia coli Bacterium, 3017
+Eacherichia coli, neapolitana Bacterium, 3027
+Ear Wax, 406
+Ear Wax or cerumen, 46
+Ear, External, 928
+Ear, Internal, 9
+Ear, Irritation in, 409, 4091
+Ear, Middle, 13372
+Ear, Right, 9
+Ears, 910 
+Ears, Auditory Nerve, 8080 
+Ears, left, 91, 10 
+Earthoinitis, 30293 
+Eclampsia, 50456 
+Ecstasy, 80984
+Ectopic Gestation, 60239972, 60289973 
+Eczema, 3053, 5300
+Eczema Crusts, 305396
+Eczema of Meatus, 30531, 305313372 
+Edema, 606104
+Edema, Ears, 30785
+Eel, 20133 
+Efferent Nerves, 741 
+Effusion, 60663
+Effusion, Pericardial, 2587
+Effusion, Peritoneal, 58 
+Effusion, Pleural, 7
+Effusion,Synovial, 557
+Egg, 20198
+Egg plant, cooked, 2017
+Egotism, 30321
+Ejaculatory ducts, 7438
+Elastic Fibro Cartilage, 1432
+Elation, 50446
+Elbow Joints (2), 10043 
+Elimination, 90542
+Emaciation, 2058
+Embittered, 80332
+Emboli, 4079
+Embolism, 4079
+Embolism of Brain, 90749
+Embolism of Sup. Mesenteric Artery, 4079497815
+Embolism, Cerebral, 90749
+Embolism, Renal, 407923 
+Embryo, 379
+Embryoma, 6013792
+Emotional Disturbance, 10427
+Emotional Imbalance, 605108 
+Emotional Shock, 1010427
+Emotional State, 30469
+Emphysema, 60277
+Emphysema of Lung, 60276, 60277
+Empyema, 30211
+Empyema Necessitatis, 6075327
+Empyema of Antrum, 60254
+Empyema of Gall Bladder, 6038 
+Encephalitis, 401332
+Encephalitis Lethargica, 401464
+Encephalocele, 10481332, 20751332
+Encephaloid Cancer, 501332
+Encephalonialacia, 504325
+Encothelium, 4325
+End Plates, Muscle, 413
+Endocarditis, 403795
+Endocarditis, Infective, 5023795
+Endocardium, 3795
+Endocardium Connective Tissue, 2534
+Endocardium Elastic Fibres, 5402 
+Endocrine, 259
+Endolymph, Middle Ear, 6259
+Endometritis, 60544, 907651
+Endometritis Hemorrhagic, 30954
+Endometritis Purulent, 10427954
+Endometritis Purulentagic, 6097651
+Endometritis Senile, 2097651
+Endometritis Septic, 60954
+Endometritis, Chronic, 907651, 907652
+Endometritis, Gonorrheal, 502954
+Endometritis, Hemorrhagic, 10427954
+Endometritis, Hypertrophic, 4097651
+Endometritis, Septic, 60954
+Endomeurium, Nerves, 4443
+Endothelium lining the vascular sinuses, 1521
+Enlargement, 8042
+Ensiform cartilages, 2382
+Entamoeba Coli, 40353
+Enteric Fever, 70922, 709222, 8055, 80552 
+Enteritis, 4027, 60027
+Enterogastrone, 5667 
+Enteroptosis, 808722
+Enterospasm, 1010122
+Enthusiasm, 60961
+Enuresis, 90764
+Envy, 188871 
+Enzyme Imbalance, 30242
+Ephedrine, 3787
+Epidermis, 6345 
+Epididymis, 7405
+Epididymitis, 407405 
+Epigastrium, 8527
+Epiglottis, 277 
+Epilepsy, 2092
+Epineurium Nerves, 3335
+Epiphysis (end of long bone), 90532
+Epiphysitis, 40548
+Epithelial cells, 5245, 609101 
+Epithelioma, 40513, 4059, 
+Epithelioma, Vaginal, 40595
+Epithelium, 2545
+Epitrochlear - Hands Drainage, 8882 
+Erbium, 32368
+Erectile tissue - Vagina, 2652
+Erector Spinae, Muscle, 4243 
+Erethism, 50447
+Ergot, 9434 
+Ergotin, 90110103
+Erosion, 50213
+Erosions, Cervix, 502852
+Erthrocyte, bene marrow-red, 2331
+Eruption, 10153
+Erysipelas, 401055, 70798
+Erythema, 70252
+Erythroblast, bone marrow-red, 3314
+Erythrocin, Stomach, 5532
+Erythromelalgia, 8066, 808642163
+Escrine, 3949
+Esophageal, Plexus of Nerves, 478
+Esophagismus, 20735
+Esophagus, 643
+Esophagus, Stomach, 35
+Estrogenic, 6807
+Estrone, 3378
+Ethmoid, 84993
+Ethmoid Cells, Dilated, 3065993
+Ethmoidal, Paranasal Sinuses, 993
+Europium, 31863
+Eustachian external, 1337
+Eustachian Obstruction, 20732
+Eustachian tube, 3226
+Excess fat, 60568
+Excess Wax in Ear, 5010
+Excitability, 90444
+Exhaustion, 709101
+Exophthalmic Goitre, 30665
+Exostosis, 3084, 30841, 80486
+Exostosis of Orbit, 30843, 308431
+Exostosis, Dental, 3084499, 3084864
+Exotosis, 3900
+Extensor Carpi Ulnaris, 7766
+Extensor Retina Culum, 66456
+External auditory meatus, 3372
+External Coat - Veins, 4677
+External Iliac - Groin Drainage, 152
+External Intercostal, Muscle, 3564
+External Oblique, Muscle, Muscle, 370
+External Serous Coat, Fallopian Tubes, 5576
+External Serous Coat, Uterus, 9642
+External Spermatic Fascia, 8844
+External Sphincter Muscle - Rectum, 2209
+External Spinal Paehymeningitis, 402791297
+Extradural space, Meninges & Spinal Cord, 1321
+Extravasation, 20133
+Extrinsic muscles, Tongue, 4655
+Eye, Left, 31
+Eye, Right, 3
+Eyeball, 33
+Eyelid, Left, 319790
+Eyelid, Right, 397976
+Eyelids, 7953
+Eyes, 3
+Eyes and head, Pre-rolandic brain area, 4397
+Eyestrain, 501647
+Face, 10290
+Face, Post-rolandic brain area, 2645
+Face, Pre-rolandic brain area, 5877
+Facial Hemiatrophy, 9016562285
+Facial Nerves, 22087
+Facial Paralysis, 50422, 50422285
+Facial, Plexus of Nerves, 567
+Faecalis Bacterium, 3057
+Fair Prognosis Probability, 39
+Falciform Ligament, Left Lobe - Liver, 15
+Fallopian Tube, Left, 972
+Fallopian Tube, Right, 973
+Fallopian tubes, 569
+False Teeth, 805365
+Fascia, 104
+Fascia to valve of Vieussens-brain, 7703
+Fasciola heptica (flukeworm), 20447
+Fat, 901989
+Fat cells, 6449
+Fat Cells, Bone Marrow, 4510
+Fat Metabolism, 9892
+Fatigue, 8069
+Fatigue of Retina, 30673709
+Fatigue, Mental, 3067
+Fatigue, Physical, 3066
+Fatty degeneration, 6069
+Fatty Degeneration of Heart, 606925, 908925
+Fatty Degeneration of Liver, 606948, 908948
+Fatty Nodules, 5575
+Fatty tissue, Mammary Glands, 8461
+Fatty Tumor, 4800
+Fatty tumor, 50486
+Fear, 7031
+Fecal Accumulation, 7029
+Fecal Impaction, 608427
+Fecalis, 60272
+Felon, 8057
+Female, 18
+Female Genital Tract, 237894
+Female Organs (Collective), 1866
+Female Vitality, 409711
+Femoral - Veins, 6992
+Femoral Artery, 426
+Femur, 84114
+Fenestra Cochlea, 5448
+Fenestra cochleoa, 4366
+Fenestra vestibuli, 3577
+Fermentation, 9740
+Ferrum, 901493
+Ferrum (iron), 3492
+Ferrum phosphate, 34597
+Fertility, Soil, 661554
+Fever, 7046
+Fevers, 709 
+Fibres of lens, 3445
+Fibres, Muscle, 531
+Fibrils - Pineal, 2219
+Fibrin, 1219, 901156 
+Fibrinogin, 2774
+Fibro-areolar Capsule, 1221
+Fibro-serous Membrane Lining - Ears, 2333
+Fibro-serous Membrane Lining, Perilymph, 3436 
+Fibroid Disease of Heart, 50125
+Fibroid tumors, 50195
+Fibroids, 501
+Fibroids, Uterine, 501954, 501952 
+Fibroma, 6075, 8020
+Fibroma, Liver, 8022
+Fibromuscular Coat, Gall bladder, 385 
+Fibrosis, 6078
+Fibrositis, 105, 10522, 5061
+Fibrous Capsule, Kidneys, 3788
+Fibrous Coat, Eyeball, 2037
+Fibrous Coat, Ureters, 6654
+Fibrous mucous, Middle Ear, 5649
+Fibrous Tissue, Mammary Glands, 988
+Fibula, 84329
+Figs, 201343 
+Filariasis, 30439
+Filariasis, Wucheria Bancrofti, 30139 
+Fimbriated End, Fallopian Tube, 479 
+Financial Shock, 10104554
+Finger, Joints, 9509
+Fingers, 84894, 895
+Fish, fresh water, 2011459
+Fish, general, 201338
+Fish, salt water, 2011458
+Fissure, 40221
+Fissure for Ligamentum Venosum, 394
+Fissure of Anus, 706851
+Fistula, 30706, 5035, 706 
+Fistulous Auricles, 7069 
+Flatulence, 3045, 6078927
+Flatulent, 608
+Flea Eite, 4
+Flexions of Uterus, 4035954
+Flexor Carpi Radials, 4774
+Flexor Carpi'Ulnaris, 7767
+Flexor Digitorum Longus, 9989
+Flexor Digitorum Profundus, 124
+Floating Kidney, 20387, 403537
+Floating Rib, 4035542
+Floor of tympanic cavity, 158
+Flower pollen Allergy, 604450
+Fluid (anywhere), 601
+Fluke worm, 7032
+Fluorine, 30099
+Flushes, 20766 
+Folliclar mange, 505335
+Follicle, 3462 
+Fontanelle posterior, 2642 
+Food as Poison Toxin, 2013 
+Food poisoning, 901201
+Foods (test diet) Allergy, 44301 
+Foods, Fats - Allergy, 1066411 
+Foods, Fish Allergy, 10943 
+Foods, Meats - Allergy, 10663
+Foot, 2163 
+Foot, Carbuncle, 508996
+Foot, Corns, 508442 
+Foot, Left, 841864 
+Foot, Right, 841894 
+Forbearance, 60214 
+Forcefulness, 803367 
+Fore brain, 9975 
+Forearm, 2131 
+Forehead, 3631 
+Foreign Body, 10472851, 10474 
+Foreign body, 10212, 1044966 
+Foreign Body in Bowel, 1047427 
+Foreign Body in Lungs, 1047477 
+Foreign Body in Meatus, 10474, 1047413372 
+Foreign Body in Nose, 1047496 
+Foreign Body, glass, 8010 
+Forgetfulness, 80624 
+Forgiveness, 40925 
+Formaldehyde, 34335 
+Formalin, 304223 
+Formic Acid, 24453 
+Fornix-brain, 1513 
+Fossa incudis, 4852
+Fossa Ovalis, 5177 
+Fourth ventricle, Cerebellum, 3322
+Fracture of Base, 9074107
+Fracture of Base of Skull, 90784
+Fracture of Base of skull, 907844147 
+Fracture of lower jaw, 907872
+Fracture of Orbit Plate, 907384
+Fracture of Spine, 90784297
+Fractured Ribs, 907542
+Fractures, 907 
+Fried Foods, 201441 
+Friedlanderi Bacterium, 50526 
+From Celiac Plexus, Liver, 4338
+From Hepatic Artery, Pancreas, 5435
+From Intercostal Artery, Mammary Glands, 8833
+From Left Splanchnic Nerve, Stomach, 5674
+From Lumbar Sympathic Trunk - Stomach, Nerves, 2324
+From Mesenteric Artery, Pancreas, 4322 
+From Plexus around Sup. Mesenteric Artery, 745
+From Right Phrenic, Liver, 6102
+From Splanchic Nerve, Pancreas, 5324
+From Splenic Artery - Pancreas, 9845
+From Sympathetic Nerves - Lungs, 2302
+From Thoracic branches-Axillary Artery, Mamma, 8893
+From Thoracic Sympathic Trunk - Stomach, 2454
+From Vagus Nerve - Pancreas, 281
+From Vagus Nerve - Small Intestine, 2338
+From Vagus Nerve, Parasympathetics, 8226
+From Vagus Nerves, Liver, 8232
+From Vagus, Lungs, 6888
+Frontal, 84596
+Frontal Empyema, 602596
+Frontal Paranasal Sinuses, 133
+Frontal Sinus Distension, 3065133
+Frostbite - Ears, 1059
+Fruit Parasites, 1088146
+Fruits - Allergy, 1066113
+Frustration, 402213
+Function, Adrenal, 4600
+Function, Gonad, 5100
+Function, Heart, 4340
+Function, Kidney, 4530
+Function, Liver, 4210
+Function, Pancreas, 4804
+Function, Parathyroidal, 4900
+Function, Pituitary-Anterior, 4302
+Function, Pituitary-Posterior, 4300
+Function, Thyroid, 4370
+Functioning Heart Disorder, 708987
+Fundus (source of H.C.L.), 132
+Fundus, Uterus, 7975
+Fungi, 1730504
+Fungi allergy, 703331
+Fungi, Blastomyces Dermatitidus, 500566
+Fungi, Candida Albicans, 500755
+Fungi, Cryptococcus, 500994
+Fungi, Microsporum Audouini, 50234
+Fungi, Microsporum Furfur, 201305
+Fungi, Monilia, 20298
+Funiculus, 755
+Furuncle, 40921
+Furuncle in Meatus, 40921, 409213372
+Furunculosis, 40921
+Gadolinium, 31964
+Gall Bladder, 38
+Gallium, 3431
+Gallstone Colic, 702438
+Gallstones, 20438
+Gangli, 22908
+Ganglia, 7810 
+Ganglion (encysted tumor), 303177 
+Ganglioneuroma, 70443
+Ganglionic layer - Retina, 162
+Gangrene, 20777
+Garlic, 2015614
+Garlic, cooked, 2018632 
+Gastralgia, 40222, 60222
+Gastric Catarrh, 60232
+Gastric Flu, 308321
+Gastric Glands, Stomach, 3434
+Gastric Impression - Liver, 2315
+Gastric Inflammation, 5578
+Gastric Irritation, 4032, 40732
+Gastric Juice, 314
+Gastric Lymphatic Nodules, Stomach, 3210 
+Gastric Ulcer, 30321, 3033434, 30833 
+Gastric, Plexus of Nerves, 656 
+Gastrin, 3456
+Gastritis, 4032, 40321
+Gastritis, Acute, 70321
+Gastritis, Acute Erythematous, 40732 
+Gastro-cholecystic Adhesions, 1013238 
+Gastro-duodenal, Plexus of Nerves, 922 
+Gastro-epiloic Branch Hepatic Artery, 2494 
+Gastro-intestinal Adhesions, 1013222 
+Gastrocnemius Lateral Head, 30331 
+Gastrocnemius Medial Head, 303131 
+Gastroduodenal Arteries, 1684 
+Gastroptosis, 808732
+Gaucher cells of Spleen, 1232
+General - fear, depression, et, 70316477
+General brain areas, 80489
+General Mildew, Plant Disease, 4
+General oils, 201989
+General Paralysis, 5024, 5042
+General Peat, Manure,- 442201
+General Resistance, 49379
+General Toxins, 5700 
+Generosity, 5044
+Genes, 40321
+German Measles, 30865
+Germanium, 3532
+Germinal Epithelium, 3855
+Germinative zone-Epidermis, 8877 
+Germinative, Basal cell layer, 6877 
+Germinative, Prickly cell layer, 4501 
+Ginger, 201361
+Gland Ducts, Stomach, 3531
+Gland Tissue, Areolar Tissue, 8895
+Gland Tissue, Blood vessels - Mammary, 8321
+Gland Tissue, colostrum corpuscles, 8422
+Gland Tissue, Ducts - Mammary, 733
+Gland Tissue, lactiferous sinuses, 8363
+Gland Tissue, lobes - Mammary, 8552
+Gland Tissue, lobules - Mammary, 8337
+Gland, Inflamed Mastoid, 602843
+Glanders, 6049, 6049327
+Glands, Enlarged Bronchial, 8054
+Glands, general, 7425
+Glands, Inflamed, 40327
+Glands, Mucous Membrane - Duodenum, 168
+Glandular, 1933
+Glandular Fever, 709327
+Glandular Substance, Prostate, 5276
+Glandular Tissue - Prostate, 2569
+Glandular tissue - Prostate, 2559
+Glaucoma, 400279, 40269
+Glomerular capillaries, 5544
+Glosso-pharyngeal, Plexus of Nerves, 1155
+Glosso-pharyngeal Nerves, 22089
+Glucose Metabolism, 4095
+Glutamic, 3624
+Gluteal Arteries, 381
+Gluteus Maximus, 5599
+Gluteus Medius, 5799
+Gluteus Minimus, 5399
+Glycemia, 30225
+Glycerine, 90118
+Glycerol Metabolism, 40459
+Glycine, 2316
+Glycogen, 787
+Glycosuria (non diabetic), 30783
+Goat, 2011826
+Goblet Cells, Duodenum, 3809
+Goblet Cells, Small Intestine, 4044
+Goblet Cells, Stomach, 3224
+Goitre Exopthalmic, 30665
+Gold, 3803, 4542, 834803
+Gold – Allergy, 221111
+Gonadotropic, 7832
+Gonads, 786
+Gonorrhea, 30135, 502
+Gonorrhea (Miasma), 502
+Gonorrheal Arthritis, 502354
+Gonorrheal Conjunctiva, 5023776
+Gonorrheal Cornea, 5023
+Good Prognosis Probability, 37
+Goose, 2011786
+Gooseberries, 201555
+Gooseberries, Chinese, 201544
+Gooseberries, cooked, 201801
+Gout, 502119
+Gout in System, 50211
+Gout of Stomach, 50232
+Graafian Follicles, 833
+Gracilis, Muscle, 873
+Granular Cervix, 502952
+Granular layer-Epidermis, 8853
+Granular Os, 502952
+Granular, clear layer, 2434 
+Granular, horny layer, 8764
+Granulations, 50213
+Granuloma Coccidioides, 40174
+Grapefruit, 201334
+Grapes, blackwhite, 201211
+Grapes, cooked, 2011283
+Grapes, white, 201244
+Grasses Allergy, 604222
+Grasshopper, Test leaves for, 0233206
+Gravel, 506, 56
+Gray matter, Cerebellum, 4358
+Great Cardiac, 3564
+Greater Anterior Gastric Nerve, 2321
+Greater Posterior Gastric Nerve, Parasympathe, 9231
+Greed, 669066
+Green Corn, cooked, 201183
+Grey matter, Meninges & Spinal Cord, 606
+Grey matter, nerve cells, Meninges & Spinal Cord, 266
+Grey matter, nerve fibres, Meninges & Spinal Cord, 316
+Grey matter, neuroglia, Meninges & Spinal Cord, 603
+Grief, 8071
+Groin, 1266
+Groove for inf. Vena Cava, 4763
+Growing Pains, 507910
+Growth, 10432
+Growth Fever, 507910
+Growth on Ear, 5019
+Gumma, 505101
+Gamma of Orbit, 5053, 50531 
+Gummata, 50510, 50552976, 50596 
+Gums, 226, 591
+Gums bleeding, 40959591
+Gums receding, 408111
+Gums, Septic, 60591
+Haddock, 2017775
+Hafnium, 302772
+Hair, 1090, 1091
+Hair cells, 616
+Hair cells, Nose, 759901
+Halibut, 201996
+Halitosis, 20317
+Hamstrings, 718
+Hand, Left, 261, 84895
+Hand, Right, 26, 84896
+Happiness, 90325
+Hare, 2011037
+Hate, 80983
+Hay Allergy, 445520
+Hay Fever, 4100, 6096, 7055
+Hazelnut, 201604
+Head, 97
+Head Noises, 70579
+Head of Anterior Surface, Pancreas, 996
+Head of Pancreas, 9972
+Head of Posterior Surface, Pancreas, 995
+Head, Top of, 974, 99
+Headache, 7093
+Headache, Congestive, 70962
+Hearing, 6766
+Hearing Centres, 8080
+Heart, 25, 5238
+Heart Disease, 4025
+Heart Muscle, 3243
+Heart Strain, 609386525
+Heart, Hypertrophy, 40125
+Heart, Syphilitic, 50525
+Heartburn, 30243, 407321
+Heat, Allergy, 78111
+Heel, Arthritis, 9027
+Helicotrema, 5678
+Helium, 30022
+Hematocele, 409781, 4098788
+Hematocelo, 409788, 781
+Hematoma, 4097
+Hematoma of Dura Mater, 80799279
+Hematoma of Septum, 409215496
+Hematopoietic, 6349
+Hemiplegia, 6014
+Hemmorrhage, Arrest, 70393
+Hemolyticus, 60562
+Hemophilia, 4096, 409686
+Hemophilis influenzae Bacterium, 7028
+Hemophilis pertussus Bacterium, 9042
+Hemorrhage, 40986
+Hemorrhage in Head, 10427
+Hemorrhage into Cerebellum, 10427231
+Hemorrhage into Pons, 1042727944
+Hemorrhage, Cerebral, 903
+Hemorrhoidal - Plexus of Veins, 1039
+Hemorrhoidal, Plexus of Nerves, 4521
+Hemorrhoids, 296, 8068
+Hemorrhoids, External, 2096
+Hemorrhoids, Internal, 2015
+Henie's layer, 2442
+Henna, 901145
+Henoch's Purpura, 10427101
+Hepatic (Veins), 898, 494898
+Hepatic Abscess, 304248
+Hepatic Aneurysm, 40149748
+Hepatic Artery, 4842
+Hepatic Colic, 6078948
+Hepatic Congestion, 40148
+Hepatic Enlargements, 40148
+Hepatic Flexure, 84
+Hepatic Vein, Liver, 898
+Hepatic, Plexus of Nerves, 4831
+Hepatitis, 60284
+Hepatitis, Acute, 4048, 4048, 40487
+Hepatoptosis, 808748
+Hereditary allergy, 44333
+Hereditary Cerebellar Ataxy, 5079244
+Hernia, 1048, 104859, 20573
+Hernia Strangulated, 2091028
+Hernia Ventral, 104843
+Hernia, Abdominal, 104859
+Hernia, Bladder, 104862
+Hernia, Caecal, 104882
+Hernia, Diaphrogmatic, 10488044
+Hernia, Femoral, 104849
+Hernia, Inguinal, 104845
+Hernia, Obturator, 104843
+Hernia, Small Epigastric, 104843
+Hernia, Umbilical, 104859
+Herniated Disc, 70641585
+Herpes, 60240, 60402, 60503
+Herpes Auris, 60240, 6024013372
+Herpes Frontalis, 401109596
+Herpes Zoster, 60240101542, 6024759
+Herpes Zoster (Shingles), 60240101542, 6034759
+Herpetic Cornea, 60243988
+Herring, 2019972
+Herring, Red, 201729
+Hexamine, l87
+Hiccough Blocked nerve, 90332277
+Hiccough Nerve, 1001096
+Hiccough (Blocked nerve to Epiglottis), 9063277
+Hiccough (Nerve to Pleura), 90117
+Hiccough lung inflammation, 40776
+Hird brain, 3432
+Hip (left), 84439
+Hip (right), 84479
+Hip Disease, 4021775
+Hip Joints (2), 1775
+Hirsutism, 70654
+Histamine, 166, 2359
+Hoarseness, 2043
+Hodgkin’s Disease, 2032701
+Hodkinii, 4054
+Hofmannii, 4036
+Holmium, 32267
+Homeopathic, 2034101
+Honesty, 3305
+Honey, 2011086
+Hoof & Horn - mixture, Manure, 44981
+Hook Worm, 30623
+Hook Worm Disease, 30621
+Hookworm, Ancylostoma Duodenale, 306322 
+Hookworm, Necatar Americanus, 30616 
+Hop Manure, 5518
+Hopefulness, 30625 
+Hopelessness, 10122
+Horizontal canal, 3289
+Horlicks beverage, 2014561
+Hormone, 3199
+Hormone Imbalance, 640, 643
+Horny zone-Epidermis, 7863 
+Horse, Manure, 446610
+Horseradish, 201261 
+Host to Syphilis, 8044
+Hot Flashes, 70399
+Human TB, 4200
+Human TB, Anthrum, 4244
+Human TB, Appendix, 4230
+Human TB, Bladder, 4242
+Human TB, Blood Vessel, 4298
+Human TB, Bone, 4270
+Human TB, Brain, 4285
+Human TB, Breast, 4252
+Human TB, Cervix, 4219
+Human TB, Ear - left, 40210
+Human TB, Ear - Right, 4029
+Human TB, Esophagus, 4256
+Human TB, Ethmoid, 4236
+Human TB, Eye, 4250
+Human TB, Gallbladder, 4273
+Human TB, Heart, 4202
+Human TB, Intestine, 4268
+Human TB, Kidney, 4276
+Human TB, Liver, 4271
+Human TB, Lung, 4292
+Human TB, Lymph Tissue, 4297
+Human TB, Nerve Ending, 4284
+Human TB, Ovary, 4278
+Human TB, Pancreas, 4272
+Human TB, Prostate, 4282
+Human TB, Rectum, 4277
+Human TB, Salivary Gland, 4264 
+Human TB, Sinus - frontal, 4288
+Human TB, Skin, 4274
+Human TB, Stomach, 4221
+Human TB, Testicle, 4279
+Human TB, Thyroid, 4211
+Human TB, Tonsil, 4251
+Human TB, Tooth, 4243
+Humerus, 84353 
+Humus - Soil, 5525
+Hyaline Cartilage, 1302
+Hyaline layer of dermic coat, 1434 
+Hydatide Mole, 30291
+Hydatids of Kidney, 3029137 
+Hydatids of Orbit, 302913, 3029131
+Hydatids, Inflamed, 30291 
+Hydrocele, 1001786, 601781 
+Hydrocele, Encysted, 10691781 
+Hydrocephalus, 10821, 60184, 60184107, 6066279
+Hydrocyanic Acid, 3845 
+Hydrogen, 4404
+Hydrogen sulphide, 5143
+Hydronephrosis, 60123, 60623 
+Hydrosyglutamic, 2147 
+Hydroxycorticosterone, 3643
+Hydroxyproline, 43104
+Hymeneal Orifice, Inflamed, 40695 
+Hyoid, 844448
+Hyoscine, 4333
+Hyoscyamus, 4253 
+Hyperchlorhydria, 8032110 
+Hyperemia of Brain, 409411332, 4094976 
+Hyperemia, Spinal, 409297 
+Hyperinsulinism, 504488 
+Hypermetropia, 5063709
+Hyperopia, 30373 
+Hypersensitivity, 3053, 40337
+Hypertensin, Kidneys & Pancreas, 6435
+Hypertrophied Cervix, 401952
+Hypertrophy 8040, 80408 
+Hypertrophy of Brain, 4011332 
+Hypertrophy of Heart, 40125 
+Hypertrophy of Uterus, 401954 
+Hypnotherapy, 10881 
+Hypnotic Sleep, 607555
+Hypochondriasis, 10957, 10976
+Hypogastric Plexus, 135, 1357
+Hypoglossal Nerves, 220812
+Hypophyseal Branch - Internal Carotid, 2753 
+Hypophyseal duct. Hypothalamus, 5328
+Hypothalamus, 3328 
+Hysteria, 70936, 709836
+Hysterical Edema, 709363785
+Ichthyosis, 307101
+Idiopathic Thrombophlebitis, 30635
+Ignatia, 4383
+Ileal Branch, Sup. Mesenteric Artery, 2389
+Ileo Cecal Valve, 827
+Ileo Cecal Valve, Frenula, 677
+Ileum, 223
+Ileum, Circular Fibres, 1016
+Ileum, Longitudinal Fibres, 6861
+Ileum, Muscular Coat, 4576
+Ileum, Serous Coat, 9482
+Ileus, 7027 
+Illiac Common Arteries, 5169
+Iliacus, Muscle, 42332
+Ilio Sacral (2), 923
+Ilium, 84374
+Imbalance, 10222
+Impacted Feces, 608427
+Impatience, 30547
+Impetigo, 80295, 9680
+Impinged nerves, 9063
+Impotence, 20467
+Improper diet, 30232
+In Kidney, 968037
+Incoordination, 404910
+Incontinence, 20337
+Incretin, 582
+Incus, 1224
+Incus and Malleus, 122
+Incus, ligaments, 1229
+Indecision, 30444
+Indican, 60953
+Indigestion, 40322, 608
+Indium, 3449
+Industriousness, 40555
+Infantile Paralysis, 20692
+Infantile Paralysis, 8040, 90663, 20529
+Infantile Scurvy, 108749
+Infarct, 40427
+Infarct, cerebral, 4042729
+Infarct, myocardial, 4042725
+Infarct, pulmonary, 40427776
+Infarct, renal, 4042723
+Infarct, splenic, 40427465
+Infection, 7010734
+Inferior longitudinal sinuses, 7876
+Inferior or Visceral Surface, 354
+Inferior peduncle, Cerebellum, 1215
+Inferior Rectal Artery, 297
+Inferiority Complex, 335
+Inflamation, 4000
+Inflamed Tophi, 40209
+Inflammation of Mucous Membranes, 409766
+Inflammation of Serous Membranes, 40766
+Inflammation of Synovial Membranes, 402008
+Inflammation of Visceral Parenchyma, 4023 
+Inflammation, Local, 40
+Inflexibility, 302637
+Influenza, 308, 30822, 30896, 3800, 81 
+Influenza (Gastric Form), 308321
+Influenza, advanced stages, 991037
+Influenza, Asian, 30556, 616
+Influenza, b) New Zealand at 1st sign use, 339017
+Influenza, c) after the 1st day, 349028
+Influenza, e) after symptoms have subsided, use, 3371
+Influenza, f) alternate with e) above, 449071
+Influenza, Hong Kong, 1555
+Influenza, Virus A, 30467, 30567
+Influenza, Virus B, 308, 309
+Infra-red, Allergy, 78794
+Infraspinatis, 304701
+Infundibulum, 576
+Infundibulum of Bronchi, 5288
+Inhibitoruy peristatic action, 1344
+Injuries, 10923, 109231
+Injuries, Back, 1092188
+Injuries, Neck, 10929, 109291 .
+Injury, 1092
+Injury, Nose, 10972
+Injury, Testicle, 1092781, 1092788
+Inner Mucous Coat, Stomach, 3227
+Inner nuclear layer - Retina, 1724
+Inner plexiform layer, Retina, 1239
+Inner rods of Corti, 5010
+Innominate Aneurysm, 40149744
+Insanity, 6049, 60495
+Insomnia, 80573
+Insulin, 8080
+Insulin (Synthetic), 4972
+Intense Pigmentation, 20442
+Inter-vertebral Discs, 1585
+Intercaleary Ducts, Pancreas, 987
+Intercostal - Chest Wall Drainage, 703
+Intercostal Muscles, External(depressed ribs), 3113
+Intercostal Muscles, Internal(raised ribs), 3112
+Intercostal Neuralgia, 702542
+Intercostal Rheumatism, 704542
+Intercostal, Muscle, 356
+Intercostales External, 3113
+Interitis, 4022
+Intermedia Bacterium, 3087
+Intermittent Pulse, 70224
+Interna, Acute, 6013372
+Internal auditory, 8423
+Internal capsule. Fore Brain, 6252
+Internal Coat - Veins, 4903
+Internal Iliac - Pelvic Viscera Drainage, 131
+Internal Mucous Coat, Fallopian Tubes, 518
+Internal Mucous Coat, Seminal Vesicles, 8878
+Internal Mucous Coat, Uterus, 5056
+Internal Oblique, Muscle, 37011
+Internal Spermatic Fascia, 4363
+Internal Sphincter Muscle, 228
+Interossei Dorsales (foot), 5421
+Interossei Dorsales (hand), 5412
+Interosseous membrane of knee, 44833
+Interstitial Tissue, Kidneys, left, 3719
+Interstitial Tissue, Kidneys, right, 379
+Interstitial Tissue, Prostate, 9964
+Intestinal Concretion, 20422 
+Intestinal Irritation, 60422 
+Intestinal Lymph Glands, 3227 
+Intestinal Obstruction, 6084 
+Intestinal Submucous, Plexus of Nerves, 744 
+Intestine, large, 27 
+Intestine, small, 22 
+Intolerance, 20221
+Intra-ceberal pressure, 10682 
+Intra-cellular pressure, 10694 
+Intra-ocular pressure, 10280 
+Intranasa1 Growth, 90138 
+Intrapulmonary Bronchi, 4239 
+Intussusception, 207222 
+Inversion, 4035954 
+Inversion of Uterus, 4035954 
+Involuntary, Muscle, 59980 
+Iodine, 3884, 834884 
+Iodine, Allergy, 706601 
+lodism, 901884 
+Iridium, 33277
+Iris, 3313
+Iris, Left, 312534
+Iris, Right, 32534
+Irish Peat, 22221
+Iritis, 402534
+Iron, 3492, 834492
+Iron Deficiency Anemia, 4095, 40995
+Iron, Allergy, 7713
+Irritability, 30532
+Irritant-Poisoning, 90148
+Irritants, 9011021
+Irritation, 809
+Ischemia, 60422
+Ischium, 84835
+Islands of Langerhans, 99719
+Isolucine, 621
+Isthmus, 2533
+Itch, 80547
+Itching skin, poison toxin, 90172
+Jaundice, 4081
+Jealousy, 20153
+Jejunal Branch, 2288 
+Jejunum, 222 
+Jeyes fluid, 9017
+Joints, 849
+Jugular Vein, 453
+Kala-azar, 50344 
+Kala-azar Infantile (Ponos), 359 
+Keratitis, 3023988, 303988
+Keratitis Symptomatic Diabetes, 5094
+Kidney stone, 30372248
+Kidney, Cancer, 50371
+Kidney, Cirrhosis of, 109137, 1091371, 371223
+Kidney, Floating, 20387, 4035371
+Kidney, large - white, 3719
+Kidney, small - white, 610379
+Kidney, Tuberculous, 40237, 402371
+Kidneys, 23, 37
+Kidneys, Left, 371
+Kidneys, Right, 37
+Klumpke's Paralysis, 906344
+Knee "Patella" (left), 84121
+Knee "Patella" (right), 84131
+Knee (4), 3343
+Kresote, 9018074
+Krypton, 30936
+Kyphosis, 403453
+Labia Major, 6101 
+Labia Minora, 6103 
+Labial Edema, 6016101, 6016103 
+Labyrinth, Cancer of, 50285 
+Labyrinth, Tumor of, 50128 
+Labyrinthine Disease, 40208 
+Labyrinthitis, 70168 
+Labyrinthrine Fistula, 70628 
+Lack of Confidence, 10617 
+Lack of Humour, 503221 
+Lack of Initiative, 702191 
+Lack of Muscle Tone, 20559 
+Lacrimal apparatus - Eyes, 1333 
+Lacrimal duct, left, 3151 
+Lacrimal duct, right, 3953 
+Lacrimal gland, 1635 
+Lacrimal sac, left, 31953 
+Lacrimal sac, right, 3953 
+Lacrimation, 60735
+Lacrymal Gland, Enlarged, 401351 
+Lactate, 452
+Lacteal, 3232 
+Lacteals, 233 
+Lacteals, Small Intestine, 9710 
+Lactic Acid, 4519
+Lactose, 1388
+Lacus lacrimalis, left, 3102 
+Lacus lacrimalis, right, 3012 
+Lagoema - Duct of Cochlea, 129 
+Lamb, 201871
+Lameness, 5056
+Landouzy-Dejerine Paralysis, 40118848
+Lanthanum, 304792
+Large Intestine, 27 
+Large Joints (119), 100 
+Laryngitis, 4017 
+Larynx, 17
+Larynx, Ulcer of, 3017 
+Lassitude, 804435 
+Lata - Fascia, 10445 
+Lateral Lobes, Prostate, 7298 
+Lateral Rectus, Muscle, 3452 
+Lateral Ventricles, Corpus Callosum, 2396 
+Lateral wall, Nasal Cavity, 1225 
+Latissimus Dorsi, 7301 
+Layer endothelial cells, 7963 
+Lead, 31609, 83416098 
+Lead Colic, 70911609 
+Lead, Toxin, 316091 
+Lead-poisoning, 9011609 
+Leaf Mould, general, 442221 
+Leather, Allergy, 999227 
+Leek, cooked, 201170 
+Left Colic Flexure, 834
+Left Gastric Branch Coelic Artery, 2492 
+Left Marginal Vein of the Heart, 2411 
+Left Phrenic Plexus/Branches/Cardiac, Stomach, 641
+Left Transverse & Descending Colon Arteries 2810
+Leg, Infantile Paralysis, 20692
+Leg, Left, 43
+Leg, Osteomyletitis, 4083453
+Leg, Phlebitis, 40494
+Leg, Post-rolandic brain area, 3642 
+Leg, Pre-rolandic brain area, 2457 
+Leg, Right, 42
+Leg, Sciatica, 40351935 
+Leg, Tuberculous Bone, 40284 
+Leishman-Donovan bodies, 2216 
+Lemon, 201130 
+Lens, 933
+Lens, Dislocation, 80873777
+Lens, Left, 31777 
+Lens, Right, 3777 
+Lentiform nucleus, Fore Brain, 4311 
+Lentils, cooked, 201161 
+Leprosy, 3039, 408 
+Lesion, 808S71
+Lesion of Cerebellum, 50823 
+Lesion of Cord, 508297 
+Lesion of Corpora Quadrigemina, 50813 
+Lesion of Medulla, 50844 
+Lesion of Pons, 50829 
+Lesion Spinal, 702979 
+Lettuce, 20153 
+Leucine, 4226
+Leukemia, 307137, 40146, 401465
+Leukemia, Lymphatic, 4032377
+Leukemia, Monocytic, 90449
+Leukemia, Myeloid, 503713
+Leukemia, Spleno-medullary, 508465 
+Leukocytes, 609371
+Leukocytosis, 40143 
+Leukoderma, 906101
+Leukopenia, 70349 
+Leukorrhea, 3071336, 3071332
+Levator Scapulae, 2034 
+Leydig Cells, Left, 7831
+Leydig Cells, Right, 783 
+Lie (falsehood), 7077 
+Ligament, Bladder, 3362 
+Ligamentous System, 2843 
+Ligaments, 854
+Ligaments, Larynx, 3238
+Ligaments, Middle Ear, 8467 
+Limbus laminae spiralis - Duct of Cochlea, 175
+Lime, 8341753 
+Lime Baperphosphate, 33109 
+Lingual Arteries, 225
+Lingual, Plexus of Nerves, 522. 
+Lip, bottom, 5521
+Lip, top, 552
+Lipociac, 3486
+Lipoma, 2044 
+Lithemia, 407, 1552, 506249
+Lithium, 30033
+Liver, 48, 596
+Liver (Kupffer's cells in Bone Marrow), 163 
+Liver Cells, 4327
+Liver Disorders, 4048, 40487
+Liver extract, 4487
+Liver, Abscess, 3042487
+Liver, Anterior Superior Surface, 473 
+Liver, beef, 2012014
+Liver, Cancer, 50487
+Liver, Cyanotic, 1010149748
+Liver, hog, 2012283
+Liver, L. Lobe, 481
+Liver, lamb, 2012303 
+Liver, Posterior Superior Surface, 483
+Liver, R. Lobe, 48
+Liver, R. Lobe, Caudate, 487
+Liver, R. Lobe, Quadrate, 4872
+Liver, R. Lobe, Spigelian, 482 
+Liver, Right Superior Surface, 4843 
+Liver, Tenderness, 4048 
+Liver, Triangular Ligament, Left, 4962 
+Liver, Triangular Ligament, Right, 4556
+Loaded Cecum, 72982
+Loaded Sigmoid, 702985
+Lobster, 2011190
+Lobular Induration, 50174
+Lobules, Lungs, 3266
+Lobules, Thymus, 7742
+Locomotor Ataxy, 50521, 50592
+Long Saphenous - Plexus of Veins, 3535 
+Longitudinal Fibres, Duodenum, 7347 
+longitudinal Fibres, Large Intestine, 9914 
+Longitudinal Fibres, Stomach, 502 
+Longitudinal Muscular Fibres, Large Intestine, 4321
+Loose Cartilage, 4035154
+Loquat, 2018551
+Lou Gehrig's Disease, 8078?479
+Love, 100777
+Lower Intestines, 271
+Lower nasal cartilage, 8822
+Loyalty, 20494
+Lumbago, 40599193
+Lumbar (5 pairs) Nerves, 6423
+Lumbar (5), Vertebra, 84193
+Lumbar - Kidneys, Ovaries, etc. Drainage, 9273
+Lumbar - Plexus of Nerves, 138
+Lumbar Abscess, 302193, 302987
+Lumbar Plexus Nerves - Large Intestine, 1386
+Lumbricales (foot), 10102
+Luminal, 4764
+Lung congestion, 5600
+Lung, Left, 71, 77
+Lung, Right, 7, 76
+Lungs, 776
+Lungs, Left Apex, 444761
+Lungs, Right Apex, 44476
+Lupus, 402101
+Lupus Erythematosus, 40249
+Lutetium, 302671
+Lycopodium, 2366
+Lymph, 2, 327
+Lymph Aplastic, 1352
+Lymph Corpuscles - Blood, 2432
+Lymph Glands, 889
+Lymph glands, 7324
+Lymph glands, Bone Marrow, 537
+Lymph Nodes (in general), 889
+Lymph Sinuses, 324
+Lymph Vessels, 327, 993
+Lymph Vessels, Bronchi, 2364
+Lymph Vessels, Cerium, 4525
+Lymph Vessels, Deep Plexus, Heart, 2255
+Lymph Vessels, Heart, 2022
+Lymph Vessels, Large Intestine, 2372
+Lymph Vessels, Liver, 1431, 1452
+Lymph Vessels, Male Organs, 2781
+Lymph Vessels, Mouth, 2322
+Lymph Vessels, Pancreas, 2203
+Lymph Vessels, Pleura, 2224
+Lymph Vessels, Superficial, Heart, 2292
+Lymph Vessels, Bladder, 8514
+Lymph Vessels, Duodenum, 4476, 5313
+Lymph Vessels, External Coat, 3275
+Lymph Vessels, Gall Bladder, 938
+Lymph Vessels, Internal Coat, 3222
+Lymph Vessels, Kidneys, 3714
+Lymph Vessels, Mammary Glands, 998, 9987
+Lymph Vessels, Middle Coat, 3211
+Lymph Vessels, Parathyroid Glands, 3321
+Lymph Vessels, pre-aortic Lymph Glands, 7878
+Lymph Vessels, Small Intestine, 382, 4483
+Lymph Vessels, Spleen, 2910
+Lymph Vessels, Stomach, 7032
+Lymph Vessels, Thymus, 989
+Lymph vessels. Tongue, 684
+Lymph Vessels, Uterus, 3274
+Lymph Vessels, Vagina, 3365
+Lymph, Fluid, 2669
+Lymph, Lymphocytes, 679
+Lymph, Pericardial Lymph Fluid, 27291
+Lymph. Duct-R, Bronchomediastinal Trk.Trib., 4511
+Lymphadenoma, 302758
+Lymphatic Duct, Right, 352
+Lymphatic Duct-R, Jugular Trunk Tributaries, 2356
+Lymphatic Duct-R, Subclavian Trunk Trib., 7443
+Lymphatic Leukemia, 401465327
+Lymphatic Nodules, Spleen, 4789
+Lymphatic System, 5327
+Lymphatics, Duodenum, 7853
+Lymphatics, Small Intestine, 7699
+Lymphatics, Stomach, 441
+Lymphoblasts, bone marrow-yellow, 3354
+Lymphocytes - Blood, 3029
+Lymphogranuloma inguinal, 874508
+Lymphostasis, 4012327
+Lysine, 4236
+Lysol, 1055
+Lysozyme (part of nasal se), 8591
+M & B (general rate), 6934
+Macaroni, 2011491
+Macroblasts, 409106
+Macrophages - Blood, 4422
+Macrophages, bone marrow, 4422
+Macula, 7326
+Macula lutea - Retina, 2375
+Macula of the Utricle, 2324
+Macula, filaments of auditory nerve, 79927
+Macula-Utricle, ductus utriculosaccularis, 6012
+Macula-Utricle, filaments of auditory nerve, 5715
+Magnesium, 3877, 834871
+Magnetic Healing, 109666
+Magnetic Phenomia (Negative) - Soil, 9900001
+Magnetic Phenomia (Positive) - Soil, 3030002
+Magnetism (personal), 55565
+Malar, 84195
+Malaria, 302, 6030, 9076
+Malaria Bacterium, 9076
+Malarial recurrence, 7076
+Male, 19
+Male Genital Tract, 737894
+Male Organs (Collective), 1966
+Male Vitality, 409712
+Malformation, 1937, 204315
+Malformation of Heart, 10937, 1093725
+Malformations - Ears, 10937
+Malice, 30341
+Malignancy, 10722, 9491
+Malignant Disease, Nose, 5096
+Malingering, 4096495
+Mallei, 30942
+Malleus, 4399
+Malleus ligaments, 4339
+Malnutrition, 20155
+Malpighian Layer, 4863
+Malposition, 435, 8067
+Malta Fever (Brucellosis), 20327
+Malted milk, 201710
+Mammary Arteries Internal, 2747
+Mammary Gland Tissue, 81011
+Mammillaries, 559, 829
+Mandible, 1736, 84872
+Mandibular Nerves, 937
+Manganese, 25227, 83455
+Mania, 10132, 6049, 60495
+Maple Sugar, 201860
+Masseter, 2075
+Mast Cells, 3062
+Mastitis, 405743, 4073, 4074
+Mastitis, Gangrenous, 803522
+Mastoid, 842843
+Mastoid Abscess, 602843
+Mastoid Disease, 60284
+Mastoidal, 2843
+Mastoiditis, 60284, 602843
+Masturbation, 703443
+Matrix of nails, 5539
+Maxilla, 84864
+Maxiliar Arteries Internal, 6651
+Maxillary - Paranasal Sinuses, 157
+Meanness, 40211 
+Measles, 10322, 3900
+Measles, German, 10374
+Meatal canal, 33101
+Meatal wall, 7463
+Meckel's Diverticulitis, 80627
+Medial Rectus, Muscle, 3453
+Medial Wall, 2524
+Median Nerve, 1218
+Mediastinal - Heart, Thymus, etc. Drainage, 5345
+Mediastinal Abscess, 302356
+Mediastinal Disease, 40356
+Mediastinal Growth, 501356, 508356
+Mediastinum, 9822
+Medinal, 7856
+Medulla oblongata, Hind Brain, 44
+Medulla oblongata, olivary nucleus, Hind Brain, 3659
+Medulla oblongata, pons, Hind Brain, 3156 
+Medulla of hair, 6545
+Medulla of Suprarenal Gland, 919
+Medulla Secretions, 985
+Medullary Substance, Kidneys, 805 
+Megaloblast, bone marrow-red, 6342 
+Megarkaryoblasts, 2234
+Megarkaryocytes, 4336
+Meissner's Plexus Fibre/Mucous Membrane/Vagus, 1545
+Melancholia, 10976, 610976
+Membrana Granulosa, 4654
+Membrane Perforated - Ears, 10915 
+Membraneous Labyrinth, 6335
+Membranes, 566
+Membranes, Great Omentum, 4334 
+Membranes, Larynx, 311 
+Membranes, Mesentery, 815 
+Membranes, Mucous, 976 
+Membranes, Serous, 766 
+Membranes, Synovial, 2008 
+Membranous Dymenorrhoea, 50667101 
+Memingo Encephalitis, 2022447 
+Memory, 4441
+Meniere’s Disease, 103209, 402855, 40285
+Meningeal Hemorrhage, Spinal, 10427297 
+Meninges of Brain and Spinal Cord, 279 
+Meninges, Marrow, 2422
+Meningitis, Cerebro-Spinal, 279, 4029, 40291
+Meningitis, Cerebro-Spinal, 4027929, 40279291, 40292, 4029279
+Meningitis, Internal Spinal, 40297
+Meningitis, Tuberculous Spinal, 402297
+Meningocele, 1048327
+Meningococcus, 1042
+Meningocytes, Bone Marrow, 1211
+Menopause, 10, 101955, 1800
+Menorrhagia, 60453, 6098954
+Menstration, 818
+Menstration, Function, 65
+Menstruation, 8014, 8018
+Menstruation (q.v.), 1041
+Mental, 80911
+Mental Alertness, 44479
+Mental Balance, 377195
+Mental Deficiency, 403322
+Mental Drive, 44477
+Mental Illness, 37194
+Mental Inertia, 50347
+Mental Laziness, 10296
+Mental Lethargy, 605567
+Mental Oppression, 1010412
+Mental Overstrain, 9074
+Mental Shock, 10104
+Mercurius Dulcis, 2966
+Mercurialism, 9017046
+Mercury, 358
+Mercury, Allergy, 707331
+Mesenteric - Intestines Drainage, 3991
+Mesenteric Arteries, 7789
+Mesenteric Cysts, 601815
+Mesenteric Inferior - Plexus of Nerves, 167
+Mesenteric Plexus from Vagus Nerve, S.Intestine, 2433
+Mesenteric Superior, Plexus of Nerves, 745
+Mesentery, Large Intestine, 815
+Mesoblasts, 4013
+Metabolism Imbalance, 402737
+Metacarpus, 84245
+Metamyelocytes, bone marrow-yellow, 3122
+Metatarsal, Joints, 7533
+Metatarsus, 84573
+Methionine, 4361
+Metritis, 907651
+Metritis, Chronic, 407651
+Metrorrhagia, 60622
+Miasm, 50908
+Microblasts, 409109
+Microglia Cells of Neuroglia, 433
+Microglia Cells of Neuroglia, 777
+Microphages, 4134
+Microwave, 11052
+Mid Brain, 3333 1 ' "
+Middle Cardiac Veins, 206
+Middle Coat (muscular) - Veins, 462
+Middle Ear, 13372
+Middle Ear Catarrh, 60213
+Middle ear Suppuration, 60133
+Middle Muscular Coat, Fallopian Tube, 5583
+Middle peduncle, Cerebellum, 1313
+Middle Rectal Artery, 2810
+Migraine, 70948, 70964
+Milk, 201333
+Milk Duct, 333
+Milk, Sour, 20130
+Milk, Sweet, 20131
+Mineral Deficiency, 641191 
+Mineral Excess, 30568.
+Mineral Imbalance, 30528
+Mineral Imbalance, Soil, 5388
+Mineral Salts, digested, 979  
+Miscarriage, 10937
+Mistrustfulness, 50332
+Mitral, Stenosis, 2072567
+Mitral Valve,  2567
+Modesty, 40422
+Modiolus, Cochlea, 2225
+Molasses, 2011400
+Mollities Ossium, 6013453 
+Molluscum contagosum, 40964 
+Molluscum Fibrosum, 403244
+Molybdenum, 30642
+Monoblasts, bone marrow-yellow, 3522 
+Monocytes - Blood, 4417
+Mononuclear Large - Tissue, 3026
+Mononuclear, subcutaneous, 764 
+Moon, Allergy, 6097731
+Morphine, 4056
+Morphine, Allergy, 70788
+Morphinism, 9014056
+Motile phagocytic cells,  1252
+Motor area controlling voluntary muscles, 4473
+Motor Nerves, 865
+Motor Nerves, Muscle, 4311
+Mouth, 2222, 458
+Movable Kidney, 20387
+Mucin, 802
+Mucocele, 40458
+Mucocin (acid sub.), 5033
+Mucocin (albumenoid sub.), 84212
+Mucolasis, 20344
+Mucous Coat, Bladder, 6226
+Mucous Coat, Gall Bladder, 3833
+Mucous Coat, Ureters, 6854
+Mucous Membrane, 976
+Mucous Membrane, Tongue, 1254
+Mucous Membrane, Bronchi, 4467
+Mucous Membrane, Duodenum, 846
+Mucous Membrane, Intrapulmonary Bronchi, 2446
+Mucous Membrane, Large Intestine, 3827, 586
+Mucous Membrane, Larynx, 373
+Mucous Membrane, Pharyngotympanic tube, 1123
+Mucous Membrane, Small Intestine, 5523
+Mucous Membrane, Throat, 5537
+Mucous Membrane, Trachea, 8402
+Mucous Membrane, Uretha, 4663
+Mucous Membrane, Vagina, 2362
+Mucous, Tongue, 5096
+Mucus, 2595, 802
+Mucus threads, 609772
+Multiple neuritis, 70511
+Multiple sclerosis. Lumbar, 9019221
+Multiple Ulcers, 303221
+Mumps, 10327, 402795, 502785, 5100
+Muscae Volitantes, 4033
+Muscle, 599
+Muscle Cells - Small Intestine, 2472
+Muscle Cells, Duodenum, 5745
+Muscle fibres, circular-throat, 7865
+Muscle fibres, longitudinal-throat, 6410
+Muscle fibres, throat, 3317
+Muscle, Ruptured, 1048599
+Muscles of Back, 3633
+Muscles, Larynx, 24
+Muscles, Sprained, 40599
+Muscular atrophy, 504599
+Muscular Coat, Bladder, 362
+Muscular Coat, external Longitudinal, Bladder, 756
+Muscular Coat, internal Longitudinal, Bladder, 956
+Muscular Coat, Large Intestine, 6661
+Muscular Coat, middle Circular Layer, Bladder, 692
+Muscular Coat, Seminal Vesicles, 7882
+Muscular Coat, Ureters, 6753
+Muscular Coat, Uretha, 4331
+Muscular Coat, Uterus, 7793
+Muscular Coat, Vagina, 5053
+Muscular contraction, 70251
+Muscular Covering, Duodenum, 743
+Muscular Covering, Stomach, 3311
+Muscular Dystrophy, 50436
+Muscular Fibres, Corium, 7426
+Muscular Fibres. Stroma, 859
+Muscular Rheumatism, 704
+Muscular Strain, 40858
+Muscular System, 37472, 459782
+Muscular Tissue, 8989
+Muscular Tissue, Bronchi, 9254
+Musculospiral Nerves, 275
+Mushrooms, cooked, 2011691
+Mussels, 201449
+Mustard, Condiment, 201331
+Mustard, Vegetable, 201225
+Mustard-green, cooked, 201579
+Mutton, 201372
+Myalgia, 40599
+Myasthenia Gravis, 506359, 9062281, 90632281
+Mycobacterium leprae, 7071 
+Mycobacterium tuberculosis, 6088 
+Myelin Sheath of Nerve Fibre, 643 
+Myelitis, 40297, 403453, 40599 
+Myeloblasts, bone marrow-yellow, 5222 
+Myelocytes, bone marrow-red, 3047 
+Myelocytes, bone marrow-yellow, 2236 
+Myelosarcoma, 503453, 5083453 
+Mylosorcoma, 503543 
+Myocarditis, 405992572 
+Myocardium, 425
+Myocardium, Fibrous Muscular Rings, 25 
+Myocardium, Longitudinal, 252 
+Myocardium, Transverse, 254
+Myofibrils, 2274
+Myoneureal junction, 7563 
+Myopia, 9063647 
+Myositis, 40599 
+Myxodema, 406610
+Nails, 459
+Narcolepsy, 40325
+Nares, 346
+Nasal - Plexus of Veins, 752
+Nasal Bones, 84484
+Nasal Cavity, 2132
+Nasal Ducts, 965184
+Nasal Mucous Membrane, 2471
+Nasal septum, 496
+Naso-pharyngeal Catarrh, 60296198
+Naso-pharyngeal Disease, 901389619
+Nasolactrimal duct, 343
+Nasopalatine plexus, 553
+Nasopharynx, 49663
+Natural Allergy, 44301
+Naturopathy, 480321
+Nausea, 40932, 90932
+Navicular, 84621
+Neck, 523
+Necrosis, 5077
+Necrosis of Temporal Bone, 20897
+Necrosis, Spleen, 5400
+Negative Psy. Conditions, 70494574
+Neisserian, see Bacteria
+Neodymium, 356
+Neon, 30011
+Neoplasms, 20044, 21104
+Neopolitanus Bacterium, 3027
+Nephralgia, 70371
+Nephritis, 40371
+Nephritis, Acute, 4037371
+Nephritis, Chronic, 4037, 40371
+Nephritis, Suppurating, 6037371
+Nephritis, Suppurative, 6037, 60371
+Nephrolithiasis, 30372248
+Nephrosis, 40637
+Neptunium, 42547
+Nerve Cell, 7632
+Nerve Cells, 423
+Nerve Fibre, 6974
+Nerve Substance, 673
+Nerve Tissue, 8479
+Nerve Trunk, 345
+Nerves (from pelvic plexus)- Seminal Vesicles, 1346
+Nerves (General), Stomach, 4344257
+Nerves and Occulomotor nerve, Stroma, 3425
+Nerves for Muscles (Facial nerve) - Nose, 4454
+Nerves for Skin (Ophthlamic nerve) - Nose, 5303
+Nerves from 10th Thoracic segment, Male Organs, 8622
+Nerves from 2nd Sacral, Penis, 8241
+Nerves from 3rd Sacral, Penis, 4218
+Nerves from 4th Sacral, Penis, 4024
+Nerves from 4th Thoracic Nerve, Mammary Glands, 963
+Nerves from 5th Thoracic Nerve, Mammary Glands, 893
+Nerves from 6th Thoracic Nerve, Mammary Glands, 9322
+Nerves from Aortic plexus, Male Organs, 688
+Nerves from Auriculotemporal Nerve - Tongue, 2327
+Nerves from Ciliary Ganglion - Eyes, 1265
+Nerves from Ciliary Nerve - Stroma, 1322
+Nerves from Hypogastric Plexus - Uterus, 1051
+Nerves from Ovarian Plexus, Uterus, 7452
+Nerves from Pelvic Splanchnic Nerve - Uterus, 1633
+Nerves from Pelvic visceromotor fibres - Vagina, 1633
+Nerves from Phrenic Nerve, Thymus, 1093
+Nerves from Renal plexus, Male Organs, 4378
+Nerves from Splanhnic Nerve - Duodenum, 2353
+Nerves from Sympathetics, Thymus, 7988
+Nerves from Vaginal Plexuses, 953
+Nerves from Vagus Nerve, Thymus, 899
+Nerves from Vagus, Duodenum, 5221
+Nerves through Otic Ganglion - Tongue, 2374
+Nerves through Pelvic Plexuses - Penis, 2362
+Nerves through Pudenal Nerve - Penis, 1227 
+Nerves, Bladder, 8544
+Nerves, Corium, 655
+Nerves, Duodenum, 6463
+Nerves, External Auditory Meatus, 263
+Nerves, From Celiac Plexus - Gall Bladder (continued)
+Nerves, from Coeliac Plexus, Spleen, 4141 
+Nerves, From Right Phrenic Nerve - Gall Bladder, 7102
+Nerves, Gall Bladder, 3512
+Nerves, Kidneys, 3737
+Nerves, Larynx, 717
+Nerves, Liver, 6566
+Nerves, Lungs, 3322
+Nerves, Male Organs, 7871
+Nerves, Mammary Glands, 8887
+Nerves, Middle Ear, 3575 
+Nerves, Mouth, 9325
+Nerves, Nose, 2263
+Nerves, Parathyroid Glands, 4432
+Nerves, Penis, 7838
+Nerves, Pleura, 9797
+Nerves, Prostate, 9109, 9119
+Nerves, Small Intestine, 4544, 823
+Nerves, Spermatic Cord, 7886
+Nerves, Spleen, 7644
+Nerves, Stroma, 8433
+Nerves, Thymus, 3329
+Nerves, to Hepatic Plexus, Gall Bladder, 683
+Nerves, Tongue, 897
+Nerves, Ureters, 4244
+Nerves-branches, Descendens Hypoglossi-Thymus, 8808
+Nervous System, 34943
+Nervous System, Brain areas, 8313
+Neural Canal of Lateral Ventricles, Corpus Cal, 3396
+Neuralgia, 80864, 80864743, 8086473, 9086 
+Neuralgia of 12th Dorsal Nerve, 80864212
+Neuralgia of Bladder, 8086462 
+Neuralgia of Fifth Nerve, 808642285
+Neuralgia of Uterus, 80864954
+Neuralgia, Cervico-occipitalo, 90274
+Neuralgia, Inf. Max., 80864872
+Neuralgia, Intercostal, 702542
+Neuralgia, Intestinal, 8086422
+Neuralgia, Lumbo-abdominal, 80864193 
+Neuralgia, Rectal, 8086485
+Neuralgia, Sup. Max., 808641029
+Neuralgia, Trigeminal, 50422285, 808642285
+Neurasthenia, 40739
+Neurasthenia, Traumatic, 10924739
+Neuritis, 907651
+Neuritis, Multiple, 70511 
+Neuritis, Pubic, 70511165
+Neuroblasts, 33
+Neuroblasts, Epiblast, 4103
+Neuroblasts, Hypoblast, 4012
+Neurodermatitis, 505354
+Neurofibroma, 60634
+Neurofibromata, 5011109
+Neurolemma, 1323
+Neuroma, 5011109
+Neuronal, 3653
+Neurone, 4295
+Neurosis, 807102
+Nickel, 164
+Nicotine, 300101, 3542
+Nicotinic, 3427
+Nicotinic Acid, 3427
+Nine Cartilages, Larynx, 3426
+Niobium, 3541
+Nipple, 94
+Nipple, Areolar Glands, 842
+Nirvanal, 5242
+Nitrate of Potash, 441551
+Nitrate of Soda, 443552
+Nitro Chalk, 551091
+Nitrogen, 2493
+Nodules in Epididymis, 50158745
+Norleucine, 3251
+Normoblast, Bone marrow-red, 409107
+Nose, 8836, 96
+Novocain, 67536, 9012064
+Nucleic Acid, 901901473
+Nucleolus, 2252
+Nucleus, 1455
+Nucleus Nuclear Membrane, 3131
+Nucleus, Lens, 3393
+Numbness, 7074
+Numbness in arms, 80579366
+Numbness in legs, 90774295
+Nutmeg, 201381
+Nylon and associate materials Allergy, 40118
+Nymphomania, 8097462
+Oatmeal, 201697
+Obesity, 50699, 6026, 30699
+Oblique Fibres, Stomach, 532
+Oblique Inferior Rectus, Muscle, 3356
+Oblique Superior Rectus, Muscle, 3441
+Oblique Vein Left Antrium, 274
+Obsession, 9012
+Obsession, Elemental, 9012
+Obsession, Entity, 4068792
+Obsession, Habit, 60834
+Obstinacy, 309997
+Obstructed Eustachian Tube, 20732
+Obstructed Lacteal Duct, 1024333
+Obstruction, 4016, 501, 508
+Obturator Hernia, 104843
+Obturator, Plexus of Nerves, 864
+Obturatorius Externius, 5225
+Occipital, 841164
+Occipital, Plexus of Nerves, 948
+Occipitalis, 841164
+Occulo Motor Nerves, 22083
+Oils Allergy, 47305
+Okra, cooked, 201266
+Olfactory Nerves, 22081
+Olfactory Region, 2246
+Olive oil, 2012820
+Olives, green, 2015555
+Omental Cancer, 504334
+Omentum, 4334
+Onions, 201239
+Onions, cooked, 201201792
+Oophoritis, 40334, 403348, 40338
+Oophoritis, Adhesive, 101338, 101334
+Ophthalmia, 40776
+Ophthalmic Arteries, 53627
+Ophthalmic vessels, 310
+Ophthalmic, Plexus of Nerves, 53
+Ophthalmoplegia, 50425993, 504259931
+Opium, 2371
+Opium, Allergy, 707444
+Optic Atrophy, 906808
+Optic chiasma, 3454
+Optic Nerve, 22082
+Optic Nerve left, 31647
+Optic Nerve right, 3647
+Optic Neuritis, 70155808
+Optic thalamus, 797
+Oranges, 201333
+Orbit, Tuberculous, 4023, 40231
+Orbital Cavity, 31043
+Orbital Disease, 403, 4031
+Orbital Muscles, 7325
+Orbital Nerve, 632
+Orbital Periostitis, 403593, 4035931
+Orchitis, 40781, 40788
+Organs of hearing, 91
+Organs of sight, 31
+Organs of smell, 96
+Organs of taste, 1296
+Organs of touch, 967
+Os Capitatum, 84384
+Os Hamatum, 84264
+Os Lunatum, 84103
+Os Multangulum Majus, 84288
+Os Multangulum Minus, 84434
+Os Naviculare, 84133
+Cs Pubis, 84165
+Os Triquetrum, 84367
+Osetitis, 4084
+Osmium, 33176
+Osseous spiral lamina, 23310
+Osteaoarthritis, 50684
+Osteitis Deformans, 5015119428
+Osteo-arthritis, Acute Traumatic, 90910294
+Osteo-arthritis, Degenerative, 503849
+Osteo-arthritis, Elbow Joints, 10043
+Osteo-arthritis, Sacrum, 5038109
+Osteomalacia, 402847
+Osteomyelitis, 40843453, 4084599 
+Osteopathic, 441619
+Otitis Interna, 40122
+Otitis Media, 60133, 6013372
+Otitis Media, Suppurative, 60413
+Otitis Media, Tuberculous, 40241
+Otitis, Acute Hemorrhagic,'40142
+Otitis, Suppurative, 60133
+Otomycosis, 60491
+Otorrhea, 60133
+Otosclerosis, 505776, 90313
+Outer Fibrous Coat, Lungs, 4477
+Outer Fibrous Layer, Seminal Vesicles, 7883
+Outer layer of dermic coat, 4023
+Outer nuclear layer, Retina, 331
+Outer Peritoneal Covering, Stomach, 342
+Outer plexiform layer, Retina, 1623
+Outer rods of Corti, 529
+Ovaltine, 2014510
+Ovarian, 7638
+Ovarian - Plexus of Veins, 6611
+Ovarian Cyst, 601334, 601338, 71026265
+Ovarian Disease, 40334, 40338
+Ovarian Growths, 601338, 601334
+Ovarian, Plexus of Nerves, 543
+Ovaries, 265
+Ovaries, Displaced, 4035338, 4035334
+Ovary, Left external, 332
+Ovary, Left internal, 334
+Ovary, Prolapsed, 8087334, 8087338
+Ovary, Right external, 336
+Ovary, Right internal, 338
+Over-activity, 5010
+Over-aggressiveness, 5509
+Ovum, 5535, 771
+Oxalic, 4354
+Oxalic Acid, 4354
+Oxaluria, 6098252
+Oxygen, 3088
+Oxyntic cells, 123
+Oyster, 2011198
+Pachymeningitis, 40279
+Pachymeningitis, Cervical, 40279144
+Pachymeningitis, External Spinal, 402791
+Pachymeningitis, External Spinal, 402791
+Pagets Disease, 30129
+Pain, 2000, 7000
+Palate, Hard, 841354
+Palate, Soft, 841358
+Palatoglossus, 54755
+Palladium, 3146
+Palmaris Longus, 1236
+Palpebral Commisures left, 31104
+Palpebral Commisures right, 3104
+Palpebral Left, 31109
+Palpebral Right, 3109
+Palpitating Aorta, 401497789
+Palpitation, 90647
+Palsy, 50125
+Palsy, Cerebral, 20529
+Pampiniform - Plexus of Veins, 785
+Pancreas, 10968, 9972
+Pancreas, Cancer, 50997
+Pancreas, Tail of Superior Border, 9221
+Pancreatic, 9769
+Pancreatic - Plexus of Nerves, 1397 
+Pancreatic Calculus, 204997
+Pancreatic Disease, 40997
+Pancreatic Duct, 3872
+Pancreatic Duodenal, Plexus of Nerves, 757
+Pancreatropic, 40979
+Panophthalmia, 4031
+Papillary Muscle - Heart, 3539
+Paprika, 2014533
+Paraldehyde, 3744
+Paralysis, 5042
+Paralysis Agitans, 504252
+Paralysis of Sympathetic, 50427393, 504273931 
+Paralysis of Third Nerve, 50422283
+Paralysis, Ascending, 80476
+Paralysis, Cerebral, 4024
+Paralysis, External Rectus, 504259931
+Paralysis, Facial, 50421029
+Paralysis, Infantile, 80476
+Paralysis, Inferior, Oblique, 504259938
+Paralysis, Inferior Rectus, 504259934
+Paralysis, Internal Rectus, 504259933 
+Paralysis, Superior Oblique, 504259936
+Paralysis, Inferior Rectus, 504259932
+Paralysis, Trigeminal, 50422285
+Parametritis, 40954
+Paramyascin, 404234
+Paranasal Sinuses, 8836
+Paranoia, 669991
+Paranucleus, 964
+Paraplegia, 705587
+Parasite of Kidney, 108837, 1088371
+Parasites, 1088
+Parasites, Animal, 1088103
+Parasites, Fruit, 1088146
+Parasites, Human, 1088119
+Parasites, Vegetable, 1088126
+Parasitosis (blood parasites), 9043
+Parasitosis and Ova, 9077
+Parasympathetic System, 7391
+Parasympathetic, Plexus of Nerves, 7510
+Parasympathetics: Vagus only, 8723
+Parasympathetics are motor to bladder wall, 6536
+Parasympathetics from Vagus Nerve, 2335
+Parasyrrpathetics, Pelvic Splanchnic Nerves, 1373
+Parathoremone, 3549
+Parathyroid, 598, 79
+Parathyroid Glands, 762
+Parathyroid Lower Left, 89
+Parathyroid Lower Right, 69
+Parathyroid Upper Left, 79
+Parathyroid Upper Right, 59
+Parathyrotropic, 2569
+Paratyphoid, 20235
+Paraventricular nucleus, Hypothalamus, 1253
+Parentage, 1414
+Paresis, 7073
+Parietal (left), 84291
+Parietal (right), 8429
+Parkinson's Disease, 504252
+Parotid, 2795, 517
+Parotid Abscess, 30227
+Paroxysmal Tachycardia, 5013212281
+Pars Intermedia, Blood Vessels - Pituitary, 4429
+Pars Intermedia, Pituitary Body, 695
+Pars Intermedin, 7809
+Pars Mammillaris, Hypothalamus, 1426
+Pars Optica, Hypothalamus, 13225
+Pars Tuberalis, Hypothalamus, 1228
+Parsley, 201317
+Parthelinitis, 30295
+Pasturella Pestis Bacterium, 4093
+Pathological Condition, 60409
+Patient, Prognosis, 6043
+Peaches, 201444
+Peaches, cooked, 2011293
+Peanut, 201602
+Pear, brown rot disease, 21331
+Pears, 201223
+Peas, cooked, 201249
+Peas, field, cooked, 201674
+Pecans, 201609
+Pectinate ligament of Iris, 184 
+Pectinatum, 3665
+Peinaeal Laceration, 403558
+Pellagra, 202, 60422 
+Pellagra, Mental (Brain), 6041332
+Pellagra, skin, 604101
+Pelvic Plexus of Nerves, 1364 
+Pelvic Abscess, 302525, 3029, 30295
+Pelvic Adhesions, 5025101 
+Pelvic Cellulitis, 40954101
+Pelvic Colon, 853
+Pelvic Colon, Mesocolon, 8547
+Pelvic Hematocele, 409781
+Pelvic Peritonitis, 401653252
+Pelvic plexus Sympathetic Nerves, 136 
+Pelvic Tumors, 508525
+Pelvis, 84525
+Pelvis of Ureter, 372 
+Pemphigus, 60744 
+Penicillin, 4304
+Penicillin, Allergy, 7076612 
+Penis, 867
+Pepper, black, 201337
+Pepper, white, 201347 
+Peppermint oil, 2011610
+Peppers, green, 20157
+Peppers, red, 2014332
+Peppers-green (hot), cooked, 201582 
+Peppers-red (hot), cooked, 201564
+Peppers-sweet, cooked, 201575
+Peptic Glands, 23503
+Percaine, 5246
+Perforated Membrane - Ears, 10915 
+Perforation, 406
+Perforation of Bowel, 40627 
+Perforation of Stomach, 40653 
+Periarteritis Nodosa, 4049758
+Periateritis, 507949
+Pericardial Effusion, 60162587
+Pericardial Lymph Fluid, 27291 
+Pericarditis, 402587
+Pericardium, 2587
+Pericardium, Adherent, 1012587
+Pericardium, Arteries, 2314
+Pericardium, Fibrous Sac, 2591
+Pericardium, Lymph (mediastinal) Glands, 5345
+Pericardium, Nerves, 2346
+Pericardium, Serous Sac, 2593
+Perichondritis, 40154
+Pericystitis, 4062
+Perihepatitis, 4056648 
+Perimentum, 876
+Perimetritis, 40954
+Perineal Body, Vagina, 697
+Perineal Flexure, Large Intestine, 7826
+Perinephric Abcess, 30223379, 302233719
+Perinephritis, 40379, 403719
+Perineum, 3568
+Perineurium, 555
+Periodontitis, 40591
+Periosteum, 84359
+Periostitis, 401653, 40359
+Periostitis, Costal, 40359542
+Periostitis, Femoral, 40359114
+Periostitis, Sternal, 40359263
+Periproctitis, 40566851, 40851
+Perisplenitis, 40599465
+Peristatic action, 79790091
+Peritonaea! Adhesions, 1011653
+Peritoneal Covering, Duodenum, 8101
+Peritoneal covering, Gall Bladder, 76423
+Peritoneum, 758
+Peritoneum, Fibro-elastic Coat, Spleen, 5234
+Peritoneum, Serous Coat, Spleen, 9436
+Peritoneum, Spleen, 7488
+Perivascular, Plexus of Nerves, 4431
+Pernicious Anemia, 50465
+Peroneus Brevis, 2236
+Peroneus Longus, 9991
+Peroxide of Hydrogen, 5666
+Pertussis, 10348
+Pethadine, 9556
+Petit mal, 50532
+Petrotympanic fissure, 3269
+Pettijohns, 201703
+Peyer's Patches, 224
+Phalanges, 360, 84322
+Pharyngeal - Plexus of Veins, 5474
+Pharyngeal, Plexus of Nerves, 517
+Pharyngitis, 4019, 40198
+Pharyngotympanic tube (auditory), 654
+Pharynx, 198
+Pharynx, Constrictor muscles, 5553
+Pharynx, Growth in, 50119,, 50819
+Pharynx, Mucous coat, 1391
+Pharynx, Nerves, 319
+Pharynx, Nerves-glossopharyngeal, 7441
+Pharynx, Nerves-sphenopalatine gang, 226
+Pharynx, Posterior nares, 2384
+Pharynx, Stratified epithelium, 1324
+Pharynx, Ulcerated, 3019
+Phenaticin, Allergy, 707777
+Phenobarbitone, 304355
+Phenol, 73442
+Phenylalanine, 3374
+Phimosis, 40583
+Phlebitis, 40494
+Phleboliths, Pelvic, 204494525
+Phlyctenular, 303998
+Phobia, 50247
+Phosphorated Hydrogen, 3774 
+Phosphorus, 34653, 3791, 43560, 834695
+Phosphorus-poisoning, 901695 
+Phrenic, Plexus of Nerves, 641
+Phrenicocolic Ligament, 712
+Phthisis,, 40277
+Phthisis, Acute, 40276
+Phthisis, Advanced, 40277, 40276
+Physical shock, 10124
+Physiotherapy, 30789
+Phythisis, 40277, 40276
+Pia Mater, Meninges & Spinal Cord, 347 
+Pig, Manure, 44773
+Pigment, melanil of sweat glands-Corium, 2214 
+Pin Worm, 4681, 102
+Pineal Body, 98
+Pineal Cells, 7588
+Pineapple, cooked, 2011366
+Pinkeye, 55551
+Piriformis, 84211
+Pisiform, 84201
+Pitocin, 9291
+Pituitary, 694
+Pituitary Body, 547
+Pituitrin, 6098
+Pity (for others), 50232
+Pityraisis, 40434
+Pityriasis Versicolor, 40113
+Placenta, 9764
+Placidity, 40663
+Plague, 70261
+Plantarus, 171
+Plasma, 40966
+Plasma Cells, 4309
+Plasma Salts, 3924
+Plasmablasts, 43245
+Plasmodium falciparum, 50454
+Plasmodium malariae - quartan, 60323
+Plasmodium vivax - tertian, 40743 
+Plasmolysis, 409729
+Plastics, Allergy, 8089773
+Plantinum, 3109, 834109 
+Plantinum, Allergy, 22244
+Pleura, Cancer of, 5071
+Pleural Effusion, 6017, 60171
+Pleurisy, 407, 4071 
+Pleurisy, Acute, 2017
+Pleurisy, Diaphragmatic, 4078044
+Pleurodynia, 70356, 70599542
+Plexus, 779
+Plexus Minute BR., Small Intestine, 8823
+Plexus of Larger Capillaries, Stomach Arteries, 1222
+Plexus of Nerves, 3367
+Plexus/Superior Mesenteric Artery from Vagus, 7327
+Plexuses in Sub-mucous Coat, Parasympathetics, 658
+Plum, Silver Leaf Disease, 241321
+Plums, 20174
+Plums, cooked, 2011183
+Plutonium, 44444
+Pneumccoccas, 40334
+Pneumonia, 2017, 503553, 6067, 8024 
+Pneumonia, Acute, 407
+Pneumothorax, 1092675
+Poison gas (general), 6789
+Poison Ivy, 1034
+Poison Ivy (Rhus), 901134
+Poison Oak, 10188, 9011188
+Poison Sumac, 10085
+Poison toxin, 90172
+Poisoning, Aconite, 901558
+Poisoning, Cantharides, 9011026
+Poisoning, Conium, 9015239, 9015289
+Poisoning, Corrosives, 90140517
+Poisoning, Irritants, 90148
+Poisoning, Quinsy, 6026
+Poisoning, Tonsillitis, 40476
+Poisoning, Tuberculous Pharyngitis, 40240198
+Poisoning, Tuberculous Tonsillitis, 40261
+Poisoning, Uvula-Swollen, 401258
+Poisons, 901
+Polio, 9245
+Poliomyelitis, 90663
+Polluted water, 9011008
+Polonium,  33984
+Polycythemia, Splenomegalic, 401465
+Polynorphonuclears, 2027
+Polymorphonuclears, Basophils, 8425 
+Polynorphonuclears, Eosinophils, 3049
+Polymorphonuclears, Neutrophils, 6833
+Polypus, 30751, 30774
+Polypus, Aural, 30751
+Polypus, Nasal, 30751
+Polypus, Rectal, 30751851
+Polypus, Uterine, 30795197
+Polypus, Vagina, 3075195
+Pomegranate, 2014386
+Pons varolii, 3156
+Poor Prognosis Probability, 84
+Popliteal - Leg Drainage, 4411
+Popliteal - Veins, 4455
+Popliteal Arteries, 383
+Popliteal External - Plexus of Nerves, 2243
+Popliteal Internal - Plexus of Nerves, 2244
+Popliteus, 7771
+Pork, 201899
+Porosity - Soil, 33991
+Porta Hepatis, 456
+Portal Vein, 4022
+Portal Veins, Stomach, 4022
+Positive Psy, Conditions, 70394573
+Post-pharyngeal Abscess, 30219, 302198
+Posterior Elastic Lamina - Cornea, 2319
+Posterior Fornix, Vagina, 6057
+Posterior Lobe, Cell Column - Pituitary Body, 4427
+Posterior Lobe, Neuroglia Cells, 1328
+Posterior Lobe, Pituitary Body, 698
+Posterior Nares, 2233
+Posterior Pituitary, 5695
+Posterior Semi-circular Canal - Ears, 2289
+Posterior Vein Left Ventricle, 212
+Posterior Wall, Middle Ear, 6561
+Posterior Wall, Vagina, 5052
+Postero-superior, Occipital sinuses, 6776 
+Postero-superior, Sagittal inferior sinuses, 4321
+Postero-superior, Sagittal superior sinuses, 4374
+Postero-superior, Sigmoid sinuses, 8433
+Postero-superior, Straight sinuses, 8661
+Postero-superior, Transverse sinuses, 439 
+Postum Beverage, 201750
+Potassium 4548, 83454
+Potassium Chloride, 6610101
+Potassium cyanide, 3345
+Potato Blight, Plant Disease, 968677
+Poultry, Manure, 447881
+Praseodymium, 31459
+Prawns, 2019981
+Pre-natal, 88818
+Pregnancy, 60239
+Pregnancy, Twin, 602397
+Presbyopia, 30273
+Pressure, 70366
+Pressure on a Nerve, 501109279
+Pressure upon a Nerve-trunk, 5011109279
+Pressure, Intra-cerebellar, 10694
+Pressure, Intra-cerebral, 10682
+Prssure, Intra-ocular, 10280
+Prickly Heat, 302
+Prickly Miliaria Lichen Tropicus, 30224
+Proactmium, 3691
+Procrastination, 1094
+Proctitis, 40851
+Progesterone, 2373
+Progressive Muscular Atrophy, 906599
+Prolactin, 7904
+Prolapse, 80444
+Prolapsis of Organs, 8087
+Prolapsis Bladder, 8087962
+Prolapsis Uteri, 8087954
+Proline, 5885
+Promethium, 31661
+Promintory, Middle Ear, 7656
+Promyelocytes, Bone marrow-yellow, 3047
+Proponal, 5622
+Prostate, 999
+Prostate, Abscess, 302999
+Prostate, Adenomatous, 501101999
+Prostate, Cancer, 50999
+Prostate, Tuberculous, 402999
+Prostatic, Plexus of Nerves, 699
+Prostatitis, 40999
+Prostigmine, 50422
+Proteus Baccillus, 20115
+Protoplasm, 5326
+Prunes, 2011376
+Prunes, cooked, 2011121
+Pruritis, 30445
+Pseudangina, 4081
+Pseudo-hydrotrophic Dystrophy, 40234
+Psittacosis, 20709, 80843
+Psoas Abscess, 302987
+Psoas Major, 8886
+Psoas Minor, 1343
+Psora, 408, 8000
+Psora Abscess, 3078987
+Psoriasis, 4087, 8062
+Psychasthenia, 7039
+Psychological Shock, 7039811
+Psychological System, 70394573
+Psychopath Sexual, 77904
+Psychopathic Liar, 60997
+Psychopathic Thief, 77804
+Psychotherapy, 90910125
+Pterygium, 10994
+Ptomainism, 901201, 90154722
+Ptosis Congenital, 8087
+Pulmonary, 734
+Pulmonary Abscess, 3027477
+Pulmonary Anterior - Plexus of Nerves, 132
+Pulmonary Artery, Left, 5341
+Pulmonary Artery, Right, 534
+Pulmonary Embolism, 407976, 407977
+Pulmonary plexus, anterior, 1398
+Pulmonary plexus, posterior, 139
+Rilmonary Substance, 4215
+Pulmonic Valve, 412
+Pulpitis, Dental, 4051499
+Puncta lacrimalis left, 3104
+Puncta lacrimalis right Eye, 304
+Punctuality, 3027
+Pupil, Iris, 317
+Pure White Bread, 2015
+Purkinje's fibres, 4665
+Purkinje's sinoatrial node, 2256
+Purkinje's system, 33355
+Purpura, 10427101
+Purpura Hemorrhagica, 1042910196
+Pus, 30442
+Pus corpuscles, 60960 
+Pus in Teeth, 1023 
+Pus, encapsulated, 6463 
+Pus, free, 6442 
+Pus, malignant, 40567 
+Putrefaction, 9820 
+Pyelitis, 509704, 6037, 60371
+Pyemia, 60327
+Pyloric (source of Pepsin), Stomach, 3219 
+Pyloric Opening - Plexus:, of Veins, 321 
+Pyloric Stemosis, 101321
+Pyloric Ulcer, 30321 
+Pyloric, Plexus of Nerves, 3223 
+Pylorus, Stomach, 6332 
+Pyocanea, 60722
+Pyodermatitis Vegetans, 60210195 
+Pyometra, 60954
+Pyonephrosis, 602371 
+Pyorrhea, 1200, 408591 
+Pyramid, Middle Ear, 4227
+Pyramidal fibres of Spinal Cord, Meninges & SC, 2357
+Pyramidal Lobe - Thyroid, 2245 
+Pyrexia, 402535, 709 
+Pyrogenes, 6057 
+Pyrosis, 30243
+Quadratus Femoris, 4444 
+Quinces, cooked, 2011092 
+Quinine, 4152 
+Quinine, Allergy, 707711 
+Quinsy, 6026, 60261, 6056
+Rabbit, 2011021
+Rabies, 10975, 60605
+Radial Arteries, 49756
+Radial Nerve, 1217
+Radiation, 80490
+Radio-activity, Allergy, 97431
+Radionic Broadcasting, 66
+Radish, 20177
+Radium, 33004, 834300 
+Radium Burn, 8049 
+Radius, 84345 
+Radon, 34186 
+Raisins, 20151 
+Raisins, cooked, 2011219 
+Ranula, 8094 
+Rash, 40657 
+Raspberries, 201153 
+Raspberries, cooked, 201693
+Raynaud's Disease, 20777, 20777101, 20777442, 4012
+Reaction: Acid, 609353
+Reaction: Alkaline, 609356
+Receding Gums, 408111
+Recklinghausen's Disease, 50110997
+Rectal Ampulla, 43210
+Recti, Divarication of, 8069851
+Recto-Vaginal Fistula, 706851, 95
+Rectum, 877
+Rectum, Cancer of, 50851
+Rectum, Ulcer of, 30851
+Rectus Abdominus, 93107
+Rectus Fenoris, 4615
+Rectus Muscle, Inferior, 301
+Red Blood Corpuscles, 60949226
+Red Bone Marrow, 1081
+Red Corpuscles (Erythrocytes), 2331
+Red Corpuscles Hemoglobin, 5496
+Red Corpuscles Reticulocytes, 9378
+Red nucleus, Mid Brain, 3655
+Relapsing Fever, 30267
+Relaxin, Parasympathetic Nerve Endings, 5
+Reliability, 441114
+Religious Mania, 601326
+Remorse, 70637
+Renal Calculus, 2094
+Renal Calculus - Iliac or Ovarian, 209423
+Renal Cancer, 5037, 50371
+Renal Capsules, 932
+Renal Capsules, Epithelial Lining, 43377
+Renal Capsules, Glomerular, 6533
+Renal Capsules, Glomerulus, 6538
+Renal Colic, 20894371, 209437, 40371
+Renal colic, 702737
+Renal Impression, 484
+Renal Infarct, 4042737, 40427371
+Renal Insufficiency, 20737
+Renal Stones, 8978
+Renal, Plexus of Nerves, 437
+Renin, 6637
+Renin pancreatic, 3474
+Resentment, 40311
+Reserve, 4512
+Respiratory Region, 3324
+Respiratory System, 327872
+Restlessness, 101077
+Reticulo Endothelium Cells, 3352
+Reticulo-Endothellal, 4393
+Reticulocyte, bone marrow-red, 9378
+Retina, 3709'
+Retina, Left, 31709
+Retina, Right, 3709
+Retinitis, 403709
+Retinitis Pigmentosa, 80243
+Retrobulbar Hemorrhage, 104273709
+Retroflexion, 90542
+Retroversion, 90439, 90548
+Rhenium, 33075
+Rheumatic Fever, 604, 7085
+Rheumaticus, 7023
+Rheumatism, 704
+Rheumatism, Acute, 702, 704 
+Rheumatism, Gonorrheal, 40343
+Rheumatism, Intestinal, 70422
+Rheumatism, Muscular, 704
+Rheumatism, Temporomaxillary, 902862864
+Rheumatoid Arthritis, 902,9027
+Rhodium, 3945
+Rhomboideus Major, 40573 
+Rhomboideus Minor, 40569 
+Rhus Toxicodendron, 7350
+Rib Cartilage, 2356
+Rib, Fractured, 907542
+Ribs, 84542
+Ribs, Carious, 5024542
+Ribs, left, 4419
+Ribs, right, 4459
+Rice, cooked, 2011839
+Rickets, 30845
+Rider's Sprain, 7059942, 7059943
+Right Gastric Branch Hepatic Artery, 2145
+Right Marginal Vein - Heart, 232 
+Rigor, 60942
+Ring Worm, 8071
+Rocky Mountain Fever, 9221
+Rodent Ulcer, 50842
+Rodent ulcer, 50032
+Rodent Ulcer, Mooren's, 50301013998
+Rods and cones, 1393
+Rods of Corti, 5210
+Root, bulb of penis, 824
+Root, crus penis, 825
+Root Penis, 882
+Rubber Allergy, 880811
+Rubidium, 30137
+Rupture, 20228
+Ruptured Muscle, 1048599
+Ruptured Tympanum, 10922
+Rust, Plant Disease, 62523
+Putabago, cooked, 201574
+Ruthenium, 3844
+Rye Bread, 201751
+Sabina, 5844
+Saccule, 7322
+Saccus Endolymphaticus, 837
+Sacral (5), Vertebra, 84854
+Sacral flexure, Large Intestine, 581
+Sacral Glands, Enlarged, 401327854 
+Sacral, Plexus of Nerves, 421 
+Sacralization, 7038428
+Sacro-coccygeal Tuberculosis, 402854188 
+Sacro-iliac Disease, 402854374
+Sacroiliac Disease, 402854375
+Sacrospinalis, 4442
+Sacrospinosum, 7215
+Sacrotuberosum, 77102
+Sadness, 10446
+Sage, 201925
+Salicylic Acid, 5235
+Saliva, 961
+Salivary glands, 589
+Salivery Calculus, 204589
+Salmon, 201951
+Salmonella enteritidis Bacterium, 2055
+Salmonella paratyphi Bacterium, 2035
+Salmonella typhi Bacterium, 2014 
+Salmonella typhimurium Bacterium, 2059 
+Salpingitis, 406973, 502972, 502973 
+Salt, 201515
+Salts of copper, 3837
+Salts of zinc, 35009
+Samarium, 31762
+Sandfly Fever, 10235
+Santonin, 4354
+Saphenous Nerve, 551
+Saphenous Varix, 306549442, 306549443
+Sarcolemma, 229
+Sarcoma, 508, 5089, 508954
+Sarcoma of Femur, 50884114
+Sarcoma of Innominate, 50884497
+Sarcoma of Liver, 50848
+Sarcoma of Uterus, 508954
+Sarcoma Scrotum, 5082098
+Sarcosis, 5800
+Sarcosis in Bone, 5831
+Sarcosis in Bone Marrow, 5852
+Sarcosis in Brain, 5883
+Sarcosis in Breast, 5846
+Sarcosis tn Heart, 5835
+Sarcosis in Intestine, 5850
+Sarcosis in Lymph, 1272, 5840
+Sarcosis in Ovary, 5822
+Sarcosis in Pancreas, 5891
+Sarcosis in Pineal, 2323
+Sarcosis in Skin, 5826
+Sarcosis in Spleen, 5854
+Sarcosis in Stomach, 5853
+Sarcosis in Uterus, 5821
+Sarcosis, Gall Bladder, 5811
+Sarcosis, Liver, 5813
+Sarcosis, Prostate, 5820
+Sartorius, 5335 
+Satisfaction, 30343
+Scabies, 1087101, 5097101
+Scala tympani, 5524
+Scala tympani, Seconday spiral lamina, 9544
+Scala vestibuli - Cochlea, 2334
+Scalp, 624
+Scandium, 30321
+Scar tissue, 1011
+Scar Tissue, Adhesion, 5832
+Scar Tissue, Bone, 5801
+Scar Tissue, Lung, 5803 
+Scarlatina, 10743, 8330
+Scarlatinae, 2067
+Scarletina, 3075
+Scarring of Retina, 101709 
+Schistosoma Hematobium, 103323
+Schistosoma Mansoni, 101327 
+Schizophrenia, 707617, 999087
+Sciatic, Great, 235
+Sciatic, Sheath, 23315
+Sciatic, Small, 472 
+Sciatica, 40351935, 50235
+Sclera, 891
+Sclera, nerves derived from Ciliary nerve, 192
+Sclera, White Fibrous Tissue, 5452 
+Scleroderma, 501101, 505332424 
+Sclerosis, 90343
+Sclerosis, Multiple, 50548
+Scoliosis, 8065297
+Scotama, 90984943
+Scrotum, 2097
+Scrotum Skin, 7710
+Scurvy, 108749, 108954
+Scybala or Concretions, 8026127
+Seaweed, 6044
+Sebaceous, 8808
+Sebaceous Cyst, 6019
+Sebaceous Cyst, Suppurating, 60169
+Sebaceous Gland, 8808
+Seborrhea, 4011017
+Sebum Cutaneum, 6535
+Secale, 9434
+Secondary Tumphanic Membrane, 2427
+Secretin, 4719
+Secretion Imbalance, 3199
+Secretions, 640
+Secretiveness, 308613
+Sedormid, 7351
+Selenium, 30734
+Self Pity, 7038
+Self-consciousness, 50014
+Self-denial, 10445
+Self-esteem, 9015
+Self-importance, 40475
+Self-indulgence, 30351
+Self-willed, 302356
+Selfishness, 9043
+Sella Turcica, 84296
+Semi-circular canals, 2955
+Semi-circular ducts, 7910
+Semiluna, 9003
+Semimembraneosus, 4711
+Seminal Fluid, 1979
+Seminal Vesicles, 19
+Seminal Vesiculitis, 402098
+Semispinalis Capitis, 59941
+Semitendrinosus, 3355
+Senility, 3048, 50533
+Sensory area of Brain, 7567
+Sensory Nerves, Muscle, 732
+Sensory nerves, Nose, 759 
+Sentimentality, 44332 
+Septic Foci, 9075 
+Septic Poisons, 3251
+Septicemia, 302327, 60327
+Septum Transversum, 7894
+Septum, Deviate, 403515496
+Serine, 7213
+Serous Coat (derived from Peritoneum), Anus 558
+Serous Coat, Bladder, 5343
+Serous Coat, External, Spleen, 435
+Serous Coat, Gall Bladder, 335
+Serous Coat, Large Intestine, 384
+Serous Coat, Lungs, 3228, 5653
+Serous Membrane, 766
+Serratus Anterior, 70543
+Serratus Posterior, Inferior, 44321
+Serum Albumin, 55223
+Serums, 40698
+Sever1s Disease, 80754
+Sex Areas, Desire, 905
+Sex Areas, Endocrine centre, 39302
+Sex Areas, Frigidity, 44759
+Sex Areas, Frustration, 49524
+Sex Areas, Function, 48441
+Sex Centres, 872
+Sex function, female, 7020
+Sex function, male, 7020
+Sexual Mania, 50555
+Sexual Shock, 10431
+Sheath, Muscle, 8327
+Shell Fish, 2013551
+Shingles, 60240015, 60240101542
+Shivering, 4077327
+Shock, 10104
+Shock Therapy, 10104981
+Shoulder Blade, 84397
+Shoulders, 753
+Shoulders (2), 3323
+Shredded Wheat, 201753
+Shrimps, 201981
+Shyness, 2235
+Sight, left, 311
+Sight, right, 310
+Sigmoid Flexure, Large Intestine, 85
+Sigmoiditis, 4085
+Silicon, 3607, 83467
+Silicosis, 40292
+Silver, 3886, 8343880
+Silver - Allergy, 2201
+Silver nitrate, 498
+Simple Conjunctiva, 603776
+Sino-auricular Node - Heart Vein, 2256
+Sinus Obstruction, 606133
+Sinuses, 36
+Sinusitis, 40469, 6036
+Sinusoids, Liver, 4423
+Skeletal System, 69846, 84
+Skene's Glands, 1998
+Skin, 101
+Skin, Post-rolandic Brain Area, 4437
+Skull, 84107
+Slaked Lime, 55112
+Sleep Centre, 7943
+Sleep Centre, Brain Sensory Area, 07943
+Sleeping Sickness, 503343
+Sluggishness, 30332
+Small Cardiac Veins, 207
+Small Joints, 1014
+Smallpox, 60702, 403
+Smell, Brain. Sensory Area, 5882
+Smooth Muscle, Bronchi, 4364
+Snake, Toxin, 901808
+Sneezing, 6208
+Sodium, 3045, 83445, 90145
+Sodium bicarbonate, 1132
+Softening of Brain, 6011332
+Softening, Chronic, 6013453
+Softening, Chronic Spine, 601297
+Soil Moisture, 2990
+Solar Plexus, 66
+Sole, Sea Food, 2017711
+Soleus, 33902
+Solitary Lymph Gland, 3227
+Solitary Lymphatic Nodules, Large Intestine, 3127
+Solitary Lymphatic Nodules, Small Intestine, 3227
+Somatotopic, 5407
+Somnolence, 90692
+Soreness, 30322
+Spasm, 301104
+Spasm, Myopathic, 203442
+Spasmodic Asthma, 402392
+Spastic Condition, 80632
+Specific Gravity, 609871
+Speech (Broca's area), Brain Sensory Area, 7432
+Spermatic Cord, 78
+Spermatic, Plexus of Nerves, 673
+Spermatoza, 6084
+Spermatozoa, 609784
+Spermatozoa, Bacteria, 6091280
+Spermatozoa, Mucous threads, 609772
+Sphagnum Moss, 33221
+Sphenoid, 84933
+Sphenoidal - Paranasal Sinuses, 251
+Sphenoidal Disease, 60284993
+Sphenoidal Sinusitis, 60133, 602133
+Sphincter Muscle, Gall Bladder, 568
+Sphincter Muscle, Uretha, 4301
+Sphincter Muscles, 87
+Sphincter, Ani, 601
+Spider bite, 9011886
+Spinach, cooked, 201253
+Spinal Accessory Nerve, Meninges & Spinal Cord, 4552
+Spinal Accessory Nerves, 220811
+Spinal Apoplexy, 903279, 903297
+Spinal Caries, 5024297
+Spinal Column, Sprain, 70599279
+Spinal Cord, 297
+Spinal Hyperemia, 4096297
+Spinal Meningeal Hemorrhage, 10427279
+Spinal Meningitis, 40279
+Spinal Meningitis, Syph., 505279
+Spinal Nerves, Coccygeal (1 pair), 3599
+Spinal Nerves, Sacral (5 pairs), 2201
+Spinal Periostitis, 4084297359
+Spinal Tumor, 508297
+Spinal, Anterior Arteries, 4357
+Spinal, Posterior Arteries, 6757
+Spincter, Bladder, 22967
+Spincter, Ileo-cecal, 827
+Spincter, Mouth, 2222
+Spincter, Rectal, 228
+Spincter, Urethreal, 4301
+Spincter, Vaginal, 95
+Spindle Nerves, Muscle, 722
+Spine, Caries of, 5024297
+Spiral Canal of Modiolus, 3235
+Spiral Ganglion, Auditory Nerve, 239
+Spiral Organ, 525
+Spiritual, 8077334
+Spiritual Alertness, 3087718
+Spiritual Desire, 3077719
+Spiritual Shock, 1011034
+Spirochaetes Leptospira Bacterium, 809408
+Spirochaetes Treponema Bacterium, 809302
+Spitefulness, 2082
+Splanchnic Nerve from Vagus Nerve, Sm.Intestine, 5214
+Splanchnic Nerves, Great, 5557
+Splanchnic Nerves, Lesser, 544 
+Splanchnic Nerves, Renal, 4512
+Spleen, 465
+Spleen - Bone Marrow, 1216
+Spleen Affections, 40465
+Spleen, Abscess, 302465
+Spleen, Cancer, 50465
+Spleen, Enlarged, 401465
+Splenic Arteries, 7765
+Splenic Artery, 4294
+Splenic Artery: Left Gastro-epiloic Branch, 2469
+Splenic Branches, 7715
+Splenic Cells, 3263
+Splenic Infarct, 10427465
+Splenic Pulp, 7686
+Splenic Veins, 2554
+Splenic Plexus of Nerves, 921
+Splenius Capitis, 234
+Split Personality, 707617 
+Spondylitis, 1092279
+Spondylitis Deformens, 9079
+Spondylitis Traumatic, 1092297
+Spondylose Rhizomelique, 402867
+Spongy Erectile Tissue, Uretha, 432
+Sprain, 40856, 70599
+Sprained Pectorals, 70746
+Sprains, 70599, 70599279
+Sprouts (food), 2017097
+Sprue, 303325
+Spur of Septum, 50115496
+Squash Bug, test leaves for, 2213
+St. Vitus Dance, 30557
+Staggering Gate, 403327
+Stammering, 20212, 403336
+Stapes, 55103
+Staphycoccus (q.v.), 304
+Staphylotoxemia, 6600
+Staphylotoxemia in Eye, 6604
+Staphylotoxemia in Ovary, 6651
+Staphylotoxemia in Tonsil, 6643
+Staphylotoxemia in Tooth, 6641, 6691
+Stenosis, 503723
+Stenosis of Canal, 207952
+Sterility, 10545
+Sternal – Abdominal Wall Drainage, 4833
+Sterni Clavicle, 693
+Sternoclaviculare, 33931
+Sternohyoideas, 945
+Sternomastoid, 5449
+Sternum, 84263
+Stiffness, 6033
+Stomach, 32
+Stomach, Atony of, 107832
+Stomach, Dilation of, 3065321
+Stomatitis, 403458
+Stone, 20555
+Stone in Gallbladder, 20438
+Stone in Ureter, 20946681 
+Strain, 40856
+Strain (mental), 8008
+Strain of Recti Muscles, 6093865851 
+Strain, Muscular, 40858
+Strains, 6093865
+Stramonium, 3343 
+Stratified epithelium, throat, 6834
+Stratum opticum, 3332
+Strawberries, 201456
+Strawberries, cooked, 201862
+Streptococcus, 60
+Streptomycin, 50265
+Streptotoxemia, 6000
+Streptotoxemia in Colon, 6004 
+Streptotoxemia in Pancreas, 6026 
+Streptotoxemia in Tooth, 6073
+Stria Vascularis, 7371 
+Stricture, 407439, 50683
+Stroke, 40474, 903
+Stroma, 7252
+Stroma, Ovaries, 9538
+Strontium, 30238
+Strychnine, 5122
+Stubbornness, 335
+Sty, 40533
+Stye, 409204
+Stylo-mastoid branch of auricular artery, 8933
+Stylohyoideus, 3606
+Sub-maxillary - Face, Mouth, etc., 9473 
+Sub-mucous Coat, Stomach, 165
+Sub-mucous Coat, Bladder, 6563
+Sub-mucous Coat, Duodenum, 822
+Sub-mucous Coat, Large Intestine, 528
+Sub-mucous Coat, Small Intestine, 4409 
+Sub-mucous Coat, Throat, 2535
+Sub-mucous Layer, Bronchi, 3427 
+Sub-occipital - Rear Scalp Drainage, 3421
+Sub-serous Tissue, Lungs, 4223
+Subarachnoid space, Meninges & Spinal Cord, 1399
+Subclavian - Veins, 3397
+Subclavian Arteries, 879 
+Subconjunctival Fat, 90893776 
+Subdural space, Meninges & Spinal Cord, 2299 
+Subinvolution, 7065954
+Sublaxation, 1084
+Sublingual Secretions, 103 
+Submaxillary Lymph Gland, 9473 
+Submaxillary Secretions, 219 
+Submaxillary, Glandular, 129 
+Submental - Tongue and Lower Jaw, 3273 
+Subphrenic Abscess, 505991096 
+Subsartorial, Plexus of Nerves, 539 
+Substanti a propria, Cornea, 622 
+Substanti a propria, Corneal Spaces, 924
+Substanti a propria, lamellae, 828 
+Substantia nigra. Mid Brain, 6032 
+Subtilis Baccillus, 30733 
+Subtrapezial, Plexus of Nerves, 857 
+Sugar - Allergy, 1245 
+Sugar in Urine, 60957 
+Suicidal Tendency, 505733
+Sulphonal, 2443
+Sulphonamides, 64303
+Sulphonamides, sulphadiazine, 5742
+Sulphonamides, sulphaguanidine, 5337
+Sulphonamides, sulphamerazine, 5663
+Sulphonamides, sulphanilamide, 5338
+Sulphonamides, sulphathiazole, 5483
+Sulphonamides, sulphyridine, 5773
+Sulphur, 4433, 834446
+Sulphuric Acid, 3554, 5554
+Sun, Allergy, 78731
+Sundry Nerves, 1109
+Sunstroke, 407279
+Superficial Ramus Nerves t 447
+Superficial Cervical - Ear, Neck Drainage, 4437
+Superficial Fascia, 1033
+Superficial Inguinal - Anus, Genitals, etc., 1611
+Superficial Lymph Vessels - Liver, 1355
+Superficial Transverse Ligament, 1342
+Superinvolution, 9065954
+Superior Maxillary, 84864
+Superior Mesenteric Artery, Small Intestine, 7789
+Superior Mesenteric Ganglion, 143
+Superior Mesenteric Vein, 1255
+Superior peduncle, Cerebellum, 1212
+Superior Rectal Artery, 2284
+Superior Rectus Muscle, 309
+Superior semi-circular canal, 2339
+Superior Surfaces, 44557
+Superior Tarsus, 5522
+Superiority Complex, 40335
+Suppression, 33986
+Suppression of Menses, 801954
+Supra-optic nucleus, Hypothalamus, 1223 
+Suprachoroid lamina, 527
+Suprarenal Glands, Left, 31078
+Suprarenal Glands, Right, 31072
+Suprarenal Impression, 485
+Supraspinatus, 7121
+Surgical Shock, 104999
+Suspensory Ligament, Ovaries, 5245
+Suspensory Muscle, Duodenum, 8049 
+Swallowing, 50422
+Sweat Glands, 3544
+Sweating, 304
+Swelling, 401
+Swelling in Meatus, 40133
+Swollen, 4019
+Sycosis, 405485
+Sycosis Tarsi, 40979
+Sympathetic Nerve Stimulation, 409739 
+Sympathetic Nerve, Solar Plexus, 66 
+Sympathetic Nerves, Cervical Plexus, 121 
+Sympathetic Nerves, Hypogastric Plexus, 135 
+Sympathetic Nerves, Liver, 7333 
+Sympathetic System, 739
+Sympathetic, Pelvic Plexus, 136
+Sympathetic, Pulmonary Plexus, 139 
+Sympathetica - Gastro-epiloic Artery, 3323 
+Sympathetics are motor to sphincter, 6526 
+Sympathetics around Gastric .Artery, 1425 
+Sympathetica from Vagus Nerve, Small Intestine, 4347
+Sympathin E, 6363
+Sympathin I, 2313
+Sympathy, 6651
+Synapse, 6459
+Syncope, 207497
+Synovia, 557
+Synovial Bursae, 1010
+Synovial Membrane, 445
+Synovial Sheaths - Fascia, 108
+Synovitis, 302455, 402008
+Syphilis, 505, 505954, 50596, 50596, 505965, 509
+Syphilis acquired, 809302
+Syphilis congenital, 5077
+Syphilis (Lues), 5500
+Syphilis Host, 8044
+Syphilis, Congenital, 507
+Syphilis, Congental, 5073988
+Syphilis, Labyrinthine, 50528
+Syphilis, Leg sore, 5502
+Syphilis, Prostate, 5563
+Syphi1is, Stomach, 5508
+Syphilitic (Miasma), 507
+Syphilitic Heart, 50525
+Syphilitic Liver, 50548
+Syphilitic Nodes, 505889
+Syphilitic Periostitis, 505359
+Syphilitic Spinal Paralysis, 505542279
+Syringomyelia, 40297, 90331
+Systole and Diastole, 9033
+T.B. of Uterus, 402954
+Tabes Mesenterica, 402815
+Tates mesenterica, 608815
+Tachycardia, 50129
+Tachycardia Paroxysmal, 501321872
+Tactile Sensory 4387
+Tail of Anterior Surface, 9226
+Tail of Inferior Surface, Pancreas, 9223
+Tail of Pancreas, 997
+Tail of Posterior Surface, Pancreas, 9225
+Talipes Valgus, 10937121
+Talus, 84262
+Tantalum, 32873
+Tapeworm, 907980
+Tarsal, 847736
+Tarsal glands Left, 3107
+Tarsal glands Right, 307
+Tartaric Acid, 3312, 3321
+Taste buds, 8575
+Taste buds, bitterness, 746 
+Taste buds, circumvallate papillae, 4150 
+Taste buds, filiform, 5321,
+Taste buds, fungiform, 5644 
+Taste buds, sourness, 47
+Taste buds, sweetness, 57
+Taste Brain Sensory Area, 4573 
+TBM, Larger Fat Cells-Corium, 5248 
+TBM, Sebum Cutaneum (debris)-Corium, 6535
+Tea, Black, 20181
+Tea, Cream & Sugar, 20189
+Tea, Green, 20184
+Tearfulness, 60619
+Tears, 4396
+Technetium, 3743
+Tectorial Membrane, 513
+Teeth, 49930706
+Teeth, Eye (upper Canine), 246
+Teeth, Incisors (4 front), 245
+Teeth, Molars (large grinders), 241
+Teeth, Premclars (Bicuspid), 244
+Teeth, Wisdom, 226
+Tegmen tympani, 1256
+Tegmentum, Mid Brain, 4302
+Telangiectasis, 409719, 7019
+Tellurium, 3752
+Temper, 60628
+Temperature (minus) - Soil, 99111
+Temperature (plus) - Soil, 77771
+Temperature, General, 22945
+Temporal, 84862
+Temporal Caries, 502484862
+Tendon, 645
+Tendon Achilles, 22229
+Tendori nerve supply, 631
+Tendon of Plantaris, 7031
+Tendon of the Infundibulum, 6246
+Tendon Patellar, 3448
+Tendon sheaths, 6452
+Tenia, 8046
+Teno-synovitis, 40645
+Tenonitis, 403512
+Tenseness, 50783
+Tension, 6044
+Tension, High Arterial, 40904947
+Terbium, 32065
+Teres Major, 646
+Teres Minor, 647
+Terminal Bronchioles, 6742
+Terror, 808
+Testes, 657
+Testicle, External left, 782
+Testicle, External right, 786
+Testicle, Internal left, 781
+Testicle, Internal right, 788
+Testicle, Perineal, 407883568
+Testicular, 696
+Testicular Artery, 467
+Testicular Cysts, 601781
+Testicular Veins, 5781
+Testosterone, 1085
+Tetanii, 7096
+Tetanus, 3014, 30785
+Tetany, 30785, 50359
+Tetragenus, 2031
+Thalami, Fore Brain, 4523
+Thallium, 33681
+Thermotactic centre, Brain Sensory Area, 5534
+Thickening, 6015
+Thigh, left, 11941
+Thigh, right, 1194
+Third Ventricle, Corpus Callosum, 1735
+Thirst centre, Brain Sensory Area, 7346
+Thoracic (12 pairs) Nerves, 6655
+Thoracic Duct, 769
+Thoracic Duct, Cisterna Chyli, 3278
+Thoracic Duct-L. Bronchomediastinal Trk Trib, 4511, 2023
+Thoracic Duct-L. Subclavian Trunk Trib., 7443, 1422
+Thoracic Duct-Left Jucrular Trunk Tributaries, 155
+Thorium, 3459
+Thoughtfulness, 30846
+Thoughtlessness, 40412
+Threonine, 3262
+Throat, 966
+Throat, Larynx, 17
+Throat, pharynx, 198
+Throbbing, 4033
+Thrombosia, Mesenteric, 9098815
+Thrombosis, 7068, 9093, 9098, 9098297, 90983512
+Thrombosis of Cavernous Sinus, 9098759, 90989759
+Thrombosis of Lateral Sinus, 90989, 90989759
+Thrombosis of Pulmonary Artery, 9098534
+Thrombosis of Sup. Long. Sinus, 9098975 
+Thrombosis, Cerebral, 90982, 909829, 9098291 
+Thrombosis, Pulmonary, 909876
+Thrombosis, Renal, 909823
+Thrombosis, Sup. Long. Sinus, 90768975 
+Through Splenic Plexus, Pancreas Nerves, 9222 
+Thulium, 32469
+Thumb, 4413
+Thumbs, 84891
+Thymin, 2582
+Thymus, 396, 46555
+Thymus Lobe, Left, 3246
+Thymus Lobe, Right, 3216
+Thymus, Enlarged, 401396
+Thyotoxiocosis, 404635537
+Thyroid, 6871
+Thyroid extract, 4424
+Thyroid Gland, 2687
+Thyroid Inferior, Plexus of Nerves, 845
+Thyroid Lobe, Left, 6871
+Thyroid Lobe, Right, 687
+Thyroid Superior, Plexus of Nerves, 843 
+Thyroid, Capsule of Connective Tissue, 3424 
+Thyrotropic, 3679
+Thyroxin, 468
+Tibia, 84319
+Tibia, Head 84369
+Tibia, Old Fracture, 907319
+Tibia, Osteora, 508319
+Tibial Anterior, 3442
+Tibial Posterior, 5471
+Tibial, Anterior Arteries, 642
+Tibial, Posterior Arteries, 649
+Tibialis, Posterior, 3733
+Tic convulsive, 808377
+Tic douloureo, 808642
+Timidity, 66012
+Tin, 31127, 8341184,
+Tin (Tinned foods), 22331
+Tinea Tarsi, 30979
+Tingling, 40464
+Tinned Foods, 2012229
+Tinnitis Aurium, 10219 
+Tiredness, 50325
+Titanium, 303422
+Tobacco, 476
+Tobacco Allergy, 60991
+Tobacco, Abuse, 201779
+Toe, 422
+Toes, 422, 84422
+Tolerance, 80776
+Toleration, 80776
+Tomatoes, 201583
+Tomatoes, cooked, 201237 
+Tongue, 1296
+Tongue Lesions, Basal, 5081296 
+Tongue Mucous, 5026
+Tongue, Cancer of, 501296
+Tongue, Ulcer of, 301296
+Tonsil, Left, 61
+Tonsil, Right, 6
+Tonsilitis, 40461
+Tonsillar, Plexus of Nerves, 643 
+Tonsillitis, 40476
+Tonsils, Lymphocytes, 671
+Tonsils, Lymphoid tissue, 635 
+Tonsils, Tonsillar Artery, 675 
+Tophi, Gouty, 502499
+Torpor, 40434
+Torticollis Spasmodic, 60462 
+Toxemia, 60659, 606591, 901409 
+Toxic State, 70457
+Toxins, 790457
+Toxins (all Diseases), 6065
+Toxins Alcohol, 3028
+Toxins Anger, 3078
+Toxins Brain, 30397
+Toxins Candy, 8090
+Toxins Carbohydrates, 5053
+Toxins Carcinoma, 309
+Toxins Chicken-pox, 6093
+Toxins Destroyed (inactive), 10489
+Toxins Diphtheria, 206233
+Toxins Fat, 6033
+Toxins Fatigue, 3067
+Toxins Food, 7063
+Toxins Hate, 8093
+Toxins Influenza, 308104 
+Toxins Lesion, 10993 
+Toxins Lues, Congenital, 10192
+Toxins Malaria, 30283 
+Toxins Measles, 10833 
+Toxins Measles, German, Mumps, 10173 
+Toxins Pertussis, 10673 
+Toxins Pneumonia, 406183
+Toxins Proteins, 6073
+Toxins Streptococcus, 6042
+Toxins Tyiihoid, 203143
+Toxins Vaccine, 10497
+Toxins Venereal, 40699
+Toxins White Sugar, 10493
+Trabeculae, 4365
+Trabeculae, Suprarenal Glands, 1226
+Trace element deficiency, 642191
+Trachea, 8047
+Trachoma, 50446, 50556, 50740
+Trachoma, O1d, 5074
+Trachomatous Cornea, 507403998
+Transparent basement membranes-Corium, 4317
+Transverse Abdominus, 7678
+Transverse Colon, 83
+Transverse Mesocolon, 839
+Trapezius, 475
+Trauma, 1092, 10921, 1092442, 10929 
+Trauma, Hand, 109226
+Traumatic, 1049271
+Traumatic Spondylitis, 1092297
+Trembling, 504342
+Trench Mouth, 20994
+Triceps Brachii, 216
+Triceps Lateral Head, 2097
+Triceps Long Head, 2297
+Triceps Medial Head, 2197
+Trichinosis, 90837
+Trichinosis intestinalis, 10553
+Trichomoniasis, 2023242
+Tricuspid Valve, 2597
+Trigeminal Nerves, 22085
+Trigeminal Neuralgia, 808642285
+Trochlear Nerves, 22084
+Trout, Brook, 201713
+Trout, Lake, 201913
+Trunk, Post-rolandic brain area, 4976
+Trunk, Pre-rolandic brain area, 2343
+Trustfulness, 60446
+Trypanosoma gambiense, 503343
+Trypanosomiasis, 30436
+Trypanosomiasis, Gambiense, 503343
+Trypsin, 6624
+Tryptophane, 2458
+Tubal Colic, 502972, 502973
+Tubal Extremity, Ovaries, 5421
+Tubal Foetation, 3079972, 3079973
+Tubal Gestation, 2
+Tube Casts, 60923
+Tube tonsil, Middle Ear, 3510
+Tubercle Nose, 40296
+Tubercule of Cecum, 40282
+Tuberculosis, 20994
+Tuberculosis (from cow’s milk, or vaccine), 40257
+Tuberculosis (from erigeron pollen-hay fever), 40277
+Tuberculosis (Miasma), 402
+Tuberculosis Acquired (Human), 40215 
+Tuberculosis Animal Parasite, 4026 
+Tuberculosis Avian, 40223
+Tuberculosis Bovine, 8086
+Tuberculosis Fruit or Vegetable, 4022
+Tuberculosis Inherited, 4025
+Tuberculosis Meningitis, 608675 
+Tuberculous Bone, 40284
+Tuberculous Conjunctiva, 4023776
+Tuberculous Cornea, 402303998 
+Tuberculous Ears, 40213
+Tuterculous Joint, 402119
+Tuberculous Kidney, 40237, 402371
+Tuberculous Liver, 60878
+Tuberculous Meningitis, 402279
+Tuberculous Pharyngitis, 40240198
+Tuberculous Spinal Meningitis, 402279
+Tuberculous Synovitis, 4022008
+Tuberculous Testis, 402781
+Tuberculous Tonsillitis, 4026, 40261 
+Tularemia, 40833
+Tumefaction, 30785
+Tumor, 5018
+Tumor of Antrum, 501254
+Turner of Brain, 50113, 5011332, 5081332, 5013322
+Tuner of Cord, 501297, 508297, 508297 
+Tumor of Crus, 50142, 50143, 50842 
+Tumor of Mediastinum, 501356, 508356 
+Tumor of Neck, 501523
+Tumor of Optic Nerve, 5012282
+Tumor of Orbit, 5013988
+Tumor of Spine, 508297
+Tumor of Suprarenal Capsule, 50831072, 50831078
+Tumor of Uterus, 501954, 508954
+Tumor, Abdominal, 5011233, 5081233
+Tumor, Astrocytoma, 70347
+Tumor, Benign, 40322
+Tumor, Carcinoma, 50
+Tumor, Cerebral, 50129, 501291, 50829, 508291
+Tumor, Cranial, 50184107, 50884107
+Tumor, Cyst, 70127
+Tumor, Epithelioma, 50101
+Tumor, Fibroma, 6075
+Tumor, Glioma, 70342
+Tumor, Intercranial, 50129, 501291, 50829, 508291
+Tumor, Lipoma, 60343
+Tumor, Lymphosarcoma, 504327 
+Tumor, Malignant, 20505
+Tumor, Neuroma, 50181109
+Tumor, Osteoma, 10042
+Tumor, Pelvic, 508525
+Tumor, Polypus, 30774
+Tumor, Sarcoma, 5082
+Tumor, Serofibrinous, 60104
+Tumor, Spinal, 501297, 508297, 508297
+Tumor, Uterine Fibroma, 50289
+Tumor, Abdominal, 5081233
+Tumor, Eyes, 501979, 508979
+Tumor, Orbital, 5013988
+Tungsten, 32974
+Tunica Albuginea, 8998
+Tunica Vaginalis, 773 
+Tunica Vasculosa, 708
+Tunica, Adventitia Arteries, 4706
+Tunica, Intima (internal coat) Arteries, 4464
+Tunica, Media Arteries, 4705 
+Turbinated Bone, Enlarged, 40115496 
+Turkey, 2011875
+Turnips, 201321
+Turnips, cooked, 201166
+Turpentine, Allergy, 7078811
+Tympanic antrum, 7693
+Tympanic Membrane, 5349
+Tympanic Plexus of Nerves, 895
+Tympanites, 607891233
+Tympanities, 607891233
+Typanic Cavity, 469
+Typhoid, 8096, 80962, 9512
+Typhoid Spine, 203143279
+Typhosum Bacterium, 40448
+Typhus, 70922, 709322
+Typhus Fever, 70936
+Typhus Malignant, 709222
+Typus, 2355, 709222
+Tyrosine, 3264
+Ulcer, 303
+Ulcer Decubital, 3032
+Ulcer of Cornea, 303988
+Ulcer of Duodenum, 30221
+Ulcer of Intestine, 30221
+Ulcer of Nose, 3096
+Ulcer of Stomach, 30321
+Ulcer, Duodenal, 30221
+Ulcer, Rectal, 30851
+Ulcererated Teeth, 30449
+Ulceration of Eye, 303988
+Ulna, 84464
+Ulnar Arteries, 7783
+Ulnar Nerve, 1219
+Ulterior Motive, 50768
+Ultra-violet, Allergy, 78931
+Umbilicus, 113
+Under-activity, 10
+Undesirable Thoughts, 66001
+Undulant Fever, 20322, 9074
+Unmannered, 3309
+Unrequited Love, 40107
+Unstriped Muscle, Pleura, 111
+Upper nasal cartilage, 443
+Urachus - Kidneys, 2558
+Uranium, 39099, 8349099
+Urates (Amorphous), 609254
+Urea, 607, 609567
+Uremia, 50637, 506371, 50637371, 506375 
+Ureteractasis, 404535
+Ureteral Calculus,'2092668, 2094668, 20946681 
+Ureteritis, 404668
+Ureterolithisasis, 504547
+Ureters, 668
+Ureters, Left, 6681
+Ureters, Right, 6684
+Urethra, 439
+Urethral Carbuncle, 10058
+Urethral Granulations, 2094439
+Urethritis, 40439
+Uric Acid, 0800, 4512
+Uric Acid, 306
+Uric Acid Crystals, 609563
+Urinary System, 337762
+Uriniferous Tubules, 237
+Urticaria, 901547, 9019832
+Uterine - Plexus of Veins, 935
+Uterine Cancer, 50954
+Uterine Congestion, 40149954
+Uterine Disease, 40954
+Uterine Displacement, 4035954
+Uterine Extremity, Overies, 3559
+Uterine Fibroid, 501954
+Uterine Fibroids, 952
+Uterine Fibroids, 50289
+Uterine Ligaments, Anterior, 3567
+Uterine Ligaments, Posterior, 386
+Uterine Ligaments, Round, 3803
+Uterine Ligaments, two Broad, 3857
+Uterine Polypus, 30795197
+Uterus, 954
+Uterus, Cancer, 50954
+Uterus, Congestion, 40149554
+Uterus, Inversion, 4035954
+Uterus, Tuberculosis of, 402954
+Utricle, 6444
+Uvula, 258
+Uvula, Swollen, 401258
+Vaccinated, 50444 
+Vaccinia, 81005 
+Vacillation, 2032
+Vagina, 329
+Vaginal - Plexus of Veins, 953
+Vaginal Muscle, 95 
+Vaginal Wall, 92 
+Vaginismus, 2074095
+Vaginitis, 304449 
+Vaginitis, Acute, 4095
+Vaginitis, Catarrhal, 6095 
+Vaginitis, Senile Granular, 402095
+Vagus Nerve, 220810
+Vagus Trunk Nerves, 210 
+Valerian, 6454 
+Valine, 5339 
+Valves - Heart, 4256 
+Valves, Vein, 4624 
+Valvular Disease, 501251, 501256, 502256, 502259 
+Valvular incompetence, 4054256
+Vanadium, 30523
+Vanity, 50413
+Varcinia, 80105
+Varicocele, 3068, 7054 
+Varicose Ulcer, 30349 
+Varicose veins, 2034 
+Variola, 403101, 5200, 607101, 60712
+Variola, Malignant, 403101
+Varix of Orbit, 31, 4014943, 40149431
+Vas deferens, 7234
+Vas deferens, ductuli aberrantes, 725
+Vas deferens, paradidymisrrantes, 7532
+Vascular coat, 835
+Vascular lamina, 727
+Vasomotor, 2326
+Vastus Lateralis, 77121
+Vastus Medialis, 7892
+Veal, 201917
+Veins, 494
+Veins - Duodenum, 2423
+Veins - Small Intestine, 2927
+Veins ending in L. Innominate Vein, Thymus, 8910
+Veins ending in Portal Vein - Gall Bladder, 2336
+Veins ending in Thyriod Vein, Thymus, 6997
+Veins ending in Uterine Plexus, 3455
+Veins of the Heart, 442
+Veins, Bladder, 6253
+Veins, Bronchi, 6521
+Veins, Circulus Venosus, 8810
+Veins, Corium, 4485
+Veins, Cystic - Gall bladder, 4027
+Veins, Glandular System, 977
+Veins, Hemorrhoidal Venous Plexus, 1089 
+Veins, Kidneys, 3727
+Veins, Larxyn, 3041
+Veins, Liver, 4474
+Veins, Lungs, 3108
+Veins, Mammary Glands, 3882
+Veins, Mouth, 1543
+Veins, Nose, 3366
+Veins, Parathyroid Glands, 3325
+Veins, Penis, 5899
+Veins, Prostate, 7313
+Veins, Spleen, 3225
+Veins, Stomach, 6225
+Veins, Thymus, 7522
+veins. Tongue, 7804
+Veins, Vagina, 3344
+Vena Cava Inferior, 4323
+Vena Cava Superior, 4743 
+Venous sinuses, 3649
+Ventricle (Dilated Right), 3065259
+Ventricle, Left, 258
+Ventricle, Right, 256
+Ventricles, 2555
+Ventricular Septem, 2259
+Ventriculin, 3244 
+Venules, Spleen, 4494
+Verbosity, 554402
+Vermiform Appendix, 86
+Veronal, 7413
+Vertebra, 84867Vertebrae (28), 546
+Vertebral Arteries, 6376
+Vertebral, Plexus of Nerves, 5508
+Vertigo, 30841
+Vesical Calculus, 209462
+Vesical, Plexus of Nerves, 6378
+Vesicilitis, Seminal, 402098
+Vesicles, Thyroid, 3259
+Vestibular Ganglion, 8649
+Vestibular Membrane, 2351
+Vestibular Nerve, 852
+Vestibule, 2253
+Vestibule, Crest, 2258
+Vestibule, Pyramid, 2527 
+Villi, Duodenum, 4274
+Vincent's Disease, 40313 
+Vincentii, 70732
+Vinegar, clear, 2017291 
+Vinegar, malt, 201725
+Viridans, 6052
+Virus Infection, 70064
+Visceral Inflammations, 401233 
+Vision, Left, 31986
+Vision, Right, 3986
+Visual area (Occipital), Brain Sensory Area, 7303
+Visuo-psychic area, Brain Sensory Area,  4545
+Vitality (mental), 579945
+Vitality, Female, 409711
+Vitality, Male, 409712
+VITAMIN - A, 2037756
+VITAMIN - Al, 2032344
+VITAMIN - A2, 2032404
+VITAMIN - Bl, 20376551
+VITAMIN - B12, 2032034
+VITAMIN - B2, 20377333
+VITAMIN - B3, 20335043
+VITAMIN - B4, 2039456
+VITAMIN - B5, 2036743
+VITAMIN - B6, 20344773
+VITAMIN - C, 20377733
+VITAMIN - D1, 203776661
+VITAMIN - D2, 2037662
+VITAMIN - D3, 2037643
+VITAMIN - D4, 2037622
+VITAMIN - E, 20333419
+VITAMIN - F, 2036428
+VITAMIN - G, 2033437
+Vitamin - General, 203 
+VITAMIN - H, 2033447
+VITAMIN - K1, 20390441
+VITAMIN - K2, 2037325
+VITAMIN - P, 20330011
+VITAMIN - T, 2033423
+Vitamin Deficiency, 686
+Vitamin Imbalance, 102686
+Vitreous body, 6503
+Vitreous body, hyaloid canal,  633
+Vitreous body, hyaloid membrane, 6433
+Vitreous body, suspensory ligament of lens, 6933
+Vocal Cord folds, 54 
+Vocal Cords, 4995
+Vocalis, 8343
+Voluntary, Muscle, 59918
+Vomiting, Persistent, 90705 
+Von Gierke's Disease, 4022534857
+Vulgaris, 3051
+Vulva, 4
+Vulva, Bartholin's Gland left, 931
+Vulva, Bartholin's Gland right, 93
+Vulvitis, 60358
+Vulvitus, 40253
+Waldeyer’s Tonsillar Ring, 7467
+Walnut, 201631
+Wart Body, 505725
+Warts, 1055, 10972 
+Wasting, 20135
+Watercress, 2013991
+Watermelon, 20143
+Watery (Lacrimation), 55551
+Wax in Meatus, 40613, 40613372 
+Weakness, 404463
+Weil's Disease, 40118848
+Welchii, 7087
+Wen, 5017
+Wesson oil, 201301
+Wheat, cooked, 201669
+Wheatena, 201709
+Wheezing, 4044
+Whisky, 201373, 4328, 9012545
+Whispering, 30223
+White Bread, 201708
+White Corpuscles (Leucocytes), 3071
+White Fibro Cartilage, 1303
+White Leukorrhea, 3071136
+White matter, Anterior column, Meninges & SpinalCord, 3121
+White matter, Cerebellum, 2021
+White matter, Lateral column, Meninges & SpinalCord, 3678
+White matter, Medullated nerve fibres, Mn & SpinalCord, 191
+White matter, Meninges & Spinal Cord, 9977
+White matter, Posterior column, Meninges & SpinalCord, 3464
+White Sugar, 201298
+Whitefish, 201835
+Wholewheat Bread, 201734
+Whooping Cough, 1068, 5100, 709222, 9079 
+Wine, general, 20133
+Winkles, Sea Food, 2013333
+Wishes to die, 40792
+Withdrawal, 56741
+Wonderment, 101610
+Wood - Allergy, 2124663
+Wood Ash, general, 5500006
+Wool - Allergy, 11552
+Worm Fever, 50766
+Worms, 9080
+Worms, Animal, 1046
+Worms, Fluke, 1003
+Worms, Hook, 30623
+Worms, Pin, 102, 4681
+Worms, Tape, 907980
+Worms, Thread, 2028
+Worry, 10853
+Wound, 30323
+Wrist Joints (2) , 10041
+X-ray Burn, 60578
+X-ray, Allergy, 700321
+Xanthelasma, 9089979
+Xenon, 30954
+Xerosis, 4055
+Yawa (Treponematosis Pertenue), 105110
+Yeast (food), 2011290
+Yellow Atrophy, Acute, 2044048, 20440487
+Yellow Bone Marrow, 992
+Yellow Fever, 50403, 51453 
+Ytterbium, 3257
+Yttrium, 30339
+Zinc, 31125, 8345009 
+Zinc - Allergy, 226330 
+Zirconium, 344
