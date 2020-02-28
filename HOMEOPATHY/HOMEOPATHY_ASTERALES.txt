@@ -1,0 +1,441 @@
+Achillea millefolium, common yarrow
+Achillea nobilis, noble yarrow
+Achillea ptarmica, sneezeweed
+Acroptilon repens, Russian knapweed
+Adenocaulon bicolor, American trailplant
+Ageratina occidentalis, western boneset
+Agoseris aurantiaca, orange agoseris
+Agoseris glauca, pale agoseris
+Agoseris glauca var. dasycephala, pale agoseris
+Agoseris glauca var. glauca, pale agoseris
+Agoseris grandiflora, large-flower agoseris
+Agoseris heterophylla, annual agoseris
+Agoseris lackschewitzii, pink agoseris
+Agoseris parviflora, steppe agoseris
+Almutaster pauciflorus, alkali marsh aster
+Ambrosia acanthicarpa, flat-spine bursage
+Ambrosia artemisiifolia, annual ragweed
+Ambrosia psilostachya, naked-spike ambrosia
+Ambrosia tomentosa, skeleton-leaf bursage
+Ambrosia trifida, great ragweed
+Anaphalis margaritacea, pearly everlasting
+Antennaria alpina, alpine pussytoes
+Antennaria anaphaloides, tall pussytoes
+Antennaria aromatica, aromatic pussytoes
+Antennaria corymbosa, meadow pussytoes
+Antennaria densifolia, dense-leaved pussytoes
+Antennaria dimorpha, low pussytoes
+Antennaria howellii, Howell's pussytoes
+Antennaria lanata, woolly pussytoes
+Antennaria luzuloides, rush pussytoes
+Antennaria media, rocky mountain pussytoes
+Antennaria microphylla, littleleaf pussytoes
+Antennaria monocephala, single-head pussytoes
+Antennaria neglecta, field pussytoes
+Antennaria parvifolia, Nuttall's pussytoes
+Antennaria pulcherrima, showy pussytoes
+Antennaria racemosa, racemose pussytoes
+Antennaria rosea, rosy pussytoes
+Antennaria umbrinella, umber pussytoes
+Anthemis arvensis, corn camomile
+Anthemis cotula, mayweed
+Anthemis tinctoria, golden camomile
+Arctium lappa, greater burdock
+Arctium minus, lesser burdock
+Arnica amplexicaulis, stream-bank arnica
+Arnica angustifolia, narrowleaf arnica
+Arnica chamissonis, leafy arnica
+Arnica cordifolia, heart-leaved arnica
+Arnica fulgens, hillside arnica
+Arnica latifolia, mountain arnica
+Arnica latifolia var. gracilis, smallhead arnica
+Arnica longifolia, long-leaf arnica
+Arnica mollis, hairy arnica
+Arnica parryi, nodding arnica
+Arnica rydbergii, subalpine arnica
+Arnica sororia, twin arnica
+Arnica × diversifolia, rayless arnica
+Artemisia absinthium, common wormwood
+Artemisia annua, annual wormwood
+Artemisia arbuscula, dwarf sagebrush
+Artemisia biennis, biennial wormwood
+Artemisia campestris, field sagewort
+Artemisia campestris subsp. borealis, boreal field sagewort
+Artemisia campestris subsp. caudata, field sagewort
+Artemisia cana, silver sagebrush
+Artemisia cana subsp. cana, silver sagebrush
+Artemisia cana subsp. viscidula, silver sagebrush
+Artemisia dracunculus, tarragon
+Artemisia frigida, fringed sage
+Artemisia lindleyana, Columbia River wormwood
+Artemisia longifolia, longleaf wormwood
+Artemisia longiloba, alkali sagebrush
+Artemisia ludoviciana, white sagebrush
+Artemisia ludoviciana subsp. candicans, white sagebrush
+Artemisia ludoviciana subsp. incompta, white sagebrush
+Artemisia ludoviciana subsp. ludoviciana, white sagebrush
+Artemisia michauxiana, Michaux's wormwood
+Artemisia norvegica, boreal wormwood
+Artemisia nova, black sagebrush
+Artemisia pedatifida, bird's-foot sagebrush
+Artemisia rigida, scabland sagebrush
+Artemisia scopulorum, alpine sagebrush
+Artemisia spinescens, budsage
+Artemisia tilesii, Tilesius wormwood
+Artemisia tridentata, big sagebrush
+Artemisia tridentata subsp. tridentata, basin big sagebrush
+Artemisia tridentata subsp. vaseyana, mountain big sagebrush
+Artemisia tridentata subsp. wyomingensis, Wyoming big sagebrush
+Artemisia tripartita, three-tip sagebrush
+Artemisia tripartita subsp. rupicola, Wyoming threetip sagebrush
+Artemisia tripartita subsp. tripartita, threetip sagebrush
+Balsamorhiza hookeri, Hooker's balsamroot
+Balsamorhiza incana, hoary balsamroot
+Balsamorhiza macrophylla, large-leaved balsamroot
+Balsamorhiza sagittata, arrowleaf balsamroot
+Bellis perennis, lawn daisy
+Bidens beckii, beck water-marigold
+Bidens cernua, nodding beggarticks
+Bidens comosa, three-lobe beggarticks
+Bidens frondosa, devil's beggarticks
+Bidens vulgata, tall bur-marigold
+Brickellia eupatorioides, thoroughwort brickellbush
+Brickellia grandiflora, tasselflower brickellbush
+Brickellia oblongifolia, mojave brickellbush
+Canadanthus modestus, great northern aster
+Carduus acanthoides, spiny plumeless-thistle
+Carduus nutans, musk thistle
+Centaurea cyanus, garden cornflower
+Centaurea diffusa, diffuse knapweed
+Centaurea jacea, brown starthistle
+Centaurea montana, mountain starthistle
+Centaurea nigra, black starthistle
+Centaurea scabiosa, great starthistle
+Centaurea solstitialis, yellow starthistle
+Centaurea stoebe, spotted knapweed
+Centaurea virgata, squarrose knapweed
+Chaenactis alpina, hoary pincushion
+Chaenactis douglasii, dusty maiden
+Chondrilla juncea, rush skeletonweed
+Chrysothamnus viscidiflorus, sticky-leaf rabbitbrush
+Cichorium intybus, chicory
+Cirsium arvense, Canada thistle
+Cirsium brevistylum, short-styled thistle
+Cirsium canescens, prairie thistle
+Cirsium canovirens, gray green thistle
+Cirsium eatonii, Eaton's thistle
+Cirsium flodmanii, Flodman's thistle
+Cirsium foliosum, leafy thistle
+Cirsium hookerianum, hooker thistle
+Cirsium longistylum, long-styled thistle
+Cirsium pulcherrimum, Wyoming thistle
+Cirsium scariosum, meadow thistle
+Cirsium subniveum, Jackson Hole thistle
+Cirsium undulatum, wavyleaf thistle
+Cirsium vulgare, bull thistle
+Conyza canadensis, Canada horseweed
+Coreopsis tinctoria, golden tickseed
+Crepis acuminata, longleaf hawk's-beard
+Crepis atribarba, slender hawksbeard
+Crepis elegans, elegant hawk's-beard
+Crepis intermedia, small-flower hawk's-beard
+Crepis modocensis, siskiyou hawk's-beard
+Crepis nana, dwarf alpine hawk's-beard
+Crepis nicaeensis, Turkish hawksbeard
+Crepis occidentalis, gray hawk's-beard
+Crepis runcinata, naked-stem hawk's-beard
+Crepis runcinata subsp. glauca, fiddleleaf hawksbeard
+Crepis runcinata subsp. hispidulosa, fiddleleaf hawksbeard
+Crepis runcinata subsp. runcinata, fiddleleaf hawksbeard
+Crepis setosa, bristly hawk's-beard
+Crepis tectorum, narrowleaf hawk's-beard
+Dyssodia papposa, fetid dogweed
+Echinacea angustifolia, narrow-leaved purple coneflower
+Ericameria discoidea, whitestem goldenbush
+Ericameria discoidea var. discoidea, whitestem goldenbush
+Ericameria discoidea var. linearis, linear-leaved whitestem goldenbush
+Ericameria nana, dwarf goldenweed
+Ericameria nauseosa, rubber rabbitbrush
+Ericameria parryi, Parry's rabbitbrush
+Ericameria parryi var. montana, Parry's mountain rabbitbrush
+Ericameria suffruticosa, single-head goldenweed
+Erigeron acris, bitter fleabane
+Erigeron acris subsp. debilis, bitter fleabane
+Erigeron acris subsp. kamtschaticus, bitter fleabane
+Erigeron allocotus, Bighorn fleabane
+Erigeron asperugineus, Idaho fleabane
+Erigeron caespitosus, caespitose fleabane
+Erigeron compositus, cutleaf fleabane
+Erigeron corymbosus, longleaf fleabane
+Erigeron coulteri, Coulter fleabane
+Erigeron divergens, spreading fleabane
+Erigeron eatonii, Eaton's fleabane
+Erigeron evermannii, Evermann fleabane
+Erigeron filifolius, threadleaf fleabane
+Erigeron flabellifolius, fan-leaved fleabane
+Erigeron flagellaris, running fleabane
+Erigeron formosissimus, beautiful fleabane
+Erigeron glabellus, smooth fleabane
+Erigeron glabellus var. glabellus, streamside fleabane
+Erigeron glabellus var. pubescens, streamside fleabane
+Erigeron gracilis, slender fleabane
+Erigeron grandiflorus, large-flower fleabane
+Erigeron humilis, low fleabane
+Erigeron lackschewitzii, Lackschewitz' fleabane
+Erigeron lanatus, woolly fleabane
+Erigeron leiomerus, smooth fleabane
+Erigeron linearis, linear-leaf fleabane
+Erigeron lonchophyllus, short-ray fleabane
+Erigeron ochroleucus, buff fleabane
+Erigeron ochroleucus var. ochroleucus, buff fleabane
+Erigeron ochroleucus var. scribneri, buff fleabane
+Erigeron parryi, Parry's fleabane
+Erigeron peregrinus, subalpine fleabane
+Erigeron philadelphicus, Philadelphia fleabane
+Erigeron pumilus, shaggy fleabane
+Erigeron radicatus, taprooted fleabane
+Erigeron rydbergii, Rydberg's fleabane
+Erigeron simplex, one-stem fleabane
+Erigeron speciosus, aspen fleabane
+Erigeron strigosus, daisy fleabane
+Erigeron subtrinervis, three-nerve fleabane
+Erigeron tener, slender fleabane
+Erigeron tweedyi, tweedy's fleabane
+Erigeron ursinus, bear river fleabane
+Eriophyllum lanatum, common woolly-sunflower
+Eriophyllum lanatum var. integrifolium, common woolly sunflower
+Eriophyllum lanatum var. lanatum, common woolly-sunflower
+Eucephalus elegans, elegant aster
+Eucephalus engelmannii, Engelmann's aster
+Eupatorium maculatum, spotted joepye-weed
+Eupatorium occidentale, western joepye-weed
+Eurybia conspicua, showy aster
+Eurybia glauca, gray aster
+Eurybia integrifolia, thick-stem aster
+Eurybia merita, subalpine aster
+Eurybia sibirica, arctic aster
+Euthamia graminifolia, flat-top fragrant goldenrod
+Euthamia occidentalis, western fragrant goldenrod
+Evax prolifera, big-head evax
+Filago arvensis, field fluffweed
+Gaillardia aristata, great blanket-flower
+Galinsoga quadriradiata, fringed quickweed
+Gnaphalium macounii, Macoun's cudweed
+Gnaphalium microcephalum, white cudweed
+Gnaphalium palustre, western marsh cudweed
+Gnaphalium purpureum, purple cudweed
+Gnaphalium stramineum, cotton-batting cudweed
+Gnaphalium uliginosum, low cudweed
+Grindelia howellii, Howell's gumweed
+Grindelia nana, Idaho gumweed
+Grindelia squarrosa, curlycup gumweed
+Gutierrezia sarothrae, broom snakeweed
+Helenium autumnale, common sneezeweed
+Helenium hoopesii, orange sneezeweed
+Helianthella quinquenervis, nodding rockrose
+Helianthella uniflora, Rocky Mountain rockrose
+Helianthus annuus, common sunflower
+Helianthus maximiliani, Maximillian sunflower
+Helianthus nuttallii, Nuttall's sunflower
+Helianthus pauciflorus, stiff sunflower
+Helianthus petiolaris, prairie sunflower
+Helianthus × laetiflorus, hybrid prairie sunflower
+Heterotheca villosa, hairy golden-aster
+Heterotheca villosa var. depressa, low golden aster
+Heterotheca villosa var. foliosa, hairy false goldenaster
+Heterotheca villosa var. minor, hairy false goldenaster
+Heterotheca villosa var. villosa, hairy false goldenaster
+Hieracium albiflorum, white-flower hawkweed
+Hieracium aurantiacum, orange hawkweed
+Hieracium caespitosum, meadow hawkweed
+Hieracium gracile, alpine hawkweed
+Hieracium praealtum, kingdevil
+Hieracium scouleri, Scouler's hawkweed
+Hieracium scouleri var. albertinum, Albert's hawkweed
+Hieracium scouleri var. griseum, hound's-tongue hawkweed
+Hieracium scouleri var. scouleri, Scouler's hawkweed
+Hieracium umbellatum, narrowleaf hawkweed
+Hulsea algida, alpine hulsea
+Hymenopappus filifolius, fine-leaved hymenopappus
+Hymenopappus filifolius var. luteus, yellowish hymenopappus
+Hymenopappus filifolius var. polycephalus, manyhead hymenopappus
+Hymenoxys acaulis, stemless four-nerve-daisy
+Hymenoxys grandiflora, old-man-of-the-mountain
+Hymenoxys richardsonii, Richardson's bitterweed
+Hymenoxys torreyana, Torrey bitterweed
+Hypochaeris radicata, hairy cat's-ear
+Ionactis alpina, lava aster
+Ionactis stenomeres, Rocky Mountain aster
+Iva axillaris, small-flowered marsh-elder
+Iva xanthifolia, coarse sumpweed
+Lactuca biennis, tall blue lettuce
+Lactuca canadensis, Canada lettuce
+Lactuca ludoviciana, western lettuce
+Lactuca serriola, prickly lettuce
+Lactuca tatarica, tartarian lettuce
+Lagophylla ramosissima, slender hareleaf
+Lapsana communis, common nipplewort
+Leucanthemum vulgare, oxeye daisy
+Liatris ligulistylis, Rocky Mountain blazing star
+Liatris punctata, dotted blazing star
+Lorandersonia linifolia, spearleaf rabbitbrush
+Lygodesmia juncea, rush skeleton-plant
+Machaeranthera canescens, hoary tansy-aster
+Machaeranthera grindelioides, rayless tansy-aster
+Machaeranthera pinnatifida, spiny goldenaster
+Machaeranthera tanacetifolia, tanseyleaf tansy-aster
+Madia exigua, little tarweed
+Madia glomerata, mountain tarweed
+Madia gracilis, grassy tarweed
+Madia minima, small-headed tarweed
+Malacothrix torreyi, desert dandelion
+Matricaria discoidea, pineapple-weed chamomile
+Matricaria maritima, false chamomile
+Microseris nutans, nodding microseris
+Nothocalais cuspidata, prairie false-dandelion
+Nothocalais nigrescens, black hairy false-dandelion
+Nothocalais troximoides, sagebrush false dandelion
+Onopordum acanthium, scotch thistle
+Oreostemma alpigenum, anderson's aster
+Petasites frigidus, arctic sweet coltsfoot
+Petasites frigidus var. frigidus, arctic sweet coltsfoot
+Petasites frigidus var. sagittatus, arrowleaf sweet coltsfoot
+Picradeniopsis oppositifolia, oppositeleaf false bahia
+Platyschkuhria integrifolia, basin daisy
+Pleiacanthus spinosus, spiny skeletonweed
+Prenanthes racemosa, glaucous rattlesnake-root
+Prenanthes sagittata, arrow-leaf rattlesnake-root
+Psilocarphus brevissimus, dwarf woolly-heads
+Psilocarphus elatior, tall woolly-heads
+Pyrrocoma carthamoides, large-flower goldenweed
+Pyrrocoma carthamoides var. carthamoides, large-flower goldenweed
+Pyrrocoma carthamoides var. subsquarrosa, beartooth large-flowered goldenweed
+Pyrrocoma integrifolia, entire-leaf goldenweed
+Pyrrocoma lanceolata, lance-leaved goldenweed
+Pyrrocoma uniflora, plantain goldenweed
+Ratibida columnifera, prairie coneflower
+Rudbeckia hirta, blackeyed susan
+Rudbeckia laciniata, cut-leaved coneflower
+Rudbeckia occidentalis, western coneflower
+Saussurea americana, American saw-wort
+Saussurea densa, dwarf saw-wort
+Saussurea weberi, Weber's saw-wort
+Scorzonera laciniata, mediterranean serpent-root
+Senecio amplectens, clasping groundsel
+Senecio canus, woolly groundsel
+Senecio congestus, marsh ragwort
+Senecio conterminus, northwestern groundsel
+Senecio crassulus, thick-leaf groundsel
+Senecio cymbalarioides, cleft-leaf groundsel
+Senecio debilis, weak groundsel
+Senecio dimorphophyllus, two-leaf ragwort
+Senecio dimorphophyllus var. dimorphophyllus, twoleaf ragwort
+Senecio dimorphophyllus var. paysonii, Payson's groundsel
+Senecio elmeri, Elmer's ragwort
+Senecio eremophilus, desert groundsel
+Senecio fremontii, Fremont's ragwort
+Senecio fuscatus, twice-hairy butterweed
+Senecio hydrophiloides, sweet marsh ragwort
+Senecio hydrophilus, alkali-marsh ragwort
+Senecio indecorus, elegant groundsel
+Senecio integerrimus, entire-leaf ragwort
+Senecio integerrimus var. exaltatus, Columbia ragwort
+Senecio integerrimus var. integerrimus, lambstongue ragwort
+Senecio integerrimus var. scribneri, Scribner's ragwort
+Senecio jacobaea, tansy ragwort
+Senecio lugens, black-tip groundsel
+Senecio megacephalus, large-headed ragwort
+Senecio pauciflorus, few-flowered butterweed
+Senecio pauperculus, balsam ragwort
+Senecio plattensis, prairie ragwort
+Senecio pseudaureus, western golden groundsel
+Senecio serra, tall groundsel
+Senecio sphaerocephalus, rough-head groundsel
+Senecio streptanthifolius, Rocky Mountain groundsel
+Senecio triangularis, arrow-leaf groundsel
+Senecio vulgaris, common groundsel
+Senecio werneriifolius, rock groundsel
+Solidago canadensis, Canada goldenrod
+Solidago canadensis var. gilvocanescens, Great Plains goldenrod
+Solidago canadensis var. salebrosa, rough Canada goldenrod
+Solidago gigantea, giant goldenrod
+Solidago missouriensis, Missouri goldenrod
+Solidago mollis, velvety goldenrod
+Solidago multiradiata, Rocky Mountain goldenrod
+Solidago nana, baby goldenrod
+Solidago nemoralis, field goldenrod
+Solidago ptarmicoides, prairie goldenrod
+Solidago rigida, stiff goldenrod
+Solidago simplex, sticky goldenrod
+Solidago velutina, three-nerved goldenrod
+Sonchus arvensis, field sowthistle
+Sonchus arvensis subsp. arvensis, field sowthistle
+Sonchus arvensis subsp. uliginosus, field sowthistle
+Sonchus asper, spiny-leaf sowthistle
+Sonchus oleraceus, common sowthistle
+Sphaeromeria argentea, chicken-sage
+Sphaeromeria capitata, rock-tansy
+Stenotus acaulis, stemless mock goldenweed
+Stenotus armerioides, thrift mock goldenweed
+Stenotus lanuginosus, woolly goldenweed
+Stenotus lanuginosus var. andersonii, woolly goldenweed
+Stenotus multicaulis, many-stem goldenweed
+Stephanomeria runcinata, desert wirelettuce
+Stephanomeria tenuifolia, narrowleaf wirelettuce
+Symphyotrichum ascendens, western aster
+Symphyotrichum boreale, boreal aster
+Symphyotrichum campestre, western meadow aster
+Symphyotrichum ciliatum, rayless alkali aster
+Symphyotrichum ciliolatum, fringed blue aster
+Symphyotrichum cusickii, Cusick's aster
+Symphyotrichum eatonii, Eaton's aster
+Symphyotrichum ericoides, white heath aster
+Symphyotrichum falcatum, white prairie aster
+Symphyotrichum foliaceum, leafy-bracted aster
+Symphyotrichum foliaceum var. apricum, alpine leafy-bract aster
+Symphyotrichum foliaceum var. foliaceum, leafy-bract aster
+Symphyotrichum foliaceum var. parryi, Parry's aster
+Symphyotrichum hendersonii, henderson's aster
+Symphyotrichum laeve, smooth blue aster
+Symphyotrichum lanceolatum, white panicle aster
+Symphyotrichum molle, soft aster
+Symphyotrichum oblongifolium, aromatic aster
+Symphyotrichum spathulatum, western mountain aster
+Symphyotrichum subspicatum, Douglas's aster
+Symphyotrichum welshii, Welsh's aster
+Tanacetum balsamita, coastmary
+Tanacetum parthenium, feverfew
+Tanacetum vulgare, common tansy
+Taraxacum ceratophorum, Rocky Mountain dandelion
+Taraxacum erythrospermum, redseed dandelion
+Taraxacum lyratum, alpine dandelion
+Taraxacum officinale, common dandelion
+Tetradymia canescens, gray horsebrush
+Tetradymia spinosa, short-spine horsebrush
+Thelesperma megapotamicum, hopi-tea
+Thelesperma subnudum, border goldthread
+Tonestus aberrans, Idaho goldenweed
+Tonestus lyallii, Lyall's goldenweed
+Tonestus pygmaeus, pygmy goldenweed
+Townsendia condensata, cushion townsend-daisy
+Townsendia exscapa, silky townsend-daisy
+Townsendia florifera, showy townsend-daisy
+Townsendia hookeri, Hooker's townsend-daisy
+Townsendia incana, hoary townsend-daisy
+Townsendia leptotes, slender townsend-daisy
+Townsendia montana, Wyoming townsend-daisy
+Townsendia parryi, Parry's townsend-daisy
+Townsendia spathulata, sword townsend-daisy
+Tragopogon dubius, meadow goat's-beard
+Tragopogon porrifolius, purple goat's-beard
+Tragopogon pratensis, meadow goat's-beard
+Triniteurybia aberrans
+Verbesina encelioides, golden crownbeard
+Vernonia fasciculata subsp. corymbosa, fascicled ironweed
+Viguiera multiflora, many-flowered viguiera
+Wyethia amplexicaulis, northern mule's-ears
+Wyethia helianthoides, white-head mule's-ears
+Wyethia scabra, rough mule's ears
+Xanthium spinosum, spiny cocklebur
+Xanthium strumarium, rough cocklebur
+Xylorhiza glabriuscula, woody aster
