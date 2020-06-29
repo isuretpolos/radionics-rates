@@ -1,0 +1,24 @@
+Sand, erhöht die Durchlässigkeit, bei schwerem Boden
+Kies, erhöht die Durchlässigkeit, bei schwerem Boden
+Lavagrus, erhöht die Durchlässigkeit, bei schwerem Boden
+Gesteinsmehl, Bentonit, erhöht die Wasserspeicherkapazität
+Kompost, erhöht den Humusgehalt, bei leichtem Boden
+Rindenhumus, erhöht den Humusgehalt, bei leichtem Boden
+Mist (verrottet), erhöht den Humusgehalt, bei leichtem Boden
+Gartenkalk, reguliert den pH-Wert im Boden (gegen sauren Boden)
+zu viel Bor
+zu viel Eisen
+zu viel Kalium
+zu viel Kupfer
+zu viel Magnesium
+zu viel Molybdän
+zu viel Phosphor
+zu viel Zink
+zu wenig Bor
+zu wenig Eisen
+zu wenig Kalium
+zu wenig Kupfer
+zu wenig Magnesium
+zu wenig Molybdän
+zu wenig Phosphor
+zu wenig Zink
