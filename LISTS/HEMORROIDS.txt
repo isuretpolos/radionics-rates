@@ -1,0 +1,38 @@
+Bach flowers Rescue remedy
+Aconitum C30
+Aconitum C200
+Aesculus hippocastanum C1
+Aesculus hippocastanum C3
+Aesculus hippocastanum C6
+Aesculus hippocastanum C12
+Aesculus hippocastanum C30
+Aloe D1
+Aloe D3
+Aloe D6
+Aloe D12
+Arsenicum album D6
+Arsenicum album D12
+Arsenicum album C30
+Calendula D1
+Calendula D3
+Calendula D6
+Carbo vegetabilis C30
+Carbo animalis C30
+Ferrum C30
+Graphites C12
+Hamamelis D1
+Hamamelis D3
+Hamamelis D6
+Hamamelis D12
+Hamamelis C30
+Hamamelis C200
+Kalium C12
+Lachesis C30
+Magnesium D6
+Magnesium D12
+Phosphorus C12
+Podophylum C30
+Pulsatilla C12
+Rock Water
+Sulphur C30
+Zincum C12
