@@ -1,0 +1,167 @@
+Acaridea: Tromb.
+Algae: Fucus
+Amaryllidaceae: Agave, Narci.
+Anacardiaceae: Anac. occ., Anac., Comocl., Karaka, Rh. a., Rh. d., Rh. g., Rh. t., Rh. v., Schinus
+Anonaceae: Asimina
+Apocynaceae: Alston. c., Apoc. andr., Apoc. c., Olean., Queb., Strop., Tanghinia, Thev., Vinca
+Aquifoliaceae: Ilex, Prin. v.
+Araceae: Arum dracont., Arum dracun., Arum i., Arum. m., Arum. tri., Calad.
+Arachnida: Aran. d., Aran. scin., Lat. k., Lat. mac., Myg., Therid., Tromb.
+Araliaceae: Aralia, Ginseng, Hed. h.
+Araneideae: Trn., Trn. c.
+Aristolochiaceae: Arist. m., Arist. serp., Asar.
+Asclepiadaceae: Asclep. syr., Asclep. tub., Calo., Cundur., Gymnema
+Berberidaceae: Berb. aqui., Berb. vulg., Caulo., Pod.
+Bignoniaceae: Jac. c., Jac. g.
+Boraginaceae: Heliot., Myos., Onos., Symph.
+Brassicaceae: Lep. bon.
+Bufonidae, Batrachidae: Buf.
+Cactaceae: Anhal., Cact., Cer. bon., Cer. s., Opun.
+Cannabinaceae: Can. ind., Can. sat., Lup.
+Caprifoliaceae: Lon. peri., Lon. xylost., Samb. can., Samb. nig., Smpho. r., Triost., Vib. o., Vib. p., Vib. t.
+Caryophyllaceae: Agros., Stel.
+Celastraceae: Euon. atro., Euon. europ.
+Cephalopoda: Sep.
+Chenopodiaceae: Chen. anth., Chen. v.
+Chilopoda: Scol.
+Cistaceae: Cistus
+Cślenterata: Spo.
+Coleoptera: Coccin., Dor.
+Commelynaceae: Trad.
+Compositae: Abrot., Absinth., Ambro., Anthem. nob., Arct., Arn., Artem. v., Bellis, Calen., Card. ben., Card. m., Cent. t., Cham., Cich., Cina, Ciner., Echin., Echin. p., Erech., Erig., Eupat. arom., Eupat. perf., Eupat. purpur., Gnaph., Grind. r., Guaco, Helianth., Inula, Lact. vir., Lapsana, Liatris, Mill., Nab., Parthen., Pyr. p., Senec., Sen. jac., Silph., Solid., Tan., Trx., Tus. far., Tus. fg., Tus. p., Wyeth.
+Coniferae: Ab. c., Ab. n., Cupress. aust., Cupress. l., Jun. c., Jun. v., Pin. lamb., Pin. syl., Sbi., Tax., Thuja
+Convolvulaceae: Conv. a., Conv. d., Jalap., Scam.
+Coriarieae: Coria.
+Cornaceae: Corn. a., Corn. c., Corn. f.
+Corylaceae: Quer.
+Crassulaceae: Cotyl., Penth. s., Semp.
+Crotalidae: Bothrops, Crot. c., Crot. h.
+Cruciferae: Armor. sat., Bras., Cheiranth., Iber., Lep. bon., Matt. g., Rap., Sin. alb., Sin. nig., Thlasp., Vesic.
+Crustaceae: Astacus, Homarus, Limulus, Onis.
+Cucurbitaceae: Bry, Coloc., Cucurb. p., Elat., Mom.
+Culicidae: Culex
+Cupuliferae: Alnus, Castan., Fagus, Ost., Quer.
+Dioscoreaceae: Diosc., Tamus.
+Droseraceae: Dros.
+Elapidae: Elaps, Naja
+Equisetaceae: Equis.
+Ericaceae: Arbutus, Epigea, Gaulth., Kalm., Led., Oxydend., Rhod., Uva
+Erythrininae: Erythrin.
+Eupatoriaceae: Brach.
+Euphorbiaceae: Acal., Cascari., Croton tig., Euphorb. amyg., Euphorb. corol., Euphorb. cyparis., Euphorb. heter., Euphorb. hyperic., Euphorb. ipecac., Euphorb. lath., Euphorb. peplus, Euphorb. pil., Euphorb., Hura bras., Hura crep., Jatr., Jatr. u., Kamala, Manc., Merls., Ric., Still.
+Filices: Filix
+Fumariaceae: Coryd.
+Fungi: Agar. emet., Agar., Agar. phal., Bol. lar., Bol. lur., Bol. sat., Bov., Phallus, Pol. pin., Russula, Sec., Ust.
+Gadidae: Gadus, Ol. j. a.
+Galiaceae: Galium
+Gasteropoda: Murex
+Gentianaceae: Canch., Gent. cruc., Gent. lutea, Gent. quin., Meny.
+Geraniaceae: Erodium, Geranium, Pel. ren.
+Gnetaceae: Ephedra
+Gorgoniaceae: Coral.
+Gramineae: Anath., Anthox., Arundo, Avena, Lol. tem., Sec., Trit. r., Zea
+Granateae: Granat.
+Guttiferae: Gamb.
+Gymnospermae: Jun. c., Jun. v.
+Haemodoraceae: Alet. far., Lachn.
+Hamamelidaceae: Ham.
+Helicidae: Helix t.
+Helodermidae: Helod.
+Hemiptera: Cimex, Coc. c., Pedic.
+Hydrangeaceae: Hydrang.
+Hydrophyllaceae: Eriodyct., Hydrophyl. v.
+Hymenoptera: Form., Vesp.
+Hypericaceae: Hyp.
+Insecta: Aphis, Apis, Canth., Culex
+Iridaceae: Croc., Homeria, Ir. flor., Ir. fśt., Ir. germ., Ir. t., Ir. v.
+Isopoda: Onis.
+Jasminaceae: Jasmin., Nyct.
+Juncaceae: Junc.
+Juglandaceae: Carya, Jug. c., Jug. r.
+Labiatae: Collins., Hedeoma, Lamium, Leo., Lcps., Menth. pip., Menth. pul., Ocim. can., Orig., Plectr., Rosm., Salvia, Scut., Stach., Teuc. m., Teuc. s.
+Lacertilia:  Amph., Lacerta
+Lauraceae: Benzoin, Camph., Cinnam., Coto b., Oreod.
+Leguminosae: Astrag., Bals., Bapt. c. acet., Bapt., Copaiva, Der., Dol., Galega, Genista, Gymnocl., Haem., Hedysar., Indg., Jeq., Kino, Laburn., Lath., Melil., Mimosa, M. urens, Onon., Oxyt. lamberti, Phas., Physo., Piscidia, Rob., Senna, Tong., Tri. p., Tri. r.
+Lemnaceae: Lemna
+Lepidoptera: Bomb.
+Lichenes: Cetraria, Stic., Usn. b.
+Liliaceae: Agraphis, All. cep., All. sat., Aloe, Aspar., Colch., Conval., Lil. t.,  Ornith., Paris, Saba., Scil., Ver. a., Ver. v., Yuc.
+Linaceae: Lin. cath., Lin. us.
+Lineae: Coca
+Lobeliaceae: Lob. card., Lob. d., Lob. er., Lob. i., Lob. purp., Lob. syph.
+Loganiaceae: Brucea, Cur., Gels., Hoang-nan, Ign., Nux. v., Spi., Spi. m., Up.
+Loranthaceae: Visc.
+Lycopodiaceae: Lyc.
+Lythraceae: Cuphea
+Magnoliaceae: Illic., Mgl. gl., Mgl. grand.
+Malvaceae: Gossyp.
+Mammalia: Mosch.
+Melanthaceae: Colch., Helon., Saba., Ver. a., Ver. nig., Ver. v., Yuc.
+Melastomaceae: Melast.
+Meliaceae: Azad., Guarea
+Menispermaceae: Coccul., Meni., Par. b.
+Moraceae: Ficus
+Mustelidae: Meph.
+Myricaceae: Myrica
+Myristicaceae: Myr. seb., Nux. m.
+Myrsinaceae: Karaka
+Myrtaceae: Angoph., Caj., Eucalyp., Eug., Myrt. com., Pimenta, Syz.
+Nymphaeaceae: Nuph., Nymph.
+Oleaceae: Chion., Fraxinus, Jasmin.
+Onagraceae: Epil. p., Śnoth.
+Ophidia: Cench., Lach., Tox., Vip.
+Orchidaceae: Cypr., Spiran.
+Orobanchaceae: Epiph.
+Orontiaceae: Ictod.
+Orthoptera: Blatt. amer., Blatt. orient.
+Palmeae: Areca nut, Elaeis
+Palmaceae: Musa
+Papaveraceae: Chel., Op., Sang.
+Passifloraceae: Passif.
+Pectinidae: Pecten
+Physophoridae: Physal.
+Phytolaccaceae: Petiv., Phyt.
+Piperaceae: Cubeba, Piper m., Piper nig.
+Pistiaceae: Lemna
+Plantaginaceae: Plant.
+Platanaceae: Platanus
+Plumbaginaceae: Plumbago
+Polygonaceae: Fago., Lapath., Polyg., Rhe., Rx. a., Rx. c.
+Polygalaceae: Rat., Seneg.
+Primulaceae: Anag., Cycl., Prim. ob., Prim. ver., Prim. vulg.
+Pyroleae: Chim. mac., Chim. umb.
+Radiata: Aster. r.
+Ranunculaceae: A. camm., A. ferox, A. lycoct., Acon., Act. r., Act. sp., Adonis, Aquil., Calth. p., Clem., Hell. f., Hell. n., Hell. o., Hell. v., Hepatica, Hydrastis, Paeon., Puls., Puls. nutt., Ran. acris., Ran. bulb., Ran. ficaria, Ran. flam., Ran. glac., Ran. rep., Ran. sc., Staph.
+Rhamnaceae: Casc. sagr., Cean., Rh. ca., Rh. fr.
+Rodentia: Cast.
+Rosaceae: Amyg., Crataeg., Frag. v., Geum, Kousso, Lauro., Pers., Prun. pd., Prun. spi., Prun. virg., Pyrus amer., Rosa can., Rosa dam., Spir.
+Rubiaceae: Cainca, China bol., China., Coff. c., Coff. t., Galium, Ipec., Mitch., Rub. t., Yohim.
+Ruminantia: Fel. t.
+Rutaceae: Angust., Aurant., Barosma, Citrus, Dict., Jab., Pte., Ruta, Xan.
+Salicaceae: Pop. c., Pop. t., Sal. mollis., Sal. n., Sal. purp.
+Santalaceae: Santal.
+Sapindaceae: Ćsc. g., Ćsc. hip., Guarana, Paul. p.
+Sarraceniaceae: Sarr.
+Scolopendridae: Scol.
+Scorpionida: Scorp.
+Scrofulariaceae: Chelone, Digital., Euphr., Franciscea u., Grat., Lept., Linar., Scrph., Verb.
+Simarubaceae: Ailanth., Cedr., Chapar., Quassia, Simb.
+Smilaceae: Sars., Trill.
+Solanaceae: Bell., Caps., Datur. a., Datur fer., Datur. met., Dub., Dulc., Hyo., Lycopers., Mand., Pichi, Sol. arr., Sol. car., Sol. mam., Sol. n., Sol. ol., Sol. p. c., Sol. t., Sol. t. ae., Stram., Tab.
+Sphingurinae: Sph.
+Ternströmiaceae: Thea
+Thymelaceae: Daph. ind., Dirca, Mez.
+Tiliaceae: Til.
+Trilliaceae: Paris, Trill.
+Tropaeolaceae: Trop.
+Turneraceae: Turn. a.
+Umbelliferae: Ćthus., Ammon., Apium g., Asaf., Atham., Cic. m., Cic. v., Conium, Eryng. a., Eryng. m., Ferula, Heracl., Hydrocot., Imper., Śn. c., Past., Petrosel., Phelland., Pimp., Sium, Sumb., Ziz.
+Urticaceae: Pariet., Ulmus, Urt. u.
+Vacciniaceae: Vacc. m.
+Valerianaceae: Val.
+Verbenaceae: Agn. c., Lippia, Verbena h.
+Violaceae: V. od., V. tri.
+Vitaceae: Ampel.
+Xanthoxylaceae: Pte.
+Zingiberaceae: Zng.
+Zygophyllaceae: Guai.
