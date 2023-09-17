@@ -705,7 +705,7 @@ Natrum Lacticum	http://homeoint.org/clarke/n/nat_lact.htm
 Natrum Muriaticum	http://homeoint.org/clarke/n/nat_m.htm
 Natrum Nitricum	http://homeoint.org/clarke/n/nat_n.htm
 Natrum Nitrosum	http://homeoint.org/clarke/n/nat_nitros.htm
-Natrum Phosphoricum	http://homeoint.org/clarke/n/nat_phos.htm
+Natrum Phosphoricum	http://homeoint.org/clarke/n/nat_p.htm
 Natrum Salicylicum	http://homeoint.org/clarke/n/nat_sal.htm
 Natrum Selenicum	http://homeoint.org/clarke/n/nat_sel.htm
 Natrum Silicofluoricum	http://homeoint.org/clarke/n/nat_sil.htm
