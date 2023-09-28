@@ -1,0 +1,375 @@
+Anagallis arvensis 	SUN
+Inula helenium 	SUN
+Euphrasia officinalis 	SUN
+Citrus bergamium 	SUN
+Plantago major 	SUN
+Matricaria chamomilla 	SUN
+Dictamnus albus 	SUN
+Althaea officinalis 	SUN
+Angelica archangelica 	SUN
+Fraxinus excelsior 	SUN
+Potentilla reptans 	SUN
+Gentiana lutea 	SUN
+Caryophyllus Syzygium aromaticum 	SUN
+Glechoma hederacea 	SUN
+Zingiber officinale 	SUN
+Hypericum perforatum 	SUN
+Calamus aromaticus	SUN
+Laurus nobilis 	SUN
+Viscum album 	SUN
+Echium vulgare 	SUN
+Olea europea	SUN
+Citrus aurantium 	SUN
+Passiflora incarnata 	SUN
+Piper 	SUN
+Paeonia officinalis 	SUN
+Oryza satiya 	SUN
+Calendula officinalis 	SUN
+Anthemis nobilis 	SUN
+Rosmarinus officinalis 	SUN
+Chelidonium majus 	SUN
+Sinapis nigra 	SUN
+Helianthus anuus 	SUN
+Drosera rotundilfolia 	SUN
+Plantago lanceolata 	SUN
+Erythrea centaurium	SUN
+Juniperus communis	SUN
+Fragaria vesca 	SUN
+Juglans regia 	SUN
+Ruta graveolens 	SUN
+Vitis vinifera 	SUN
+Sinapis alba 	SUN
+Angelica silvestris	SUN
+Cinnamonum cevlanicunn 	SUN
+Citrus limonum 	SUN
+Melissa officinalis	SUN
+Zedoaria	SUN
+Acanthus mollis 	MOON
+Iris pallida 	MOON
+Nasturtium officinale Iris germanica 	MOON
+Iris germanica 	MOON
+Veronica officinalis 	MOON
+Telephium vulgare 	MOON
+Iris florentina 	MOON
+Bellis perennis 	MOON
+Curcuma longa 	MOON
+Cheiranthus cheiri 	MOON
+Cucumis sativus 	MOON
+Stellaria media 	MOON
+Vinca minor 	MOON
+Papaver rhoeas 	MOON
+Galium aparine 	MOON
+Hieracium pilosella 	MOON
+Brassicae 	MOON
+Lactuca sativa 	MOON
+Cucurbita Pepo 	MOON
+Ligustrum vulgare 	MOON
+Tilia 	MOON
+Atriplex silvestris 	MOON
+Carica papaya 	MOON
+Agnus castus 	MOON
+Ruta lunaria 	MOON
+Myristica fragrans 	MOON
+Lysimachia nummularia Sedum acre 	MOON
+Sedum acre 	MOON
+Papaver somniferum 	MOON
+Saxifraga 	MOON
+Lenticula palustris 	MOON
+Trapa natans 	MOON
+Nymphaea alba 	MOON
+Salices	MOON
+Lilium album 	MOON
+Cardamine pratense 	MOON
+Sedum telephium 	MOON
+Hyssopus officinalis	MOON
+Calamintha arvensis	MERCURY
+Inula helenium 	MERCURY
+Mandragora 	MERCURY
+Pimpinella anisum 	MERCURY
+Mercurialis perennis 	MERCURY
+Azalea 	MERCURY
+Valeriana officinalis 	MERCURY
+Calamintha montana 	MERCURY
+Solanum dulcamara	MERCURY
+Satureja hortensis 	MERCURY
+Strychnos nux vomica 	MERCURY
+Anethum graveolens 	MERCURY
+Origanum vulgare 	MERCURY
+Artemisia abrotanum 	MERCURY
+Cynoglossum officinale 	MERCURY
+Mercurialis annua 	MERCURY
+Cichorium endivia 	MERCURY
+Foeniculum vulgare 	MERCURY
+Trifolium fibrinum 	MERCURY
+Adiantum capillus veneris 	MERCURY
+Lonicera caprifolium 	MERCURY
+Parietaria officinalis 	MERCURY
+Avena sativa 	MERCURY
+Corylus avellana 	MERCURY
+Tussilago farfara 	MERCURY
+Alliaria officinalis 	MERCURY
+Piper cubeba 	MERCURY
+Carum carvi	MERCURY
+Lavandula vera 	MERCURY
+Convallaria majalis 	MERCURY
+Majorana hortensis 	MERCURY
+Morus alba 	MERCURY
+Morus nigra 	MERCURY
+Trifolium arvense 	MERCURY
+Daucus carota 	MERCURY
+Myrtus communis 	MERCURY
+Pastinaca sativa 	MERCURY
+Petroselinum hortense 	MERCURY
+Digitalis purpurea	MERCURY
+Teucrium scordium 	MERCURY
+Apium graveolens 	MERCURY
+Glycyrrhiza glabra 	MERCURY
+Marrubium vulgare 	MERCURY
+Artemisia absinthium 	MERCURY
+Bryonia alba	MERCURY
+Aquilegia vulgaris 	VENUS
+Pyrus malus 	VENUS
+Cynara scolymus 	VENUS
+Meum athamanthicum 	VENUS
+Artemisia vulgaris 	VENUS
+Betula pendula	VENUS
+Betula pubescens	VENUS
+Pyrus communis 	VENUS
+Rubus fruticosus 	VENUS
+Phaseolus vulgaris 	VENUS
+Althaea officinalis 	VENUS
+Verbena officinalis 	VENUS
+Alchemilla vulgaris 	VENUS
+Primula officinalis	VENUS
+Thymus vulgaris 	VENUS
+Senecio vulgaris 	VENUS
+Ajuga reptans 	VENUS
+Glechoma hedera 	VENUS
+Leonurus cardiaca 	VENUS
+Sambucus nigra 	VENUS
+Senecio jacobaea 	VENUS
+Dipsacus sativus 	VENUS
+Castanea sativa 	VENUS
+Nepeta cataria 	VENUS
+Cicer arietinum 	VENUS
+Lithospermum minus 	VENUS
+Arctium lappa 	VENUS
+Menthae 	VENUS
+Cotyledon umbilicus 	VENUS
+Orchis 	VENUS
+Persica vulgaris 	VENUS
+Rosa damascena 	VENUS
+Alcanna tinctoria 	VENUS
+Digitalis purpurea	VENUS
+Geranium robertianum 	VENUS
+Sanicula europaea 	VENUS
+Rumex acetosa 	VENUS
+Prunus cerasus 	VENUS
+Oxalis acetosella 	VENUS
+Achillea millefolium 	VENUS
+Saponaria officinalis 	VENUS
+Viola odorata 	VENUS
+Fragaria vesca	VENUS
+Triticum sativum 	VENUS
+Artemisia absinthium 	VENUS
+Solidago virgaurea 	VENUS
+Thymus serpyllum	VENUS
+Cassia obovata 	MARS
+Aloe 	MARS
+Ananas sativus 	MARS
+Anemone 	MARS
+Arum maculatum 	MARS
+Ocimum basilicum 	MARS
+Carduus benedictus 	MARS
+Berberis vulgaris 	MARS
+Tormentilla 	MARS
+Strychnus nux vomica 	MARS
+Plantago major 	MARS
+Buxus sempervirens	MARS
+Rheum palmatum 	MARS
+Quercus robur 	MARS
+Gentiana 	MARS
+Genista tinctoria 	MARS
+Rubia tinctorum 	MARS
+Bellis perennis 	MARS
+Lonicera caprifolium	MARS
+Ranunculus sceleratus 	MARS
+Gratiola officinalis 	MARS
+Urtica dioica 	MARS
+Ononis spinosa 	MARS
+Rosa canina 	MARS
+Humulus lupulus 	MARS
+Nepeta cataria 	MARS
+Helichrysum arenarium Pinus 	MARS
+Pinus 	MARS
+Urtica urens 	MARS
+Allium sativum 	MARS
+Scrophularia nodosa 	MARS
+Coriandrum sativum 	MARS
+Allium cepa 	MARS
+Linum usatissimum 	MARS
+Cochlearia armoracia 	MARS
+Scilla maritima 	MARS
+Capsicum 	MARS
+Bryonia dioica 	MARS
+geranium robertianum 	MARS
+Sabina 	MARS
+Smilax utilis 	MARS
+Raphanus sativus 	MARS
+Mezereum	MARS
+Sinapis 	MARS
+Nicotiana tabacum 	MARS
+Crataegus oxyacantha 	MARS
+Lamium album 	MARS
+Artemisia absinthium 	MARS
+Sambucus ebulus	MARS
+Anagallis arvensis	JUPITER
+Acer	JUPITER
+Inula campana	JUPITER
+Smyrnium olusatrum	JUPITER
+Pimpinella anisum	JUPITER
+Pirus malus	JUPITER
+Prunus armeniaca	JUPITER
+Arnica montana	JUPITER
+Ocimum basilicum	JUPITER
+Symphytum officinale	JUPITER
+Vaccinium myrtillus	JUPITER
+Borrago officinalis	JUPITER
+Castanea sativa	JUPITER
+Althaea officinalis	JUPITER
+Quercus robur	JUPITER
+Cichorium endivia	JUPITER
+Polypodium vulgare	JUPITER
+Fumaria officinalis	JUPITER
+Fraxinus excelsior	JUPITER
+Rubia tinctorum	JUPITER
+Ficus carica	JUPITER
+Foeniculum vulgare	JUPITER
+Potentilla reptans	JUPITER
+Anthriscus cerefolium	JUPITER
+Gentiana lutea	JUPITER
+Panax ginseng	JUPITER
+Verbascum thapsiforme	JUPITER
+Avena sativa	JUPITER
+Sempervivum tectorum	JUPITER
+Rosa canina	JUPITER
+Rubus idaeus	JUPITER
+Tussilago farfara	JUPITER
+Agropyron caninum	JUPITER
+Cetraria islandica	JUPITER
+Jasminum	JUPITER
+Lavandula vera	JUPITER
+Marchantia polymorpha	JUPITER
+Hepaticae	JUPITER
+Linum usitatissimum	JUPITER
+Tilia europaea	JUPITER
+Laurus nobilis	JUPITER
+Taraxacum officinale	JUPITER
+Pulmonaria officinalis	JUPITER
+Amygdalum	JUPITER
+Fraxinus ornus	JUPITER
+Imperatoria	JUPITER
+Melissa officinalis	JUPITER
+Viscum album	JUPITER
+Mvristica fragrans	JUPITER
+Myrrha	JUPITER
+Dianthus cariophyllus	JUPITER
+Agrimonia eupatoria	JUPITER
+Olea europaea	JUPITER
+Populus	JUPITER
+Mentha piperita	JUPITER
+Tanacetum vulgare	JUPITER
+Rosa damascena	JUPITER
+Aesculus hippocastanum	JUPITER
+Santalum rubrum	JUPITER
+Salvia officinalis	JUPITER
+Rumex acetosa	JUPITER
+Chelidonium majus	JUPITER
+Hyoscyamus niger	JUPITER
+Asparagus officinalis	JUPITER
+Melilotus officinalis	JUPITER
+Liquiritia officinalis	JUPITER
+Centaurium umbellatum	JUPITER
+Solanum lycopersicum	JUPITER
+Juniperus communis	JUPITER
+Cichorium intybus	JUPITER
+Vitis vinifera	JUPITER
+Santalum album	JUPITER
+Hyssopus Officinalis	JUPITER
+Betonica officinalis	JUPITER
+Saccharum officinalis	JUPITER
+Equisetum arvense	SATURN
+Aloe	SATURN
+Mandragora officinarum	SATURN
+Symphytum officinale	SATURN
+Solanum dulcamara	SATURN
+Iris pallida	SATURN
+Aconitum napellus	SATURN
+Foenum graecum	SATURN
+Fagus silvatica	SATURN
+Iris germanica	SATURN
+Hedera helix	SATURN
+Taxus baccata	SATURN
+Polypodium vulgare	SATURN
+Fumaria officinalis	SATURN
+Rhamnus frangula	SATURN
+Eryngium campestre	SATURN
+Eryngium planum	SATURN
+Centaurea nigra	SATURN
+Iris florentina	SATURN
+Aegopodium podagraria	SATURN
+Hordeum	SATURN
+Verbascum thapsiforme	SATURN
+Hieracium pilosella	SATURN
+Cannabis sativa	SATURN
+Cannabis indica	SATURN
+Capsella bursa pastoris	SATURN
+Sambucus nigra	SATURN
+Auricularia judae	SATURN
+Vinca minor	SATURN
+Pinus silvestris	SATURN
+Papaver rhoeas	SATURN
+Arctium lappa	SATURN
+Osmunda regalis	SATURN
+Centaurea cvanus	SATURN
+Plantago coronopus	SATURN
+Allium cepa	SATURN
+Carum carvi	SATURN
+Linum usitatissimum	SATURN
+Zea mays	SATURN
+Eryngium maritinum	SATURN
+Scilla maritima	SATURN
+Asplenium	SATURN
+Mespilus germanica	SATURN
+Helleborus niger	SATURN
+Populus	SATURN
+Plantago psyllium	SATURN
+Cydonia vulgaris	SATURN
+Secale cereale	SATURN
+Beta vulgaris	SATURN
+Digitalis purpurea	SATURN
+Beta rubra	SATURN
+Polygonatum officinale	SATURN
+Amaranthus	SATURN
+Conium maculatum	SATURN
+Papaver somniferum	SATURN
+Prunus spinosa	SATURN
+Hyoscyamus niger	SATURN
+Senna	SATURN
+Sorbus domestica	SATURN
+Ilex aquifolium	SATURN
+Viola tricolor	SATURN
+Tamarindus indica	SATURN
+Lolium temulentum	SATURN
+Atropa belladonna	SATURN
+Ulmus campestris	SATURN
+Polygonum aviculare	SATURN
+Stellaria media	SATURN
+Cicuta virosa	SATURN
+Epilobium angustifolium	SATURN
+Crataegus oxvacantha	SATURN
+Veratrum album	SATURN
+Gaultheria procumbens	SATURN
+Verbascum phlomoides	SATURN
+Filix mas	SATURN
+Listera ovata	SATURN
