@@ -111,7 +111,7 @@
 (negative)Obstinacy 309997
 (negative)Oppression, mental 1010412
 (negative)Over-acWity 5910
-(negative)Over-confident ã 101423
+(negative)Over-confident Ã£ 101423
 (negative)Over-esiimation of self 9015
 (negative)Overwork, menta' 9074
 (negative)Panic 655556
@@ -214,7 +214,7 @@
 (positive)Memory 4441
 (positive)Mooesty 40442
 (positive)Motivation, mental 44477
-(positive)Patience, leniencyã 60214
+(positive)Patience, leniencyÃ£ 60214
 (positive)Peace, inner 100347
 (positive)Philanthropic 70877
 (positive)Punctuality 3027
@@ -231,7 +231,7 @@
 (positive)Unselfish 50407
 (positive)Verbose 554402
 (positive)Vitality (mental) 579945
-(positive)Wil¥ower 402327
+(positive)WilÂ¥ower 402327
 , Miscellaneous FrequenciesBluc green algae 256000
 , Miscellaneous FrequenciesBryozoa cristalla 396000
 , Miscellaneous FrequenciesMuwr trucedo 288000
@@ -242,271 +242,271 @@
 1hyleneglyccl 5376696
 1-Nitionaphtalin 5104317
 1p ra dor 8622812
-3uta idol¡ 10771
+3uta idolÂ¡ 10771
 3utanol. I -Butano, 4939755
 50 Hz mains current 56333
 8ordetepertusss 9042
 A70 dye, c-Teluidine 8505401
-AAb&coss, pulpa dontis 30251499
-AAbdominal abscess 301233599
-AAbdominal dropsy (as:itest 303326
-AAbdominal dropsy (ascitest 501753
-AAbdominal tumour 5081233
-AAbdominal tumour 5081233
-AAbortion, voluntary 60445
-AAbortion, voluntary 90764954
-AAbrasio comea6, le,tt 109231
-AAbrasio corneae, right 10923
-AAbscess 302523
-AAbscess 302599
-AAbscess 3042
-AAbscess alveolar 302499
-AAbscess breaking into ear lien; 30244991
-AAbscess gastric 302301
-AAbscess of altrun mestoideurn 302254
-AAbscess of nasal septa 302415496
-AAbscess of tear sacs 3042953
-AAbscess, breaking into ear (right) 3024499
-AAbscess, Brodie's abscess 30441
-AAbscess, cerebral 30244
-AAbscess, heoatItic 304248
-AAbscess, hepatrtic 3042457
-AAbscess, ischorectal 50851835
-AAbscess, mamma (right) 30274
-AAbscess, mamma f,tell) 30273
-AAbscess, mediastina I 302356
-AAbscess, periiephritic (right) 302233791
-AAbscess, perilebbric 3719
-AAbscess, perineal 3021653
-AAbscess, perineal 3023558
-AAbscess, peritoneal 3021653
-AAbscess, periVisillar 6056
-AAbscess, perorocitic 19234
-AAbscess, pnrenic 50599906
-AAbscess, psoas 302987
-AAbscess, pulmonary (right) 3027476
-AAbscess, retropharyngeal. 302198
-AAbscess, Tonsillar 52944
-AAbscess, tuberculous 40273
-AAbscess, tuberculous. 40274
-AAbscess, urethral 302439
-AAbscess. pulmonary (lett). .. 3027477
-AAbscess. subphrenic 505991096
-AAbsorption, diminished 10514
-AAcetenaemia (bovinum) 304534
-AAcetonaernia (diabetes meritus) 5094
-AAcetonuria 609969
-AAchlorhydria (gastric '9flacirtil0 90583
-AAchylia gastrica 2674632
-AAcidity levels ;n stomach.. 551
-AAcidosis !,hyperacidity) 50106
-AAcne, conglobate 40423
-AAcne, cornmon 9083
-AAcne, rosacea 207184
-AAcresion (concrescences) 6011
-AAcrochordon 1907346
-AAcromegaly 309694
-AAcromegaly 80945
-AAcroparasthesia (carpal tunnel syndrome) 50233
-AActinobacillosis (in man) 20353
-AActinomycosis, in man 201384
-AActinornycosis 201384
-AAction ot the near, disorder 708987
-AActivity, diminished 35496
-AAcute posterior ganghonilis (shingles) 705665
-AAddsons anaemia 90895
-AAddsons disease 50112
-AAdenilis (nflammation of glandi 90126
-AAdenoid. polyps 90183
-AAdenoids 90138
-AAdenoma 90126954
-AAdenoma, adenocarcinoma 50154
-AAdenoma, autonomic of thyroid gland 6613166
-AAdenoma, general rate 50554
-AAdenoma, intrabronchial 50461
-AAdenoma, tibroadenoma 60415
-AAdenomyose (ga.lbladder) 524462
-AAdhesion 37878670
-AAdhesion, abdominal 60111233
-AAdhesion; pleural 60117
-AAdhesions 1011633
-AAdieosis 6069
-AAdipose tumour, lipoma 50486
-AAdiposis (obesity) 6026
-AAdiposiy. 6026
-AAdnexits 168594
-AAdonocystorna 50362
-AAdrenal tumour, left (sarcoma) 50831078
-AAdrenal tumour. right (sarcoma) 50831072
-AAerophagia (pnumophagia). 50341
-AAerophagia 50341
-AAgenesia 10545
-AAgeusia (taste 131i-iciness, complete) 50585
-AAgranulocytosis (iieutropenia, malignat) 40567
-AAlbinism 30693
-AAlbuminuria 609779
-AAlcohol 700447
-AAlcohol poisoning 3028
-AAlcohol poisoning, by whisky. 4328
-AAlcohol, effects (31 9014004
-AAlcoholic coma 901400456
-AAlcoholic delirium (delirium tremens) 4040049
-AAlcoholism 901447
-AAlcoholism 901467
-AAlkalosis 909104
-AAllantoic cyst 403155
-AAllergy (metal) 80434
-AAllergy (plastics/synthetic materials) 80464
-AAllergy 80433
-AAllergy, enteritis allergica . 804334027
-AAllergy, gastroenteric syndrome 9043994
-AAlopecia (hair loss, pathological) 305453
-AALS, amyotrophic lateral sclerosis 402636
-AAlveolar abscess 302499
-AAlzheimer's disease 5438
-AAlzhelmers disease 203344
-AAmnesia 70799
-AAmnesia 80624
-AAmnesia 80624
-AAmoebae, from disease caused by amoebae 6073
-AAmoebic dysentery (a moe biasis) 30245
-AAmoebic liver abscess 29982
-AAmputation 104456
-AAmyloidcsis 702795
-AAmyloidosis 50199
-AAmyotrophic lateral sclerosis (ALS) 402636
-AAna,5fomosis___ ... 7345
-AAnaemia 20947
-AAnaemia 20976
-AAnaemia 40941
-AAnaemia 40972
-AAnaemia ot brain 40849
-AAnaemia, pernicious 80995
-AAnaemia, splenogenous 20976465
-AAnaesthesia 3033
-AAnal fissure 706851
-AAnaplasi. . 902894
-AAnasarna 60102
-AAnastomosis 70229
-AAncytoslorna duodenale (hookworm) 30621
-AAnemia . Male nell 2049233
-AAnemia. aplastic 16100
-AAneuna (nerve strength, deficiency) 609711
-AAneurysm 401497
-AAneurysm 90389
-AAneurysm of aorta descendens 4014977898
-AAneurysm of aorta descendens 4014977898
-AAneurysm of arteria anonyma 40149744
-AAneurysm of heart 40149725
-AAneurysm, abdominal 4014971233
-AAneurysm, aorta 4052
-AAneurysm, carotid 40894
-AAneurysm, femoral 401497114
-AAneurysm, subclavicular 401497548
-AAneurysm, thoracic 40149775
-AAneurysm, thoracic 401497769
-AAng na pectoris 7025
-AAngina abdominaJS 903425
-AAngina abdominals 3056
-AAngina abdorninalis 7021233
-AAngina follicularis 721520
-AAngina pectoris (heart 4078
-AAngina pectoris, yasornotory 3025
-AAngiocavernoMa. 60653
-AAngioma, ear (right) 4097199
-AAngiorna, ear (left) 40971991
-AAngna Maui Vincent 627673
-AAnleflexio uteri 90547
-AAnorexia nervosa 302295
-AAnorexia nervosa 302373
-AAnorexia nervosa 40132
-AAnosrnia (smell blindness) 505801
-AAnoxaemia.. 302927
-AAnthistamine 600188
-AAnthma, narclinc 100525
-AAnthrax 7077
-AAnthropophobia (fear of people) 90968
-AAnthyperfensior 6011064
-AAnti-shock 9006
-AAnti-vertigo 70269
-AAnxiety 90769
-AAortic insufficiency 109101
-AAortic insufficiency 90879
-AAortic regurgitation 402256
-AAortilis 40789
-AAorto stenusis 10911
-AAphasia (central speech disnrder) 1026
-AAphasia, hysterical 10763
-AAphonia 40454
-AAphtha 7029101
-AApophysitis calcanei 80754
-AAppendicitis 34518
-AAppendicitis 6072
-AAppendicitis 908864
-AAppendicitis necroticans 95277
-AAppendicitis, chronic 8941945
-AAppendico-colic 6078
-AAptyalism, secretion of saliva, deficimcy (dry mouth) 905243
-AArousal, sexual 50103455
-AArrhythmia 501227
-AArrytmia. 501227
-AArsenic poisoning 901656
-AArterial contusion 409735
-AArteries, adipose 4965
-AArteriosclerosis 9036
-AArteritis 40497
-AArthritis (inflammation of joints) 50689
-AArthritis 502497
-AArthritis 7004276
-AArthritis taumatica, acute 90910
-AArthritis tuberculosa 402954
-AArthritis urica 7444203
-AArthritis, degenerative 503849
-AArthritis, gonorrhoica 502354
-AArthritis, infectious 50558
-AArthritis, infectious, resulting from polio 403325
-AArthritis, pneumocoocal 9027217
-AArthritis, post-febrle 90279
-AArthritis, rheumatoid (chronic poyarltintis) 902
-AArthritis, rheumatoid 9027
-AArthritis, syphilitic 402142
-AArticular fever 90279
-AAscites 34103
-AAsthenia. neuro-circulatory 302555
-AAsthma 70949
-AAsthma, allergic reaction to toxins 30755
-AAsthma, allergy from pollen, mites 60767
-AAsthma, alveolar 402324
-AAsthma, atopic 40727
-AAsthma, bacterial 305810
-AAsthma, bronchial 20454
-AAsthma, gaslric 302102
-AAsthma, status asthmaticus 10237
-AAsthma, tales, whistling 4044
-AAsthma, Thymic 20279
-AAstigmatism 20612
-AAstrocytoma 70347
-AAtaxia (motor disturbance ) 40212
-AAtaxia, tabes dorsalis 50693
-AAtheIOSIS 403137
-AAtheroma 601101
-AAtheroma 60554
-AAthletic heart 40256
-AAtonia cif stomacr 107632
-AAtrial tibrillafion (heart! 70679
-AAtrophy ;al organs or :issue) 906
-AAtrophy 408111
-AAtrophy of the liver 1010148748
-AAtrophy, optic 906808
-AAtv._;ia . 60273
-AAural fistula, left 70691
-AAural fistula, right 7069
-AAural irritation 8099192
-AAural polyp, right 307519
-AAural polyp. left 3075191
-AAutointoxication (self-poisoning) 407910
-AAutointoxiction, intestinal 700378
-AAzoturia 30301
+Ab&coss, pulpa dontis 30251499
+Abdominal abscess 301233599
+Abdominal dropsy (as:itest 303326
+Abdominal dropsy (ascitest 501753
+Abdominal tumour 5081233
+Abdominal tumour 5081233
+Abortion, voluntary 60445
+Abortion, voluntary 90764954
+Abrasio comea6, le,tt 109231
+Abrasio corneae, right 10923
+Abscess 302523
+Abscess 302599
+Abscess 3042
+Abscess alveolar 302499
+Abscess breaking into ear lien; 30244991
+Abscess gastric 302301
+Abscess of altrun mestoideurn 302254
+Abscess of nasal septa 302415496
+Abscess of tear sacs 3042953
+Abscess, breaking into ear (right) 3024499
+Abscess, Brodie's abscess 30441
+Abscess, cerebral 30244
+Abscess, heoatItic 304248
+Abscess, hepatrtic 3042457
+Abscess, ischorectal 50851835
+Abscess, mamma (right) 30274
+Abscess, mamma f,tell) 30273
+Abscess, mediastina I 302356
+Abscess, periiephritic (right) 302233791
+Abscess, perilebbric 3719
+Abscess, perineal 3021653
+Abscess, perineal 3023558
+Abscess, peritoneal 3021653
+Abscess, periVisillar 6056
+Abscess, perorocitic 19234
+Abscess, pnrenic 50599906
+Abscess, psoas 302987
+Abscess, pulmonary (right) 3027476
+Abscess, retropharyngeal. 302198
+Abscess, Tonsillar 52944
+Abscess, tuberculous 40273
+Abscess, tuberculous. 40274
+Abscess, urethral 302439
+Abscess. pulmonary (lett). .. 3027477
+Abscess. subphrenic 505991096
+Absorption, diminished 10514
+Acetenaemia (bovinum) 304534
+Acetonaernia (diabetes meritus) 5094
+Acetonuria 609969
+Achlorhydria (gastric '9flacirtil0 90583
+Achylia gastrica 2674632
+Acidity levels ;n stomach.. 551
+Acidosis !,hyperacidity) 50106
+Acne, conglobate 40423
+Acne, cornmon 9083
+Acne, rosacea 207184
+Acresion (concrescences) 6011
+Acrochordon 1907346
+Acromegaly 309694
+Acromegaly 80945
+Acroparasthesia (carpal tunnel syndrome) 50233
+Actinobacillosis (in man) 20353
+Actinomycosis, in man 201384
+Actinornycosis 201384
+Action ot the near, disorder 708987
+Activity, diminished 35496
+Acute posterior ganghonilis (shingles) 705665
+Addsons anaemia 90895
+Addsons disease 50112
+Adenilis (nflammation of glandi 90126
+Adenoid. polyps 90183
+Adenoids 90138
+Adenoma 90126954
+Adenoma, adenocarcinoma 50154
+Adenoma, autonomic of thyroid gland 6613166
+Adenoma, general rate 50554
+Adenoma, intrabronchial 50461
+Adenoma, tibroadenoma 60415
+Adenomyose (ga.lbladder) 524462
+Adhesion 37878670
+Adhesion, abdominal 60111233
+Adhesion; pleural 60117
+Adhesions 1011633
+Adieosis 6069
+Adipose tumour, lipoma 50486
+Adiposis (obesity) 6026
+Adiposiy. 6026
+Adnexits 168594
+Adonocystorna 50362
+Adrenal tumour, left (sarcoma) 50831078
+Adrenal tumour. right (sarcoma) 50831072
+Aerophagia (pnumophagia). 50341
+Aerophagia 50341
+Agenesia 10545
+Ageusia (taste 131i-iciness, complete) 50585
+Agranulocytosis (iieutropenia, malignat) 40567
+Albinism 30693
+Albuminuria 609779
+Alcohol 700447
+Alcohol poisoning 3028
+Alcohol poisoning, by whisky. 4328
+Alcohol, effects (31 9014004
+Alcoholic coma 901400456
+Alcoholic delirium (delirium tremens) 4040049
+Alcoholism 901447
+Alcoholism 901467
+Alkalosis 909104
+Allantoic cyst 403155
+Allergy (metal) 80434
+Allergy (plastics/synthetic materials) 80464
+Allergy 80433
+Allergy, enteritis allergica . 804334027
+Allergy, gastroenteric syndrome 9043994
+Alopecia (hair loss, pathological) 305453
+ALS, amyotrophic lateral sclerosis 402636
+Alveolar abscess 302499
+Alzheimer's disease 5438
+Alzhelmers disease 203344
+Amnesia 70799
+Amnesia 80624
+Amnesia 80624
+Amoebae, from disease caused by amoebae 6073
+Amoebic dysentery (a moe biasis) 30245
+Amoebic liver abscess 29982
+Amputation 104456
+Amyloidcsis 702795
+Amyloidosis 50199
+Amyotrophic lateral sclerosis (ALS) 402636
+Ana,5fomosis___ ... 7345
+Anaemia 20947
+Anaemia 20976
+Anaemia 40941
+Anaemia 40972
+Anaemia ot brain 40849
+Anaemia, pernicious 80995
+Anaemia, splenogenous 20976465
+Anaesthesia 3033
+Anal fissure 706851
+Anaplasi. . 902894
+Anasarna 60102
+Anastomosis 70229
+Ancytoslorna duodenale (hookworm) 30621
+Anemia . Male nell 2049233
+Anemia. aplastic 16100
+Aneuna (nerve strength, deficiency) 609711
+Aneurysm 401497
+Aneurysm 90389
+Aneurysm of aorta descendens 4014977898
+Aneurysm of aorta descendens 4014977898
+Aneurysm of arteria anonyma 40149744
+Aneurysm of heart 40149725
+Aneurysm, abdominal 4014971233
+Aneurysm, aorta 4052
+Aneurysm, carotid 40894
+Aneurysm, femoral 401497114
+Aneurysm, subclavicular 401497548
+Aneurysm, thoracic 40149775
+Aneurysm, thoracic 401497769
+Ang na pectoris 7025
+Angina abdominaJS 903425
+Angina abdominals 3056
+Angina abdorninalis 7021233
+Angina follicularis 721520
+Angina pectoris (heart 4078
+Angina pectoris, yasornotory 3025
+AngiocavernoMa. 60653
+Angioma, ear (right) 4097199
+Angiorna, ear (left) 40971991
+Angna Maui Vincent 627673
+Anleflexio uteri 90547
+Anorexia nervosa 302295
+Anorexia nervosa 302373
+Anorexia nervosa 40132
+Anosrnia (smell blindness) 505801
+Anoxaemia.. 302927
+Anthistamine 600188
+Anthma, narclinc 100525
+Anthrax 7077
+Anthropophobia (fear of people) 90968
+Anthyperfensior 6011064
+Anti-shock 9006
+Anti-vertigo 70269
+Anxiety 90769
+Aortic insufficiency 109101
+Aortic insufficiency 90879
+Aortic regurgitation 402256
+Aortilis 40789
+Aorto stenusis 10911
+Aphasia (central speech disnrder) 1026
+Aphasia, hysterical 10763
+Aphonia 40454
+Aphtha 7029101
+Apophysitis calcanei 80754
+Appendicitis 34518
+Appendicitis 6072
+Appendicitis 908864
+Appendicitis necroticans 95277
+Appendicitis, chronic 8941945
+Appendico-colic 6078
+Aptyalism, secretion of saliva, deficimcy (dry mouth) 905243
+Arousal, sexual 50103455
+Arrhythmia 501227
+Arrytmia. 501227
+Arsenic poisoning 901656
+Arterial contusion 409735
+Arteries, adipose 4965
+Arteriosclerosis 9036
+Arteritis 40497
+Arthritis (inflammation of joints) 50689
+Arthritis 502497
+Arthritis 7004276
+Arthritis taumatica, acute 90910
+Arthritis tuberculosa 402954
+Arthritis urica 7444203
+Arthritis, degenerative 503849
+Arthritis, gonorrhoica 502354
+Arthritis, infectious 50558
+Arthritis, infectious, resulting from polio 403325
+Arthritis, pneumocoocal 9027217
+Arthritis, post-febrle 90279
+Arthritis, rheumatoid (chronic poyarltintis) 902
+Arthritis, rheumatoid 9027
+Arthritis, syphilitic 402142
+Articular fever 90279
+Ascites 34103
+Asthenia. neuro-circulatory 302555
+Asthma 70949
+Asthma, allergic reaction to toxins 30755
+Asthma, allergy from pollen, mites 60767
+Asthma, alveolar 402324
+Asthma, atopic 40727
+Asthma, bacterial 305810
+Asthma, bronchial 20454
+Asthma, gaslric 302102
+Asthma, status asthmaticus 10237
+Asthma, tales, whistling 4044
+Asthma, Thymic 20279
+Astigmatism 20612
+Astrocytoma 70347
+Ataxia (motor disturbance ) 40212
+Ataxia, tabes dorsalis 50693
+AtheIOSIS 403137
+Atheroma 601101
+Atheroma 60554
+Athletic heart 40256
+Atonia cif stomacr 107632
+Atrial tibrillafion (heart! 70679
+Atrophy ;al organs or :issue) 906
+Atrophy 408111
+Atrophy of the liver 1010148748
+Atrophy, optic 906808
+Atv._;ia . 60273
+Aural fistula, left 70691
+Aural fistula, right 7069
+Aural irritation 8099192
+Aural polyp, right 307519
+Aural polyp. left 3075191
+Autointoxication (self-poisoning) 407910
+Autointoxiction, intestinal 700378
+Azoturia 30301
 Absdla 665545
 AcDnum 35171
 Aceioacetic acid 4517
@@ -762,12 +762,12 @@ Anthracene 245869
 Anthrachinorum. 5845241
 AntimOni um 3909
 Antioxidants338 Ortdophosphoric acid, Phosphoric acid 44345
-AntioxidantsE 300 Ascorbic acid (1.¥) (vitamin C) 0 878978
+AntioxidantsE 300 Ascorbic acid (1.Â¥) (vitamin C) 0 878978
 AntioxidantsE 301 Sodium Lascorbate (Ascorbic acid) (:) 4366567
-AntioxidantsE 302 Calcium !Aso¡Mate (Ascorbic acid) (3 6545464
+AntioxidantsE 302 Calcium !AsoÂ¡Mate (Ascorbic acid) (3 6545464
 AntioxidantsE 304 Ascoroyl palmitate/Ascorbyl stearate 4345679
 AntioxidantsE 306 Natural tocopherols (Vitamin E) 0 9554445
-AntioxidantsE 307 Synthetic alpha¥tocopherol (Tocopherol) 44365458
+AntioxidantsE 307 Synthetic alphaÂ¥tocopherol (Tocopherol) 44365458
 AntioxidantsE 308 Synthetic gamma-tccopherol (TocophErol) 544537
 AntioxidantsE 309 Synthetic dellatcopherol (Tocopherol) 74455
 AntioxidantsE 310 Propyl gallate (Gallate) 738657
@@ -789,7 +789,7 @@ AntioxidantsE 334 tartaric acid (L+). tartaric acid 74353
 AntioxidantsE 335 Monosodium tartrate, Disodium tartrate 3 543333
 AntioxidantsE 336 Monopotassium tartrate, Dipotassium tartrate c 434654
 AntioxidantsE 337 Sodium potassium tartrate (salts from tartaric acid) 4334547
-AntioxidantsE 339 Monosodium phosphate, Disodium p., Trisodiurn p. ¨ 43444
+AntioxidantsE 339 Monosodium phosphate, Disodium p., Trisodiurn p. Â¨ 43444
 AntioxidantsE 340 Monopolassum phosphate, Lipotassium p. Tripotassium p. 0 3234
 AntioxidantsE 341 Monocalcium phosphate, Dicalcium p., Tricalcium p 0 54434
 AntioxidantsE 351 Potassium malate (salts from malic acid) 555542
@@ -799,7 +799,7 @@ AntioxidantsE 354 Calcium tartrate (salts from malic acid) J 86543
 AntioxidantsE 355 Adipic acid G 86655
 AntioxidantsE 356 Socium adipate G 8777
 AntioxidantsE 357 Potassium adipate 75755
-AntioxidantsE 35C Sodium malate, sodium hydrogen malate © 854451
+AntioxidantsE 35C Sodium malate, sodium hydrogen malate Â© 854451
 AntioxidantsE 363 Succinic acid 0 634447
 AntioxidantsE 380 Triammonium citrate (salts from citric acid) 42323333
 AntioxidantsE 385 Calcium sodium ethylene diamine tetra-acetate (EDTA) I 54438
@@ -912,8 +912,8 @@ ATP (Menosintriphosphate) 1606919
 Atrazine 82161
 Atropine 6543
 Aureornvcin i.antibiotic) 50596
-Autexyetian¥l, 2-8utoyethancr 2033360
-Az¡ dye, 3,/-Dichlorobervidine 544
+AutexyetianÂ¥l, 2-8utoyethancr 2033360
+AzÂ¡ dye, 3,/-Dichlorobervidine 544
 Azc dye, Benzidine 7627147
 Aze dye, Amine 6266861
 Azo dye, 4-Chlorine-c-toluidine 2983256
@@ -1054,128 +1054,128 @@ Barium oxalsuccinicum 8495708
 Bartonella bacilliformis 323544
 Bartonella quintana 947766
 Bate (Baeyinn 76131
-BBack pain 701992
-BBack pain, from low tension in ligaments 403279
-BBackflow 30556
-BBacterionia 701082
-BBad breath (halitosis) 20317
-BBaldness (alopecia androgenetica) 604325
-BBanholinitis. 30293
-BBanti's syndrome 4033465
-BBantis syndrome.. 5017
-BBasal skull fracture 907844
-BBasaliorna (basal cell epithelioma), ear, ight 500842309
-BBasaliorna (basal cell epithelioma), eyes 50301013988
-BBasaliornacol! cpitholioma), oar, oft 5008423091
-BBasalloma (basal cell epithe(ioma) 50032
-BBasedow hyperthyroidism 30665
-BBasedow's disease 30656
-BBazin's disease (Erythema induratum) 60643
-BBechterew's disease (Ankylosing, spondylitis) 9079
-BBechterew's disease (Morbus Bechterevi) 2873804
-BBed-wetting (enuresis) 90764
-BBelladonna, effects of 901488
-BBeri-Beri 60552
-BBeri-Beri 70065
-BBertholinitts 302931
-BBihary stasis 20448
-BBilharziasis 30361
-BBilious cirrhosis 774055
-BBilious complaint, brim nausea 4057
-BBilious fever 1032
-BBite, defective 707333
-BBlack water fever 50323
-BBlack water fever, malaria Iropic,a 700325
-BBlackhead 70116
-BBlackout 402344
-BBladder calculus 209464
-BBladder distension 306562
-BBladder hernia (cystocece) 104862
-BBladder irritation 809062
-BBladder TB 40262
-BBlear eye (Blepharitis marginalis) 403979
-BBlear eye 8082
-BBleeding (haemorrhaging) 10427
-BBleeding from auditory canal 1042713372
-BBleeding, external 40986
-BBleeding, intercranial 10427279107
-BBleeding, internal 40989
-BBlepharal cyst 601979
-BBlepharilis (inflammation of the eyelids) 8082
-BBlindness 2049
-BBlindness 5075297
-BBlindness, complete (olindnesS) 20439
-BBlister (phlyetena) 303988
-BBlister lymph 9680248
-BBlister, bleb. 904474
-BBlistering 90444
-BBlood clot 8043
-BBlood clot 80799
-BBlood clot in ureter, left 807996681
-BBlood Clot in ureter, right 80799668
-BBlood coagulation 90896
-BBlood poisoning (septicemia, sepsis) 302327
-BBlood poisoning (toxemia) 60659
-BBlood pressu,e, low 4090768
-BBlood pressure, high 409046
-BBlood pressure, low 703669
-BBlood pressure, normal 4090734
-BBlood sugar 4095
-BBlood tumour (Haematemat 4097
-BBlood viscosity, high 40779
-BBlood, flowing 3072409
-BBloody stool 809921
-BBlow to the ear, left 109191
-BBlow to The ear, right., . 10919
-BBlow to the head 1092107
-BBoeck's disease 504568
-BBoeck's disease.. 84462
-BBoil 30299
-BBoil 4092
-BBoil in acoustic meatus 409213372
-BBone formation, osteogenosis 309278
-BBonnevie-Ulricri syndrome 10994
-BBorderline syndrome 305239
-BBore cancer 5084
-BBornholm's disease 3032567
-BBorrefiosis (Borrefia burgdorleri) 445767
-BBorreliGis 626554
-BBotulinum, Toxin A.. 654663632
-BBotulism 60179
-BBovine spongiforrn encephalopathia (BSE) 42434
-BBowel movement, blockage 608427
-BBowel obstruction (ileus).. 5785
-BBowel perforation 40627
-BBrain compression 106821332
-BBrain concussion (comrlotio cerebn) 90748
-BBrain tumour 5011332
-BBrain tumour 5081332
-BBreak (Fracture) 907
-BBreast abscess, left. 30273
-BBreast abscess, right 30274
-BBronchial concrement 2042392
-BBronChial glands, enlarged 8054
-BBronchial irritation 809984
-BBronchiectasis (morbid distension of bronchi) 404293
-BBronchitis 404797
-BBronchits, chronic 6024
-BBronchopneumonia bovinum 93086583
-BBrorch opn eumonia 403857
-BBrorditS, acute 402392
-BBrucellosis (brucella abortus) 20322
-BBrucellosis (brucella melitensis) 20327
-BBrucellosis 20332
-BBruise 209
-BBSEãã, 7652232
-BBubonic plague 6017647
-BBulbar paralysis 605647
-BBums, 1st degree 7092
-BBums, 3rd degree 7096
-BBums, thermal 10104917
-BBurning feeling 804429
-BBurns 806528
-BBurris, 2nd degree 7094
-BBurrs, electrical 10104929
+Back pain 701992
+Back pain, from low tension in ligaments 403279
+Backflow 30556
+Bacterionia 701082
+Bad breath (halitosis) 20317
+Baldness (alopecia androgenetica) 604325
+Banholinitis. 30293
+Banti's syndrome 4033465
+Bantis syndrome.. 5017
+Basal skull fracture 907844
+Basaliorna (basal cell epithelioma), ear, ight 500842309
+Basaliorna (basal cell epithelioma), eyes 50301013988
+Basaliornacol! cpitholioma), oar, oft 5008423091
+Basalloma (basal cell epithe(ioma) 50032
+Basedow hyperthyroidism 30665
+Basedow's disease 30656
+Bazin's disease (Erythema induratum) 60643
+Bechterew's disease (Ankylosing, spondylitis) 9079
+Bechterew's disease (Morbus Bechterevi) 2873804
+Bed-wetting (enuresis) 90764
+Belladonna, effects of 901488
+Beri-Beri 60552
+Beri-Beri 70065
+Bertholinitts 302931
+Bihary stasis 20448
+Bilharziasis 30361
+Bilious cirrhosis 774055
+Bilious complaint, brim nausea 4057
+Bilious fever 1032
+Bite, defective 707333
+Black water fever 50323
+Black water fever, malaria Iropic,a 700325
+Blackhead 70116
+Blackout 402344
+Bladder calculus 209464
+Bladder distension 306562
+Bladder hernia (cystocece) 104862
+Bladder irritation 809062
+Bladder TB 40262
+Blear eye (Blepharitis marginalis) 403979
+Blear eye 8082
+Bleeding (haemorrhaging) 10427
+Bleeding from auditory canal 1042713372
+Bleeding, external 40986
+Bleeding, intercranial 10427279107
+Bleeding, internal 40989
+Blepharal cyst 601979
+Blepharilis (inflammation of the eyelids) 8082
+Blindness 2049
+Blindness 5075297
+Blindness, complete (olindnesS) 20439
+Blister (phlyetena) 303988
+Blister lymph 9680248
+Blister, bleb. 904474
+Blistering 90444
+Blood clot 8043
+Blood clot 80799
+Blood clot in ureter, left 807996681
+Blood Clot in ureter, right 80799668
+Blood coagulation 90896
+Blood poisoning (septicemia, sepsis) 302327
+Blood poisoning (toxemia) 60659
+Blood pressu,e, low 4090768
+Blood pressure, high 409046
+Blood pressure, low 703669
+Blood pressure, normal 4090734
+Blood sugar 4095
+Blood tumour (Haematemat 4097
+Blood viscosity, high 40779
+Blood, flowing 3072409
+Bloody stool 809921
+Blow to the ear, left 109191
+Blow to The ear, right., . 10919
+Blow to the head 1092107
+Boeck's disease 504568
+Boeck's disease.. 84462
+Boil 30299
+Boil 4092
+Boil in acoustic meatus 409213372
+Bone formation, osteogenosis 309278
+Bonnevie-Ulricri syndrome 10994
+Borderline syndrome 305239
+Bore cancer 5084
+Bornholm's disease 3032567
+Borrefiosis (Borrefia burgdorleri) 445767
+BorreliGis 626554
+Botulinum, Toxin A.. 654663632
+Botulism 60179
+Bovine spongiforrn encephalopathia (BSE) 42434
+Bowel movement, blockage 608427
+Bowel obstruction (ileus).. 5785
+Bowel perforation 40627
+Brain compression 106821332
+Brain concussion (comrlotio cerebn) 90748
+Brain tumour 5011332
+Brain tumour 5081332
+Break (Fracture) 907
+Breast abscess, left. 30273
+Breast abscess, right 30274
+Bronchial concrement 2042392
+BronChial glands, enlarged 8054
+Bronchial irritation 809984
+Bronchiectasis (morbid distension of bronchi) 404293
+Bronchitis 404797
+Bronchits, chronic 6024
+Bronchopneumonia bovinum 93086583
+Brorch opn eumonia 403857
+BrorditS, acute 402392
+Brucellosis (brucella abortus) 20322
+Brucellosis (brucella melitensis) 20327
+Brucellosis 20332
+Bruise 209
+BSEÃ£Ã£, 7652232
+Bubonic plague 6017647
+Bulbar paralysis 605647
+Bums, 1st degree 7092
+Bums, 3rd degree 7096
+Bums, thermal 10104917
+Burning feeling 804429
+Burns 806528
+Burris, 2nd degree 7094
+Burrs, electrical 10104929
 Benzanthraccne 3717532
 Benzedrine (de, carcinDgerc) 812
 Benzochinonum 264213
@@ -1302,7 +1302,7 @@ Brain-AreasCortical area, motorial 4473
 Brain-AreasCortical area, motorial, arm 3018
 Brain-AreasCortical area, motorial, face 5877
 Brain-AreasRespiratory centre . 6539
-Brain-AreasSensory 5.:..nst¥ of touch.. 4573
+Brain-AreasSensory 5.:..nstÂ¥ of touch.. 4573
 Brain-AreasSensory centre (Gyms uncinats) 7567
 Brain-AreasSensory centre, balance and equilibrium (cerebellar cortex) 4675
 Brain-AreasSensory centre, canton centre 8624
@@ -1437,243 +1437,243 @@ CartilageCartlage, fibrous (elastc) 1432
 CartilageMeniscus 9003
 CartilageSternal cartilage 2382
 Catechuannic acid 68
-CCaecal hernia 104882
-CCaecum, overburdened 109282
-CCaecum, overburdened 72982
-CCaecum: cancer 5082
-CCaecurn: tuberculosis in caecum 40282
-CCaisson sickness (diver's palsy), lefl lung 109277
-CCaisson sickness (diver's palsy, right lung 1092776
-CCalaracta senilis 6676339
-CCalarrh, acute 502778
-CCalcification 30367
-CCalculus formation (conOrernes) 20422
-CCalculus formation 8026127
-CCallous, horny 60315
-CCam osinaemia 907692
-CCancer 50
-CCancer 5084864
-CCancer 50966
-CCancer of the intestine 5027
-CCancer of the large intestine 5027
-CCancer, encephabid 501332
-CCancer, of the omentum majus, 504334
-CCancer, oreast (female) left 5074
-CCancer, oreast (female) right 5073
-CCancer, pelvic 5027
-CCancer, stornacn 50321
-CCancer, testis (left) 50781
-CCancer, testis (right) 50788
-CCancer, Uterus 50954
-CCancerous ulcer 7029101
-CCancersphal menutia 5024279
-CCarbuncle 508996
-CCarcinoma 501
-CCarcinoma of longue 501296
-CCarcinoma, adenocarcinoma (glandular cancer) 501?54
-CCarcinoma, branchiogenic 505476
-CCarcinoma, chorionic carcinoma 50695
-CCarcinoma, ear left 50191
-CCarcinoma, ear right 5019
-CCarcinoma, early stages 5068
-CCarcinoma, enceohaloid 50654
-CCarcinoma, glandular cancer 50154
-CCarcinoma, mucosa 50443
-CCarcinoma, nose 5096
-CCarcinoma, orbital left 50131
-CCarcinoma, orbital right 5013
-CCarcinoma, potential 5044
-CCarcinoma, renal carcinoma 50374
-CCarcinoma, rnelanocarcinoma 50453
-CCarcinoma, scirrhous 70194
-CCarcinoma, sguamous epitelial, slow growing 50452
-CCarcinoma, sguamous epithelial 5058101
-CCarcinosarcoma 507192
-CCardiac activity, slow ibradycardia) 50125
-CCardiac disease 4025
-CCaries 5024864
-CCaries 606
-CCaries of the ethmoid bone 5042993
-CCaries of the Sternum 5024263
-CCaries of the vertebral column 5024183
-CCaries, dental 5024
-CCaries, nasal 502496
-CCarotis cavemosus, aneurysm 40894
-CCarpal tunnel syndrome 44091298
-CCartilage dislocation 4035154
-CCatalepsy 40342
-CCatalepsy 90798
-CCataplerir 60899
-CCataract 90373
-CCataract 90373
-CCataracta complicata 7289046
-CCatarrh, chronic 40445
-CCatarrh, chronic nasal 60296
-CCatarrh, general 602
-CCatarrh, V-Intestir ai 7865
-CCatarrhal, mixed loin 4669539
-CCaucus 40101
-CCavity 70277
-CCeliac disease 60666
-CCelluldis 40954101
-CCellulitie 40467
-CCerebellar a1axial congenttal 5079244
-CCerebellar tumour, carcinoma 501231
-CCerebellar tumour, sarcoma 508231
-CCerebellum bleeding in 10427231
-CCerebellum, lesion of 508231
-CCerebral atrophy 9061322
-CCerebral embolism 90749
-CCerebral haemorrhage 903
-CCerebral tumour, carcinoma 50129
-CCerebral tumour, carcinoma 501291
-CCerebral tumour, sarcoma 508291
-CCerebral tumour, sarcoma 508291
-CCerebrovascular accident (Apoplexy) 903
-CCervical caries) 502444
-CCervical catarrh 9052602
-CCervical catarrh 9052602
-CCervical fibrous tumour 501952
-CCervical polyp 360039
-CCervical rib 6092542
-CCervical rib 7074694542
-CCervical squarnous epithelium 96176
-CCervical tumour 501523
-CCervix, enlarged 401952
-CChancre (ulcer in venereal disease) 5052
-CChancre. soft (ulcus molle) 5054
-CChclecystitis (inflammation of the gall bladder) 20438
-CChellOSiS 209785
-CChickenpox 6092103
-CChickenpox 6093
-CChickenpox 700203
-CChilblain (pernio) 801647
-CChildbirth trauma 1092478
-CChildbirth, difficult 54
-CChilis 4077327
-CChloasma 8047
-CChloroanaemia (chlorosis). 4095
-CChloroma 203566
-CChloroma 50277784
-CChlorophyll 9011021
-CChlorosis (green sickness) 4095
-CCho rea 10393
-CCholecystitis 146928
-CCholelitbiasis (gallstone disease) 4072
-CCholera 90110822
-CCholesrearoma 40296071
-CCholesteatosis 204234
-CChondrorna 501759
-CChondrosarcominum 86171423
-CChorea 30557
-CChromatopsia (chromatic vision) 60443
-CChyluria 908969
-CCicatricial contracture 10142
-CCicatricial contracture 10143
-CCirculation 1088
-CCirculatory disturbance 3065494
-CCirculatory disturbance 3065497
-CCirrhosis of the liver. 1091487
-CCirrhosis ol the liver 109148
-CClaudicafio intermittens, angina abdominalis 903425
-CClaustrophobia... 6085
-CClod, lump 404331
-CCNS tonus 304943
-CCoarcialion, constriction 10638
-CCocaine, effects of . 90125
-CCoccidiosis, in humans 203445
-CCoccygeal pain (coccygoctynia) 305235
-CCoin, inflamed 4058442
-CCoioenteric amoeba (entamceba ccli) 40353
-CColds {inflarnmaton of The large integine).Ñ 40839
-CColic 7027
-CColic. from appendix 6078
-CColijs, chronic 380954
-CColisepsis 30672
-CColitis (inflammatIon of the large intestine)., 6027
-CColitis mucosa (irritable bowel) 20344
-CColitis ulcerosa 3036027
-CCollapse 90788
-CColloid cyst 60362
-CColon sigmoieum, over-burdened 702985
-CColontlexur-CA right 8242150
-CColpitis granularis senilis 402095
-CComa 50637
-CComa, diabetic 509456
-CCommon cold (coryza.) 904681
-CCommon cold (grippal infection) 406524
-CCompressed air disease (caisson disease), right lung 109276
-CCompressed air sease (caisson diseae), left Ith ig 109277
-CCompression 30454
-CCompression ot chest muscles 70746
-CConcentration 609556
-CConcretio pericardii 20712823
-CCondition, spiritual 8077334
-CCondition, toxic 70457
-CCondition, toxic 90222
-CCondition, traumatic 1049271
-CCondyloma 10972851
-CCondytomata acuminaia 117515
-CCongenital megacolon 405137
-CCongenital predisposition 50908
-CCongested metritis 55265
-CCongestion 10505
-CCongestion of liver 40148
-CCongestive headache 70962
-CCongeston, venous 10378
-CConjunctivitis 7041
-CConjunctivitis follicular's 188027
-CConjunctivitis, Parinauds 403776
-CConnective tissue neuritis, hypertrophic 50682
-CConsciousness 6081065
-CConstriction 104410
-CContraction of fascia 1024
-CContracture 10101
-CContusion 90101
+Caecal hernia 104882
+Caecum, overburdened 109282
+Caecum, overburdened 72982
+Caecum: cancer 5082
+Caecurn: tuberculosis in caecum 40282
+Caisson sickness (diver's palsy), lefl lung 109277
+Caisson sickness (diver's palsy, right lung 1092776
+Calaracta senilis 6676339
+Calarrh, acute 502778
+Calcification 30367
+Calculus formation (conOrernes) 20422
+Calculus formation 8026127
+Callous, horny 60315
+Cam osinaemia 907692
+Cancer 50
+Cancer 5084864
+Cancer 50966
+Cancer of the intestine 5027
+Cancer of the large intestine 5027
+Cancer, encephabid 501332
+Cancer, of the omentum majus, 504334
+Cancer, oreast (female) left 5074
+Cancer, oreast (female) right 5073
+Cancer, pelvic 5027
+Cancer, stornacn 50321
+Cancer, testis (left) 50781
+Cancer, testis (right) 50788
+Cancer, Uterus 50954
+Cancerous ulcer 7029101
+Cancersphal menutia 5024279
+Carbuncle 508996
+Carcinoma 501
+Carcinoma of longue 501296
+Carcinoma, adenocarcinoma (glandular cancer) 501?54
+Carcinoma, branchiogenic 505476
+Carcinoma, chorionic carcinoma 50695
+Carcinoma, ear left 50191
+Carcinoma, ear right 5019
+Carcinoma, early stages 5068
+Carcinoma, enceohaloid 50654
+Carcinoma, glandular cancer 50154
+Carcinoma, mucosa 50443
+Carcinoma, nose 5096
+Carcinoma, orbital left 50131
+Carcinoma, orbital right 5013
+Carcinoma, potential 5044
+Carcinoma, renal carcinoma 50374
+Carcinoma, rnelanocarcinoma 50453
+Carcinoma, scirrhous 70194
+Carcinoma, sguamous epitelial, slow growing 50452
+Carcinoma, sguamous epithelial 5058101
+Carcinosarcoma 507192
+Cardiac activity, slow ibradycardia) 50125
+Cardiac disease 4025
+Caries 5024864
+Caries 606
+Caries of the ethmoid bone 5042993
+Caries of the Sternum 5024263
+Caries of the vertebral column 5024183
+Caries, dental 5024
+Caries, nasal 502496
+Carotis cavemosus, aneurysm 40894
+Carpal tunnel syndrome 44091298
+Cartilage dislocation 4035154
+Catalepsy 40342
+Catalepsy 90798
+Cataplerir 60899
+Cataract 90373
+Cataract 90373
+Cataracta complicata 7289046
+Catarrh, chronic 40445
+Catarrh, chronic nasal 60296
+Catarrh, general 602
+Catarrh, V-Intestir ai 7865
+Catarrhal, mixed loin 4669539
+Caucus 40101
+Cavity 70277
+Celiac disease 60666
+Celluldis 40954101
+Cellulitie 40467
+Cerebellar a1axial congenttal 5079244
+Cerebellar tumour, carcinoma 501231
+Cerebellar tumour, sarcoma 508231
+Cerebellum bleeding in 10427231
+Cerebellum, lesion of 508231
+Cerebral atrophy 9061322
+Cerebral embolism 90749
+Cerebral haemorrhage 903
+Cerebral tumour, carcinoma 50129
+Cerebral tumour, carcinoma 501291
+Cerebral tumour, sarcoma 508291
+Cerebral tumour, sarcoma 508291
+Cerebrovascular accident (Apoplexy) 903
+Cervical caries) 502444
+Cervical catarrh 9052602
+Cervical catarrh 9052602
+Cervical fibrous tumour 501952
+Cervical polyp 360039
+Cervical rib 6092542
+Cervical rib 7074694542
+Cervical squarnous epithelium 96176
+Cervical tumour 501523
+Cervix, enlarged 401952
+Chancre (ulcer in venereal disease) 5052
+Chancre. soft (ulcus molle) 5054
+Chclecystitis (inflammation of the gall bladder) 20438
+ChellOSiS 209785
+Chickenpox 6092103
+Chickenpox 6093
+Chickenpox 700203
+Chilblain (pernio) 801647
+Childbirth trauma 1092478
+Childbirth, difficult 54
+Chilis 4077327
+Chloasma 8047
+Chloroanaemia (chlorosis). 4095
+Chloroma 203566
+Chloroma 50277784
+Chlorophyll 9011021
+Chlorosis (green sickness) 4095
+Cho rea 10393
+Cholecystitis 146928
+Cholelitbiasis (gallstone disease) 4072
+Cholera 90110822
+Cholesrearoma 40296071
+Cholesteatosis 204234
+Chondrorna 501759
+Chondrosarcominum 86171423
+Chorea 30557
+Chromatopsia (chromatic vision) 60443
+Chyluria 908969
+Cicatricial contracture 10142
+Cicatricial contracture 10143
+Circulation 1088
+Circulatory disturbance 3065494
+Circulatory disturbance 3065497
+Cirrhosis of the liver. 1091487
+Cirrhosis ol the liver 109148
+Claudicafio intermittens, angina abdominalis 903425
+Claustrophobia... 6085
+Clod, lump 404331
+CNS tonus 304943
+Coarcialion, constriction 10638
+Cocaine, effects of . 90125
+Coccidiosis, in humans 203445
+Coccygeal pain (coccygoctynia) 305235
+Coin, inflamed 4058442
+Coioenteric amoeba (entamceba ccli) 40353
+Colds {inflarnmaton of The large integine).Ã‘ 40839
+Colic 7027
+Colic. from appendix 6078
+Colijs, chronic 380954
+Colisepsis 30672
+Colitis (inflammatIon of the large intestine)., 6027
+Colitis mucosa (irritable bowel) 20344
+Colitis ulcerosa 3036027
+Collapse 90788
+Colloid cyst 60362
+Colon sigmoieum, over-burdened 702985
+Colontlexur-CA right 8242150
+Colpitis granularis senilis 402095
+Coma 50637
+Coma, diabetic 509456
+Common cold (coryza.) 904681
+Common cold (grippal infection) 406524
+Compressed air disease (caisson disease), right lung 109276
+Compressed air sease (caisson diseae), left Ith ig 109277
+Compression 30454
+Compression ot chest muscles 70746
+Concentration 609556
+Concretio pericardii 20712823
+Condition, spiritual 8077334
+Condition, toxic 70457
+Condition, toxic 90222
+Condition, traumatic 1049271
+Condyloma 10972851
+Condytomata acuminaia 117515
+Congenital megacolon 405137
+Congenital predisposition 50908
+Congested metritis 55265
+Congestion 10505
+Congestion of liver 40148
+Congestive headache 70962
+Congeston, venous 10378
+Conjunctivitis 7041
+Conjunctivitis follicular's 188027
+Conjunctivitis, Parinauds 403776
+Connective tissue neuritis, hypertrophic 50682
+Consciousness 6081065
+Constriction 104410
+Contraction of fascia 1024
+Contracture 10101
+Contusion 90101
 Cconvulsions 40437
-CConvulsive tic, facial spasm 808377
-CCornea) (backhead) 70116
-CCorned¡ (blackhead) 70116
-CCorns 508442
-CCoronary insutficienCy 9092784
-CCoronary thrombosis 9098492
-CCoronary thrombosis 9098492
-CCorpora quadrigernina, leson of 5081332
-CCough 9068
-CCough, bloody (haemoplysis) 10773
-CCouidiOsis, in chickens (eimera tenellal 30759
-CCramp 702223
-CCramp, convulsions 40437
-CCranial tumoo, sarcoma 50884107
-CCranial tumour, carcinoma 50184107
-CCraving, general 32287
-CCrohn's disease (enterilis fegionalis Crohn) ¥ 204224
-CCroup 10414
+Convulsive tic, facial spasm 808377
+Cornea) (backhead) 70116
+CornedÂ¡ (blackhead) 70116
+Corns 508442
+Coronary insutficienCy 9092784
+Coronary thrombosis 9098492
+Coronary thrombosis 9098492
+Corpora quadrigernina, leson of 5081332
+Cough 9068
+Cough, bloody (haemoplysis) 10773
+CouidiOsis, in chickens (eimera tenellal 30759
+Cramp 702223
+Cramp, convulsions 40437
+Cranial tumoo, sarcoma 50884107
+Cranial tumour, carcinoma 50184107
+Craving, general 32287
+Crohn's disease (enterilis fegionalis Crohn) Â¥ 204224
+Croup 10414
 Ccurscbmanns spirals 20235
-CCushins syndrome 40723
-CCyanosis 30343
-CCysiinula 409356
-CCyst 70126
-CCyst, (Conchae nasale.$) 601154484
-CCyst, allantois 403155
-CCyst, atheroma 60554
-CCyst, craniopharyngeoma 5043410
-CCyst, cystadenoma 50362
-CCyst, echinor.),Pccal 4056
-CCyst, multiple 10691
-CCyst, suprasellar 5043610
-CCystadenoma, ovarian 1179888
-CCystadenoma, pseudomucinOus 163843
-CCystic fibrosis 42264
-CCystic mastitis 309607
-CCystic mastMs 553558
-CCysticercosis (infestation with pork tapeworm) 909413
-CCystinaemia 409356
-CCystitis 6062
-CCystitis, chronic 2335966
-CCysto neuralgia 8086462
-CCytornegala 6349986
-CEE (Tick borne encephalitis) 2022447
+Cushins syndrome 40723
+Cyanosis 30343
+Cysiinula 409356
+Cyst 70126
+Cyst, (Conchae nasale.$) 601154484
+Cyst, allantois 403155
+Cyst, atheroma 60554
+Cyst, craniopharyngeoma 5043410
+Cyst, cystadenoma 50362
+Cyst, echinor.),Pccal 4056
+Cyst, multiple 10691
+Cyst, suprasellar 5043610
+Cystadenoma, ovarian 1179888
+Cystadenoma, pseudomucinOus 163843
+Cystic fibrosis 42264
+Cystic mastitis 309607
+Cystic mastMs 553558
+Cysticercosis (infestation with pork tapeworm) 909413
+Cystinaemia 409356
+Cystitis 6062
+Cystitis, chronic 2335966
+Cysto neuralgia 8086462
+Cytornegala 6349986
+CE (Tick borne encephalitis) 2022447
 Cell nudeus 1455
 Celladonn3 9633
 Cenlroplasm 2221
@@ -1707,13 +1707,13 @@ CerebellumVentricle, 4th 3322
 Cerebral nerves 2208
 Cerebral nerves14.2 Cerebral nerves 2208
 Cerebral nervesI. Tractus olfactorsus (olfactory nerve) 22081
-Cerebral nervesII. Nen/us opticus (terminal nerve) 22082
-Cerebral nervesIII. Nervus oculomotonus .ã 22083
+Cerebral nervesI. Nen/us opticus (terminal nerve) 22082
+Cerebral nervesII. Nervus oculomotonus .Ã£ 22083
 Cerebral nervesIV. Nervus trcchlearis 22084
 Cerebral nervesIX. Nervus glossopharyngeus (lingual, pharyngeal nerve) 22089
 Cerebral nervesNervus trigerninus 22085
-Cerebral nervesVII. NetVJS facialis (facial nerve) 22087
-Cerebral nervesVIII. Nervus vestutocochlearis (balancing and auditory nerve) 22088
+Cerebral nervesVI. NetVJS facialis (facial nerve) 22087
+Cerebral nervesVII. Nervus vestutocochlearis (balancing and auditory nerve) 22088
 Cerebral nervesvl. Nervus aoducens (optical mdsculature) 22086
 Cerebral nervesX. Vagus nerve 220810
 Cerebral nervesX11. Nervus hypoglossus (lingual muscles) . 220812
@@ -1725,7 +1725,7 @@ CerebrumCorms callosum (join; 2 hemispheres cf the brain) 4233
 CerebrumCornus callosum, ventricles, lateral 2396
 CerebrumCorpus callosum, neural canal of lateral ventricles 3396
 CerebrumFornix 1513
-CerebrumHin¥bra n, rrombencepha:on 3432
+CerebrumHinÂ¥bra n, rrombencepha:on 3432
 CerebrumHindbrain, rnedul a oblongata, nasal nucleus 3659
 CerebrumHindbran, medul a oblongata, orirtge 3156
 CerebrumHindbran, medulla oblongata. metencephalon 44
@@ -1758,9 +1758,9 @@ Chlorophyll 9011021
 Chlorotetracycline 588900
 Chlorothanoline 63127
 Chlorpyrifos 14440
-Chondroilin¥sulphuric acid-Na 2464
+ChondroilinÂ¥sulphuric acid-Na 2464
 Chromatin Granule 63
-Chromic acid (H2Cr04) ¥rirros,ve substances in dentistry 70669
+Chromic acid (H2Cr04) Â¥rirros,ve substances in dentistry 70669
 Chromium c xid atum 9133079
 Chromosomes 6123
 Chromosomes: X-Chromosome 6122
@@ -1804,7 +1804,7 @@ ColouringsE 120 Cochineal, ceramic acid, carmine 55335
 ColouringsE 122 Carmoisine 733223
 ColouringsE 123 Amaranth 0 54237
 ColouringsE 124 Ponceau 4R 0. 77344
-ColouringsE 127 Etythrosine ¨ 63444
+ColouringsE 127 Etythrosine Â¨ 63444
 ColouringsE 128 RoI2 745674
 ColouringsE 129 Allura red AC 0 42556
 ColouringsE 131 Pafont Nilo V 0 97373
@@ -1823,7 +1823,7 @@ ColouringsE 155 Brown H I 8837
 ColouringsE 160 b Annatto, Norb{xin 5318
 ColouringsE 160 c Capsanthid, Capsorubin 9788
 ColouringsE 160 d Lycopne 74388
-ColouringsE 160 e Beta ¥ apo-8'- Ñ Carotenal, (Carotinoid} 665589
+ColouringsE 160 e Beta Â¥ apo-8'- Ã‘ Carotenal, (Carotinoid} 665589
 ColouringsE 161 b Lutein 75358
 ColouringsE 161 g Canthaxanthin 7659
 ColouringsE 162 Beetroot red (belanin) 4367
@@ -1843,7 +1843,7 @@ Compute' monitor 85488
 Con moles . 3281
 Congo red 3643774
 Conim 59412
-Conmebacte7ium dphtheria¡ 40762
+Conmebacte7ium dphtheriaÂ¡ 40762
 Copper sElts 3837
 Coronaviridae 774368
 Correbacterium ulcerans (Hokin) 4054
@@ -1916,131 +1916,131 @@ Dairy productsMilk (soul 20130
 Dairy productsMilk (sweet) 20131
 Dairy productsMilk 201333
 DBiplopia 30971
-DDandruff 1062
-DDeafness 2010
-DDeafriesa, norrgenflal (meth 1093713372
-DDealoirnadon 70227
-DDeath 504
-DDeath of foetus 504379
-DDecayte,n 40167
-DDegeneration 40229
-DDehydration 70616
-DDelkium lumens (Mddle delirium) 4040049
-DDelusion.Mal 50555
-DDelusiors 606699
-DDementia 201
-DDementia paralytics 5042
-DDemiattt 808101
-DDemyeattisedion 208191
-DDengue fewer 40334
-DDenial pulp, hiflammaion (dental pulpit) 4051499
-DDennablis 700226
-DDennahlis 40101
-DDennatographism. 30462
-DDental amitosis 3084864
-DDental caries 50247
-DDental exosloss 3084499
-DDer11100PhY10616 50359
-DDermatitis, eczamatets 706574
-DDermattedelosis 505332424
-DDetactromilatig 10937
-DDetective balance 10222
-DDevebinnenbt anomaly 10451
-DDiabetes 700542
-DDiabetes insipidus 5092
-DDiabetes mans 30236
-DDiabetes milts (atetonaemia) 5094
-DDiabetes, 5094254
-DDiabetic coma 509456
-DDiannoea 60764
-DDiarrhoea 6093
-DDiarthoea 70534
-DDiarthoea, acid 7064
-DDiastasis of rectum 8069851
-DDiathesis, spasmuphilic 2012416
-DDifficulty in walking (abasia) 60273
-DDiffusion 60662
-DDimness of Vi5i011. (asthenopia) 70653
-DDiphtheba, ulcer of the eye, right 209323
-DDiphther a, nasal 2093296
-DDiphthera 700393
-DDiphthera, ulcer of the eye, left 2093231
-DDiphtheria 20348
-DDiphtheria 206233
-DDiphtheria 20932
-DDiphtheria 20932
-DDiphtheria of the 2093213372
-DDipsomania (spree drinking) 60687
-DDis:ension 40432
-DDischarce (fluorine) 10455
-DDischarge 60663
-DDischarge, bloody 40910
-DDischarge, dOhtheric 209323776
-DDischarge, gonorrhoeal 5323776
-DDischarge, pericardial 60162587
-DDischarge, peritoneal 58
-DDischarge, pleural, left 60171
-DDischarge, pleural, right 6017
-DDischarge, purulent 603776
-DDischarge, synoyal fluid 557
-DDischarge, tuberculous 4023776
-DDiscoloration, 505555
-DDisease sacroiliac 402854374
-DDishonesty 7077
-DDisiension 3065
-DDisk prolapse 70641585
-DDislocat on of lens 80873777
-DDislocation Oat on) 8069
-DDisorder, hormonal 640
-DDisorder, mental 377195?
-DDisorder, spiritual 1011744
-DDisorder, vitamin balance 102686
-DDisplacement 403
-DDistemper 601042
-DDistension 3065
-DDistension 3065
-DDistension of ethmoidal cells 3065993
-DDistension of the maxillary sinus 3065254
-DDistension of the stomach 306532
-DDistenson. heart 306525
-DDiverliculosis 783117
-DDives 40088
-DDminoea (laboured breathng) 207494734
-DDo arness 26489
-DDots in front of eyes . 60443
-DDouble von (diplopia) 30971
-DDowns syndrome 4147621
-DDropsy (hYdroPs) 6012
-DDrug abuse 70355
-DDryness 2027
-DDryness of mouth 905243
-DDT (Dichlorodipnenyllrichleroethane) 901795
-DDT Dichbrdiphenyl tchloroethane) 901795
-DDuodenal catarrh 60221
-DDuodenal ulcer (duodenal Weds) 30221
-DDupuytreds contraction 604451
-DDwarfism 90729
-DDying (on deathbed) 70455
-DDysartnna 90197
-DDyscrasia 90781
-DDysentery 20105
-DDysentery, amoebic 30245
-DDYsfroPhY, mYolok 40425
-DDysfunction 50210
-DDyslexia 66201
-DDysmenontioea (painful menstruation) 70101
-DDysmenorrhoea, meritorious 50667101
-DDyspepsia 40444
-DDysphasia (speech impediment) 5032
-DDYsPnaga 50422
-DDYsPrionia 30928
-DDystrophy 60542
-DDystrophy, adiposigenitalis 9010484
-DDystrophy, atrophic 50536
-DDystrophy, mY0Pathic 50436
-DDystrophy, pseudohydrotrophic 40234
-DDystrophy, pseudohypertrophic 204343
-DDysuria 706427
+Dandruff 1062
+Deafness 2010
+Deafriesa, norrgenflal (meth 1093713372
+Dealoirnadon 70227
+Death 504
+Death of foetus 504379
+Decayte,n 40167
+Degeneration 40229
+Dehydration 70616
+Delkium lumens (Mddle delirium) 4040049
+Delusion.Mal 50555
+Delusiors 606699
+Dementia 201
+Dementia paralytics 5042
+Demiattt 808101
+Demyeattisedion 208191
+Dengue fewer 40334
+Denial pulp, hiflammaion (dental pulpit) 4051499
+Dennablis 700226
+Dennahlis 40101
+Dennatographism. 30462
+Dental amitosis 3084864
+Dental caries 50247
+Dental exosloss 3084499
+Der11100PhY10616 50359
+Dermatitis, eczamatets 706574
+Dermattedelosis 505332424
+Detactromilatig 10937
+Detective balance 10222
+Devebinnenbt anomaly 10451
+Diabetes 700542
+Diabetes insipidus 5092
+Diabetes mans 30236
+Diabetes milts (atetonaemia) 5094
+Diabetes, 5094254
+Diabetic coma 509456
+Diannoea 60764
+Diarrhoea 6093
+Diarthoea 70534
+Diarthoea, acid 7064
+Diastasis of rectum 8069851
+Diathesis, spasmuphilic 2012416
+Difficulty in walking (abasia) 60273
+Diffusion 60662
+Dimness of Vi5i011. (asthenopia) 70653
+Diphtheba, ulcer of the eye, right 209323
+Diphther a, nasal 2093296
+Diphthera 700393
+Diphthera, ulcer of the eye, left 2093231
+Diphtheria 20348
+Diphtheria 206233
+Diphtheria 20932
+Diphtheria 20932
+Diphtheria of the 2093213372
+Dipsomania (spree drinking) 60687
+Dis:ension 40432
+Discharce (fluorine) 10455
+Discharge 60663
+Discharge, bloody 40910
+Discharge, dOhtheric 209323776
+Discharge, gonorrhoeal 5323776
+Discharge, pericardial 60162587
+Discharge, peritoneal 58
+Discharge, pleural, left 60171
+Discharge, pleural, right 6017
+Discharge, purulent 603776
+Discharge, synoyal fluid 557
+Discharge, tuberculous 4023776
+Discoloration, 505555
+Disease sacroiliac 402854374
+Dishonesty 7077
+Disiension 3065
+Disk prolapse 70641585
+Dislocat on of lens 80873777
+Dislocation Oat on) 8069
+Disorder, hormonal 640
+Disorder, mental 377195?
+Disorder, spiritual 1011744
+Disorder, vitamin balance 102686
+Displacement 403
+Distemper 601042
+Distension 3065
+Distension 3065
+Distension of ethmoidal cells 3065993
+Distension of the maxillary sinus 3065254
+Distension of the stomach 306532
+Distenson. heart 306525
+Diverliculosis 783117
+Dives 40088
+Dminoea (laboured breathng) 207494734
+Do arness 26489
+Dots in front of eyes . 60443
+Double von (diplopia) 30971
+Downs syndrome 4147621
+Dropsy (hYdroPs) 6012
+Drug abuse 70355
+Dryness 2027
+Dryness of mouth 905243
+DT (Dichlorodipnenyllrichleroethane) 901795
+DT Dichbrdiphenyl tchloroethane) 901795
+Duodenal catarrh 60221
+Duodenal ulcer (duodenal Weds) 30221
+Dupuytreds contraction 604451
+Dwarfism 90729
+Dying (on deathbed) 70455
+Dysartnna 90197
+Dyscrasia 90781
+Dysentery 20105
+Dysentery, amoebic 30245
+DYsfroPhY, mYolok 40425
+Dysfunction 50210
+Dyslexia 66201
+Dysmenontioea (painful menstruation) 70101
+Dysmenorrhoea, meritorious 50667101
+Dyspepsia 40444
+Dysphasia (speech impediment) 5032
+DYsPnaga 50422
+DYsPrionia 30928
+Dystrophy 60542
+Dystrophy, adiposigenitalis 9010484
+Dystrophy, atrophic 50536
+Dystrophy, mY0Pathic 50436
+Dystrophy, pseudohydrotrophic 40234
+Dystrophy, pseudohypertrophic 204343
+Dysuria 706427
 Decane, n-Decane 1389339
 Dehydrnhrq; acid 5243
 Dehydrocortisone 7400172
@@ -2051,7 +2051,7 @@ Deliarnethrine 446739
 Dellwar7e (Pexviridae, Mollusniim contagiosum virus) 40964
 Denethon-Methyt 684861
 Dengue fever (Plaviviridae).. 96546
-Dental nosodes¡stilts, Kilerctic 93190
+Dental nosodesÂ¡stilts, Kilerctic 93190
 Dental nosodesAutopolynerisate, Autoacrylate 75808733
 Dental nosodesCarboxylate cement 941933
 Dental nosodesChrome-Cobalt-Molybdenum al ov 32922
@@ -2071,7 +2071,7 @@ Dental nosodesGranulat on tissue, destructive 5373466
 Dental nosodesGranulation tissue, destructive 7500697
 Dental nosodesMax Ilary osiitis, bacterial acute 470642
 Dental nosodesMax llary 01stis, c bacterial 518814
-Dental nosodesMaxillary ¡OE's, acute bacterial 69134
+Dental nosodesMaxillary Â¡OE's, acute bacterial 69134
 Dental nosodesMaxillary oslitis, bacterial chronic 23526
 Dental nosodesMaxillary ostiis. tatty 5777496
 Dental nosodesMaxillary OStitiS 1899293
@@ -2380,121 +2380,121 @@ ECHO Viruses 746433
 Echoviridae (Picornaviridae, Enteroviridae) 216342
 Ecstasy 6988557
 Ectoderm 1
-EEantiaX in auditory canal 40613372
-EEar concha, missing right 109379
-EEar concna, missing left 1093791
-EEar inflammation, acute haernorrhagic (otitis) 4014279
-EEardrum perforated; left 109156691
-EEardrum, perforated 1091566
-EEardrum. perforated; right 10915669
-EEarwax (cerumen) 406
-EEarwax over production (impacted cerumen) 5010
-EEchinococcus cyst 4056
-EEchinococcus cyst, inflamed 30291
-EEcIaMpSia (cramps during pregnancy) 50456
-EEctopia cords 808725
-EEczema 305346
-EEczema 36?53
-EEczema of acoustic meatus 305313272
-EEczema, incrtistalton 305396
-EEczematous dermatitis 706574
-EEimeria Tench 30759
-EEjaculation 6084
-EElephantiasis 2348634
-EElevation of testes 407883568
+EantiaX in auditory canal 40613372
+Ear concha, missing right 109379
+Ear concna, missing left 1093791
+Ear inflammation, acute haernorrhagic (otitis) 4014279
+Eardrum perforated; left 109156691
+Eardrum, perforated 1091566
+Eardrum. perforated; right 10915669
+Earwax (cerumen) 406
+Earwax over production (impacted cerumen) 5010
+Echinococcus cyst 4056
+Echinococcus cyst, inflamed 30291
+EcIaMpSia (cramps during pregnancy) 50456
+Ectopia cords 808725
+Eczema 305346
+Eczema 36?53
+Eczema of acoustic meatus 305313272
+Eczema, incrtistalton 305396
+Eczematous dermatitis 706574
+Eimeria Tench 30759
+Ejaculation 6084
+Elephantiasis 2348634
+Elevation of testes 407883568
 Eellarionna 76298?
-EEmaciation 2057
-EEmbolism 90749
-EEmbolism of superior mesenteric artery 4079497815
-EEmbolism. 4079
-EEmbryo (human pregnancy) 379
-EEmbryonal tumour 6013792
-EEmesis 90705
-EEmphysema of the gall bladder 6036
-EEmphysema of the lung, left 60277
-EEmphysema of the lung, right 60276
-EEmphysema, atrophic 10277
-EEmpyema necessilatis 6075327
-EEmpyema of the frontal sinuses 60133
-EEmpyema of the maxillary sinuses 60254
-EEmpyerna 30211
-EEn7yme activity, disturbed 30242
-EEncephalic abscess 30244
-EEncephalitis 401332
-EEncephalitis letnargica 401464
-EEncephalocele 10481332
-EEncephalocele, hernia cerebri 20751332
-EEncephalomyelitis 704998
-EEncephalomyelomalacie 2454404
-EEnctometritis, purulent 6097651
-EEndocarditis 403795
-EEndocarditis, infectious 5023795
-EEndometrifis, gonorrhoeal 502954
-EEndometrioss 50565
-EEndometritis (inflammation of the endornetrium) 60544
-EEndometritis (inflammation of the endornetrium) 907651
-EEndometritis tuberculosa 3347861
-EEndometritis, from old age 2097651
-EEndometritis, haemorrhagic 10427954
-EEndometritis, hypertrophic 4097651
-EEndometritis, septic 60954
-EEndothelioma, dural 20593
-EEnlargement 8042
-EEntamoeba coli 40353
-EEnteritis 60027
-EEnteritis allergica 804334027
-EEnteritis necrolica 3354027
-EEnteritis regional's Crohn (Morbus Crohn) 204224
-EEnteroplosis 302232
-EEnteroptosis 808722
-EEnzyme 30352
-EEpendymoma (Drain lumour),. 505332
-EEpidemic typhus 709222
-EEpidemic typhus, spotted fever 80552
-EEpIdemiolysts bullosa 3935176
-EEpididymitis 407405
-EEpididymitis 509194
-EEpilepsy 60796
-EEpilepticaura 2092
-EEpiphysitis, inflammation of an epiphysis 40548
-EEpithelium 50101
-EEpithelium in acoustic meatus 40513372
-EEpithelium, ear, left 40591
-EEpithelium, ear, right 4059
-EEpithelium, eye 405
-EEricephalomalacia (soilenfig et the brain) 504325
-EErosion 10991
-EEruption 10153
-EErysipelas suum 41451
-EErysipelas vaccination 791830
-EErythema 70252
-EErythema ennuter, centrifugum 7025252
-EErythema induratum 60643
-EErythema intectiosum acutum 463696
-EErythema nodosum 504245
-EErythroblastoma 708779
-EErythrocyte sedimentation reacton 50642629
-EErythrocytosis 30514
-EErythromelatgia 8066
-EErythronnelalgia 808642163
-EEthmoidal polyps 23502
-EEuphoria 60421
-EEustachian tube, blockage 2073226
-EExantherna sAiturn 307435
-EExcess tat 60568
-EExcretion 90542
-EExhalation, incomplete 4021143
-EExhaustion 90682
-EExocervical erosion 502952
-EExostosis 3084
-EExostosis 80486
-EExostosis of acoustic meatus 308413372
-EExtravasation 20133
-EExtraversion 90884
-EExudation 70622
-EEye detect, congenital, left 1093731
-EEye detect, congenital, right 109373
-EEye movement. 309793
+Emaciation 2057
+Embolism 90749
+Embolism of superior mesenteric artery 4079497815
+Embolism. 4079
+Embryo (human pregnancy) 379
+Embryonal tumour 6013792
+Emesis 90705
+Emphysema of the gall bladder 6036
+Emphysema of the lung, left 60277
+Emphysema of the lung, right 60276
+Emphysema, atrophic 10277
+Empyema necessilatis 6075327
+Empyema of the frontal sinuses 60133
+Empyema of the maxillary sinuses 60254
+Empyerna 30211
+En7yme activity, disturbed 30242
+Encephalic abscess 30244
+Encephalitis 401332
+Encephalitis letnargica 401464
+Encephalocele 10481332
+Encephalocele, hernia cerebri 20751332
+Encephalomyelitis 704998
+Encephalomyelomalacie 2454404
+Enctometritis, purulent 6097651
+Endocarditis 403795
+Endocarditis, infectious 5023795
+Endometrifis, gonorrhoeal 502954
+Endometrioss 50565
+Endometritis (inflammation of the endornetrium) 60544
+Endometritis (inflammation of the endornetrium) 907651
+Endometritis tuberculosa 3347861
+Endometritis, from old age 2097651
+Endometritis, haemorrhagic 10427954
+Endometritis, hypertrophic 4097651
+Endometritis, septic 60954
+Endothelioma, dural 20593
+Enlargement 8042
+Entamoeba coli 40353
+Enteritis 60027
+Enteritis allergica 804334027
+Enteritis necrolica 3354027
+Enteritis regional's Crohn (Morbus Crohn) 204224
+Enteroplosis 302232
+Enteroptosis 808722
+Enzyme 30352
+Ependymoma (Drain lumour),. 505332
+Epidemic typhus 709222
+Epidemic typhus, spotted fever 80552
+EpIdemiolysts bullosa 3935176
+Epididymitis 407405
+Epididymitis 509194
+Epilepsy 60796
+Epilepticaura 2092
+Epiphysitis, inflammation of an epiphysis 40548
+Epithelium 50101
+Epithelium in acoustic meatus 40513372
+Epithelium, ear, left 40591
+Epithelium, ear, right 4059
+Epithelium, eye 405
+Ericephalomalacia (soilenfig et the brain) 504325
+Erosion 10991
+Eruption 10153
+Erysipelas suum 41451
+Erysipelas vaccination 791830
+Erythema 70252
+Erythema ennuter, centrifugum 7025252
+Erythema induratum 60643
+Erythema intectiosum acutum 463696
+Erythema nodosum 504245
+Erythroblastoma 708779
+Erythrocyte sedimentation reacton 50642629
+Erythrocytosis 30514
+Erythromelatgia 8066
+Erythronnelalgia 808642163
+Ethmoidal polyps 23502
+Euphoria 60421
+Eustachian tube, blockage 2073226
+Exantherna sAiturn 307435
+Excess tat 60568
+Excretion 90542
+Exhalation, incomplete 4021143
+Exhaustion 90682
+Exocervical erosion 502952
+Exostosis 3084
+Exostosis 80486
+Exostosis of acoustic meatus 308413372
+Extravasation 20133
+Extraversion 90884
+Exudation 70622
+Eye detect, congenital, left 1093731
+Eye detect, congenital, right 109373
+Eye movement. 309793
 Ehrlichie, chatteensis (transm Med by bcks) 63375
 Eikenella corrodens 978667
 Electromagnetic alternating field 56532
@@ -2543,7 +2543,7 @@ EmulsifiersE 481 Sodium stearoyl-2-lactylate IC 594353
 EmulsifiersE 483 Stearyi tartrate 924576
 EmulsifiersE 491 Sorbitan monostearate G 75576
 EmulsifiersE 492 Sorbitan tristearate 73353534
-EmulsifiersE 493 Sorbitan monolauralo ¨ 7332376
+EmulsifiersE 493 Sorbitan monolauralo Â¨ 7332376
 EmulsifiersE 494 Sorbitan mono-oleate 0 76765558
 EmulsifiersE 495 Sorbitan monopalmitate 73478
 EmulsifiersE482 Calcium stoaryol-2-lactylal 3345252
@@ -2652,7 +2652,7 @@ Endocrinal secretion (hormones,Incretory)A;etylcholine (parasynTathetic nervous 
 Endocrinal secretion (hormones,Incretory)Adreiosterone (adrenel cortex) 203
 Endocrinal secretion (hormones,Incretory)Adtvaline (adrenal medulla) 257
 Endocrinal secretion (hormones,Incretory)Androgen (testis) 7842
-Endocrinal secretion (hormones,Incretory)Angiotensin II (hycerlelsin) 6435
+Endocrinal secretion (hormones,Incretory)Angiotensin I (hycerlelsin) 6435
 Endocrinal secretion (hormones,Incretory)Anteior pituitary (Al'). adrenalWropic 1064
 Endocrinal secretion (hormones,Incretory)Anterior pituitary (AP), drabatogenic 737
 Endocrinal secretion (hormones,Incretory)Anterior pituitary (AP), parathyrotropic 2569
@@ -2681,7 +2681,7 @@ Endocrinal secretion (hormones,Incretory)Melatonin 458645
 Endocrinal secretion (hormones,Incretory)Oestrogen (corpus luleum) 6807
 Endocrinal secretion (hormones,Incretory)Oholecy.ctokirin (dtiOdenal mucous membrane) 8303
 Endocrinal secretion (hormones,Incretory)Parathormone (parathyroid gland) 3549
-Endocrinal secretion (hormones,Incretory)Pitultrin posterior pituitary. PP) 9291
+Endocrinal secretion (hormones,Incretory)Pitultrin posterior pituitary. P) 9291
 Endocrinal secretion (hormones,Incretory)Progesterone (corpus Iuteum) 2373
 Endocrinal secretion (hormones,Incretory)Prolaclin LTH (anterior pituitary AP) 7904
 Endocrinal secretion (hormones,Incretory)Prostaglandin 575333
@@ -2853,7 +2853,7 @@ EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Gurnma
 EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Hydatids, orbital left 3029131
 EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Hydatids, orbital right 302913
 EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Inflammation of the periosteum (periostilis), orbital left 4035931
-EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Inflammation of the periosteum (perlostitis), NNW right 403593
+EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Inflammation of the periosteum (perlostitis), NW right 403593
 EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Laboured breathing (ciyspnoea) 207494734
 EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Lacrimal gland, enlarged 401351
 EyesConjunctiva Conjunctiva: Bulging eyes (protrusio bulbi, exophihalmus) Leukaemia, lymphatic 4032327
@@ -2899,7 +2899,7 @@ EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Blear eye (blepharitis margina
 EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Dermatos3lerosis 505332424
 EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Easedow's disease (Basedcw's hyperthyroidism) 30665
 EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Fascial paralysis. 50422285
-EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Inflammation of the lacrimal sac ldac¥yucystitis), left 4095331
+EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Inflammation of the lacrimal sac ldacÂ¥yucystitis), left 4095331
 EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Inflammation of the lacrimal sac. Macryncf,rstitis) right 409533
 EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Lacrimal points (punctum iacrimale). transposition 8087304
 EyesConjunctiva Conjunctiva: Watery eye Epiphoce) Lupus 402101
@@ -2909,18 +2909,18 @@ EyesConjunctiva Conjunotiva Pallor 40.31.4.2 Conjunotiva Pallor
 EyesConjunctiva Conjunotiva Pallor Anaemia . 20976
 EyesConjunctiva, left 31778
 EyesConjunctiva, right 3979
-EyesConjunctivaCConjunctiva: Discharge, purulent 40.31 4.5 Conjunctiva: Discharge, purulent
-EyesConjunctivaCConjunctiva: Discharge, purulent Abscess of the lacrima sac 3042953
-EyesConjunctivaCConjunctiva: Discharge, purulent Discharge, diphtherial 209323776
-EyesConjunctivaCConjunctiva: Discharge, purulent Discharge, gonorrhoeal 5023776
-EyesConjunctivaCConjunctiva: Discharge, purulent Discharge, purulent 603776
-EyesConjunctivaCConjunctiva: Discharge, purulent Discharge, tubercular 4023776
-EyesConjunctivaCConjunctiva: Discharge, purulent Inflammation of the conjunctiva, Parinauo's iconjurctiyitis) 403776
+EyesConjunctivaConjunctiva: Discharge, purulent 40.31 4.5 Conjunctiva: Discharge, purulent
+EyesConjunctivaConjunctiva: Discharge, purulent Abscess of the lacrima sac 3042953
+EyesConjunctivaConjunctiva: Discharge, purulent Discharge, diphtherial 209323776
+EyesConjunctivaConjunctiva: Discharge, purulent Discharge, gonorrhoeal 5023776
+EyesConjunctivaConjunctiva: Discharge, purulent Discharge, purulent 603776
+EyesConjunctivaConjunctiva: Discharge, purulent Discharge, tubercular 4023776
+EyesConjunctivaConjunctiva: Discharge, purulent Inflammation of the conjunctiva, Parinauo's iconjurctiyitis) 403776
 EyesCornea 40.31.2 Cornea
 EyesCornea Cornea Nebula 40.31.2.1 Cornea Nebula
 EyesCornea Cornea Nebula 40.31.2.2 Cornea. Gerontoxon (Arens selniiis cOriae)
 EyesCornea Cornea Nebula ArIeriosclerosig 9036
-EyesCornea Cornea Nebula Fattybean ..,..ã.,..ã 606925
+EyesCornea Cornea Nebula Fattybean ..,..Ã£.,..Ã£ 606925
 EyesCornea Cornea Nebula Glaucoma 40269
 EyesCornea Cornea Nebula Intlammaton ct the cornea theralitis) 303988
 EyesCornea Cornea Nebula SeniIy 3048
@@ -3426,107 +3426,107 @@ Fenpropthring. 4968972
 Fenvalerate 23677226
 Fermin 901493
 Ferrous phosphate 34597
-FFacial paralysis, one sided 9016562285
-FFacial paralyss, Bells palsy 5043
-FFaeces 700372
-FFaint (swoon1 207497
-FFallopian pregnancy, right 3079973
-FFallopian pregnancy. left 3079972
-FFarcy (malleus farciminoss) 6049
-FFascia' paralysis. 50422285
-FFat 901989
-FFat, subconjunctival 90893776
-FFatigue 8069
-FFatty degeneratiollmetamorphosis 6069
-FFatty degeneration oi the liver 606948
-FFatty heart 606925
-FFatty liver 908948
-FFatty metamorphosis ni livar 606948
-FFermentation 40532
-FFermentation, food related 40532
-FFern oral sarcoma 50884114
-FFertility (of woman) 4042333
-FFetor, foul smelling 208489
-FFever 709
-FFever state (pyrexia) 402535
-FFever, general 7046
-FFever, recurrent 30267
-FFeverishness 101812
-FFibremyesitis, soft tissue rheumatism 40511
-FFibrillation 70235
-FFibroadenOrna (breast) 122376
-FFibroblastoma. arachnoid 20593
-FFibroid adenoma 60415
-FFibroma 6075
-FFibroma, nose 50196
-FFibromyoma 50223
-FFibrosarcoma 1368294
-FFibrosis 6078
-FFibrosis, cystic 42264
-FFibrositis syndrome (intiammation et connective tissue) 5061
-FFibrous tumour (carcinoma) 501
-FFissure 70322
-FFissure, crack 40221
-FFistula 30706
-FFlaklence 6079927
-FFlaluienw 3045
-FFlat 'eel 70989574
-FFlatulence 6078927
-FFlatulence, meteorisrn 607891233
-FFlatworm (liver) 20447
-FFlea bile 4
-FFloating liver (hebatoptosisi 808748
-FFloating rib 4035542
-FFlu (at first signs of) 339017
-FFlu (Influanzal 308
-FFlu (Influenza) 308104
-FFlu (Influenza) 30822
-FFlu (Influenza) 700438
-FFlu, (advanced) 349028
-FFlu, (at least 24 hours after) 449071
-FFlu, (symptoms worn oft) 3371
-FFlu, Asian 30238
-FFlu, Asian 700486
-FFlu, catarrhal 905719
-FFlu, gastric 308321
-FFlu, On advanced stages) 991037
-FFlu, Virus A 30467
-FFlu, Virus B 3083
-FFluid, liquid (any area) 601
-FFluor albus 670860
-FFluorine (discharge) 10455
-FFluorine. mycotio (also in man) 55110
-FFoil and mouth disease 530895
-FFood poisoning (botulism) 60179
-FFood poisoning 901201
-FFood poisoning 90154722
-FFood po'soning 7063
-FFoot ringworm 50359
-FForeign body 10212
-FForeign body 10474
-FForeign body in auditory canal (acoustic meatus) 1047413372
-FForeign body in left lung 1047477
-FForeign body in pelvis 1047427
-FForeign body in right lung 1047476
-FForeign body, in nose 1047496
-FForeign body, in rectum 104742851
-FForeign body, shrapnel 10256
-FForeign body, stcne 20555
-FFracture (break) 907
-FFracture, spinal. 90784297
-FFractured rib 907542
-FFrambciesia 105110
-FFrequency 90297
-FFrididity 90312
-FFriedreich's ataxia 40243
-FFrontal sinus, blo.3kage 606133
-FFrontal sinus, swelling 3065133
-FFrostbite 105
-FFrostbite, ear, lefl 10591
-FFrostbite, ear, right 1059
-FFungal infection 7522343
-FFungi 700392
-FFurunculosis 3029
+Facial paralysis, one sided 9016562285
+Facial paralyss, Bells palsy 5043
+Faeces 700372
+Faint (swoon1 207497
+Fallopian pregnancy, right 3079973
+Fallopian pregnancy. left 3079972
+Farcy (malleus farciminoss) 6049
+Fascia' paralysis. 50422285
+Fat 901989
+Fat, subconjunctival 90893776
+Fatigue 8069
+Fatty degeneratiollmetamorphosis 6069
+Fatty degeneration oi the liver 606948
+Fatty heart 606925
+Fatty liver 908948
+Fatty metamorphosis ni livar 606948
+Fermentation 40532
+Fermentation, food related 40532
+Fern oral sarcoma 50884114
+Fertility (of woman) 4042333
+Fetor, foul smelling 208489
+Fever 709
+Fever state (pyrexia) 402535
+Fever, general 7046
+Fever, recurrent 30267
+Feverishness 101812
+Fibremyesitis, soft tissue rheumatism 40511
+Fibrillation 70235
+FibroadenOrna (breast) 122376
+Fibroblastoma. arachnoid 20593
+Fibroid adenoma 60415
+Fibroma 6075
+Fibroma, nose 50196
+Fibromyoma 50223
+Fibrosarcoma 1368294
+Fibrosis 6078
+Fibrosis, cystic 42264
+Fibrositis syndrome (intiammation et connective tissue) 5061
+Fibrous tumour (carcinoma) 501
+Fissure 70322
+Fissure, crack 40221
+Fistula 30706
+Flaklence 6079927
+Flaluienw 3045
+Flat 'eel 70989574
+Flatulence 6078927
+Flatulence, meteorisrn 607891233
+Flatworm (liver) 20447
+Flea bile 4
+Floating liver (hebatoptosisi 808748
+Floating rib 4035542
+Flu (at first signs of) 339017
+Flu (Influanzal 308
+Flu (Influenza) 308104
+Flu (Influenza) 30822
+Flu (Influenza) 700438
+Flu, (advanced) 349028
+Flu, (at least 24 hours after) 449071
+Flu, (symptoms worn oft) 3371
+Flu, Asian 30238
+Flu, Asian 700486
+Flu, catarrhal 905719
+Flu, gastric 308321
+Flu, On advanced stages) 991037
+Flu, Virus A 30467
+Flu, Virus B 3083
+Fluid, liquid (any area) 601
+Fluor albus 670860
+Fluorine (discharge) 10455
+Fluorine. mycotio (also in man) 55110
+Foil and mouth disease 530895
+Food poisoning (botulism) 60179
+Food poisoning 901201
+Food poisoning 90154722
+Food po'soning 7063
+Foot ringworm 50359
+Foreign body 10212
+Foreign body 10474
+Foreign body in auditory canal (acoustic meatus) 1047413372
+Foreign body in left lung 1047477
+Foreign body in pelvis 1047427
+Foreign body in right lung 1047476
+Foreign body, in nose 1047496
+Foreign body, in rectum 104742851
+Foreign body, shrapnel 10256
+Foreign body, stcne 20555
+Fracture (break) 907
+Fracture, spinal. 90784297
+Fractured rib 907542
+Frambciesia 105110
+Frequency 90297
+Frididity 90312
+Friedreich's ataxia 40243
+Frontal sinus, blo.3kage 606133
+Frontal sinus, swelling 3065133
+Frostbite 105
+Frostbite, ear, lefl 10591
+Frostbite, ear, right 1059
+Fungal infection 7522343
+Fungi 700392
+Furunculosis 3029
 fi6 Virus. 336572
 Fibrir 901156
 fiutandiol, 1,2-Butylenglyed 24399137
@@ -3555,7 +3555,7 @@ Flavour enhancersE 903 CamaJba wax 2112222
 Flavour enhancersE 904 Slellx 423233
 Flavour enhancersE 912 Montanic acid eSter 21111233
 Flavour enhancersE 927 Carbalide 223222
-Flavour enhancersE 938 Argon © 221022
+Flavour enhancersE 938 Argon Â© 221022
 Flavour enhancersF 627 Dsoniam guanylate, Guanylale 422232
 Flavour enhancersF 630 Inosinic ac'd, loniswp 333368
 Flowering plants 604450
@@ -3749,86 +3749,86 @@ Genes 40321
 Genuine mast cds 3041
 Geotrich um candi 549557
 German measles (Rubella), (Togaviridae) 30865
-GG ranulocylopenia 40567
-GGad, tottering 403327
-GGall stone colic 6078948
-GGall stones 204838
-GGall stones, colic 702438
-GGanglion (encapsulated tumour) 303177
-GGanglionitis, acute posterior 404898
-GGanglioreuroma 70443
-GGangrene 2077
-GGangrene, on ear, left 207791
-GGangrene, on ear, right 20779
-GGas gangrene, 293508
-GGashalgia 40222
-GGastralgia 60222
-GGastric cancer 5032
-GGastric cancer 50321
-GGastric catarrh 6032
-GGastric cirrhosis 109132
-GGastric gout 50232
-GGastric irritation 4032
-GGastric juices, hyperacidity 5010632
-GGastric neurosis 303728
-GGastric perforation 40632
-GGastric tiu 308321
-GGastric ulcer 3032
-GGastric ulcer 30321
-GGastric ulcer 30833
-GGastritis 40321
-GGastritis 40321
-GGastritis 40732
-GGastritis, acute (erythema{ous', 40732
-GGastritis, catarrhal 404432
-GGastrocholecyst c adhesions 1013238
-GGastrointestinal adhesions 1013222
-GGastrointestinal catarrh 305346
-GGastroptosis 808732
-GGauchers cells (glucacerebrosides in reticular cells) 1232
-GGauchers dsease 97085
-GGerman measles (Rubella) 10374
-GGerman measles (Rubella) 30764
-GGermar measles (Rubella) 10243
-GGingival haemorrhage 40959551
-GGingival haemorrhage 40959591
-GGingivitis 4091
-GGirgival haemorrhage 408111
-GGirgivins 20994
-GGlacoma... 400279
-GGlass 806
-GGlaucoma 40269
-GGlaucoma.. 400279
-GGlioblasloma, polymorphic 5064653
-GGlioma 70342
-GGlnard's syndrome 8044758
-GGlomeruioneohrils ..ã 905979
-GGlucosuria 30783
-GGlucosuria 60957
-GGlycaernia (high sugar content of blood) 30225
-GGlycogenesis (Gierke's disease) 4022534857
-GGlycogoesis . 7022534857
-GGoitre (struma) 9389562
-GGonorrhoea 502
-GGonorrhoea 70077
-GGonorrhoea 70975
-GGonorrhoeal 5023
-GGonorrhoeal rheumatism 40343
-GGonorrineal artritis 502354
-GGout 502119
-GGranulation 50213372
-GGranuloma occ. 40174
-GGrey hair 3033109
-GGreying hair 601109
-GGriners disease (silicoss) 40292
-GGrippal nitechon 70068
-GGrowing pains 507910
-GGumma, orbital ie. 50531
-GGummy tumour (Gamma) 50552976
-GGummy tumour (Ginn), Par right 5051019
-GGummy tumour (Gumma) 50510
-GGummy tumour (Gumma), ear ieft 50510191
-GGums, purulent 60591
+G ranulocylopenia 40567
+Gad, tottering 403327
+Gall stone colic 6078948
+Gall stones 204838
+Gall stones, colic 702438
+Ganglion (encapsulated tumour) 303177
+Ganglionitis, acute posterior 404898
+Ganglioreuroma 70443
+Gangrene 2077
+Gangrene, on ear, left 207791
+Gangrene, on ear, right 20779
+Gas gangrene, 293508
+Gashalgia 40222
+Gastralgia 60222
+Gastric cancer 5032
+Gastric cancer 50321
+Gastric catarrh 6032
+Gastric cirrhosis 109132
+Gastric gout 50232
+Gastric irritation 4032
+Gastric juices, hyperacidity 5010632
+Gastric neurosis 303728
+Gastric perforation 40632
+Gastric tiu 308321
+Gastric ulcer 3032
+Gastric ulcer 30321
+Gastric ulcer 30833
+Gastritis 40321
+Gastritis 40321
+Gastritis 40732
+Gastritis, acute (erythema{ous', 40732
+Gastritis, catarrhal 404432
+Gastrocholecyst c adhesions 1013238
+Gastrointestinal adhesions 1013222
+Gastrointestinal catarrh 305346
+Gastroptosis 808732
+Gauchers cells (glucacerebrosides in reticular cells) 1232
+Gauchers dsease 97085
+German measles (Rubella) 10374
+German measles (Rubella) 30764
+Germar measles (Rubella) 10243
+Gingival haemorrhage 40959551
+Gingival haemorrhage 40959591
+Gingivitis 4091
+Girgival haemorrhage 408111
+Girgivins 20994
+Glacoma... 400279
+Glass 806
+Glaucoma 40269
+Glaucoma.. 400279
+Glioblasloma, polymorphic 5064653
+Glioma 70342
+Glnard's syndrome 8044758
+Glomeruioneohrils ..Ã£ 905979
+Glucosuria 30783
+Glucosuria 60957
+Glycaernia (high sugar content of blood) 30225
+Glycogenesis (Gierke's disease) 4022534857
+Glycogoesis . 7022534857
+Goitre (struma) 9389562
+Gonorrhoea 502
+Gonorrhoea 70077
+Gonorrhoea 70975
+Gonorrhoeal 5023
+Gonorrhoeal rheumatism 40343
+Gonorrineal artritis 502354
+Gout 502119
+Granulation 50213372
+Granuloma occ. 40174
+Grey hair 3033109
+Greying hair 601109
+Griners disease (silicoss) 40292
+Grippal nitechon 70068
+Growing pains 507910
+Gumma, orbital ie. 50531
+Gummy tumour (Gamma) 50552976
+Gummy tumour (Ginn), Par right 5051019
+Gummy tumour (Gumma) 50510
+Gummy tumour (Gumma), ear ieft 50510191
+Gums, purulent 60591
 Gip& 54891
 Glands (general) 7425
 Glandular systemAdrenal gland, left 31078
@@ -3874,7 +3874,7 @@ Gullet (Oesophagus)Throat 966
 Gureutoma 70932
 Hacmophilus influenzae, Serotype B 6056236
 Haemophilus ducroyi 44323
-Haemophilus influenza¡ 583685
+Haemophilus influenzaÂ¡ 583685
 Haemophilus influenzae 7028
 Hair 1090
 Hair, Skin and Nails
@@ -4017,7 +4017,7 @@ HearingSemicircular canals, distersion of 0'3880.15 2387
 HearingSemicircular duct horizontal 3289
 HearingSemicircular duct, oostericr 2289
 HearingSemicircular duct. anterior 2339
-HearingSemicircular ducts, bony (lest of ampullae T¥crista ampUliariS) 9910
+HearingSemicircular ducts, bony (lest of ampullae TÂ¥crista ampUliariS) 9910
 HearingSemicircular ducts, membranaceous 7910
 HearingSemicircular ducts, septum Iransve,surn 7894
 HearingSpiral canal of rnodiolus 3235
@@ -4058,7 +4058,7 @@ HeartCardiac septum 3502
 HeartCardiac valve, aortal valve 46
 HeartCardiac valve, pulmonary valve 412
 HeartCardiac valve, right (tricuspid valve) 2597
-HeartCardiac valveã left (mini valve) 2567
+HeartCardiac valveÃ£ left (mini valve) 2567
 HeartCarkac valves 4256
 HeartEndocardium, connective tissue 2534
 HeartEndocardium, elastic fibres 5402
@@ -4084,7 +4084,7 @@ HeartVentricle, right 256
 HeartVentricular septum 2259
 HeKachlorobenzol 8594657
 Helminthosporium halodes 7553
-Hemesvrus, HHV 22234
+Hemesvrus, HV 22234
 Henna 901145
 Heotachlorine 74905
 Hepane, normal heplane 504129
@@ -4112,176 +4112,176 @@ Hexamidne (disinfectant) 187
 Hexanai 2569632
 Hexane, n-Hexane 20961
 Hexobarb ta1 1698924
-HHaemalilis (vomiting b1000) 101992
-HHaemangioma (Capillary haemangioma) 409719
-HHaemangioma 20452
-HHaemangioma planotuberosum 60653
-HHaematoma 01 nasal septum 409215496
-HHaematoma of dura mater 80799279
-HHaematuria 80839
-HHaemblysis 70787
-HHaemophilia 409686
-HHaemophilia 409686
-HHaemophilia 5358587
-HHaemoplysis 10773
-HHaemoptysis (bronchial haemorrhage) 10773
-HHaemordiagic cyst, haematocele 409781
-HHaemorrhaging (strong bleeding) 40986
-HHaemorrhaging, intraabdominal 7049
-HHaemorrhoids 4521
-HHaemorrhoids 8068
-HHaemorrhoids, external 2096
-HHaemorrhoids, internal 2015
-HHaemostasis (balancing parathyroid gland!) 70393
-HHaernocongestion 7048
-HHair less 1010109
-HHair loss 80237
-HHair loss, pathological (Alopecia) 305453
-HHair, grey 3033109
-HHair, greying 601109
-HHaomouhagic cyst, haernalocole 409788
-HHardening (indura(ion), breast 'female) lett 50174
-HHardening (indurationi, breast femaie) right 50173
-HHashimoto Thyroiditis (struma lymphomatosa) 67464320
-HHashimoto Thyroiditis (struma lymphomatosa) 955477
-HHay fever . , 6096
-HHay fever 7055
-HHe mipara lysis (Hernpiegia) 6014
-HHead murmurs 70579
-HHeadache (from congestion) 70935
-HHeadaches . 7093
-HHeadaches 50779
-HHearing, loss 906228
-HHeart block ¥ 8089524
-HHeart rumor 60457
-HHeart, adiposis 606925
-HHeart, aonormity 1093725
-HHeart, fibrously degenerated 50125
-HHeart, hypertrophy 40125
-HHeart, inufficiency, congestive 60864
-HHeart, inufficiency. 70999
-HHeart, strain DO 609386525
-HHeart. syphilitic 50525
-HHeartburn (Pyrosis) 30243
-HHeartburn (Pyrosis) 407321
-HHeat 10555
-HHemicrania (niateral heaache) . 30525
-HHemiparalysis (Hemipleia) 4096
-HHepatic abs:',eSq 304248
-HHepatic aneurysm 40149148
-HHepatic atrophy, acute yellow 2044048
-HHepatic atrophy. acute yellow 20440487
-HHepatic sarcoma 50848
-HHepatitis C 7094134
-HHepatitis non A-non B 154983
-HHepatitis, acute (virus B) 40325
-HHepatitis, acute (virus B) 40325
-HHepatitis, acute ivirus A) 4048
-HHepatitis, chronic 60284
-HHepatitis. acute (virus A) 4048
-HHepatitis. chronic 60284
-HHepatt abscess 3042487
-HHernia (nguinal, umbilical etc.) 20573
-HHernia 104659
-HHernia 1048
-HHernia 20573
-HHernia fenrralis 104849
-HHernia obturatoria 104843
-HHernia of diaphragm 10488104
-HHernia ventralis 104859
-HHernia, hiatus 303573
-HHernia, hiatus 303573
-HHernia, iicarcerated 20573101
-HHernia, incarcerated 20573101
-HHernia, strangulated 2091048
-HHerniation 70?64
-HHerpes auris 602401172
-HHerpes simplex 60402
-HHerpes zoster 6024759
-HHiccup (blocked rerns phrenicus) 90332277
-HHiccup (nerve to pleura) 90117
-HHiccup (Singultus; inflammation of lungs) 40776
-HHiccup (Singultus; nervus plirenicuS) 1001096
-HHiccup 10994
-HHigh blood pressur, P sspntia I 50529
-HHigh blood pressure 409046
-HHigh blood pressure, primary 50529
-HHigh blood pressure, vessel specific 409046
-HHigh blood viscosity 40779
-HHigh temperature 4095810
-HHigh tension 40904947
-HHigl- pulse rate 7036610
-HHirschsprung's cheese (mc:gacolon, congenital) 405137
-HHirsJtism (excessive hair) 70654
-HHistio cytoma 447717
-HHoarseness 2043
-HHodgkin's disease 2032710
-HHomoeopathic medicine, sensitivity to 403563
-HHookworm sickness 30621
-HHordoleum 40533
-HHordoleum 409204
-HHormonal glands, imbalance 609562
-HHormonal imbalance 507903
-HHot flushes 20766
-HHot flusnes 70399
-HHunchback fkyphosist 403453
-HHunger, food related 20155
-HHunger, general lack 10335
-HHur ger 40926
-HHydatids, orbital left 3029131
-HHydatids, orbital right 302913
-HHydradenitis 9603459
-HHydraemia 20447
-HHydration 30494
-HHydrocele 1001786
-HHydrocele 601781
-HHydrocele 601788
-HHydrocele, encyslecl 10691781
-HHydrocele, encysted 10691788
-HHydronephrossis 60123
-HHydrophobia (rabies) 60605
-HHydrothorax 6078079
-HHymen, inflamed (virginal membrane) 40695
-HHype,drcphy 80408
-HHype,drophy of the brain 4011332
-HHypefuricaemia 407
-HHypeisensitivity 40337
-HHyperaemia 40941
-HHyperaemia of spinal medulla 409297
-HHyperaemia oi brain 4094976
-HHyperaemia, cerebral (cerebellum) 409231
-HHyperaemia. cerebral (cerebrum) 40929
-HHyperanaemia of the brain 409411332
-HHyperchlorhydria 506708
-HHyperchlorhydria 8032110
-HHypercholesterolaemia 50987295
-HHyperinsulinism 504488
-HHyperirsulinism 504488
-HHyperkinesis 50910482
-HHypermenorrhoea 7055109
-HHyperplasia nodular 29696
-HHyperplasia., 704339
-HHyperpnoea 5010334
-HHyperpyrexia 808894
-HHypersalivation. 70731
-HHypersens3tMty 20547
-HHypersensitivity, ailergic (atopia) 20466
-HHyperthyroidism (thyroid gland hyperfunction) 404635537
-HHyperthyroidism (thyroid gland hypertunction) ...ã 401617
-HHypertonia 50529
-HHypertrophic connective tissue neuritis 50682
-HHyperventilation 70919
-HHypnosis 607555
-HHypocalc,aernia 1078106
-HHypochlorhydria 403208
-HHypocupremia 907224
-HHypoglycaemia 103225
-HHypomania 9019737
-HHypoplasia 306771
-HHypoproainaemia 106101
-HHyportonia, vascular 409046
-HHypothre0Sis 102687
-HHysteria 70936
+Haemalilis (vomiting b1000) 101992
+Haemangioma (Capillary haemangioma) 409719
+Haemangioma 20452
+Haemangioma planotuberosum 60653
+Haematoma 01 nasal septum 409215496
+Haematoma of dura mater 80799279
+Haematuria 80839
+Haemblysis 70787
+Haemophilia 409686
+Haemophilia 409686
+Haemophilia 5358587
+Haemoplysis 10773
+Haemoptysis (bronchial haemorrhage) 10773
+Haemordiagic cyst, haematocele 409781
+Haemorrhaging (strong bleeding) 40986
+Haemorrhaging, intraabdominal 7049
+Haemorrhoids 4521
+Haemorrhoids 8068
+Haemorrhoids, external 2096
+Haemorrhoids, internal 2015
+Haemostasis (balancing parathyroid gland!) 70393
+Haernocongestion 7048
+Hair less 1010109
+Hair loss 80237
+Hair loss, pathological (Alopecia) 305453
+Hair, grey 3033109
+Hair, greying 601109
+Haomouhagic cyst, haernalocole 409788
+Hardening (indura(ion), breast 'female) lett 50174
+Hardening (indurationi, breast femaie) right 50173
+Hashimoto Thyroiditis (struma lymphomatosa) 67464320
+Hashimoto Thyroiditis (struma lymphomatosa) 955477
+Hay fever . , 6096
+Hay fever 7055
+He mipara lysis (Hernpiegia) 6014
+Head murmurs 70579
+Headache (from congestion) 70935
+Headaches . 7093
+Headaches 50779
+Hearing, loss 906228
+Heart block Â¥ 8089524
+Heart rumor 60457
+Heart, adiposis 606925
+Heart, aonormity 1093725
+Heart, fibrously degenerated 50125
+Heart, hypertrophy 40125
+Heart, inufficiency, congestive 60864
+Heart, inufficiency. 70999
+Heart, strain DO 609386525
+Heart. syphilitic 50525
+Heartburn (Pyrosis) 30243
+Heartburn (Pyrosis) 407321
+Heat 10555
+Hemicrania (niateral heaache) . 30525
+Hemiparalysis (Hemipleia) 4096
+Hepatic abs:',eSq 304248
+Hepatic aneurysm 40149148
+Hepatic atrophy, acute yellow 2044048
+Hepatic atrophy. acute yellow 20440487
+Hepatic sarcoma 50848
+Hepatitis C 7094134
+Hepatitis non A-non B 154983
+Hepatitis, acute (virus B) 40325
+Hepatitis, acute (virus B) 40325
+Hepatitis, acute ivirus A) 4048
+Hepatitis, chronic 60284
+Hepatitis. acute (virus A) 4048
+Hepatitis. chronic 60284
+Hepatt abscess 3042487
+Hernia (nguinal, umbilical etc.) 20573
+Hernia 104659
+Hernia 1048
+Hernia 20573
+Hernia fenrralis 104849
+Hernia obturatoria 104843
+Hernia of diaphragm 10488104
+Hernia ventralis 104859
+Hernia, hiatus 303573
+Hernia, hiatus 303573
+Hernia, iicarcerated 20573101
+Hernia, incarcerated 20573101
+Hernia, strangulated 2091048
+Herniation 70?64
+Herpes auris 602401172
+Herpes simplex 60402
+Herpes zoster 6024759
+Hiccup (blocked rerns phrenicus) 90332277
+Hiccup (nerve to pleura) 90117
+Hiccup (Singultus; inflammation of lungs) 40776
+Hiccup (Singultus; nervus plirenicuS) 1001096
+Hiccup 10994
+High blood pressur, P sspntia I 50529
+High blood pressure 409046
+High blood pressure, primary 50529
+High blood pressure, vessel specific 409046
+High blood viscosity 40779
+High temperature 4095810
+High tension 40904947
+Higl- pulse rate 7036610
+Hirschsprung's cheese (mc:gacolon, congenital) 405137
+HirsJtism (excessive hair) 70654
+Histio cytoma 447717
+Hoarseness 2043
+Hodgkin's disease 2032710
+Homoeopathic medicine, sensitivity to 403563
+Hookworm sickness 30621
+Hordoleum 40533
+Hordoleum 409204
+Hormonal glands, imbalance 609562
+Hormonal imbalance 507903
+Hot flushes 20766
+Hot flusnes 70399
+Hunchback fkyphosist 403453
+Hunger, food related 20155
+Hunger, general lack 10335
+Hur ger 40926
+Hydatids, orbital left 3029131
+Hydatids, orbital right 302913
+Hydradenitis 9603459
+Hydraemia 20447
+Hydration 30494
+Hydrocele 1001786
+Hydrocele 601781
+Hydrocele 601788
+Hydrocele, encyslecl 10691781
+Hydrocele, encysted 10691788
+Hydronephrossis 60123
+Hydrophobia (rabies) 60605
+Hydrothorax 6078079
+Hymen, inflamed (virginal membrane) 40695
+Hype,drcphy 80408
+Hype,drophy of the brain 4011332
+Hypefuricaemia 407
+Hypeisensitivity 40337
+Hyperaemia 40941
+Hyperaemia of spinal medulla 409297
+Hyperaemia oi brain 4094976
+Hyperaemia, cerebral (cerebellum) 409231
+Hyperaemia. cerebral (cerebrum) 40929
+Hyperanaemia of the brain 409411332
+Hyperchlorhydria 506708
+Hyperchlorhydria 8032110
+Hypercholesterolaemia 50987295
+Hyperinsulinism 504488
+Hyperirsulinism 504488
+Hyperkinesis 50910482
+Hypermenorrhoea 7055109
+Hyperplasia nodular 29696
+Hyperplasia., 704339
+Hyperpnoea 5010334
+Hyperpyrexia 808894
+Hypersalivation. 70731
+Hypersens3tMty 20547
+Hypersensitivity, ailergic (atopia) 20466
+Hyperthyroidism (thyroid gland hyperfunction) 404635537
+Hyperthyroidism (thyroid gland hypertunction) ...Ã£ 401617
+Hypertonia 50529
+Hypertrophic connective tissue neuritis 50682
+Hyperventilation 70919
+Hypnosis 607555
+Hypocalc,aernia 1078106
+Hypochlorhydria 403208
+Hypocupremia 907224
+Hypoglycaemia 103225
+Hypomania 9019737
+Hypoplasia 306771
+Hypoproainaemia 106101
+Hyportonia, vascular 409046
+Hypothre0Sis 102687
+Hysteria 70936
 Hictamine ... 166
 Hiiypopituitarism 304953
 Histoplasma 9535884
@@ -4322,124 +4322,124 @@ I .alothaniim INiarcctic 5136629
 Iddine 7066601
 Ifnfantile paralysis (yiris) 90663
 IgE antioodies 442218
-IIcletuS, naemdric 408781
-IIcterus 4081
-IIcterus, catarrhal 40325
-IIliac complaint 4021775
-IIllness 60409
-IImbalance 10222
-IImbalance, chemical processes 40411
-IImbalance, emotional 605108
-IImbalance, endocrinal 609562
-IImbalance, enzyme 30242
-IImbalance, hormonal glands 609562
-IImbalance, hormones 507903
-IImbalance, metabolic 402737
-IImbalance, minerals 30528
-IImbalance, protein 405333
-IImbalance, secretion 60404
-IImbalance, vitamins 102686
-IImmunisation, after effects 50444
-IImpetigo (crusted letter) 80295
-IImpotence 20467
+IcletuS, naemdric 408781
+Icterus 4081
+Icterus, catarrhal 40325
+Iliac complaint 4021775
+Illness 60409
+Imbalance 10222
+Imbalance, chemical processes 40411
+Imbalance, emotional 605108
+Imbalance, endocrinal 609562
+Imbalance, enzyme 30242
+Imbalance, hormonal glands 609562
+Imbalance, hormones 507903
+Imbalance, metabolic 402737
+Imbalance, minerals 30528
+Imbalance, protein 405333
+Imbalance, secretion 60404
+Imbalance, vitamins 102686
+Immunisation, after effects 50444
+Impetigo (crusted letter) 80295
+Impotence 20467
 Iincompetence 3010554
-IIncontinence 20337
-IIncrease in vitality 205232
+Incontinence 20337
+Increase in vitality 205232
 Iindigestion (dyspepsa) 40444
-IIndigestion (dyspepsia) 608
-IInfancy 40463
-IInfarction 40427
-IInfected lyrnatis 346284
-IInfection 7010734
-IInfertility, temporary (female, male) 402338
-IInfiltration 70242
-IInfiuencinum vesiculosum 556?26782
-IInflammation af urthrn (urethritis) 40438
-IInflammation of a gland 40327
-IInflammation of bursa (Bursitis) 407439
-IInflammation of bursa. chronic 409766
-IInflammation of lacrimal sack (clacryocystitis), 409533
-IInflammation of lacrimal sack Ictacryocysfilis), len 4095331
-IInflammation of Ole sphenoid sinus (sinusitis sphenoidals) 60284993
+Indigestion (dyspepsia) 608
+Infancy 40463
+Infarction 40427
+Infected lyrnatis 346284
+Infection 7010734
+Infertility, temporary (female, male) 402338
+Infiltration 70242
+Infiuencinum vesiculosum 556?26782
+Inflammation af urthrn (urethritis) 40438
+Inflammation of a gland 40327
+Inflammation of bursa (Bursitis) 407439
+Inflammation of bursa. chronic 409766
+Inflammation of lacrimal sack (clacryocystitis), 409533
+Inflammation of lacrimal sack Ictacryocysfilis), len 4095331
+Inflammation of Ole sphenoid sinus (sinusitis sphenoidals) 60284993
 Iinflammation of optic nerve (ftleurits nevi optici). 70155808
 Iinflammation of pnarynx, tuberculous (Pharyngitis)._ 40240198
-IInflammation of the @Ably nerve 70511808
-IInflammation of the achilles tendon insertion, apophysitis calcanei 80754
-IInflammation of the bate marrow (Osteomyelitis) 40843453
-IInflammation of the bone marrow (Osteomyelitis) 4084599
-IInflammation of the breast (maStilis'ã left 4073
-IInflammation of the breast (mastitis), right 4074
-IInflammation of the cervix uteri 40952
-IInflammation of the cornea (keratitis) 303988
-IInflammation of the duodenum (duodenitis) 400221
-IInflammation of the gallbladder (cholecyslitis) 20438
-IInflammation of the ins (into) 402534
-IInflammation of the large intesthe (colitis) 40839
-IInflammation of the large intestine (colitis) 6027
-IInflammation of the large intestne, membranous ;colitis) 3061
-IInflammation of the matrix of the nail 7095
-IInflammation of the middle ear (otitis media) 6013372
-IInflammation of the middle ear, puriform ,'Mill; Media) 60413372
-IInflammation of the middle ear, tuberculous ()Ii!is media) 402413372
-IInflammation of the nenrus pudendus 70511165
-IInflammation of the ovary (oophontis), right 403338
-IInflammation of the ovary coophoritis), left .. 403334
-IInflammation of the periosteum (peewits), orbital right 403593
-IInflammation of the periosteum (Periostills) 40359
-IInflammation of the periosteum (Periostills), orbital left 4035931
-IInflammation of the periosteum, syplilltic (Periostitis 505359
-IInflammation of the pleura pleurisy) 6087
-IInflammation of the renal pelvis (PYalifis) 509704
-IInflammation of the renal pelvis (pyelilis) right 6037
-IInflammation of the renal pelvis (pyelitis) left 60371
-IInflammation of the seminal vesicle (spermatocystitis) 402098
-IInflammation of the small intestine (enteritis) 60027
-IInflammation of the spinal cord ;myelitis) 40297
-IInflammation of the testis (orchi:is), let 407881
-IInflammation of the testis (orchiis), right 40788
-IInflammation of the tunica secosa 40766
-IInflammation of the uterine tube (salpingitis), left 502972
-IInflammation of the uterine tube (salpingitis), right 502973
-IInflammation of the vertebrae, traumatic (Spondylitis) 1092279
-IInflammation of the viscera 401233
-IInflammation of the visceral parenchym 4023
-IInflammation of ureter (urelerifis), right 404668
-IInflammation of ureter (ureteritis), lett 4046681
-IInflammation of Vic nerve 40291
-IInflammation of We breast, necrotic (gargrenous masitis) 803522
+Inflammation of the @Ably nerve 70511808
+Inflammation of the achilles tendon insertion, apophysitis calcanei 80754
+Inflammation of the bate marrow (Osteomyelitis) 40843453
+Inflammation of the bone marrow (Osteomyelitis) 4084599
+Inflammation of the breast (maStilis'Ã£ left 4073
+Inflammation of the breast (mastitis), right 4074
+Inflammation of the cervix uteri 40952
+Inflammation of the cornea (keratitis) 303988
+Inflammation of the duodenum (duodenitis) 400221
+Inflammation of the gallbladder (cholecyslitis) 20438
+Inflammation of the ins (into) 402534
+Inflammation of the large intesthe (colitis) 40839
+Inflammation of the large intestine (colitis) 6027
+Inflammation of the large intestne, membranous ;colitis) 3061
+Inflammation of the matrix of the nail 7095
+Inflammation of the middle ear (otitis media) 6013372
+Inflammation of the middle ear, puriform ,'Mill; Media) 60413372
+Inflammation of the middle ear, tuberculous ()Ii!is media) 402413372
+Inflammation of the nenrus pudendus 70511165
+Inflammation of the ovary (oophontis), right 403338
+Inflammation of the ovary coophoritis), left .. 403334
+Inflammation of the periosteum (peewits), orbital right 403593
+Inflammation of the periosteum (Periostills) 40359
+Inflammation of the periosteum (Periostills), orbital left 4035931
+Inflammation of the periosteum, syplilltic (Periostitis 505359
+Inflammation of the pleura pleurisy) 6087
+Inflammation of the renal pelvis (PYalifis) 509704
+Inflammation of the renal pelvis (pyelilis) right 6037
+Inflammation of the renal pelvis (pyelitis) left 60371
+Inflammation of the seminal vesicle (spermatocystitis) 402098
+Inflammation of the small intestine (enteritis) 60027
+Inflammation of the spinal cord ;myelitis) 40297
+Inflammation of the testis (orchi:is), let 407881
+Inflammation of the testis (orchiis), right 40788
+Inflammation of the tunica secosa 40766
+Inflammation of the uterine tube (salpingitis), left 502972
+Inflammation of the uterine tube (salpingitis), right 502973
+Inflammation of the vertebrae, traumatic (Spondylitis) 1092279
+Inflammation of the viscera 401233
+Inflammation of the visceral parenchym 4023
+Inflammation of ureter (urelerifis), right 404668
+Inflammation of ureter (ureteritis), lett 4046681
+Inflammation of Vic nerve 40291
+Inflammation of We breast, necrotic (gargrenous masitis) 803522
 Iinflammation ot connective tissue (fibrositis syndrome) 5061
-IInflammation ot the vertebrae (spondylitis) 8097297
-IInflammation, Inca( 40
-IInfluenCinum toxicum 9535812
-IIngirnal he 104845
-IInner ear inflemmation (labyrinthts) 70168
-IInnervation, reduced 20437
-IInsufficiency 209172
-IIntelligence defect 80924
-IIntercostal neuralgia 702542
-IIntercostal rheumatism 704542
-IInternal pressure, cerebellum (intracerebellar) 10694
-IInternal pressure, cerebrum (iniracerebral) 10682
-IInternal pressure, eyes (ntraocular) 10280
-IIntestinal influenza 30822
-IIntestinal irritation 60422
-IIntracranial pressure 10682
-IIntramedullary hacmorthago, spinal apodlexy 903297
-IIntrameduNary haemorrhae, spinal apoplexy 903279
-IIntraocuiar pressure 10280
-IIntroverted 20226
-IInvagination 207222
-IInversio uteri 4035954
-IIodine poisoning. 901884
-IIridocyclitis 60278
-IIridocyclitis, chronic 9038
-IIrritable bladder 809062
-IIrritation 809
-IIrritation, increased (erethism) 50447
-IIschaemia 60422
-IItching (pruritus).. 30445
-IItching irritation . 90172
-IItching. 809910
+Inflammation ot the vertebrae (spondylitis) 8097297
+Inflammation, Inca( 40
+InfluenCinum toxicum 9535812
+Ingirnal he 104845
+Inner ear inflemmation (labyrinthts) 70168
+Innervation, reduced 20437
+Insufficiency 209172
+Intelligence defect 80924
+Intercostal neuralgia 702542
+Intercostal rheumatism 704542
+Internal pressure, cerebellum (intracerebellar) 10694
+Internal pressure, cerebrum (iniracerebral) 10682
+Internal pressure, eyes (ntraocular) 10280
+Intestinal influenza 30822
+Intestinal irritation 60422
+Intracranial pressure 10682
+Intramedullary hacmorthago, spinal apodlexy 903297
+IntrameduNary haemorrhae, spinal apoplexy 903279
+Intraocuiar pressure 10280
+Introverted 20226
+Invagination 207222
+Inversio uteri 4035954
+Iodine poisoning. 901884
+Iridocyclitis 60278
+Iridocyclitis, chronic 9038
+Irritable bladder 809062
+Irritation 809
+Irritation, increased (erethism) 50447
+Ischaemia 60422
+Itching (pruritus).. 30445
+Itching irritation . 90172
+Itching. 809910
 Ilchthyosis (fish skin) 307101
 Ileum 223
 Ilnfluencinum vesiculosurn SW 37811
@@ -4450,7 +4450,7 @@ Influenza (Orhorr yxovindae) 523125
 Influenza virus, Asian nfluenZa )1957-58) 30556
 Influenza, Hong Kong inflow a (1968-69), (Orttcmyxwirdae) 43213
 Influenza, Vitus B (Orthomyxovirida 309
-Influenza. Virus A (Orthomyxoviride)...¥ 30567
+Influenza. Virus A (Orthomyxoviride)...Â¥ 30567
 Influenza. Virus C (Orlhornyxoviridae) 32121
 Iniederon 86735
 Insektiode 976016
@@ -4470,14 +4470,14 @@ ivy 1034
 Ivy 134
 Ivy, poiso ivy (rhos tomodendron) 901134
 Jejunum 222
-JJaundice (icterus) 4081
-JJaundice (icterus) 40811
-JJaundice 700799
-JJaundice, catarrhal 40325
-JJelly fish poison 6427993
-JJoint stiffness (ankylosis) 1073
-JJoint tubercular 402119
-JJuvenile goitre (Slruma adolescentium sive juvenilis) 44653
+Jaundice (icterus) 4081
+Jaundice (icterus) 40811
+Jaundice 700799
+Jaundice, catarrhal 40325
+Jelly fish poison 6427993
+Joint stiffness (ankylosis) 1073
+Joint tubercular 402119
+Juvenile goitre (Slruma adolescentium sive juvenilis) 44653
 Joints 849
 Joints Large4.2.1 Large: (total: 119) 100
 Joints LargeAnkle (4) 1892
@@ -4534,21 +4534,21 @@ KidneysUreter 6684
 KidneysUreter, left 6681
 KidneysUreter, right 668
 KIesieIla preumoniae 50526
-KKala-Azar (visceral leishmaniasis) 50344
-KKerat tis 303988
-KKetosis 60641
-KKidney disease, degenerative (nephrosis), 406371
-KKidney disease, degenerative (nephrosis), right 40637
-KKidney stone 20484837
-KKidney stone 2094
-KKidney stone 209423
-KKidney stones (nephrolithiasis) 3037248
-KKidney, large, whIle 3719
-KKidney, palycystic 2026823
-KKidney. hypernephroid 6046596
-KKlumpke's paralys1s 906344
-KKnee, Water on the knee, serous 8878119
-KKyphosis (spinal curvature, hunchback) 403453
+Kala-Azar (visceral leishmaniasis) 50344
+Kerat tis 303988
+Ketosis 60641
+Kidney disease, degenerative (nephrosis), 406371
+Kidney disease, degenerative (nephrosis), right 40637
+Kidney stone 20484837
+Kidney stone 2094
+Kidney stone 209423
+Kidney stones (nephrolithiasis) 3037248
+Kidney, large, whIle 3719
+Kidney, palycystic 2026823
+Kidney. hypernephroid 6046596
+Klumpke's paralys1s 906344
+Knee, Water on the knee, serous 8878119
+Kyphosis (spinal curvature, hunchback) 403453
 Klensielia 64433
 Kresole 75150
 L1 ymphogranuloma, inguinal or *venereal 504808
@@ -4627,7 +4627,7 @@ LegsCali bone (Fibula) 84329
 LegsFemur 84114
 LegsHip (len) 84439
 LegsHip (right) 84479
-LegsIliac bone Qs III 84374
+LegsIliac bone Qs II 84374
 LegsKne, lett disk 84121
 LegsKnee, imer-bone skin 44833
 LegsKnee, right dsk 84131
@@ -4690,7 +4690,7 @@ LiverHepatic 'obe. left, ligamenitim Mangulare dextrum 4556
 LiverHeptic, arler to connective tissue 4342
 LiverImiyessio cohca 4324
 LiverImpress b renaiis 484
-LiverImpress¡ gastrica 2315
+LiverImpressÂ¡ gastrica 2315
 LiverImpressio duodenalis 43272
 LiverLigamentumleres hepatis 4871
 LiverLympha:ic vessels, deep-lying 1452
@@ -4703,106 +4703,106 @@ LiverNerves from vagus nerve 8232
 LiverPortal fissure (pnita hepats) 456
 LiverSinusoids 4423
 LiverSympathetic nerves 7333
-LLabal oedema 6061016
-LLablity 20624
-LLabyrinth fistila 7062855
-LLabyrinth, cancer 502655
-LLabyrinth, carcincma 5012885
-LLabyrinth, sarcoma 5082885
-LLabyrinth, syahilis 5052855
-LLabyrinthitis 40122
-LLaceration 10927
-LLack 101010
-LLacrimal gland, enlarged 401351
-LLacrimal point, transpOsition 8087304
-LLactifercus duct, blocked 1024333
-LLactosuria 403302
-LLairkoderma 906101
-LLameness 5056
-LLarge intestine, proliferation 50827
-LLarrblia intestinal s 90814431
-LLaryngeal papilloma 6806100
-LLaryngitis 4017
-LLaryngitis 4017
-LLaryngnal ulcer 38?17
-LLateral spinal SCIODSIS 93155390
-LLead colic 70911609
-LLead poisoning 9011609
-LLeaminc diftulties (in children, 564450
-LLearning dittUlties (matlist'physics) 9546834
-LL-Eczerrta 897975
-LLeplospirosis 660102
-LLeplospirosis canicola 62559
-LLeprosy 3839
-LLeptospirosis p. c. gt. W. 451376
-LLesion 10993
-LLesion of spinal meduhla 702979
-LLeucoeneentialitis 181960
-LLeukaemia 8?07137
-LLeukaemia, lymphatic 4032327
-LLeukaemia, myeloid 5037137
-LLeukaemia, nonczytic 90449
-LLeukaemia, spleno-myelocytic 508465
-LLeukocylasis 40143
-LLeukocytopenia (reduced leukocyte count) 70349
-LLeuko-keratasis 906435
-LLeukopenia 70349
-LLeukoplakia. 906435
-LLeukorrhcea 3071332
-LLeukorrhcea 3071332
-LLeukorrhcea 3071336
-LLeukorrhoea 3071336
-LLeukosis, lymphatic 39913
-LLeukosis, myeioic 571355
-LLichen Anus 703244
-LLichen ruber 30224
-LLichenilication 40151
-LLingLai lesions, basal 5081296
-LLingLai ulcer 301296
-LLipoma 50486
+Labal oedema 6061016
+Lablity 20624
+Labyrinth fistila 7062855
+Labyrinth, cancer 502655
+Labyrinth, carcincma 5012885
+Labyrinth, sarcoma 5082885
+Labyrinth, syahilis 5052855
+Labyrinthitis 40122
+Laceration 10927
+Lack 101010
+Lacrimal gland, enlarged 401351
+Lacrimal point, transpOsition 8087304
+Lactifercus duct, blocked 1024333
+Lactosuria 403302
+Lairkoderma 906101
+Lameness 5056
+Large intestine, proliferation 50827
+Larrblia intestinal s 90814431
+Laryngeal papilloma 6806100
+Laryngitis 4017
+Laryngitis 4017
+Laryngnal ulcer 38?17
+Lateral spinal SCIODSIS 93155390
+Lead colic 70911609
+Lead poisoning 9011609
+Leaminc diftulties (in children, 564450
+Learning dittUlties (matlist'physics) 9546834
+L-Eczerrta 897975
+Leplospirosis 660102
+Leplospirosis canicola 62559
+Leprosy 3839
+Leptospirosis p. c. gt. W. 451376
+Lesion 10993
+Lesion of spinal meduhla 702979
+Leucoeneentialitis 181960
+Leukaemia 8?07137
+Leukaemia, lymphatic 4032327
+Leukaemia, myeloid 5037137
+Leukaemia, nonczytic 90449
+Leukaemia, spleno-myelocytic 508465
+Leukocylasis 40143
+Leukocytopenia (reduced leukocyte count) 70349
+Leuko-keratasis 906435
+Leukopenia 70349
+Leukoplakia. 906435
+Leukorrhcea 3071332
+Leukorrhcea 3071332
+Leukorrhcea 3071336
+Leukorrhoea 3071336
+Leukosis, lymphatic 39913
+Leukosis, myeioic 571355
+Lichen Anus 703244
+Lichen ruber 30224
+Lichenilication 40151
+LingLai lesions, basal 5081296
+LingLai ulcer 301296
+Lipoma 50486
 Llisteriosis 1560866
-LLiver cancer 5048
-LLiver cancer 50487
-LLiver, constricted 1010148
-LLiver, cyanotic 1010149748
-LLiver, syphillic 50548
-LLong-sightedness 30373
-LLoss of strength (with weight loss) 20135
-LLove of humanity !r philanthropy) 70877
-LLower abdominal cancer 501233
-LLudwig's angina 4047
-LLudwig's angina 70584
-LLues, congenital 10192
-LLumbago 40599193
-LLumbar abscess 302193
-LLumbar abscess 302978
-LLumbar caries 5024193
-LLumbosacral caries 5024193854
-LLung cancer, carcinoma lett 50177
-LLung cancer, carcinoma right 50176
-LLung cancer, sarcoma lett 50877
-LLung cancer, sarcoma right 50876
-LLupus 402101
-LLupus erythematodes 40249
-LLyme disease .. 423332
-LLymph node abscess 28045
-LLymph oedema (Iymphostasis) 4012327
-LLymph plaques 592234
-LLymphadenitis 762768
-LLymphadenoma (lymphoma), adenoma 503271
-LLymphadenoma, adenoma 302758
-LLymphadenosis.. 50523
-LLymphadonoma ;multiples), adenoma (lymphoma) 2032710
-LLymphangiorna 40225
-LLymphangitis 405327
-LLymphatic 504327
-LLymphocylosis 80673
-LLymphogranuloma, benign 504568
-LLymphogranulomatosis (Hodgkin's disease 2032710
-LLymphorrhea 21445600
-LLymphosarcoma 504327
-LLymphostasis 4012327
-LLyssa 60605
+Liver cancer 5048
+Liver cancer 50487
+Liver, constricted 1010148
+Liver, cyanotic 1010149748
+Liver, syphillic 50548
+Long-sightedness 30373
+Loss of strength (with weight loss) 20135
+Love of humanity !r philanthropy) 70877
+Lower abdominal cancer 501233
+Ludwig's angina 4047
+Ludwig's angina 70584
+Lues, congenital 10192
+Lumbago 40599193
+Lumbar abscess 302193
+Lumbar abscess 302978
+Lumbar caries 5024193
+Lumbosacral caries 5024193854
+Lung cancer, carcinoma lett 50177
+Lung cancer, carcinoma right 50176
+Lung cancer, sarcoma lett 50877
+Lung cancer, sarcoma right 50876
+Lupus 402101
+Lupus erythematodes 40249
+Lyme disease .. 423332
+Lymph node abscess 28045
+Lymph oedema (Iymphostasis) 4012327
+Lymph plaques 592234
+Lymphadenitis 762768
+Lymphadenoma (lymphoma), adenoma 503271
+Lymphadenoma, adenoma 302758
+Lymphadenosis.. 50523
+Lymphadonoma ;multiples), adenoma (lymphoma) 2032710
+Lymphangiorna 40225
+Lymphangitis 405327
+Lymphatic 504327
+Lymphocylosis 80673
+Lymphogranuloma, benign 504568
+Lymphogranulomatosis (Hodgkin's disease 2032710
+Lymphorrhea 21445600
+Lymphosarcoma 504327
+Lymphostasis 4012327
+Lyssa 60605
 L-Noradrenalin-hydroctilorice 4632417
 LocalisationBack 88
 LocalisationButtocks 2675
@@ -4840,7 +4840,7 @@ Lungs (Pulmo)Nerves, irom Vagus 6888
 Lungs (Pulmo)Nerves. 'ruin sympallittlis ner vuus system 2302
 Lungs (Pulmo)PulmonaryubstaiicC 4215
 Lungs (Pulmo)Tissue, subserous (Subserosa) 4223
-Lungs (Pulmo)Veins..,..ã..ã., 3108
+Lungs (Pulmo)Veins..,..Ã£..Ã£., 3108
 Lurrinal 4764
 Lycopodium 2366
 Lymph 2
@@ -5003,7 +5003,7 @@ MesencephalonMidbrain tegmentum 4302
 MesencephalonNucleus, red (nudeus ruber) 3655
 MesencephalonOptic chiasma 3454
 MesencephalonOptic thalamus 797
-MesencephalonQuadrigeminal plate,...ã 4523
+MesencephalonQuadrigeminal plate,...Ã£ 4523
 MesencephalonStriate body 5423
 Mesoderm 5
 MetabolismAcid 201451
@@ -5056,9 +5056,9 @@ Miscellaneous additivesE 503 Ammonium carbonate, A.-hydrogen carbonate rr 745444
 Miscellaneous additivesE 504 Magnesium carbonate, M.-hydrogen carbonate 3 43446
 Miscellaneous additivesE 507 Hydrochloric acid 0 544557
 Miscellaneous additivesE 508 Potassium chloride g 5345456
-Miscellaneous additivesE 509 Calcium chloride © 32233
+Miscellaneous additivesE 509 Calcium chloride Â© 32233
 Miscellaneous additivesE 511 Magnesium chloride 426
-Miscellaneous additivesE 512 Tin II Chloride 8362
+Miscellaneous additivesE 512 Tin I Chloride 8362
 Miscellaneous additivesE 513 Sulphuric acid 0 533324
 Miscellaneous additivesE 514 Sodium sulphate, Sodium hydrogen sulphate 0 52247448
 Miscellaneous additivesE 515 Potassium sulphate, Potassium hydrogen sulVate IC 6355325
@@ -5071,7 +5071,7 @@ Miscellaneous additivesE 523 Aluminium ammonium sulphate ei 669
 Miscellaneous additivesE 524 Sodium hydroxide3 42232
 Miscellaneous additivesE 525 Potassium hydroxide) 8784
 Miscellaneous additivesE 526 Calcium hydroxide,f, 9867
-Miscellaneous additivesE 527 Ammonium hydroxide© 65625
+Miscellaneous additivesE 527 Ammonium hydroxideÂ© 65625
 Miscellaneous additivesE 528 Magnesium hydroxide0 326355
 Miscellaneous additivesE 529 Calcium oxide C).. 94333216
 Miscellaneous additivesE 530 Magnesium oxide 62332236
@@ -5081,7 +5081,7 @@ Miscellaneous additivesE 538 Calcium lerrucyanide 834434
 Miscellaneous additivesE 541 Sodiun aluminixi phosphate, acidic 8574243
 Miscellaneous additivesE 551 Aluminium Sodium silicate 33221
 Miscellaneous additivesE 551 Silicon dioxide (silica) 43643422
-Miscellaneous additivesE 552 Calcium silicate © 65697
+Miscellaneous additivesE 552 Calcium silicate Â© 65697
 Miscellaneous additivesE 553 a Magnesium silicate, Magnesium trisilicate 72424
 Miscellaneous additivesE 553 b Talc Z-5 634455
 Miscellaneous additivesE 555 Aluminium Potassium skate Cf.. 332223
@@ -5103,174 +5103,174 @@ MitesOrnithonyssus (bird mite) 877000
 MitesOrnIthonyssus Oprd m 878000
 MitesSarcoptes scabei (scabies; 735000
 Mitochondria .. 3461
-MMacrocytosis 50104422
-MMacula degeneration 5552959
-MMacula degeneration, age related 778853109
-MMacula degeneration, hereditary 1 22977513
-MMacula degeneration, hereditary 2 599577135
-MMagnesium, lack of, in blood 103877
-MMalaise, indisposition 70745
-MMalaria 30248700
-MMalaria 30283
-MMalaria 700455
-MMalaria tropica 50323
+Macrocytosis 50104422
+Macula degeneration 5552959
+Macula degeneration, age related 778853109
+Macula degeneration, hereditary 1 22977513
+Macula degeneration, hereditary 2 599577135
+Magnesium, lack of, in blood 103877
+Malaise, indisposition 70745
+Malaria 30248700
+Malaria 30283
+Malaria 700455
+Malaria tropica 50323
 Mmalaria, relapse 9076
-MMalformation 10937
-MMalformation 204315
-MMalformation 20712
-MMalfunction 103041
-MMalfunction 50210
-MMalfunction, motoric 802257
-MMalignancy 10722
-MMalnutriljon 20155
-MMalta fever (brucellosis) 20322
-MMalta fever 20327
-MMamma, retmmammary abscess, left 302738
-MMamma, retromammary abscess, right 302748
-MMammary fibromalosis 9807107
-MMammary sarcoma . 6542351
-MMammary, imracanalicular 68990
-MMammary, medullar 73483
-MMammary, scirrhus 302920
-MMammary, simplex 538705
-MMandibular fracture 907872
-MMania 60495
-MManson's schistosomiasis 101327
-MMastaigia 70723
-MMastitis, chronic 4073
-MMastoiditis 602843
-MMaxillary cyst 3970029
-MMaxillary sinus polyp 63465667
-MMciancicarcinoma 50453
-MMdastinal tumour, carcinoma 501356
-MMeasles 10322
-MMeasles 10833
-MMeasles 700105
-MMeciasthal tumour, sarcoma 508356
-MMeciastilitis 40356
-MMeckel's diverticulitis 80627
-MMeculloblastoma 60268
-MMed ngofibroblaslorna 20593
-MMediashal tumour, sarcoma 508356
-MMediastinal abscoss 302356
-MMediastinal tumour, carcinoma 501356
-MMedulla oblongata, lesion of 50844
-MMegacoln, congenital . 405137
-MMeibumian cist (Chalazion) 6015107
-MMelaena. blo3dy stool 809921
-MMelanoma (Metastases).. 37481
-MMelanosarCorna 542599
-MMeriere's disease 103209
-MMeringccoccal meningitis 1042
-MMeringeal syndrome 201812
-MMeringiliS, cerebtospicalis 4027929291
-MMeringioma 20593
-MMeringitis, cercbrospinalis 4027929
-MMeringits (cephalomenincts) 50599
-MMeringls, syphilitica spinalis 505279
-MMeringocele 1048327
-MMeringoenCephaitiS 2022447
-MMerlal illness 37194
-MMeropause 10
-MMeropause 101955
-MMerstration. prolongad (nriershajta) 60453
-MMerstroation. painfulfdysmenorrhuea) 70101
-MMerstruation 1041
-MMerstruation 8014
-MMerstruation, absent (ainenorttioea) 6063
-MMertal condition. 80911
-MMesenteric cist 601815
-MMesenteric lynph node ithercLiosis 608815
-MMesenteric lyriph node tuberculosis 402815
-MMetabolic disorder 402737
-MMetaplasia 30935
-MMetastases 708909
-MMetritiS 407651
-MMetrorrhagia iaperiorlic bleeding) 60622
-MMiasms, general 50908
-MMiddle ear, catanti 60213372
-MMigraine 70948
-MMigraine 73964
-MMiliaria cristallina 302
-MMiliaria rubra,., 30224
-MMincele (mucous cyst, cluster) 40458
-MMineral balanc disturbance in30528
-MMineral deficiency 30085
-MMineral excess 30568
-MMiscarriage 4035
-MMiscarriage 90764954
-MMiscarriage 90772
-MMiscarriage 90772
-MMiscarriage, threat of 90764954
-MMitral stems 2072567
-MMitre( 90982
-MMod'line 98610
-MMoiluscum contagiosum 40963
-MMole (nevus) 50442
-MMolluscum fibrosuM 403244
-MMononucleosis infectiosa 709327
-MMorbilli 10322
-MMOriereS disease 402855
-MMorphine addiction 4056
-MMorphinism, chronic morphine poisoning 9014056
-MMrsmiation, absent iamenornmea) 801954
+Malformation 10937
+Malformation 204315
+Malformation 20712
+Malfunction 103041
+Malfunction 50210
+Malfunction, motoric 802257
+Malignancy 10722
+Malnutriljon 20155
+Malta fever (brucellosis) 20322
+Malta fever 20327
+Mamma, retmmammary abscess, left 302738
+Mamma, retromammary abscess, right 302748
+Mammary fibromalosis 9807107
+Mammary sarcoma . 6542351
+Mammary, imracanalicular 68990
+Mammary, medullar 73483
+Mammary, scirrhus 302920
+Mammary, simplex 538705
+Mandibular fracture 907872
+Mania 60495
+Manson's schistosomiasis 101327
+Mastaigia 70723
+Mastitis, chronic 4073
+Mastoiditis 602843
+Maxillary cyst 3970029
+Maxillary sinus polyp 63465667
+Mciancicarcinoma 50453
+Mdastinal tumour, carcinoma 501356
+Measles 10322
+Measles 10833
+Measles 700105
+Meciasthal tumour, sarcoma 508356
+Meciastilitis 40356
+Meckel's diverticulitis 80627
+Meculloblastoma 60268
+Med ngofibroblaslorna 20593
+Mediashal tumour, sarcoma 508356
+Mediastinal abscoss 302356
+Mediastinal tumour, carcinoma 501356
+Medulla oblongata, lesion of 50844
+Megacoln, congenital . 405137
+Meibumian cist (Chalazion) 6015107
+Melaena. blo3dy stool 809921
+Melanoma (Metastases).. 37481
+MelanosarCorna 542599
+Meriere's disease 103209
+Meringccoccal meningitis 1042
+Meringeal syndrome 201812
+MeringiliS, cerebtospicalis 4027929291
+Meringioma 20593
+Meringitis, cercbrospinalis 4027929
+Meringits (cephalomenincts) 50599
+Meringls, syphilitica spinalis 505279
+Meringocele 1048327
+MeringoenCephaitiS 2022447
+Merlal illness 37194
+Meropause 10
+Meropause 101955
+Merstration. prolongad (nriershajta) 60453
+Merstroation. painfulfdysmenorrhuea) 70101
+Merstruation 1041
+Merstruation 8014
+Merstruation, absent (ainenorttioea) 6063
+Mertal condition. 80911
+Mesenteric cist 601815
+Mesenteric lynph node ithercLiosis 608815
+Mesenteric lyriph node tuberculosis 402815
+Metabolic disorder 402737
+Metaplasia 30935
+Metastases 708909
+MetritiS 407651
+Metrorrhagia iaperiorlic bleeding) 60622
+Miasms, general 50908
+Middle ear, catanti 60213372
+Migraine 70948
+Migraine 73964
+Miliaria cristallina 302
+Miliaria rubra,., 30224
+Mincele (mucous cyst, cluster) 40458
+Mineral balanc disturbance in30528
+Mineral deficiency 30085
+Mineral excess 30568
+Miscarriage 4035
+Miscarriage 90764954
+Miscarriage 90772
+Miscarriage 90772
+Miscarriage, threat of 90764954
+Mitral stems 2072567
+Mitre( 90982
+Mod'line 98610
+Moiluscum contagiosum 40963
+Mole (nevus) 50442
+Molluscum fibrosuM 403244
+Mononucleosis infectiosa 709327
+Morbilli 10322
+MOriereS disease 402855
+Morphine addiction 4056
+Morphinism, chronic morphine poisoning 9014056
+Mrsmiation, absent iamenornmea) 801954
 Mmrtruation, painful trlyinnorrhoea). 40677
-MMucc-membranous pernicOus anaemia 1129836
-MMucolysis 50976
-MMucous cancer 50443
-MMucous oedema 406610
-MMucus 802
-MMultiple Sclerosis (MS) 50548
-MMultiple Sclerosis (MS) 90192
-MMultiple Sclerosis (MS) 90192296
-MMultiple Sclerosis (MS) 90697
-MMultiple Sclerosis )MS) 602528
-MMultiple Sclerosis {MS) 7008433
-MMultiple Sclerosis in dorsal region of meninges 901922
-MMultiple Sclerosis, in lumbosacral region 9019221
-MMumps 10173
-MMumps 10327
-MMumps 402795
-MMumps 700246
-MMuscle contraction 70251
-MMuscle crarnp 203442
-MMuscle function disturbance (myasthenia gravis) 506359
-MMuscle pain (myaigia) 40599
-MMuscle stiffness (general) 60942
-MMuscle strain 40858
-MMuscle tone reduced 20559
-MMuscle wasting, progressive (muscular atrophy) 906599
-MMuscular atrophy (muscle wasting) 504599
-MMuscular dystrophy, progressive 50436
-MMyasthenia gravis 90632281
-MMycea 302410
-MMycosis 20928
-MMycosis 7533232
-MMycosis fungoides 322679
-MMycosis oris (Parodontosis, badly heal irg wounds in the mouth) 29967
-MMycosis oris 688239
-MMyelinoclasis 308254
-MMyelitis, traumatic 902446
-MMyeloblastic leukemla 686637
-MMyeloma 50823
-MMyeloma, multiples 40694
-MMyelomalacia, chronic 601297
-MMyelosarcoma 5083453
-MMynma 70454
-MMyocardial hypertrophy 4015101
-MMyocarditis 40599257
-MMyocarditis, acute 405992572
-MMyocardtis 20373
-MMyofascltis 409178
-MMyofibrillar tear 1048599
-MMyogelosis 799037
-MMyomatosis 503713
-MMyopia 9063647
-MMyosarcoma 503453
-MMyositis, chronic 1911
-MMyotonia 80753
-MMyriigorupture 10924433
-MMyringitis 406677
+Mucc-membranous pernicOus anaemia 1129836
+Mucolysis 50976
+Mucous cancer 50443
+Mucous oedema 406610
+Mucus 802
+Multiple Sclerosis (MS) 50548
+Multiple Sclerosis (MS) 90192
+Multiple Sclerosis (MS) 90192296
+Multiple Sclerosis (MS) 90697
+Multiple Sclerosis )MS) 602528
+Multiple Sclerosis {MS) 7008433
+Multiple Sclerosis in dorsal region of meninges 901922
+Multiple Sclerosis, in lumbosacral region 9019221
+Mumps 10173
+Mumps 10327
+Mumps 402795
+Mumps 700246
+Muscle contraction 70251
+Muscle crarnp 203442
+Muscle function disturbance (myasthenia gravis) 506359
+Muscle pain (myaigia) 40599
+Muscle stiffness (general) 60942
+Muscle strain 40858
+Muscle tone reduced 20559
+Muscle wasting, progressive (muscular atrophy) 906599
+Muscular atrophy (muscle wasting) 504599
+Muscular dystrophy, progressive 50436
+Myasthenia gravis 90632281
+Mycea 302410
+Mycosis 20928
+Mycosis 7533232
+Mycosis fungoides 322679
+Mycosis oris (Parodontosis, badly heal irg wounds in the mouth) 29967
+Mycosis oris 688239
+Myelinoclasis 308254
+Myelitis, traumatic 902446
+Myeloblastic leukemla 686637
+Myeloma 50823
+Myeloma, multiples 40694
+Myelomalacia, chronic 601297
+Myelosarcoma 5083453
+Mynma 70454
+Myocardial hypertrophy 4015101
+Myocarditis 40599257
+Myocarditis, acute 405992572
+Myocardtis 20373
+Myofascltis 409178
+Myofibrillar tear 1048599
+Myogelosis 799037
+Myomatosis 503713
+Myopia 9063647
+Myosarcoma 503453
+Myositis, chronic 1911
+Myotonia 80753
+Myriigorupture 10924433
+Myringitis 406677
 Mobile telephone, GSM (0,9 GHz) 8336457
 Mobile telephone, GSM (1,8 GHz) 354475
 MOCA (4 4 Methylene-bi-(2-chloroanilin)) 803409
@@ -5599,72 +5599,72 @@ Nitronapithaline 2980582
 Nitronaptaln. 2-Nitronaphtalin 9089740
 Nitrosarrine. 613348
 NMF (N-Merhylformamide) 48950
-NNaibiting 30227
-NNail ulcer (panaris) 8057
-NNarcolepsy (sleep attacks) 40325
-NNarcolepsy 40385
-NNasal bleeding 801094
-NNasal concha hyperplasie 9003789
-NNasal muscles, enlarged (Conchae nasales) 40115496
-NNasal polyp 3075196
-NNasal septum, spur of 50115496
-NNaso-laryngeal disorder. 901389619
-NNecrosis 5077
-NNecrosis of temporal Done 20897
-NNeoplasm a 20044
-NNephritis, acute 905979
-NNephritis, left 40371
-NNephritis, left 40371
-NNephritis, right 4037
-NNephritis, right 4037
-NNephropyosis, left 602371
-NNephropyosis, right 60237
-NNerve block (conduction anaesthesia) 9063
-NNetsalgia, cervico occipital 90274
-NNettle rash (urticaria) 901547
-NNettle rash (urticaria) 9019832
-NNeura lgia 80864
-NNeuralg ia, intestinal 8086422
-NNeuralgia of the 12th dorsal nerve 80864212
-NNeuralgia of the diaphragm 808648044
-NNeuralgia of the lower jaw 80864872
-NNeuralgia of the upper jaw.. 808641029
-NNeuralgia, breast (female) left 8086474
-NNeuralgia, breast (female) right 8086473
-NNeuralgia, cenficotlorsa 7024
-NNeuralgia, cervicobrachial 70599
-NNeuralgia, lumboabdorninal 808641233
-NNeurasthenia 40739
-NNeurastnenia, traumatic 10924739
-NNeuritis 700134
-NNeuritis, brachialis 7051109
-NNeuroblastoma 70543
-NNeurocirculatory asthenia 302555
-NNeurodermatitis 505354
-NNeurofibroma 60634
-NNeurofibromatosis (Recldinghausen'S disease) 50110997
-NNeurogenic bladder 508268
-NNeuroma 5011109
-NNeurones, disease of motor ce is. 50217
-NNeurosis 807102
-NNeutropania 104349
-NNevus (mole) 50442
-NNevus (pigmented nevus) 50445
-NNicotine abuse 201779
-NNipple, cracked 1010194
-NNocosIty. 30433
-NNodes 50220419
-NNodosity in epididymis 50158745
-NNose, runny 103869
-NNumbness 70435
-NNumbness 7074
-NNumbness, h the arms 80579366
-NNumbness, hysterical 709363785
-NNumbness, in the legs 90774295
-NNutitior, defective (dys(rophy) 60542
-NNutlor, improper 30232
-NNymphomania 8097462
-NNystagmus 50951
+Naibiting 30227
+Nail ulcer (panaris) 8057
+Narcolepsy (sleep attacks) 40325
+Narcolepsy 40385
+Nasal bleeding 801094
+Nasal concha hyperplasie 9003789
+Nasal muscles, enlarged (Conchae nasales) 40115496
+Nasal polyp 3075196
+Nasal septum, spur of 50115496
+Naso-laryngeal disorder. 901389619
+Necrosis 5077
+Necrosis of temporal Done 20897
+Neoplasm a 20044
+Nephritis, acute 905979
+Nephritis, left 40371
+Nephritis, left 40371
+Nephritis, right 4037
+Nephritis, right 4037
+Nephropyosis, left 602371
+Nephropyosis, right 60237
+Nerve block (conduction anaesthesia) 9063
+Netsalgia, cervico occipital 90274
+Nettle rash (urticaria) 901547
+Nettle rash (urticaria) 9019832
+Neura lgia 80864
+Neuralg ia, intestinal 8086422
+Neuralgia of the 12th dorsal nerve 80864212
+Neuralgia of the diaphragm 808648044
+Neuralgia of the lower jaw 80864872
+Neuralgia of the upper jaw.. 808641029
+Neuralgia, breast (female) left 8086474
+Neuralgia, breast (female) right 8086473
+Neuralgia, cenficotlorsa 7024
+Neuralgia, cervicobrachial 70599
+Neuralgia, lumboabdorninal 808641233
+Neurasthenia 40739
+Neurastnenia, traumatic 10924739
+Neuritis 700134
+Neuritis, brachialis 7051109
+Neuroblastoma 70543
+Neurocirculatory asthenia 302555
+Neurodermatitis 505354
+Neurofibroma 60634
+Neurofibromatosis (Recldinghausen'S disease) 50110997
+Neurogenic bladder 508268
+Neuroma 5011109
+Neurones, disease of motor ce is. 50217
+Neurosis 807102
+Neutropania 104349
+Nevus (mole) 50442
+Nevus (pigmented nevus) 50445
+Nicotine abuse 201779
+Nipple, cracked 1010194
+NocosIty. 30433
+Nodes 50220419
+Nodosity in epididymis 50158745
+Nose, runny 103869
+Numbness 70435
+Numbness 7074
+Numbness, h the arms 80579366
+Numbness, hysterical 709363785
+Numbness, in the legs 90774295
+Nutitior, defective (dys(rophy) 60542
+Nutlor, improper 30232
+Nymphomania 8097462
+Nystagmus 50951
 Nocarda brasiliensis 8957
 Nonane: n Nonare 446820
 Non-gamma 2 amalgam 115451
@@ -5771,7 +5771,7 @@ NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) Anaemia 20976
 NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) Aortic insufficency 109101
 NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) Arteriosclerosis 9036
 NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) Basal skull fracture (skull fracture) 907844
-NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) BasedoWs disease (Base¡Ws hyperthyroidism. 30665
+NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) BasedoWs disease (BaseÂ¡Ws hyperthyroidism. 30665
 NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) Brarchia glands, enlarged 8054
 NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) Bromhitis, chronic 6024
 NoseNose: Rhinorrhoea, Nose: Nosebleed (Epistaxis) CarCinema, Nose 5096
@@ -5864,84 +5864,84 @@ Ochratoxin 8998579
 Octane, n-Octane 999657
 Oncogene Viruses (Lymphogrnulomatose) 2032701
 ONT :Dinitrotot ols) 3801556
-OObesity 30699
-OObsession, elementary 9012
-OObsession, habit 6834
-OObsession, temperament 4068792
-OObsessive compdsive neurosis 1094891
-OObStipati011 702427
+Obesity 30699
+Obsession, elementary 9012
+Obsession, habit 6834
+Obsession, temperament 4068792
+Obsessive compdsive neurosis 1094891
+ObStipati011 702427
 Oobstipation 7029
-OObstruction 90422
-OObstructive jaundice (oosthepatic dews) 40811
-OOcclusion 30334
-OOcclusion 80231
-OOcclusion, obstruction 4016
-OOdontoma 5094197
-OOedema 606104
-OOedema, angioneuretio (Ouincke's oedema) 205266
-OOesopha 3540
-OOesophageal angina 70235
-OOesophageal cancer 5035
-OOesophageal diverticulum 80610
-OOesophageal inflammation 20735
-OOestrus 70326
-OOld sight (preSbyopia) 30273
-OOligodendroblastoma 503542
-OOmenlal carcinoma 504334
-OOmithosis 20779
-OOoiing 70169
-OOphthalmia 408129
-OOphthaltnoplegia interne, lett 504259931
-OOphthatmoplegia intema, right 50425993
-OOrbital aneurysm, lett 40149731
-OOrbital aneurysm, right 4014973
-OOrbital cyst, left 60131
-OOrbital cyst, right 6013
-OOrbital exostosis, left 308431
-OOrbital plate fracture 907384
-OOs In-Sim 'sills ma xillaris 7274432
-OOsleoartritis, in elbow joints 10043
-OOsseous tuberculosis 40284
-OOSt,tie 50231
-OOstaopsathyrosis (brittle bones) 40433
-OOsteedystrochia delormans (Paget's disease) 30129
-OOsteoarihrit is, degenentive 503849
-OOsteoarthritis 50684
-OOsteoarthritis, acute traumatic 90910294
-OOsteoarthritis, in sacral bone 5038109
-OOsteogenesis imperfecta 40433
-OOsteogenic 508584
-OOsteoma 10042
-OOsteomalaci (M flP(S disease) 402847
-OOsteomalacia 505318
-OOsteomyelitis 4084599
-OOsteomyelosclerosis 466069
-OOsteoporosis 203264
-OOsteoptyle 40312
-OOstlis 4084
-OOtital exestosis, righ: 30843
-OOtomycosis 604913372
-OOtoscleros is 90313372
-OOtoscloronin 505776
-OOvarial ystoma 267398
-OOvarian cysts, left 601334
-OOvarian cysts, right 601338
-OOvary, displaced 4035338
-OOveract vity 5010
-OOverexenior Of the eyes 904827
-OOverexertion 6093865
-OOver-exertion of eye 501647
-OOver-exertion of eye, onesided (lelh 5016471
-OOver-exertion of eye, one-sided (right). 501647
-OOverexertior, mental 9074
-OOver-exirtion of eye 904827
-OOvergrowth 10432
-OOvergrowth 307244
-OOvergrowth of cartilage or joint 70672
-OOxalaturla 9031120
-OOxe lurip 609252
-OOxygen deficiency (in tissue; anoxia) 90417
-OOxyurene 731905
+Obstruction 90422
+Obstructive jaundice (oosthepatic dews) 40811
+Occlusion 30334
+Occlusion 80231
+Occlusion, obstruction 4016
+Odontoma 5094197
+Oedema 606104
+Oedema, angioneuretio (Ouincke's oedema) 205266
+Oesopha 3540
+Oesophageal angina 70235
+Oesophageal cancer 5035
+Oesophageal diverticulum 80610
+Oesophageal inflammation 20735
+Oestrus 70326
+Old sight (preSbyopia) 30273
+Oligodendroblastoma 503542
+Omenlal carcinoma 504334
+Omithosis 20779
+Ooiing 70169
+Ophthalmia 408129
+Ophthaltnoplegia interne, lett 504259931
+Ophthatmoplegia intema, right 50425993
+Orbital aneurysm, lett 40149731
+Orbital aneurysm, right 4014973
+Orbital cyst, left 60131
+Orbital cyst, right 6013
+Orbital exostosis, left 308431
+Orbital plate fracture 907384
+Os In-Sim 'sills ma xillaris 7274432
+Osleoartritis, in elbow joints 10043
+Osseous tuberculosis 40284
+OSt,tie 50231
+Ostaopsathyrosis (brittle bones) 40433
+Osteedystrochia delormans (Paget's disease) 30129
+Osteoarihrit is, degenentive 503849
+Osteoarthritis 50684
+Osteoarthritis, acute traumatic 90910294
+Osteoarthritis, in sacral bone 5038109
+Osteogenesis imperfecta 40433
+Osteogenic 508584
+Osteoma 10042
+Osteomalaci (M flP(S disease) 402847
+Osteomalacia 505318
+Osteomyelitis 4084599
+Osteomyelosclerosis 466069
+Osteoporosis 203264
+Osteoptyle 40312
+Ostlis 4084
+Otital exestosis, righ: 30843
+Otomycosis 604913372
+Otoscleros is 90313372
+Otoscloronin 505776
+Ovarial ystoma 267398
+Ovarian cysts, left 601334
+Ovarian cysts, right 601338
+Ovary, displaced 4035338
+Overact vity 5010
+Overexenior Of the eyes 904827
+Overexertion 6093865
+Over-exertion of eye 501647
+Over-exertion of eye, onesided (lelh 5016471
+Over-exertion of eye, one-sided (right). 501647
+Overexertior, mental 9074
+Over-exirtion of eye 904827
+Overgrowth 10432
+Overgrowth 307244
+Overgrowth of cartilage or joint 70672
+Oxalaturla 9031120
+Oxe lurip 609252
+Oxygen deficiency (in tissue; anoxia) 90417
+Oxyurene 731905
 Opium 2371
 Opium 707444
 Oral cavity (Cavum ons) 458
@@ -5963,7 +5963,7 @@ Oulitozene 365187
 Ouuiinniinnee 4152
 Ovanes 265
 Oxalic acid 4354
-Pain , Type of pain Type of pain Worse at night ¡Otis 4184
+Pain , Type of pain Type of pain Worse at night Â¡Otis 4184
 Pain , Type of pain Type of pain Worse at night Arthritis, rheumatoid 9027
 Pain , Type of pain Type of pain Worse at night Articular TB. 402119
 Pain , Type of pain Type of pain Worse at night Carcinoma 50
@@ -6012,7 +6012,7 @@ Pain , Type of pain Type Of pain: Stabbing Pregnancy, extra-Lterire (fallopian t
 Pain , Type of pain Type Of pain: Stabbing Pregnancy, extra-titerire (fallopian tube, lett) 60239972
 Pain , Type of pain Type Of pain: Stabbing Spinal meningeal haemorrhage 10427279
 Pain , Type of pain Type Of pain: Stabbing Synovitis., 402008
-Pain , Type of pain Type of pain: Synalgia Agi_0±8 pectoris 7025
+Pain , Type of pain Type of pain: Synalgia Agi_0Â±8 pectoris 7025
 Pain , Type of pain Type of pain: Synalgia Carciac disease 4035
 Pain , Type of pain Type of pain: Synalgia Dysmenorrhoea (painful menstruation) 70101
 Pain , Type of pain Type of pain: Synalgia Henal ccc, right 209437
@@ -6219,7 +6219,7 @@ PainPain: Abdomen Pain! Penis Prostate, adenomateus 501101999
 PainPain: Abdomen Pain! Penis Prostatic cancer 50999
 PainPain: Abdomen Pain! Penis Renal colic, left 2094371
 PainPain: Abdomen Pain! Penis Renal colic, right 209437
-PainPain: Abdomen Pain! Penis Stricture ã ã 50683
+PainPain: Abdomen Pain! Penis Stricture Ã£ Ã£ 50683
 PainPain: Abdomen Pain! Penis Ureterolith, left 20946681
 PainPain: Abdomen Pain! Penis Ureterolith, ritt 2394668
 PainPain: Abdomen Pain! Penis Urethral calculus 2094439
@@ -6483,7 +6483,7 @@ PainPain: Abdomen Pain: Abdomen, unspecific Pneumonia 2017
 PainPain: Abdomen Pain: Abdomen, unspecific Pneumothorax 1092675
 PainPain: Abdomen Pain: Abdomen, unspecific Poisoning from irritants 90148
 PainPain: Abdomen Pain: Abdomen, unspecific Polycythaemia, splenomegalia 401465
-PainPain: Abdomen Pain: Abdomen, unspecific Posterio¥ spinal sclerosis 50592
+PainPain: Abdomen Pain: Abdomen, unspecific PosterioÂ¥ spinal sclerosis 50592
 PainPain: Abdomen Pain: Abdomen, unspecific Pregnancy, extra.uterine (fallopian tube, left) 60239972
 PainPain: Abdomen Pain: Abdomen, unspecific Pregnancy, extra-uterine (iallopian tube, tight) 60239973
 PainPain: Abdomen Pain: Abdomen, unspecific Renal TB, left 402371
@@ -6672,7 +6672,7 @@ PainPain: Back Pain: Back, sacrum Menstruation, painful (dysmenorrhoea) 70101
 PainPain: Back Pain: Back, sacrum Neu ralg. a 80864
 PainPain: Back Pain: Back, sacrum Pelvioperitonilis 401653252
 PainPain: Back Pain: Back, sacrum Posterior spinal sclerosis. 50592
-PainPain: Back Pain: Back, sacrum Rectal cancerã. 50851
+PainPain: Back Pain: Back, sacrum Rectal cancerÃ£. 50851
 PainPain: Back Pain: Back, sacrum Scybala 8026027
 PainPain: Back Pain: Back, sacrum Suhinvolutlo uteri 7065954
 PainPain: Back Pain: Back, sacrum Uterine fibroma 50289
@@ -6847,7 +6847,7 @@ PainPain: Chest Pain; Chest, side Herpes zoster 6024759
 PainPain: Chest Pain; Chest, side Hysteria 70936
 PainPain: Chest Pain; Chest, side Intercostal neuralgia 702542
 PainPain: Chest Pain; Chest, side Intercostal rheumatism 704542
-PainPain: Chest Pain; Chest, side ItiaMMatiOn 01 the gallbladder (cholecystifis) 20438
+PainPain: Chest Pain; Chest, side ItiaMatiOn 01 the gallbladder (cholecystifis) 20438
 PainPain: Chest Pain; Chest, side Ohstipat on 7029
 PainPain: Chest Pain; Chest, side Patulonco 6078027
 PainPain: Chest Pain; Chest, side Pleural cancer 5087
@@ -6890,7 +6890,7 @@ PainPain: Extremities Pain: Extremities, Arm Angina pectoris 7025
 PainPain: Extremities Pain: Extremities, Arm Atonia of the stomach 107832
 PainPain: Extremities Pain: Extremities, Arm Cervical caries 502444
 PainPain: Extremities Pain: Extremities, Arm Cervical rib 6092542
-PainPain: Extremities Pain: Extremities, Arm Cpinal tumour..,..ã.ã 508297
+PainPain: Extremities Pain: Extremities, Arm Cpinal tumour..,..Ã£.Ã£ 508297
 PainPain: Extremities Pain: Extremities, Arm Dislocation (luxation) 8069
 PainPain: Extremities Pain: Extremities, Arm Fibrositis 5061
 PainPain: Extremities Pain: Extremities, Arm Frostbite 105
@@ -6978,7 +6978,7 @@ PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Men ngiti, tuuerculosa
 PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Meningitis. cerebrospinalis 4027929291
 PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Menngitis, eerebrospinalis 4027929
 PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Nei[s disease 40118848
-PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Neo¡km 9014004
+PainPain: Extremities Pan: Extremities, Muscles (Myaigia) NeoÂ¡km 9014004
 PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Posterior spinal sclerosis 50592
 PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Psittacosis 80843
 PainPain: Extremities Pan: Extremities, Muscles (Myaigia) Rheumatic lever 7?08?5
@@ -7132,7 +7132,7 @@ PainPain: General Growing pains 507910
 PainPain: General Hyperuricaemia 407
 PainPain: General Inflammation of the kidneys (nphritis), left 40371
 PainPain: General Inflammatiori of trie kidneys (nephritis), right 4037
-PainPain: General Lead poisoning ã, 9011609
+PainPain: General Lead poisoning Ã£, 9011609
 PainPain: General Meningitis, irtemalis spinalis 40279
 PainPain: General Osteornalacia 402847
 PainPain: General Pena rtentis nodosa 4049758
@@ -7562,7 +7562,7 @@ PainPain: Tender to pressure Tenderness to pressure: Mammae Menstruation 8014
 PainPain: Tender to pressure Tenderness to pressure: Mammae Pregnancy 60239
 PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium !ntlarnmajon of the pancreas (pancreatitis) 40997
 PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium Addison's disease 50112
-PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium Arsenic poisoning ãã 901656
+PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium Arsenic poisoning Ã£Ã£ 901656
 PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium Gall stones. 204838
 PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium Gastric cirrhosis 109132
 PainPain: Tender to pressure Tenderness to pressuTe: Epigastrium Gastric irritation 4032
@@ -7593,7 +7593,7 @@ PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Abdominal wal
 PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Alcoholism 9014004
 PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Appendicitis 6072
 PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Caccurn: tuberculosis in caecum . 40282
-PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac CIILhtiS 40954101
+PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac CILhtiS 40954101
 PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Dystienortocia (painful meistrJatiun) 70101
 PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Epidemic typhus.. 709222
 PainPain: Tender to pressure, Tenderness to pressure: Pelvic-iliac Extra-uterine orcgiancy, loft.. 3079972
@@ -7666,7 +7666,7 @@ Paranasal sinusesFrontal sinus 133
 Paranasal sinusesLateral mass of ethrnoid bone (Labyrintus ethmoidalis) 993
 Paranasal sinusesMastoid proc,ess (Antrum nasioideurni 2843
 Paranasal sinusesmaxillary sinus 157
-Paranasal sinusesNasal ccricha ...ã ,,,, 3825
+Paranasal sinusesNasal ccricha ...Ã£ ,,,, 3825
 Paranasal sinusesNasal mucosa 2471
 Paranasal sinusesNasal mucosa, breathing region (Hegio respiratona) 3324
 Paranasal sinusesNasal mucosa, olfacicry region, (legio olfactoria) 2246
@@ -7792,284 +7792,284 @@ Poliovirus, irrantile paralysis (31comavidae, Enteroviridp) 90663
 Polyester 8527669
 Polystyrol 1209212
 Polyvinylchlorid (PVC) 395871
-POO rOnylb u loxicIP 3692569
+PO rOnylb u loxicIP 3692569
 Porphyromonas 775322
 Potashes, general 80810
 Potassium cyanide 3345
-PPa rodontos is 703522
-PPaces abscess 302987
-PPachymeningftis cervicalis hypertroehica 40279144
-PPachymeningitis externa 402791297
-PPachyrneningitis 402791
-PPagets disease (osteodyslrophia detennans). 501511942
-PPain 5047
-PPain, aaltE 70
-PPalatine tonsil 93325895
-PPalpftattons 90647
-PPalpitations. aorta 401497789
-PPancreatic calculuS 204997
-PPancreatic cancer 50997
-PPancreatic carcinoma 50997
-PPancreatic carcinoma 509972
-PPancreatitis 40997
-PPancreattc calculus 20473
-PPanophthalrria 60278
-PPapilloedema (oedema of optic disk) 60282
-PPappataci fever 10235
-PParaesthesia 70844
-PParahaemophilia 104239
-PParalysis (demen(ia paralytica) 5042
-PParalysis 50225
-PParalysis of the 3rd cranial nerve 504222083
-PParalysis of the M rectus superior 504259932
-PParalysis of the M. obliquus inferior 504259938
-PParalysis of the M. obliquus superior 504259936
-PParalysis of the M. rectos medialis 604269933
-PParalysis of the M. rectus inferior 504259934
-PParalysis of the M. rectus lateralis 504259931
-PParalysis of the Nervus ocJiomotorius 50422283
-PParalysis of the Sympathicus, orbital right 50427393
-PParalysis of the Syrnpathicus, orbital left 504273931
-PParalysis, /ascial 50422285
-PParalysis, acute ascending 5042592163
-PParalysis, ascending 80476
-PParalysis, bulbar 504286544
-PParalysis, cerebral (during childbirth) 20529
-PParalysis, cerebral 4024
-PParalysis, diphtheric 20932542
-PParalysis, Parkinsonian syndrome 504252
-PParalysis, partial 7073
-PParametritiS 40954
-PParanoia 7011691
-PParaplegia 705587
-PParasitaernia 907409
-PParasites .. 1088
-PParasites 70088
-PParasitosis 9043
-PParastSaticn leggs) 9077
-PParatyphoid 'ever 20325
-PParatyphoid ever 80552
-PParkinsonian syndrome 504252
-PParotid abscess 3022795
-PParotiti5. 402795
-PParoxysmal lacriycarcia 501321872
-PPasteurellosis 820360
-PPeitensillar abscess 6026
-PPel-Ebslein fever 2032710
-PPellagra intestinal 60422
-PPellagra, mental 6041332
-PPellagra, skin (vitamin deficiency) 604101
-PPelveoperitonitis 401653252
-PPelvic abscess 302525
-PPelvic adnesons 8025101
-PPelvic tumour 508525
-PPelvic vein stories 204494525
-PPemi0 801647
-PPen's:an:J. U111,I (pefiudrthlis) 402587
-PPerbstitis, ccstal 40359542
-PPerforation 406
-PPeri:hordritis, acute.. 40154
-PPeri:oneal adhesions 1011653
-PPeri:onitis 401653
-PPeriarteritis nodesa 507949
-PPeriarteritis nodosa 4049758
-PPeric.ystltis 4062
-PPericard[um, adhesion 1012587
-PPericardial discharge. 60162587
-PPeriDdentitis 40591
-PPerileal tear 403568
-PPerilepatitis 4056648
-PPerinephritis, lett 403791
-PPerinophritis, right 40379
-PPeriodontitis 40591
-PPeriorch tis . 8447737
-PPeriorOdiS 40566851
-PPeriosti%, sternal 40359263
-PPeriostitis 40359
-PPeripstitis 4084297359
-PPerisplenitis 40599465
-PPeristaltis 565
-PPeritonsillar abscess 6056
-PPerluss is 10348
-PPerlussis 1068
-PPernicious anaemia 286079
-PPetit mal (epleptic attack without spasms) 50532
-PPharyngeal tonsil 17739661
-PPharyngitis 4019
-PPharyngitis 40198
-PPharynx proliferation (carcinoma) 50119
-PPharynx, proliferation (sarcoma) 50819
-PPharynx, purulent 3019
-PPhobia 50247
-PPhotophobia 5068247
-PPhthisis (wasting, as a result of TB), right 40276
-PPhthisis (wasting, as a result ol TB), left 40277
-PPhysical tension 6044
-PPieurodynia 90599542
-PPigment 80676
-PPigmentation: intensive 20442
-PPigmented mole 50445
-PPituitrine, effects of 6098
-PPityriasis rosea 40434
-PPityriasis versicolor 40113
-PPlacenta 9764
-PPlague 70261
-PPlaint's, basal (pleuritis diaphragmatica) 4078044
-PPlantarwad 20432
-PPlasmocylOma 7242433
-PPlerygium colli syndrome lBonnevie-Ulrich syndrome) 10994
-PPleural carcinoma 5087
-PPleural carcinoma 50871
-PPleural effus:on, right 6017
-PPleural etfusbn, left ii 60171
-PPleurodvnia {Bornholm disease) 70356
-PPleurodynia, epidemic 3032567
-PPlosis 70121
-PPneumcperitoneum 20171653
-PPneumococcal infection 40334
-PPneumoconiosis 808784
-PPneumocontosis, sikosis 40292
-PPneumonia 2017
-PPneumonia 2017
-PPneumonia, interstitial 406183
-PPneumonia, oronchial 403857
-PPneumothorax 1092675
-PPnsarirr spinal 50593
-PPoisoning 901
-PPoisoning from aconitine (monks-hood alkaloid) 901558
-PPoisoning from Cantharis iSpanish fly) 9011026
-PPoisoning from corrosive poisons 90140517
-PPoisoning from irritants 90148
-PPolarity, female 18
-PPolarity, male 19
-PPolimyelitis, ascending 80476
-PPolio 20692
-PPoliomyelitis (Hine Vedin disFase; 700243
-PPoliomyelitis anterior acuta 40865
-PPoliomyelitis, acute anterior 90663
-PPolyarthilis, chronic 902
-PPolychromasia 90444
-PPolycythaemia 5010843
-PPolycythaemia, splenomegalia 401465
-PPolydipsia 40242
-PPolymenorrhea. 5010338
-PPolymycsitis 203234
-PPolymyoclona 605323
-PPolyneuitis, endemic 60552
-PPolyneuntis 303275
-PPolyneuritis 70511
-PPolyp 30751
-PPolyp 30774
-PPolyp 358
-PPolyp of stomach 720795
-PPolyp, vaginal 3075195
-PPolyposis recti 1917804
-PPolyuria 50101267
-PPons, iniury to 50829744
-PPoor blood supply 60422
-PPorphyria 30312
-PPorts, bleeding in 1042727944
-PPos:ural anomaly, dystopia 8067
-PPosterioe spinal sclercsis (tabes dorsalis) 50521
-PPosterior urethral paplla 7329596
-PPotenlia ify 303343
-PPr ostatic adenoma 6016998
-PPredisposition 504328
-PPredisposition to cancer 4063
-PPredisposition, congenital 50908
-PPregnancy 60239
-PPregnancy, extra-uterine (fallopian tube left) 60239972
-PPregnancy, extra-uterine (fallopian tube right) 60230073
-PPregnancy, twins 602397
-PPrenatal infection 88818
-PPressure 501.9. (riecubittis) 3032
-PPressure 70366
-PPressure on a nerve trunk 501109279
-PPressure, intracellular 10694
-PPressure, intracerebral (intracranial pressure) 10682
-PProctitis 40851
-PProctitis 40851
-PProctitis atrophic 50843
-PProctitis, chronic 163561
-PProctitis. wasting 50943
-PProhteration on right ear, carcinoma 5019
-PProlapse 80444
-PProlapse of organs (ptosis) 8087
-PProlapse of the ovary, right 8087338
-PProlapse of tie ovary, left 8087334
-PProliferation on left ear, carcinoma 50191
-PProliferation on left ear, sarcoma 50891
-PProliferation on right ear, sarcoma 5089
-PProloplasmolysis (plasmolysis) 409729
-PProminentia from aneurysm) 40149775
-PProstata cribritorrnis 1853194
-PProstate cancer 50999
-PProstate, adenomatous 501101999
-PProstatic abscess 302999
-PProstatic adenoma 80542292
-PProstatic calculus 20949
-PProstatic hypertrophy 6155319
-PProstatic squamous cells 2339770
-PProstatic TB 402999
-PProstatitis 40999
-PProstatitis, chronic . 5188493
-PProstration 709101
-PProte ids 6073
-PProteins 405333
-PProteins 4423
-PPrurigo nodolaris 204020
-PPruritus (itc hing) 30445
-PPsChaSiS 8062
-PPscra 408
-PPseudoang ina pectoris 30255
-PPsittacosis 20709
-PPsittacosis 20779
-PPsittacosis 80843
-PPsoriasis 4087
-PPsoriasis 8062
-PPsoriasis, buccats 906435
-PPsoric abscess 3078987
-PPsychoneurosis 40323
-PPtegnaoy, contracliois 7085734
-PPtosis.. 8087979
-PPubertas praecox 70223
-PPulmonary embolism, left 407977
-PPulmonary embolism, right. 407976
-PPulmonary emphysema 9045
-PPulmonary emphysema, lefl 60277
-PPulmonary emphysema, right 60276
-PPulpitIs 4051499
-PPulse beal, IMense 40333
-PPulse beat 20383
-PPulse rate. low (bradprdia) 703669
-PPulse. irregular 70224
-PPunrinje's filyes 4665
-PPurkinje's ce is 2286
-PPurpura haemorrhagica 1042910196
-PPurricinjeS effect 33355
-PPus 30442
-PPus in tie teeth 1028
-PPus ma ignant 40567
-PPus:ulc 408354
+Pa rodontos is 703522
+Paces abscess 302987
+Pachymeningftis cervicalis hypertroehica 40279144
+Pachymeningitis externa 402791297
+Pachyrneningitis 402791
+Pagets disease (osteodyslrophia detennans). 501511942
+Pain 5047
+Pain, aaltE 70
+Palatine tonsil 93325895
+Palpftattons 90647
+Palpitations. aorta 401497789
+Pancreatic calculuS 204997
+Pancreatic cancer 50997
+Pancreatic carcinoma 50997
+Pancreatic carcinoma 509972
+Pancreatitis 40997
+Pancreattc calculus 20473
+Panophthalrria 60278
+Papilloedema (oedema of optic disk) 60282
+Pappataci fever 10235
+Paraesthesia 70844
+Parahaemophilia 104239
+Paralysis (demen(ia paralytica) 5042
+Paralysis 50225
+Paralysis of the 3rd cranial nerve 504222083
+Paralysis of the M rectus superior 504259932
+Paralysis of the M. obliquus inferior 504259938
+Paralysis of the M. obliquus superior 504259936
+Paralysis of the M. rectos medialis 604269933
+Paralysis of the M. rectus inferior 504259934
+Paralysis of the M. rectus lateralis 504259931
+Paralysis of the Nervus ocJiomotorius 50422283
+Paralysis of the Sympathicus, orbital right 50427393
+Paralysis of the Syrnpathicus, orbital left 504273931
+Paralysis, /ascial 50422285
+Paralysis, acute ascending 5042592163
+Paralysis, ascending 80476
+Paralysis, bulbar 504286544
+Paralysis, cerebral (during childbirth) 20529
+Paralysis, cerebral 4024
+Paralysis, diphtheric 20932542
+Paralysis, Parkinsonian syndrome 504252
+Paralysis, partial 7073
+ParametritiS 40954
+Paranoia 7011691
+Paraplegia 705587
+Parasitaernia 907409
+Parasites .. 1088
+Parasites 70088
+Parasitosis 9043
+ParastSaticn leggs) 9077
+Paratyphoid 'ever 20325
+Paratyphoid ever 80552
+Parkinsonian syndrome 504252
+Parotid abscess 3022795
+Parotiti5. 402795
+Paroxysmal lacriycarcia 501321872
+Pasteurellosis 820360
+Peitensillar abscess 6026
+Pel-Ebslein fever 2032710
+Pellagra intestinal 60422
+Pellagra, mental 6041332
+Pellagra, skin (vitamin deficiency) 604101
+Pelveoperitonitis 401653252
+Pelvic abscess 302525
+Pelvic adnesons 8025101
+Pelvic tumour 508525
+Pelvic vein stories 204494525
+Pemi0 801647
+Pen's:an:J. U111,I (pefiudrthlis) 402587
+Perbstitis, ccstal 40359542
+Perforation 406
+Peri:hordritis, acute.. 40154
+Peri:oneal adhesions 1011653
+Peri:onitis 401653
+Periarteritis nodesa 507949
+Periarteritis nodosa 4049758
+Peric.ystltis 4062
+Pericard[um, adhesion 1012587
+Pericardial discharge. 60162587
+PeriDdentitis 40591
+Perileal tear 403568
+Perilepatitis 4056648
+Perinephritis, lett 403791
+Perinophritis, right 40379
+Periodontitis 40591
+Periorch tis . 8447737
+PeriorOdiS 40566851
+Periosti%, sternal 40359263
+Periostitis 40359
+Peripstitis 4084297359
+Perisplenitis 40599465
+Peristaltis 565
+Peritonsillar abscess 6056
+Perluss is 10348
+Perlussis 1068
+Pernicious anaemia 286079
+Petit mal (epleptic attack without spasms) 50532
+Pharyngeal tonsil 17739661
+Pharyngitis 4019
+Pharyngitis 40198
+Pharynx proliferation (carcinoma) 50119
+Pharynx, proliferation (sarcoma) 50819
+Pharynx, purulent 3019
+Phobia 50247
+Photophobia 5068247
+Phthisis (wasting, as a result of TB), right 40276
+Phthisis (wasting, as a result ol TB), left 40277
+Physical tension 6044
+Pieurodynia 90599542
+Pigment 80676
+Pigmentation: intensive 20442
+Pigmented mole 50445
+Pituitrine, effects of 6098
+Pityriasis rosea 40434
+Pityriasis versicolor 40113
+Placenta 9764
+Plague 70261
+Plaint's, basal (pleuritis diaphragmatica) 4078044
+Plantarwad 20432
+PlasmocylOma 7242433
+Plerygium colli syndrome lBonnevie-Ulrich syndrome) 10994
+Pleural carcinoma 5087
+Pleural carcinoma 50871
+Pleural effus:on, right 6017
+Pleural etfusbn, left ii 60171
+Pleurodvnia {Bornholm disease) 70356
+Pleurodynia, epidemic 3032567
+Plosis 70121
+Pneumcperitoneum 20171653
+Pneumococcal infection 40334
+Pneumoconiosis 808784
+Pneumocontosis, sikosis 40292
+Pneumonia 2017
+Pneumonia 2017
+Pneumonia, interstitial 406183
+Pneumonia, oronchial 403857
+Pneumothorax 1092675
+Pnsarirr spinal 50593
+Poisoning 901
+Poisoning from aconitine (monks-hood alkaloid) 901558
+Poisoning from Cantharis iSpanish fly) 9011026
+Poisoning from corrosive poisons 90140517
+Poisoning from irritants 90148
+Polarity, female 18
+Polarity, male 19
+Polimyelitis, ascending 80476
+Polio 20692
+Poliomyelitis (Hine Vedin disFase; 700243
+Poliomyelitis anterior acuta 40865
+Poliomyelitis, acute anterior 90663
+Polyarthilis, chronic 902
+Polychromasia 90444
+Polycythaemia 5010843
+Polycythaemia, splenomegalia 401465
+Polydipsia 40242
+Polymenorrhea. 5010338
+Polymycsitis 203234
+Polymyoclona 605323
+Polyneuitis, endemic 60552
+Polyneuntis 303275
+Polyneuritis 70511
+Polyp 30751
+Polyp 30774
+Polyp 358
+Polyp of stomach 720795
+Polyp, vaginal 3075195
+Polyposis recti 1917804
+Polyuria 50101267
+Pons, iniury to 50829744
+Poor blood supply 60422
+Porphyria 30312
+Ports, bleeding in 1042727944
+Pos:ural anomaly, dystopia 8067
+Posterioe spinal sclercsis (tabes dorsalis) 50521
+Posterior urethral paplla 7329596
+Potenlia ify 303343
+Pr ostatic adenoma 6016998
+Predisposition 504328
+Predisposition to cancer 4063
+Predisposition, congenital 50908
+Pregnancy 60239
+Pregnancy, extra-uterine (fallopian tube left) 60239972
+Pregnancy, extra-uterine (fallopian tube right) 60230073
+Pregnancy, twins 602397
+Prenatal infection 88818
+Pressure 501.9. (riecubittis) 3032
+Pressure 70366
+Pressure on a nerve trunk 501109279
+Pressure, intracellular 10694
+Pressure, intracerebral (intracranial pressure) 10682
+Proctitis 40851
+Proctitis 40851
+Proctitis atrophic 50843
+Proctitis, chronic 163561
+Proctitis. wasting 50943
+Prohteration on right ear, carcinoma 5019
+Prolapse 80444
+Prolapse of organs (ptosis) 8087
+Prolapse of the ovary, right 8087338
+Prolapse of tie ovary, left 8087334
+Proliferation on left ear, carcinoma 50191
+Proliferation on left ear, sarcoma 50891
+Proliferation on right ear, sarcoma 5089
+Proloplasmolysis (plasmolysis) 409729
+Prominentia from aneurysm) 40149775
+Prostata cribritorrnis 1853194
+Prostate cancer 50999
+Prostate, adenomatous 501101999
+Prostatic abscess 302999
+Prostatic adenoma 80542292
+Prostatic calculus 20949
+Prostatic hypertrophy 6155319
+Prostatic squamous cells 2339770
+Prostatic TB 402999
+Prostatitis 40999
+Prostatitis, chronic . 5188493
+Prostration 709101
+Prote ids 6073
+Proteins 405333
+Proteins 4423
+Prurigo nodolaris 204020
+Pruritus (itc hing) 30445
+PsChaSiS 8062
+Pscra 408
+Pseudoang ina pectoris 30255
+Psittacosis 20709
+Psittacosis 20779
+Psittacosis 80843
+Psoriasis 4087
+Psoriasis 8062
+Psoriasis, buccats 906435
+Psoric abscess 3078987
+Psychoneurosis 40323
+Ptegnaoy, contracliois 7085734
+Ptosis.. 8087979
+Pubertas praecox 70223
+Pulmonary embolism, left 407977
+Pulmonary embolism, right. 407976
+Pulmonary emphysema 9045
+Pulmonary emphysema, lefl 60277
+Pulmonary emphysema, right 60276
+PulpitIs 4051499
+Pulse beal, IMense 40333
+Pulse beat 20383
+Pulse rate. low (bradprdia) 703669
+Pulse. irregular 70224
+Punrinje's filyes 4665
+Purkinje's ce is 2286
+Purpura haemorrhagica 1042910196
+PurricinjeS effect 33355
+Pus 30442
+Pus in tie teeth 1028
+Pus ma ignant 40567
+Pus:ulc 408354
 Ppvipstitis tenni is 40359114
-PPyaemia 60327
-PPyetInephritis 5910198
-PPylciic ulcer 30321
-PPylcric cancer 50321
-PPylcric cancer 50321
-PPylcric stenosis 5045321
-PPylcric stenosis 5045321
-PPyoderma gangraenosum 60210195
-PPyodermia 706663
-PPyometra (accumulaton of pus In tre uterus) 60954
-PPyornetra 403435
-PPyorrhoea 408591
-PPyrc.genium. tish salt water) 9295473
-PPyrexia 402535
-PPyrogcn um avis 3928674
-PPyrogen:un crustaceen 1823284
-PPyrogenium suis 2954663
-PPyrogeourn ex ovo 6443834
+Pyaemia 60327
+PyetInephritis 5910198
+Pylciic ulcer 30321
+Pylcric cancer 50321
+Pylcric cancer 50321
+Pylcric stenosis 5045321
+Pylcric stenosis 5045321
+Pyoderma gangraenosum 60210195
+Pyodermia 706663
+Pyometra (accumulaton of pus In tre uterus) 60954
+Pyornetra 403435
+Pyorrhoea 408591
+Pyrc.genium. tish salt water) 9295473
+Pyrexia 402535
+Pyrogcn um avis 3928674
+Pyrogen:un crustaceen 1823284
+Pyrogenium suis 2954663
+Pyrogeourn ex ovo 6443834
 Prcteus mirabills 65654
 Prcteus morganii 3034
 Pregnancy test (according to Dr Ruth Drown)Embryo 379
@@ -8088,14 +8088,14 @@ PreservativesE 2 8 Methypara-hydroxbenzate (P113-Ester) 3 6776458
 PreservativesE 2' 9 Sodium mthyl-para-hydroyponzoate (PC-Ester) (.9 36432657346
 PreservativesE 200 Sorbic acid 99266
 PreservativesE 202 Potassium softie, optic acid i:j) 432546
-PreservativesE 210 Benz¡ c acid 944338?
-PreservativesE 211 Sodium benzoate, berzoic acid ¨ 645569
+PreservativesE 210 BenzÂ¡ c acid 944338?
+PreservativesE 211 Sodium benzoate, berzoic acid Â¨ 645569
 PreservativesE 217 Sodiumpro41prahydroxybeitzcide (PHB-Ester) 217566
 PreservativesE 2'2 Potassium benzoatc-, benzoic acid 3 7435478
 PreservativesE 221 Sodium sulphite (Sulphur dioxide) ,:; 3 423612
 PreservativesE 222 Sodium hydrogen sulphite (Sulphur dioxide) a 52337
 PreservativesE 223 Sodium motabicuiphle (Sulpiur cioxidot 522467
-PreservativesE 224 Potassium metabisulphite Sulphur dioxide) ¨ 7524547767
+PreservativesE 224 Potassium metabisulphite Sulphur dioxide) Â¨ 7524547767
 PreservativesE 226 Calcium sulphita (Sulphur dioxide) .2. 953435
 PreservativesE 227 Calcium hydropn suipKte (ulphur dioxida) 3 35743
 PreservativesE 23 Calcium benzoate benzoic acid 945574
@@ -8114,7 +8114,7 @@ PreservativesE 260 ACO0C acid 412112333
 PreservativesE 261 Potassium acetate. salt of acetic acid 55321132
 PreservativesE 262 Sodium acetate, salt of acetic acid 333323
 PreservativesE 270 Lactic acid ; 311112110
-PreservativesE 280 Propionic acid ¨ 632243
+PreservativesE 280 Propionic acid Â¨ 632243
 PreservativesE 281 Sodium propionate, oropionic acid 4533443305
 PreservativesE 282 Calcium propimate. propiort: acid324333233
 PreservativesE 283 Potassium propionate. propionic acid 4232243
@@ -8122,7 +8122,7 @@ PreservativesE 284 Boric acid z 234355
 PreservativesE 285 Sodium tetrabOate, Boric acd44336465
 PreservativesE 290 Carboo dicrde, c.ar3onic acid 32232
 PreservativesE 296 Malt acid 63234
-PreservativesE 297 Fumaric add © 4253332
+PreservativesE 297 Fumaric add Â© 4253332
 PreservativesE 720 Sulphur dioxide 6885
 PreservativesF 214 Elhyt-para-hydroxybenzoate ',PHB-Ester) 61232688
 PreservativesPropyl-para-hydroxybenzoate (PH I3 Ester) 8326
@@ -8177,7 +8177,7 @@ ProtozoaeIsespora honinis Foospora) 303543
 ProtozoaeIsospora belE 45859
 Protozoaeldomoeba hirtschlii 9465609
 ProtozoaeLeiShmania 655757
-ProtozoaeLeishmania dcnovani ã 2316
+ProtozoaeLeishmania dcnovani Ã£ 2316
 ProtozoaeLeishrhEnia brazi'lensic 46425
 ProtozoaeLeisnmenia tropica 9375456
 Protozoaelsospora natalensis 8555588
@@ -8248,8 +8248,8 @@ Psychosomatic RatesVoice ExpresS veness , 1332284
 Py rethrurn 123569
 Pyrethroids tsyntietic insecticides) 3674402
 Pyrogallol 13366
-QQ fever 445678
-QQuinine poisoning 700974
+Q fever 445678
+Quinine poisoning 700974
 Rabies 1irus (Lyssavirus), (Rhabdoviridee) 60605
 rarvovirds BI9 (Erytilcma infectionsurM 42677
 RE (Radiofrequency) 25654
@@ -8375,99 +8375,99 @@ Roundworms, Flatworms, ProtozoaTrypanosoma gambiense (393,75-3E7,7) 396000
 Roundworms, Flatworms, ProtozoaTrypanosoma lewisi (424,5-426,0) 425000
 Roundworms, Flatworms, ProtozoaTrypanosoma thodiense (423,5-428,55) 426000
 Roundworms, Flatworms, ProtozoaUrocloidus (442,35-450,0) 447000
-RRabies 60605
-RRachidial contusion 90192297
-RRachidial sprain 70599279
-RRadiation sickness 907274
-RRadiation slckness 907274
-RRadiation syndrome (radium damage) 8049
-RRadiculitis 4022884
-RRadioactive fallout.. 304218
-RRadium bums 603554
-RRales, whistling (asthma) 4044
-RRand la 8094
-RRash (skin) 40657
-RRash from medicaments (drug eruption) 90163101
-RRaynaud'S disease (toes) 20777442
-RRaynaud's disease 20777
-RRecklinghausen's disease (neurofibromatosis generalisala 50110997
-RRectal cancer 50851
-RRectal fistula 706895
-RRectal polyp 30751851
-RRectal polyp, rnalignant 4589385
-RRectal ulcer 30851
-RRectal ulcer 30851
-RRectal-neuralgia 8086451
-RRegression 302157
-RReiter's disease, right 7059942
-RRelaxation 5052
-RRelroflexio uteri 90542
-RRelroversio uteri 90439
-RRena I parasites 108837
-RRenal cancer, left 50371
-RRenal cancer, right 5037
-RRenal cirrhosis 109123
-RRenal cirrhosis, left 1091371
-RRenal cirrhosis, right 109137
-RRenal colic 702737
-RRenal colic, left 2094371
-RRenal colic, right 209437
-RRenal coral calculus 204222
-RRenal embolism 407923
-RRenal hydatid, lett 30291371
-RRenal hydatid, right 3029137
-RRenal hypotunction 204992
-RRenal infarct, left 10427371
-RRenal infarct, right 1042737
-RRenal insufficiency, lett 207371
-RRenal Insufficiency, rIght 20737
-RRenal pain (nephralgia) 7037
-RRenal papilloma 9227564
-RRenal pelvis, papflary infection 487537
-RRenal tuberculosis, left 402371
-RRenal tuberculosis, right 40237
-RResilience/elasticity, loss of 402713
-RResistance 30331
-RResistance 400613
-RResistance, strengthening of bodys own resources 7677567
-RResorption 70939
-RRestless 20347
-RRetatai Iegeneraton 30673709
-RRetention 80527
-RReticulocytosis 70382
-RRetinal inflammation (retinitis pigmentosa) 80243
-RRetinal inflammation (retinitis) 403709
-RRetinepathy 7010794
-RRetrobulbar haemorrhage 104273709
-RRetroversio uteri 90548
-RRh tritis 60456
-RRhe3mmism, chronic 704
-RRheumatic fever 700744
-RRheumatic fever 7085
-RRheumatism 700743
-RRheumatism, acute 702
-RRheumatism, gonorrhoeal 40343
-RRheumatism, intestinal 70422
-RRheumatism, soft tissue 40511
-RRheumatism, temporal 902862864
-RRhinolaryngitis 60296198
-RRhinophyrna (hammer nose) 6443249
-RRhinorhoea, runny nose ã, 103859
-RRibs, carious 5024542
-RRickets 30845
-RRigor 60942
-RRingworm 80712
-RRingworm of the beard (sycosis barbae) 405485
-RRingworm of the tarsal cartilage (sycosis tars) 40979
-RRose disease (erysipelas) 401055
-RRose disease (erysipelas) 70799
-RRupture (tear) 20228
-RRupture of aortic apex 1092256
-RRupture of aortic apex 1092259
-RRupture of vena saphena 30649442
-RRupture of vena saphena 30649443
-RRupture, abd3minal wH 104859
-RRupture, caecum 104882
+Rabies 60605
+Rachidial contusion 90192297
+Rachidial sprain 70599279
+Radiation sickness 907274
+Radiation slckness 907274
+Radiation syndrome (radium damage) 8049
+Radiculitis 4022884
+Radioactive fallout.. 304218
+Radium bums 603554
+Rales, whistling (asthma) 4044
+Rand la 8094
+Rash (skin) 40657
+Rash from medicaments (drug eruption) 90163101
+Raynaud'S disease (toes) 20777442
+Raynaud's disease 20777
+Recklinghausen's disease (neurofibromatosis generalisala 50110997
+Rectal cancer 50851
+Rectal fistula 706895
+Rectal polyp 30751851
+Rectal polyp, rnalignant 4589385
+Rectal ulcer 30851
+Rectal ulcer 30851
+Rectal-neuralgia 8086451
+Regression 302157
+Reiter's disease, right 7059942
+Relaxation 5052
+Relroflexio uteri 90542
+Relroversio uteri 90439
+Rena I parasites 108837
+Renal cancer, left 50371
+Renal cancer, right 5037
+Renal cirrhosis 109123
+Renal cirrhosis, left 1091371
+Renal cirrhosis, right 109137
+Renal colic 702737
+Renal colic, left 2094371
+Renal colic, right 209437
+Renal coral calculus 204222
+Renal embolism 407923
+Renal hydatid, lett 30291371
+Renal hydatid, right 3029137
+Renal hypotunction 204992
+Renal infarct, left 10427371
+Renal infarct, right 1042737
+Renal insufficiency, lett 207371
+Renal Insufficiency, rIght 20737
+Renal pain (nephralgia) 7037
+Renal papilloma 9227564
+Renal pelvis, papflary infection 487537
+Renal tuberculosis, left 402371
+Renal tuberculosis, right 40237
+Resilience/elasticity, loss of 402713
+Resistance 30331
+Resistance 400613
+Resistance, strengthening of bodys own resources 7677567
+Resorption 70939
+Restless 20347
+Retatai Iegeneraton 30673709
+Retention 80527
+Reticulocytosis 70382
+Retinal inflammation (retinitis pigmentosa) 80243
+Retinal inflammation (retinitis) 403709
+Retinepathy 7010794
+Retrobulbar haemorrhage 104273709
+Retroversio uteri 90548
+Rh tritis 60456
+Rhe3mmism, chronic 704
+Rheumatic fever 700744
+Rheumatic fever 7085
+Rheumatism 700743
+Rheumatism, acute 702
+Rheumatism, gonorrhoeal 40343
+Rheumatism, intestinal 70422
+Rheumatism, soft tissue 40511
+Rheumatism, temporal 902862864
+Rhinolaryngitis 60296198
+Rhinophyrna (hammer nose) 6443249
+Rhinorhoea, runny nose Ã£, 103859
+Ribs, carious 5024542
+Rickets 30845
+Rigor 60942
+Ringworm 80712
+Ringworm of the beard (sycosis barbae) 405485
+Ringworm of the tarsal cartilage (sycosis tars) 40979
+Rose disease (erysipelas) 401055
+Rose disease (erysipelas) 70799
+Rupture (tear) 20228
+Rupture of aortic apex 1092256
+Rupture of aortic apex 1092259
+Rupture of vena saphena 30649442
+Rupture of vena saphena 30649443
+Rupture, abd3minal wH 104859
+Rupture, caecum 104882
 Rulanol. 2-Butano! 72516
 Rutandiol. 2,3-Butandiol 406055
 ryth rocyt e s 2331
@@ -9071,7 +9071,7 @@ Sperm 11.5.3 Sperm 609784
 Sperm 609784
 Sperm Spe-m, bactenae 6091280
 Sperm Spemiatic coat, inner tfascia spermatica internal 4363
-Sperm Sperm. MUCCus fibres 609772
+Sperm Sperm. MUCus fibres 609772
 Sperm Spermatic coat, cuter (fascia spermatica coma) 8844
 Sphincter muscles (Musculus sphincter) 87
 Sphincter muscles (Musculus sphincter)6.4 Sphincter muscles (Musculus sphincter) 87
@@ -9093,7 +9093,7 @@ SpicesPavika 2014533
 SpicesPopder (green) 20157
 SpicesPoper (red) 2014332
 SpicesPopper (black) 201337
-SpicesPPper (white) 201347
+SpicesPper (white) 201347
 SpicesSaga 201925
 SpicesSall 201515
 SpicesVincgar 201725
@@ -9118,224 +9118,224 @@ SpleenSplenic cells 3263
 Spongy bone substance 2444
 SporAhrix schenckii 5433355
 Sporobolomyces roseus 53344
-SS PS (swine fever) 5162128
-SSacral gland 401327854
-SSacralisalion 7038428
-SSaliva secretion, deficient 905240
-SSalivary calculus (Sia 204589
-SSarcoidosis (Boecks dsease) 504568
-SSarcoma 508
-SSarcoma ear right 5089
-SSarcoma hip bone left 508844971
-SSarcoma myeloid 50823
-SSarcoma of uterus 508954
-SSarcoma otital lett 50831
-SSarcoma, ear lett 50891
-SSarcoma, hip bone right 50884497
-SSarcoma. bone 508284
-SSarcoma. nose 50896
-SSarcoma. orbital right 5083
-SSc,henlein-l-lenoch syndrome 10427101
-SScabies 5097101
-SScadet fever (Scarlatina) 700241
-SScar tissue 1011
-SScaret fever (Scarlatina) 10743
-SScarlet fever (Scarlatina) 3075
-SScarlet fever IScarlatina) 10314
-SScaties 1087101
-SSchizophrenia 2016
-SSchizophrenia 707617
-SSchizoprenia, progressive 40654
-SSciatica 40351935
-SSciatica 50235
-SSclerosis 90343
-SScoliosis (sideways curvature of the spinal column) 8065297
-SScoliosis, lateral (left). 70521
-SScoliosis, lateral (right 7052
-SScotoma 503727
-SScotoma 90984943
-SScrotal sarcoma 5082098
-SScurvy. 108749
-SScybala 8026127
-SScybala 8026127
-SScybalurn 8026027
-SSebaceous cyst 5017
-SSebaceous cyst purulent 601691
-SSebaceous cyst, ear rght 6019
-SSeborrhoea 4011017
-SSecretor/ disardet 60404
-SSedinent. 907616
-SSelf-poisoning general (ktointoxcatiorn 700372
-SSelf-poisoning, intestinal (Aulantoimlion) 700378
-SSeminonia 32647255
-SSenile emphysema 10277
-SSenility 3048
-SSenility 50533
-SSensitivity 304353
-SSensitivity to light 5068247
-SSepta) deviation...ã.., 403515496
-SSexual delusion 50555
-SSexual excitability 50103455
-SSexuality. frigidity 90312
-SSexually transmitted d sease 40699
-SSguamous epithelial carcinoma, slow growing 50452
-SShadows (X-ray) 40213
-SShari-sight (rnyop a) 9063647
-SShock, 1010494
-SShock, 6Jrgi l 10104999
-SShock, burn 10104917
-SShock, electrical 10104929
-SShock, electro (therapy) 10104981
-SShock, emotional 1010427
-SShock, financial 10104554
-SShock, mental 10104
-SShock, mental distress 1010412
-SShock, plysical 10124
-SShock, sexual 1010431
-SShock, sexual 10431
-SShock, soiritaal 1011034
-SShock, surgical 1?04999
-SShock, traumatic 101049271
-SShock. haernorrhagic 10104927
-SShock. plysical 101049
-SShock. poison 1010491
-SShock. psychological 7039811
-SShrunken kidney 610379
-SShwa tbrosa 953445
-SSigma, stenosing 1636240
-SSigtnoidiiis 4085
-SSinusitis (paranasal) 40460
-SSinusitis frortalis 900053
-SSinusitis iparanasal) 6036
-SSinusitis maxillaris 2187161
-SSinusitis sphenoidalis 602133
-SSkin fibroma 586204
-SSkin irrittion . 80547
-SSleep 40439
+Swine fever 5162128
+Sacral gland 401327854
+Sacralisalion 7038428
+Saliva secretion, deficient 905240
+Salivary calculus (Sia 204589
+Sarcoidosis (Boecks dsease) 504568
+Sarcoma 508
+Sarcoma ear right 5089
+Sarcoma hip bone left 508844971
+Sarcoma myeloid 50823
+Sarcoma of uterus 508954
+Sarcoma otital lett 50831
+Sarcoma, ear lett 50891
+Sarcoma, hip bone right 50884497
+Sarcoma. bone 508284
+Sarcoma. nose 50896
+Sarcoma. orbital right 5083
+Sc,henlein-l-lenoch syndrome 10427101
+Scabies 5097101
+Scadet fever (Scarlatina) 700241
+Scar tissue 1011
+Scaret fever (Scarlatina) 10743
+Scarlet fever (Scarlatina) 3075
+Scarlet fever IScarlatina) 10314
+Scaties 1087101
+Schizophrenia 2016
+Schizophrenia 707617
+Schizoprenia, progressive 40654
+Sciatica 40351935
+Sciatica 50235
+Sclerosis 90343
+Scoliosis (sideways curvature of the spinal column) 8065297
+Scoliosis, lateral (left). 70521
+Scoliosis, lateral (right 7052
+Scotoma 503727
+Scotoma 90984943
+Scrotal sarcoma 5082098
+Scurvy. 108749
+Scybala 8026127
+Scybala 8026127
+Scybalurn 8026027
+Sebaceous cyst 5017
+Sebaceous cyst purulent 601691
+Sebaceous cyst, ear rght 6019
+Seborrhoea 4011017
+Secretor/ disardet 60404
+Sedinent. 907616
+Self-poisoning general (ktointoxcatiorn 700372
+Self-poisoning, intestinal (Aulantoimlion) 700378
+Seminonia 32647255
+Senile emphysema 10277
+Senility 3048
+Senility 50533
+Sensitivity 304353
+Sensitivity to light 5068247
+Septa) deviation...Ã£.., 403515496
+Sexual delusion 50555
+Sexual excitability 50103455
+Sexuality. frigidity 90312
+Sexually transmitted d sease 40699
+Sguamous epithelial carcinoma, slow growing 50452
+Shadows (X-ray) 40213
+Shari-sight (rnyop a) 9063647
+Shock, 1010494
+Shock, 6Jrgi l 10104999
+Shock, burn 10104917
+Shock, electrical 10104929
+Shock, electro (therapy) 10104981
+Shock, emotional 1010427
+Shock, financial 10104554
+Shock, mental 10104
+Shock, mental distress 1010412
+Shock, plysical 10124
+Shock, sexual 1010431
+Shock, sexual 10431
+Shock, soiritaal 1011034
+Shock, surgical 1?04999
+Shock, traumatic 101049271
+Shock. haernorrhagic 10104927
+Shock. plysical 101049
+Shock. poison 1010491
+Shock. psychological 7039811
+Shrunken kidney 610379
+Shwa tbrosa 953445
+Sigma, stenosing 1636240
+Sigtnoidiiis 4085
+Sinusitis (paranasal) 40460
+Sinusitis frortalis 900053
+Sinusitis iparanasal) 6036
+Sinusitis maxillaris 2187161
+Sinusitis sphenoidalis 602133
+Skin fibroma 586204
+Skin irrittion . 80547
+Sleep 40439
 Ssleep attacks compulsive lnarcoleps 40325
-SSleepiness.. 2047
-SSleeping sickness 503343
-SSleeping sickness, central African 90898
-SSleeplessness, curable (insomnia) 80573
-SSlrumu colloides 53634
-SSmallpox (Variola major) 403101
-SSmallpox (Venda) 60702
-SSmallpox 403
-SSmallpox 70038
-SSmoker's tongue 906435
-SSneezing 6023
-SSneezing. 6208
-SSobacecus cyst, ear left 60191
-SSoftening of the bones (moilites ossim) 6013453
-SSoftening of the bones (osteomaiacia) 60134533
-SSoftening of the bones (osteomalacia) 6012453
-SSoftening of the brain (encephalomalacia) 6011332
-SSolitary cyst (kidney) 3918195
-SSomnolence 40213
-SSoreness 20474
-SSoreness 30322
-SSource of infection, septic 9075
-SSpasm of the small intestine 1010122
-SSpasm oi the large inlestine 1010127
-SSpasm, cramp 301104
-SSpasm, cramp 80632
-SSpider bile 9011886
-SSpienic abscess 302465
-SSpienic infarction 10427465
-SSpinal abscess 302294
-SSpinal caries 5024297
-SSpinal column, typhoid 203143279
-SSpinal paralysis, syphritic 505542279
-SSpinal rneningocele 10427279
-SSpinal tumour 508297
-SSpinal tumour, carcinoma 501297
-SSpinal tumour, sarcoma 508297
-SSpindle cell sarcoma 50849
-SSpionopathy 40465
-SSplenic cancer 50465
-SSplinter 4038
-SSpoigioblastoma. multiform 3057810
-SSpondylosis 402867
-SSpontlylitis, traumatic 1092297
-SSprain 40856
-SSprain, back 70599279
-SSprue 303325
-SSquarnous epithelial carcinoma 5058101
-SSquint 90856
-SSqunt 70663
-SStability 605347
-SStagnation 20354
-SStaphylxocci 304
-SStare, pancreatic 20473
-SStasis 70338
-SSteatordioea 809539
-SStenosis, pyloric 5045321
-SSter osis (stricture) 50683
-SSterility 10545
-SSternsis. gereral 503723
-SSterosis of foreskin (phimesis) 40583
-SSterosis of the vaginal canal 207952
-SSterosis, mitrai 90982
-SStiffness 20969
-SStiffness. 6033
-SStimulaton 9053
-SStint, gtill Wide' 204838
-SStomatitis 403458
-SStomatitis aphthosa 55220
-SStomatitis ulcerosa 40313
-SStone (Calculus) 2048
-SStone 20555
-SStone, encapsulated 20426
-SStone, Gadder 20431
-SStone, kidney 204823
-SStone, renal coral calcuius 204222
-SStone. uric acid - lurate stone) 204562
-SStrain, eve lest 609386531
-SStrain, eye right 60938653
-SStrain, rectal muscles 6093865851
-SStrum basedowiana 73333
-SStrum parerchymatosa 1448457
-SStruma (Tahoe 4254335
-SStruma intratrachealis 734644
-SStruma lymphomatosa Mashimoto IllyteoiddS) 955477
-SStruma mollis 774434
-SStruma reonatorum 633264
-SStruma retrostemalis 739582
-SStruma rodosa 734238
-SStruma. juvenile goitre (strurna arinlescentium siva juvenilia) 44653
-SStrume lymphomatosa (hashimotu thyteoiditic) 67464320
-SStutierin9 403336
-SSU0involJtiO uteri 7065954
-SSublux tion 1084
-SSunstroke 407279
-SSuperinvolution of the uterus 9065954
-SSurplus, quantitative 501010
-SSwalowing (Deglutition) 7679
-SSweat secretion 304
-SSweet secretion, detective lanhydroi 50546
-SSweliing in auditory canal . 4013372
-SSwelling, tumescence 401
-SSycosis tarsi 8082
-SSympathicus, stimulation of 409739
-SSyncope, fainting 207497
-SSyncytiorria 4054554
-SSyndrome, Cushings 40723
-SSyndrome, gesfroinlestinal allergy 9043994
-SSyndrome, Guil lain Barre Strohl 4022884
-SSyndrome, Pellagra 202
-SSynovitis 302455
-SSynovitis 402008
-SSyphilis 505
-SSyphilis 505954
-SSyphilis 70045
-SSyphilis, acquired 809302
-SSyphilis, congenital (cornea) 5073988
-SSyphilis, congenital 507
-SSyphilis, Most tor 8044
-SSyphilis, tertiary 50559
-SSyphilitic liver 50548
-SSyphilitic nodules 505889
-SSytingomyelia 90231
+Sleepiness.. 2047
+Sleeping sickness 503343
+Sleeping sickness, central African 90898
+Sleeplessness, curable (insomnia) 80573
+Slrumu colloides 53634
+Smallpox (Variola major) 403101
+Smallpox (Venda) 60702
+Smallpox 403
+Smallpox 70038
+Smoker's tongue 906435
+Sneezing 6023
+Sneezing. 6208
+Sobacecus cyst, ear left 60191
+Softening of the bones (moilites ossim) 6013453
+Softening of the bones (osteomaiacia) 60134533
+Softening of the bones (osteomalacia) 6012453
+Softening of the brain (encephalomalacia) 6011332
+Solitary cyst (kidney) 3918195
+Somnolence 40213
+Soreness 20474
+Soreness 30322
+Source of infection, septic 9075
+Spasm of the small intestine 1010122
+Spasm oi the large inlestine 1010127
+Spasm, cramp 301104
+Spasm, cramp 80632
+Spider bile 9011886
+Spienic abscess 302465
+Spienic infarction 10427465
+Spinal abscess 302294
+Spinal caries 5024297
+Spinal column, typhoid 203143279
+Spinal paralysis, syphritic 505542279
+Spinal rneningocele 10427279
+Spinal tumour 508297
+Spinal tumour, carcinoma 501297
+Spinal tumour, sarcoma 508297
+Spindle cell sarcoma 50849
+Spionopathy 40465
+Splenic cancer 50465
+Splinter 4038
+Spoigioblastoma. multiform 3057810
+Spondylosis 402867
+Spontlylitis, traumatic 1092297
+Sprain 40856
+Sprain, back 70599279
+Sprue 303325
+Squarnous epithelial carcinoma 5058101
+Squint 90856
+Squnt 70663
+Stability 605347
+Stagnation 20354
+Staphylxocci 304
+Stare, pancreatic 20473
+Stasis 70338
+Steatordioea 809539
+Stenosis, pyloric 5045321
+Ster osis (stricture) 50683
+Sterility 10545
+Sternsis. gereral 503723
+Sterosis of foreskin (phimesis) 40583
+Sterosis of the vaginal canal 207952
+Sterosis, mitrai 90982
+Stiffness 20969
+Stiffness. 6033
+Stimulaton 9053
+Stint, gtill Wide' 204838
+Stomatitis 403458
+Stomatitis aphthosa 55220
+Stomatitis ulcerosa 40313
+Stone (Calculus) 2048
+Stone 20555
+Stone, encapsulated 20426
+Stone, Gadder 20431
+Stone, kidney 204823
+Stone, renal coral calcuius 204222
+Stone. uric acid - lurate stone) 204562
+Strain, eve lest 609386531
+Strain, eye right 60938653
+Strain, rectal muscles 6093865851
+Strum basedowiana 73333
+Strum parerchymatosa 1448457
+Struma (Tahoe 4254335
+Struma intratrachealis 734644
+Struma lymphomatosa Mashimoto IllyteoiddS) 955477
+Struma mollis 774434
+Struma reonatorum 633264
+Struma retrostemalis 739582
+Struma rodosa 734238
+Struma. juvenile goitre (strurna arinlescentium siva juvenilia) 44653
+Strume lymphomatosa (hashimotu thyteoiditic) 67464320
+Stutierin9 403336
+SU0involJtiO uteri 7065954
+Sublux tion 1084
+Sunstroke 407279
+Superinvolution of the uterus 9065954
+Surplus, quantitative 501010
+Swalowing (Deglutition) 7679
+Sweat secretion 304
+Sweet secretion, detective lanhydroi 50546
+Sweliing in auditory canal . 4013372
+Swelling, tumescence 401
+Sycosis tarsi 8082
+Sympathicus, stimulation of 409739
+Syncope, fainting 207497
+Syncytiorria 4054554
+Syndrome, Cushings 40723
+Syndrome, gesfroinlestinal allergy 9043994
+Syndrome, Guil lain Barre Strohl 4022884
+Syndrome, Pellagra 202
+Synovitis 302455
+Synovitis 402008
+Syphilis 505
+Syphilis 505954
+Syphilis 70045
+Syphilis, acquired 809302
+Syphilis, congenital (cornea) 5073988
+Syphilis, congenital 507
+Syphilis, Most tor 8044
+Syphilis, tertiary 50559
+Syphilitic liver 50548
+Syphilitic nodules 505889
+Sytingomyelia 90231
 Stachylococals epidermidis 3054
 Staphylococci, general 700304
 Staphylococcus aureus 3044
@@ -9366,7 +9366,7 @@ Stomach (Garter)Nerves, diaphragmatic ne work, left (b'anches to cardia) 641
 Stomach (Garter)Nerves, from lett sphnchnic nem 5674
 Stomach (Garter)Nerves, from thoracic sympathetic nerve 2454
 Stomach (Garter)Nerves, sympathetic round gastric artery 1425
-Stomach (Garter)Nerves, sympathetic round Melia gastro ¡mutat 3323
+Stomach (Garter)Nerves, sympathetic round Melia gastro Â¡mutat 3323
 Stomach (Garter)Nerves. from lumbar sympathetic leno. 2324
 Stomach (Garter)Parasympathetic, major anterior gastric nerve 9231
 Stomach (Garter)Parasympathetic, plexus in the submuccus 658
@@ -9405,7 +9405,7 @@ structureCostal cartilage 2356
 structureEpimysin 8327
 structureFasciae 104
 structureFatty nodes 5575
-structureMucousbursa ..ã., 1010
+structureMucousbursa ..Ã£., 1010
 structureMuscle fibril 2274
 structureMuscle tissue, blood and nerve supply 471
 structureMuscle tissue, cells 4254
@@ -9440,7 +9440,7 @@ SweetenersCorfedionery, general 2018090
 SweetenersDi-starch phosphate (modified starch)666698
 SweetenersE 1105 Lysozyme O._ 545756
 SweetenersE 1200 Polydextrose 537668
-SweetenersE 1201 Polyvinylpyrrolidon ¨ 5667
+SweetenersE 1201 Polyvinylpyrrolidon Â¨ 5667
 SweetenersE 1202 Polyvinyl polypyrroltdone 0 645457
 SweetenersE 1404 Oxidierte starch 0 444555
 SweetenersE 1410 Monostarch phosphate (modified starch) g 6437655
@@ -9454,14 +9454,14 @@ SweetenersE 1450 Starch sodium octenylsucciriate (modified starch) 0 84654
 SweetenersE 1505 Triethyl citrate 44555
 SweetenersE 1518 Glycerine triacetate (Triecetin) 44535
 SweetenersE 939 Helium 54565
-SweetenersE 941 Nitrogen © 55776
+SweetenersE 941 Nitrogen Â© 55776
 SweetenersE 942 Di-nitrogen monoxide (4 52233354
 SweetenersE 948 Oxygen 98459609
 SweetenersE 950 Acesulfame K, Acesulfaine 677345
 SweetenersE 951 Aspartame @ 553436
-SweetenersE 952 Cyclomato Cycloholane sulphamide acid ¨ 744553434
+SweetenersE 952 Cyclomato Cycloholane sulphamide acid Â¨ 744553434
 SweetenersE 953 Isoma4 36567
-SweetenersE 954 SacCharioiãã., 5798
+SweetenersE 954 SacCharioiÃ£Ã£., 5798
 SweetenersE 957 Thaumatin 0 434439
 SweetenersE 959 Neohesperidir DC C) 8436344
 SweetenersE 965 Maltife, Maftite syrup 0 5578
@@ -9488,7 +9488,7 @@ Tartaric acid 321
 Taxi! 991323
 TBTO (Bistributyl tin oxide) 1361660
 TCEP (Tris-(chloroethyl)-phosphate) 80065773
-TCIPP (Tris-(1,3-dichloro-isopropylyphosphate) 7024896
+TCIP (Tris-(1,3-dichloro-isopropylyphosphate) 7024896
 Tebuconaz ol 93300035
 Teeth, general 499
 TeethCanine teeth, upper (eye teeth) 246
@@ -9543,7 +9543,7 @@ Thic urea 1747207
 Thicalynlic acid 30932
 Thickening, Setting and Moisturising AgentsE 4.4 GJM arribie 5453354
 Thickening, Setting and Moisturising AgentsE 4:8 Gollane 523222
-Thickening, Setting and Moisturising AgentsE 4'0 Locust bean guru, carob gurit¥ 53454423
+Thickening, Setting and Moisturising AgentsE 4'0 Locust bean guru, carob guritÂ¥ 53454423
 Thickening, Setting and Moisturising AgentsE 400 act AlUnale 32352322
 Thickening, Setting and Moisturising AgentsE 401 soriii in alginate, Alginate 533657
 Thickening, Setting and Moisturising AgentsE 402 Potassium alginate, Alginate 0) 64552466
@@ -9611,7 +9611,7 @@ TonqueTaste buds. thread-like (papillae filiformes) 5321
 TonqueVeins 7804
 Toruiopsis glabrata 838644
 Toxic gases (general) 6789
-Toxins7OXic ur(ã1Ô.nã,. 90172
+Toxins7OXic ur(Ã£1Ã”.nÃ£,. 90172
 Toyfluanide 2315764
 Traction current 16 2/3 Hz 642
 Trees 2124663
@@ -9624,250 +9624,250 @@ Trichosporon beielii 645645
 Trichothecium dependens . 84231
 Triciloroethene 2057942
 TriCllorofluorornelhane 616864
-Tricllorophenexy acetic accl, 246-Triehloraphenoxy acetic acidã.ã,Ô 5018472
+Tricllorophenexy acetic accl, 246-Triehloraphenoxy acetic acidÃ£.Ã£,Ã” 5018472
 Tricloroettlane, 1,1,1-Tricleroethane 391257
 Trimethylbenzols 9061594
 Trioleine 689633
 Tripbenyl tin 649890
-TTabes dorsalis 50593
-TTachycardia 50129
-TTachycardia 50129
-TTachycardia. paroxysmal 50132122810
-TTachycrdia, paroxysmal 501321872
-TTalipes plano4alus 70989574
-TTapes valgus 10937121
-TTapeworm 8046
-TTapeworm 907930
-TTB arthrtis tuberculosa 402954
-TTB, acquired 40215
-TTB, avian 40223
-TTB, erythema induratum (Bazin's disease) 60643
-TTB, from cows milk or vaccination 40257
-TTB, from fruit, vegetables 4022
-TTB, in hepatic cells 60878
-TTB, of unknown origin 402
-TTB, pulmonary tuterculoqic 4031
-TTB, tuberculous meningitis 608675
-TTB, wasting (phthiis), left 40277
-TTB, wasting (phthiis), right 40976
-TTB. from parasite 4026
-TTCA (Thiothiazolidin-2-Carboxylic acid) 73905
-TTee). face 805365
-TTeeth grinding (bruxist [I) 539434
-TTeeti, puulent 30449
-TTeleangiectases 409719
-TTeleangiectmia 7019
-TTemperature (high) 4095810
-TTemperature (normal) 409586
-TTemperature 22945
-TTemperature t tow) 409582
-TTemporal bone, caries of (Os temporale) 50284862
-TTencsynov iti s 40645
-TTenon's capsule, inflarimation (fenonitis) 402512
-TTent synovitis, Tendovaginitis 907088
-TTesticula- carcer, left 50781
-TTesticula- carcer, right 50788
-TTesticular Cyst, let 601781
-TTesticular cyst, riglt 601788
-TTestis, luDerculous, 402788
-TTestis, trauma, left 1092781
-TTestis, trauma, right,. 1092788
-TTestis, tuserculous, left 402781
-TTeta nia 50359
-TTetanus 30785
-TTetanus 700715
-TTetanus_ 3014
-TTetraplegia 705566
-TThickening, swelling 6015
-TThirst 30145
-TThomson's disease 40425
-TThrombclymphangitis 2038263
-TThrombcpathy 53332
-TThrombcphlebitis, idiopathic 30635
-TThromboangiptis obliterans 50774
-TThrombosis 9098
-TThrombosis, cerebral 909829
-TThrombosis, cerebral 9098291
-TThrombosis, coronary 9098492
-TThrombosis, eyeball 90983512
-TThrombosis, pulmonary artery 9098534
-TThrombosis, pulmonary left 909877
-TThrombosis, pulmonary right 909876
-TThrombosis, sinus lateralis cerebri 90989759
-TThrombosis, sinus longitucinalis cerebr 9098975
-TThrombosis, sinus superior longus 90987675
-TThrombosis. mesente nal 9398815
-TThrombosis. renal 909823
-TThrombus 7068
-TThrornbcpeNa 30947
-TThymus gland, enlarged 401396
-TTibial frature, old 907319
-TTibial osteoma 508319
-TTic 4065546
-TTic douloureux 808642
-TTick fever 20333
-TTinea (ringworm) 8071
-TTinea Sycosis (ringwomi 01 the beat) 80712
-TTinea tarsi. 30979
-TTines pedis (ringworm of trie feet) 50359
-TTingling 40464
-TTinnitus 10219
-TTiredness 80457
-TTiredness, physical 3066
-TTiredness, tnental 50325
-TTissue, hard 406223
-TToms, parasimpalhetiC 20437
-TTonsil!its, tuberculous 402661
-TTonsillitis, chronic 8423797
-TTonsillitis, chronic, hyperpl 91593
-TTonus 70645
-TTophus (nodes) 50220419
-TTophus, inflamed, ear right 40209
-TTophus, Mflamed, ear left 402091
-TTorsiIla, calculi 60206
-TTorticoIf's, spastic 60462
-TToxaemia 901409
-TToxiis 790457
-TToxoplasmosis 63445
-TTrace elements, lack of 642191
-TTrachoma 50446
-TTrachoma 50740
-TTrachoma 507403988
-TTrarsmission of impulses, 'educed 20421
-TTrarsyeise colon, distended 306583
+Tabes dorsalis 50593
+Tachycardia 50129
+Tachycardia 50129
+Tachycardia. paroxysmal 50132122810
+Tachycrdia, paroxysmal 501321872
+Talipes plano4alus 70989574
+Tapes valgus 10937121
+Tapeworm 8046
+Tapeworm 907930
+TB arthrtis tuberculosa 402954
+TB, acquired 40215
+TB, avian 40223
+TB, erythema induratum (Bazin's disease) 60643
+TB, from cows milk or vaccination 40257
+TB, from fruit, vegetables 4022
+TB, in hepatic cells 60878
+TB, of unknown origin 402
+TB, pulmonary tuterculoqic 4031
+TB, tuberculous meningitis 608675
+TB, wasting (phthiis), left 40277
+TB, wasting (phthiis), right 40976
+TB. from parasite 4026
+TCA (Thiothiazolidin-2-Carboxylic acid) 73905
+Tee). face 805365
+Teeth grinding (bruxist [I) 539434
+Teeti, puulent 30449
+Teleangiectases 409719
+Teleangiectmia 7019
+Temperature (high) 4095810
+Temperature (normal) 409586
+Temperature 22945
+Temperature t tow) 409582
+Temporal bone, caries of (Os temporale) 50284862
+Tencsynov iti s 40645
+Tenon's capsule, inflarimation (fenonitis) 402512
+Tent synovitis, Tendovaginitis 907088
+Testicula- carcer, left 50781
+Testicula- carcer, right 50788
+Testicular Cyst, let 601781
+Testicular cyst, riglt 601788
+Testis, luDerculous, 402788
+Testis, trauma, left 1092781
+Testis, trauma, right,. 1092788
+Testis, tuserculous, left 402781
+Teta nia 50359
+Tetanus 30785
+Tetanus 700715
+Tetanus_ 3014
+Tetraplegia 705566
+Thickening, swelling 6015
+Thirst 30145
+Thomson's disease 40425
+Thrombclymphangitis 2038263
+Thrombcpathy 53332
+Thrombcphlebitis, idiopathic 30635
+Thromboangiptis obliterans 50774
+Thrombosis 9098
+Thrombosis, cerebral 909829
+Thrombosis, cerebral 9098291
+Thrombosis, coronary 9098492
+Thrombosis, eyeball 90983512
+Thrombosis, pulmonary artery 9098534
+Thrombosis, pulmonary left 909877
+Thrombosis, pulmonary right 909876
+Thrombosis, sinus lateralis cerebri 90989759
+Thrombosis, sinus longitucinalis cerebr 9098975
+Thrombosis, sinus superior longus 90987675
+Thrombosis. mesente nal 9398815
+Thrombosis. renal 909823
+Thrombus 7068
+ThrornbcpeNa 30947
+Thymus gland, enlarged 401396
+Tibial frature, old 907319
+Tibial osteoma 508319
+Tic 4065546
+Tic douloureux 808642
+Tick fever 20333
+Tinea (ringworm) 8071
+Tinea Sycosis (ringwomi 01 the beat) 80712
+Tinea tarsi. 30979
+Tines pedis (ringworm of trie feet) 50359
+Tingling 40464
+Tinnitus 10219
+Tiredness 80457
+Tiredness, physical 3066
+Tiredness, tnental 50325
+Tissue, hard 406223
+Toms, parasimpalhetiC 20437
+Tonsil!its, tuberculous 402661
+Tonsillitis, chronic 8423797
+Tonsillitis, chronic, hyperpl 91593
+Tonus 70645
+Tophus (nodes) 50220419
+Tophus, inflamed, ear right 40209
+Tophus, Mflamed, ear left 402091
+TorsiIla, calculi 60206
+TorticoIf's, spastic 60462
+Toxaemia 901409
+Toxiis 790457
+Toxoplasmosis 63445
+Trace elements, lack of 642191
+Trachoma 50446
+Trachoma 50740
+Trachoma 507403988
+Trarsmission of impulses, 'educed 20421
+Trarsyeise colon, distended 306583
 Ttrauma 10 eardrum 109213372
-TTrauma 1092
-TTrauma to spinal column, spinal lesion 702979
-TTrauma, chilobirt 1092478
-TTrauma, ear lett 109291
-TTrauma, finger 109226
-TTrauma, lesion 808871
-TTrauma, mental-emotiral 90338
-TTrauma. 1092
-TTrauma. 1092188
-TTrauma. 707663
-TTrauma. ear right 10929
-TTrauma. toes 1092442
-TTrchinosis 90837
-TTremor 40141
-TTremor CNS 503556
-TTrenbling (tremor) 504342
-TTrichomonad fluoride 4394368
-TTrichomoniasis 2023242
-TTrichophytosis, pechs 50359
-TTrigerninal neuralgia (5th cranial nerve) 808642285
-TTropical diseascs Ancylostoma ducdenale hooluvorm) 30621
-TTropical diseases heat rash (miliaria lichen tropicus) 30224
-TTropical diseases Kala.27ar (Leishmaniasis) 50344
-TTropical diseases lilariasis (wu,:hereria bancrofti' 30139
-TTropical diseases, 8prue, tropical 303325
-TTropical diseases, Malaria, relapse 9076
-TTropical diseases, Malta-fever 1:BruceIla meiitensis) 20327
-TTropical diseases, Necatar americanus (hookworm) 30616
-TTropical diseases, Pellagra 202
-TTropical diseases, plague 70261
-TTropical diseases, recurrent fever 30267
-TTropical diseases, sand fly lever, pappataci lever 10235
-TTropical diseases, Schistosoma haematobium 103323
-TTropical diseases, Schistosoma mansoni 101327
-TTropical diseases, Thrombophlebitis, idiopathic 30635
-TTropical diseases, Trypanosomiasis 30436
-TTropical diseases, Trypanosomiasis gambiense 503343
-TTropical diseases, yellow lever 50403
-TTropical diseases. Beriberi 60552
-TTropical diseases. Bitarziosis 30361
-TTropical diseases. dysentery 20105
-TTropical diseases. Filariasis 30439
-TTropical diseases. Ma11a4ever iSrucella abatis) 20322
-TTrypanosomiasis. general 30436
-TTuberculosis 4023988
-TTuberculosis 70031
-TTuberculosis, arthritis 402954
-TTuberculosis, bovinurn 8086
-TTuberculosis, hepatic cells 60878
-TTuberculosis, hereditary . 402
-TTuberculosis, indurative 60643
-TTuberculosis, lung 4031
-TTuberculosis, meningitis 608675
-TTuberculosis, middle ear 40213372
-TTuberculosis, sacro-coccygeal 402854188
-TTularemia 40833
-TTumou r,benign , haernangioma capillare 409719
-TTumou r,benign, polyp 30774
-TTumour of the cauda equine 50821
-TTumour of the crus ccrebn (carcinoma) 50142
-TTumour of the crus cerebn (sarcoma) 50842
-TTumour of the crus cerebr (sarcoma) 5083
-TTumour of the eyelid (carcinoma) 501979
-TTumour of the eyelid (sarcoma) 508979
-TTumour of the large intestine 50127
-TTumour of the large intestine 50827
-TTumour of the optic nerve (news Om) 5012282
-TTumour of the orbital cavity (antrum) 501254
-TTumour of the orbital cavity (orbital tumour) 5013988
-TTumour ot the crus cerebri (carciraxna) 5013
-TTumour, benign, adenoma, general rate 50554
-TTumour, benign, cyst . 70127
-TTumour, benign, f bromyoma 50223
-TTumour, benign, fibroma, uterine . 50289
-TTumour, benign, glioma 70342
-TTumour, benign, neningeorna 20593
-TTumour, benign, odowoma 5094197
-TTumour, benign, oligodendroglioma 503542
-TTumour, benign, oslecma 10042
-TTumour, benign, prima 50510
-TTumour, benign, simple 5018
-TTumour, benign, t.esieular mote (hydatid mole) 30416
-TTumour, benign. 40322
-TTumour, benign. cystadenoma 50362
-TTumour, benign. lOoma 2044
-TTumour, benign. piapilloma 50447
-TTumour, berign, f broma 6075
-TTumour, berign, hacrrangioma planotuterculosam . 60653
-TTumour, berign, nouroma 5011109
-TTumour, fibroids . 50195
-TTumour, m3:ipart, squamous 5058101
-TTumour, ma iignart. sarcoma, lymphosarcom 504327
-TTumour, ma!ignant. sarcoma, deogenetic 508284
-TTumour, maignart, melanoma 50453
-TTumour, maignart, sarcoma, spindle ce I. 50849
-TTumour, maignart, scirrhouS 70194
-TTumour, malignan(, kidney 50374
-TTumour, malignant, adenocarcin0Ma 50154
-TTumour, malignant, carcinoma, general rate 8078
-TTumour, malignant, epithel orna 50101
-TTumour, malignant, neuroblastoma 70543
-TTumour, malignant, opendyoma 503332
-TTumour, malignant, sarcoma, deddnoma 4054554
-TTumour, malignant, sarcoma, myeloid 50823
-TTumour, malignant, squamous epithelium, slow growing 50452
-TTumour, malignart 20505
-TTumour, malignart, medulla tcorcinorra 50654
-TTumour, malignart, MIICOSR ffIldeOliS mtmbrana) 50443
-TTumour, mallnarr carcinoma 50
-TTumour, matirart, mrlona, multiples. 40694
-TTumour, pre-rate 508
-TTumour, rnaignart, sarcoma 5082
-TTumour, rria;ignart, chorionir 50695
-TTumour, serofibrinous . 60104
-TTumour. abdominal, 5081233
-TTumour. benign, adenoma, endobrcnchial 50461
-TTumour. benign, lipoma 60343
-TTumour. benign, neurofibroma 60634
-TTumour. Berchondroma 50343
-TTumour. berign, adenoma, fibnosurn 60415
-TTumour. ma:0aq astrocyloma 70347
-TTumour. malignai t, teratorna testis 50674
-TTumour. malignant. medulfoblastoma 60268
-TTumour; malignant, bronchogenic 505476
-TTwitch 40431
-TTympani; 30237
-TTyphfitis, masked (appendicitis larvala) 607898
-TTyphus 203143
-TTyphus 70048
-TTyphus 709322
-TTyphus 80962
-TTyphus bactenae 700662
+Trauma 1092
+Trauma to spinal column, spinal lesion 702979
+Trauma, chilobirt 1092478
+Trauma, ear lett 109291
+Trauma, finger 109226
+Trauma, lesion 808871
+Trauma, mental-emotiral 90338
+Trauma. 1092
+Trauma. 1092188
+Trauma. 707663
+Trauma. ear right 10929
+Trauma. toes 1092442
+Trchinosis 90837
+Tremor 40141
+Tremor CNS 503556
+Trenbling (tremor) 504342
+Trichomonad fluoride 4394368
+Trichomoniasis 2023242
+Trichophytosis, pechs 50359
+Trigerninal neuralgia (5th cranial nerve) 808642285
+Tropical diseascs Ancylostoma ducdenale hooluvorm) 30621
+Tropical diseases heat rash (miliaria lichen tropicus) 30224
+Tropical diseases Kala.27ar (Leishmaniasis) 50344
+Tropical diseases lilariasis (wu,:hereria bancrofti' 30139
+Tropical diseases, 8prue, tropical 303325
+Tropical diseases, Malaria, relapse 9076
+Tropical diseases, Malta-fever 1:BruceIla meiitensis) 20327
+Tropical diseases, Necatar americanus (hookworm) 30616
+Tropical diseases, Pellagra 202
+Tropical diseases, plague 70261
+Tropical diseases, recurrent fever 30267
+Tropical diseases, sand fly lever, pappataci lever 10235
+Tropical diseases, Schistosoma haematobium 103323
+Tropical diseases, Schistosoma mansoni 101327
+Tropical diseases, Thrombophlebitis, idiopathic 30635
+Tropical diseases, Trypanosomiasis 30436
+Tropical diseases, Trypanosomiasis gambiense 503343
+Tropical diseases, yellow lever 50403
+Tropical diseases. Beriberi 60552
+Tropical diseases. Bitarziosis 30361
+Tropical diseases. dysentery 20105
+Tropical diseases. Filariasis 30439
+Tropical diseases. Ma11a4ever iSrucella abatis) 20322
+Trypanosomiasis. general 30436
+Tuberculosis 4023988
+Tuberculosis 70031
+Tuberculosis, arthritis 402954
+Tuberculosis, bovinurn 8086
+Tuberculosis, hepatic cells 60878
+Tuberculosis, hereditary . 402
+Tuberculosis, indurative 60643
+Tuberculosis, lung 4031
+Tuberculosis, meningitis 608675
+Tuberculosis, middle ear 40213372
+Tuberculosis, sacro-coccygeal 402854188
+Tularemia 40833
+Tumou r,benign , haernangioma capillare 409719
+Tumou r,benign, polyp 30774
+Tumour of the cauda equine 50821
+Tumour of the crus ccrebn (carcinoma) 50142
+Tumour of the crus cerebn (sarcoma) 50842
+Tumour of the crus cerebr (sarcoma) 5083
+Tumour of the eyelid (carcinoma) 501979
+Tumour of the eyelid (sarcoma) 508979
+Tumour of the large intestine 50127
+Tumour of the large intestine 50827
+Tumour of the optic nerve (news Om) 5012282
+Tumour of the orbital cavity (antrum) 501254
+Tumour of the orbital cavity (orbital tumour) 5013988
+Tumour ot the crus cerebri (carciraxna) 5013
+Tumour, benign, adenoma, general rate 50554
+Tumour, benign, cyst . 70127
+Tumour, benign, f bromyoma 50223
+Tumour, benign, fibroma, uterine . 50289
+Tumour, benign, glioma 70342
+Tumour, benign, neningeorna 20593
+Tumour, benign, odowoma 5094197
+Tumour, benign, oligodendroglioma 503542
+Tumour, benign, oslecma 10042
+Tumour, benign, prima 50510
+Tumour, benign, simple 5018
+Tumour, benign, t.esieular mote (hydatid mole) 30416
+Tumour, benign. 40322
+Tumour, benign. cystadenoma 50362
+Tumour, benign. lOoma 2044
+Tumour, benign. piapilloma 50447
+Tumour, berign, f broma 6075
+Tumour, berign, hacrrangioma planotuterculosam . 60653
+Tumour, berign, nouroma 5011109
+Tumour, fibroids . 50195
+Tumour, m3:ipart, squamous 5058101
+Tumour, ma iignart. sarcoma, lymphosarcom 504327
+Tumour, ma!ignant. sarcoma, deogenetic 508284
+Tumour, maignart, melanoma 50453
+Tumour, maignart, sarcoma, spindle ce I. 50849
+Tumour, maignart, scirrhouS 70194
+Tumour, malignan(, kidney 50374
+Tumour, malignant, adenocarcin0Ma 50154
+Tumour, malignant, carcinoma, general rate 8078
+Tumour, malignant, epithel orna 50101
+Tumour, malignant, neuroblastoma 70543
+Tumour, malignant, opendyoma 503332
+Tumour, malignant, sarcoma, deddnoma 4054554
+Tumour, malignant, sarcoma, myeloid 50823
+Tumour, malignant, squamous epithelium, slow growing 50452
+Tumour, malignart 20505
+Tumour, malignart, medulla tcorcinorra 50654
+Tumour, malignart, MICOSR ffIldeOliS mtmbrana) 50443
+Tumour, mallnarr carcinoma 50
+Tumour, matirart, mrlona, multiples. 40694
+Tumour, pre-rate 508
+Tumour, rnaignart, sarcoma 5082
+Tumour, rria;ignart, chorionir 50695
+Tumour, serofibrinous . 60104
+Tumour. abdominal, 5081233
+Tumour. benign, adenoma, endobrcnchial 50461
+Tumour. benign, lipoma 60343
+Tumour. benign, neurofibroma 60634
+Tumour. Berchondroma 50343
+Tumour. berign, adenoma, fibnosurn 60415
+Tumour. ma:0aq astrocyloma 70347
+Tumour. malignai t, teratorna testis 50674
+Tumour. malignant. medulfoblastoma 60268
+Tumour; malignant, bronchogenic 505476
+Twitch 40431
+Tympani; 30237
+Typhfitis, masked (appendicitis larvala) 607898
+Typhus 203143
+Typhus 70048
+Typhus 709322
+Typhus 80962
+Typhus bactenae 700662
 Tucerculum 40226
 Tulole 7745229
 Tumours 10042
@@ -10067,63 +10067,63 @@ Urine analysis (according to Dr Ruth Drown)Urinary hdican 60953
 Ustilago 4453
 Uterus 954
 Uterus 954
-UUicus cruris varicosurr 30349
-UUlcas tubeirti.losurn 402303988
-UUlcer 303
-UUlcer, decubital (bedsore) 3032
-UUlceration, nose 3096
-UUlcers, multipie 303221
-UUlcet 303
-UUlcus ca:arrhle 60236
-UUlcus herpeticum 60243988
-UUlcus vetriculi 530541
-UUmbilical hernia 104859
-UUnderdeielcped 403105
-UUrarmia 506375
-UUrea 607
-UUrehma (tophus arthnticus) 502499
-UUretal crburrlei 10058
-UUreter¡lilh, left 20946681
-UUreterecasis 104535
-UUreterolith, right 2094668
-UUreterolithiass 504547
-UUrethral calulus 2094439
-UUrethral carbuncle. (carbuneula urethrae) 10058
-UUric acid 306
-UUric acid: increased Inc acid in blood thypeuricemia) 506249
-UUrinary bladder arcinorna 5062
-UUrinary bladder papilloma 5503617
-UUrinary bladder stone 209452
-UUrinary inconzinence 6220337
-UUrinary output, difinult (cfyiiria 706427
-UUrinary output, increased 30233
-UUrinary retention (anuresis 905594
-UUrination, frequent 60609
-UUrine 609
-UUrocsammus 20
-UUrocystic ulcer 3062
-UUropsammus 506
-UUrorephrosis (hycronephrosis) 60623
-UUrothelium, papillary 3711531
-UUrOthelium, solid papillary . 8100404
-UUrticaria pigifientcsa 734295
-UUterine 18 402954
-UUterine atrophy 906954
-UUterine cancer 50954
-UUterine congestion 40149954
-UUterine congestion,. 40149954
-UUterine conttactions 7085734
-UUterine fibroma 50289
-UUterine fibroma_ 50289
-UUterine fibrous tumour 501954
-UUterine muscle inflammation (Myometritis) 407651
-UUterine neuralgia 80864954
-UUterine polyp 30795197
-UUterine prolapse 8087954
-UUterine sarcoma 508954
-UUterus, excessively erlarged (uterine hypertrophy) 401954
-UUvertis 40412
-UUvula 401259
+Uicus cruris varicosurr 30349
+Ulcas tubeirti.losurn 402303988
+Ulcer 303
+Ulcer, decubital (bedsore) 3032
+Ulceration, nose 3096
+Ulcers, multipie 303221
+Ulcet 303
+Ulcus ca:arrhle 60236
+Ulcus herpeticum 60243988
+Ulcus vetriculi 530541
+Umbilical hernia 104859
+Underdeielcped 403105
+Urarmia 506375
+Urea 607
+Urehma (tophus arthnticus) 502499
+Uretal crburrlei 10058
+UreterÂ¡lilh, left 20946681
+Ureterecasis 104535
+Ureterolith, right 2094668
+Ureterolithiass 504547
+Urethral calulus 2094439
+Urethral carbuncle. (carbuneula urethrae) 10058
+Uric acid 306
+Uric acid: increased Inc acid in blood thypeuricemia) 506249
+Urinary bladder arcinorna 5062
+Urinary bladder papilloma 5503617
+Urinary bladder stone 209452
+Urinary inconzinence 6220337
+Urinary output, difinult (cfyiiria 706427
+Urinary output, increased 30233
+Urinary retention (anuresis 905594
+Urination, frequent 60609
+Urine 609
+Urocsammus 20
+Urocystic ulcer 3062
+Uropsammus 506
+Urorephrosis (hycronephrosis) 60623
+Urothelium, papillary 3711531
+UrOthelium, solid papillary . 8100404
+Urticaria pigifientcsa 734295
+Uterine 18 402954
+Uterine atrophy 906954
+Uterine cancer 50954
+Uterine congestion 40149954
+Uterine congestion,. 40149954
+Uterine conttactions 7085734
+Uterine fibroma 50289
+Uterine fibroma_ 50289
+Uterine fibrous tumour 501954
+Uterine muscle inflammation (Myometritis) 407651
+Uterine neuralgia 80864954
+Uterine polyp 30795197
+Uterine prolapse 8087954
+Uterine sarcoma 508954
+Uterus, excessively erlarged (uterine hypertrophy) 401954
+Uvertis 40412
+Uvula 401259
 V 60358
 V2-Influenza 61033
 V3-Influenza 98705
@@ -10146,7 +10146,7 @@ VA2-Influenza 25706
 VA2L-Influenza 8270982
 Vacc ine 10497
 Vaccfnia, cow pox (Poxvir,dae, Orlhopox) 80105
-Vaccinahon, GEE virus iMeningoencephalitis); (RS, S] 545446
+Vaccinahon, GE virus iMeningoencephalitis); (RS, S] 545446
 Vaccination, Chickenpox: [S] 748665
 Vaccination, Cholera: IR] 867656
 Vaccination, Diphtheria; IS, A, Fl] 545569
@@ -10180,16 +10180,16 @@ Various AllergiesMould-I-Allergen 476744
 Various AllergiesMould-IAllergen 970970
 Various AllergiesOrange allergen 2793592
 Various AllergiesPollen I 8653419
-Various AllergiesPollen II 5108081
+Various AllergiesPollen I 5108081
 Various AllergiesRadialicn, infrared rays 78794
-Various AllergiesRadiaticn (elect¡ magnetc) 78736
+Various AllergiesRadiaticn (electÂ¡ magnetc) 78736
 Various AllergiesRadiaticn, ultrablet rays 78931
 Various AllergiesRadiaticn. radivactiv.iy 97431
 Various AllergiesRadiation, X-ray 700321
 Various AllergiesSun 78731
 Vascular sinus, endothelial coat 1521
 Vegetable fat I 9917395
-Vegetable fat II 8321673
+Vegetable fat I 8321673
 Vegetable parasites._ 1088125
 Vegetable rani 974680
 Vegetables (cooked)Apparatus 201271
@@ -10260,7 +10260,7 @@ VeinsSuIxtvian veins 3397
 Venous networks 2631
 Venous networks10.7 Venous networks 2631
 Venous networksBasal (Plexus venosus basal(s) 5332
-Venous networksHaernorrhoidal (Plexus venosus haemorrhoidalus) .ãã 1039
+Venous networksHaernorrhoidal (Plexus venosus haemorrhoidalus) .Ã£Ã£ 1039
 Venous networksNasal (Plexus venosus nasalis) 752
 Venous networksOvarian ;Plexus venosus ovarialis) 6611
 Venous networksPampiniforrn (Plexus venosus pampiniformis:t 785
@@ -10515,7 +10515,7 @@ Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Rh
 Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Rheumatism, chronic 704
 Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Scarlet lever (Scarlatina) 10743
 Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Superinvolution of the uterus 9065954
-Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Uterine atrophy..ã 906954
+Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Uterine atrophy..Ã£ 906954
 Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Wasting, following TB (phthists), lett 40277
 Women's diseases (Gynaecology)Menstruation Menstruation, absent (Amenorrhoea) Wasting, following TB iphthisis), right 40276
 Women's diseases (Gynaecology)Menstruation Menstruation, painful (Dysmenorrhoea) Anaemia 20976
@@ -10665,7 +10665,7 @@ Worms (Helminths)Trematodes Dicrocoelium denciriticum 94766
 Worms (Helminths)Trematodes DiphyllobothriJM 44546
 Worms (Helminths)Trematodes Echinostoma 844394
 Worms (Helminths)Trematodes Fascola hepatica (Liver fluke) 204473
-Worms (Helminths)Trematodes Faso¡la gigantica (Liver fluke, large) 1003
+Worms (Helminths)Trematodes FasoÂ¡la gigantica (Liver fluke, large) 1003
 Worms (Helminths)Trematodes Heterophyes heleroptiyex 866075
 Worms (Helminths)Trematodes Motagonimus yokcgawai (Yokogawa's fluke) 446643
 Worms (Helminths)Trematodes Opisthorchis (cat liver I,uke) 665526
@@ -10678,41 +10678,41 @@ Worms (Helminths)Trematodes Schstosoma iapc.Krum 6444674
 Worms (Helminths)Trematodes Scnistosoma intercalatum 68637
 Worms (Helminths)Trematodes Trichobnharzia 643367
 Worms (Helminths)Worms 9080
-WWad (Verruca vulgares) 10972
-WWandering caecum (caecum mobile). 808782
-WWandering kidney 20387
-WWart (Verruca seborrhoicae) 505725
-WWart, plantar (Verruca plantares) 20432
-WWasting, following TB (phthisis), right 40276
-WWasting, following TB (Phthisis, left 40277
-WWater on the brain (hydrooephelue) 6066279
-WWatery eye, epiphora 60735
-WWatt (Verruca plana juvenilis) 1055
-WWeakness (asthenia) 20954
-WWeakness 404463
-WWeak-sightedness (functional amblyopia) 6043
-WWeckness 70714
-WWeight increase 504236
-WWeight loss 70354
-WWeirs disease 40118848
-WWerbof's diseasg 380072
-WWhcoping co.Igh (pertussis) 1068
-WWhispered speech 30223
-WWhnnping cough (pertussis) 9079
-WWhooping cough :pertussis) 10348
-WWhooping cough i'pertussis) 700359
-WWhrnping col ighISSiS) 10673
-WWilsy's disease 7679072
-WWiniwarter-Buerger disease (thrombangiitis obliterans 50774
-WWolhynia fever 180478
-WWorm fever 50766
-WWorms 9080
+Wad (Verruca vulgares) 10972
+Wandering caecum (caecum mobile). 808782
+Wandering kidney 20387
+Wart (Verruca seborrhoicae) 505725
+Wart, plantar (Verruca plantares) 20432
+Wasting, following TB (phthisis), right 40276
+Wasting, following TB (Phthisis, left 40277
+Water on the brain (hydrooephelue) 6066279
+Watery eye, epiphora 60735
+Watt (Verruca plana juvenilis) 1055
+Weakness (asthenia) 20954
+Weakness 404463
+Weak-sightedness (functional amblyopia) 6043
+Weckness 70714
+Weight increase 504236
+Weight loss 70354
+Weirs disease 40118848
+Werbof's diseasg 380072
+Whcoping co.Igh (pertussis) 1068
+Whispered speech 30223
+Whnnping cough (pertussis) 9079
+Whooping cough :pertussis) 10348
+Whooping cough i'pertussis) 700359
+Whrnping col ighISiS) 10673
+Wilsy's disease 7679072
+Winiwarter-Buerger disease (thrombangiitis obliterans 50774
+Wolhynia fever 180478
+Worm fever 50766
+Worms 9080
 Wwound 30323
-WWutheria bancrofti 30139
+Wutheria bancrofti 30139
 Xanthine 430678
-XXarilhelasma 9089979
-XX-ray oedema 60578
-XX-rays 700321
+Xarilhelasma 9089979
+X-ray oedema 60578
+X-rays 700321
 Xyiigen B 7724720
 Xyladecor 144121
 Xyladecor 2000 73807
