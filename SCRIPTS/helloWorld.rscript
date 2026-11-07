@@ -1,0 +1,14 @@
+PRINT Hello World
+GOTO NEXTCOMMAND
+PRINT if you see this, the GOTO command failed!
+NEXTCOMMAND:
+PRINT but you should instead see this line (good)
+GV=100
+PRINT GV
+RESULT = ANALYZE ESSENCES_BACHFLOWERS_RATES
+PRINT RESULT
+IF RESULT.GV > 150 THEN
+PRINT general vitality too low
+PRINT I repeat the analysis
+GOTO NEXTCOMMAND
+ELSE PRINT Finished
